@@ -1,0 +1,134 @@
+"""Text and code tools."""
+
+from __future__ import annotations
+
+import json
+import re
+from typing import Any
+
+import markdown
+import sqlparse
+
+
+def regex_tool(action: str, text: str, options: dict[str, Any]) -> dict[str, Any]:
+    pattern = text
+    sample = options.get('_text_b', '')
+    flags_raw = (options.get('flags') or '').lower()
+    flags = 0
+    if 'i' in flags_raw:
+        flags |= re.IGNORECASE
+    if 'm' in flags_raw:
+        flags |= re.MULTILINE
+    if 's' in flags_raw:
+        flags |= re.DOTALL
+    if 'x' in flags_raw:
+        flags |= re.VERBOSE
+    try:
+        rx = re.compile(pattern, flags)
+    except re.error as exc:
+        raise ValueError(f'正则错误: {exc}') from exc
+
+    if action == 'match':
+        m = rx.search(sample)
+        if not m:
+            return {'result': '无匹配'}
+        groups = {
+            'full': m.group(0),
+            'span': list(m.span()),
+            'groups': list(m.groups()),
+            'groupdict': m.groupdict(),
+        }
+        return {'result': json.dumps(groups, ensure_ascii=False, indent=2)}
+
+    if action == 'findall':
+        found = rx.findall(sample)
+        return {'result': json.dumps(found, ensure_ascii=False, indent=2)}
+
+    if action == 'replace':
+        repl = options.get('repl', '')
+        out = rx.sub(repl, sample)
+        return {'result': out}
+
+    raise ValueError(f'未知操作: {action}')
+
+
+def sql_format(action: str, text: str, options: dict[str, Any]) -> dict[str, Any]:
+    if action == 'format':
+        return {'result': sqlparse.format(text, reindent=True, keyword_case='upper')}
+    if action == 'minify':
+        return {'result': sqlparse.format(text, strip_comments=True, strip_whitespace=True)}
+    raise ValueError(f'未知操作: {action}')
+
+
+def markdown_tool(action: str, text: str, options: dict[str, Any]) -> dict[str, Any]:
+    if action != 'render':
+        raise ValueError(f'未知操作: {action}')
+    html = markdown.markdown(text, extensions=['fenced_code', 'tables', 'nl2br'])
+    return {'result': html, 'html': True}
+
+
+def text_stats(action: str, text: str, options: dict[str, Any]) -> dict[str, Any]:
+    if action != 'stats':
+        raise ValueError(f'未知操作: {action}')
+    lines = text.splitlines()
+    words = re.findall(r'\S+', text)
+    chinese = re.findall(r'[\u4e00-\u9fff]', text)
+    result = {
+        'chars': len(text),
+        'chars_no_space': len(re.sub(r'\s', '', text)),
+        'words': len(words),
+        'lines': len(lines),
+        'chinese_chars': len(chinese),
+        'bytes_utf8': len(text.encode('utf-8')),
+    }
+    return {'result': json.dumps(result, ensure_ascii=False, indent=2)}
+
+
+def escape_tool(action: str, text: str, options: dict[str, Any]) -> dict[str, Any]:
+    if action == 'json_escape':
+        return {'result': json.dumps(text, ensure_ascii=False)[1:-1]}
+    if action == 'json_unescape':
+        return {'result': json.loads(f'"{text}"')}
+    if action == 'python_escape':
+        return {'result': text.encode('unicode_escape').decode('ascii')}
+    if action == 'python_unescape':
+        return {'result': text.encode('utf-8').decode('unicode_escape')}
+    raise ValueError(f'未知操作: {action}')
+
+
+def line_tools(action: str, text: str, options: dict[str, Any]) -> dict[str, Any]:
+    lines = text.splitlines()
+    if action == 'unique':
+        seen = set()
+        out = []
+        for line in lines:
+            if line not in seen:
+                seen.add(line)
+                out.append(line)
+        return {'result': '\n'.join(out)}
+    if action == 'sort':
+        return {'result': '\n'.join(sorted(lines))}
+    if action == 'sort_desc':
+        return {'result': '\n'.join(sorted(lines, reverse=True))}
+    if action == 'trim_empty':
+        return {'result': '\n'.join(line for line in lines if line.strip())}
+    if action == 'number':
+        width = len(str(len(lines)))
+        return {'result': '\n'.join(f'{i:>{width}} | {line}' for i, line in enumerate(lines, 1))}
+    if action == 'reverse':
+        return {'result': '\n'.join(reversed(lines))}
+    raise ValueError(f'未知操作: {action}')
+
+
+def css_js_minify(action: str, text: str, options: dict[str, Any]) -> dict[str, Any]:
+    if action == 'css':
+        out = re.sub(r'/\*.*?\*/', '', text, flags=re.S)
+        out = re.sub(r'\s+', ' ', out)
+        out = re.sub(r'\s*([{};:,>~+])\s*', r'\1', out)
+        return {'result': out.strip()}
+    if action == 'js':
+        out = re.sub(r'/\*.*?\*/', '', text, flags=re.S)
+        out = re.sub(r'(?m)^\s*//.*?$', '', out)
+        out = re.sub(r'\s+', ' ', out)
+        return {'result': out.strip()}
+    raise ValueError(f'未知操作: {action}')
