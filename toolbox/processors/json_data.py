@@ -344,6 +344,74 @@ def _simple_table(data: dict) -> str:
     return '\n'.join(lines)
 
 
+def _sql_literal(value: Any) -> str:
+    if value is None:
+        return 'NULL'
+    if isinstance(value, bool):
+        return '1' if value else '0'
+    if isinstance(value, (int, float)):
+        return str(value)
+    if isinstance(value, (dict, list)):
+        s = json.dumps(value, ensure_ascii=False)
+    else:
+        s = str(value)
+    return "'" + s.replace("'", "''") + "'"
+
+
+def json_sql(action: str, text: str, options: dict[str, Any]) -> dict[str, Any]:
+    if action != 'insert':
+        raise ValueError(f'未知操作: {action}')
+    data = _loads(text)
+    if isinstance(data, dict):
+        data = [data]
+    if not isinstance(data, list) or not data:
+        raise ValueError('需要对象或对象数组')
+    table = re.sub(r'[^\w]', '', str(options.get('table') or 'users')) or 'users'
+    cols: list[str] = []
+    for row in data:
+        if not isinstance(row, dict):
+            raise ValueError('数组元素必须是对象')
+        for k in row:
+            if k not in cols:
+                cols.append(k)
+    col_sql = ', '.join(f'`{c}`' for c in cols)
+    lines = []
+    for row in data:
+        vals = ', '.join(_sql_literal(row.get(c)) for c in cols)
+        lines.append(f'INSERT INTO `{table}` ({col_sql}) VALUES ({vals});')
+    return {'result': '\n'.join(lines)}
+
+
+def xml_format(action: str, text: str, options: dict[str, Any]) -> dict[str, Any]:
+    import xml.dom.minidom as minidom
+
+    parsed = minidom.parseString(text.encode('utf-8'))
+    if action == 'format':
+        pretty = parsed.toprettyxml(indent='  ')
+        # Remove extra blank lines from toprettyxml
+        lines = [ln for ln in pretty.splitlines() if ln.strip()]
+        return {'result': '\n'.join(lines)}
+    if action == 'minify':
+        # Compact by re-serializing without pretty whitespace
+        for node in parsed.childNodes:
+            _strip_xml_whitespace(node)
+        return {'result': ''.join(n.toxml() for n in parsed.childNodes)}
+    raise ValueError(f'未知操作: {action}')
+
+
+def _strip_xml_whitespace(node) -> None:
+    from xml.dom import Node
+
+    remove = []
+    for child in node.childNodes:
+        if child.nodeType == Node.TEXT_NODE and not child.data.strip():
+            remove.append(child)
+        elif child.hasChildNodes():
+            _strip_xml_whitespace(child)
+    for child in remove:
+        node.removeChild(child)
+
+
 def toml_json(action: str, text: str, options: dict[str, Any]) -> dict[str, Any]:
     # Prefer tomllib (3.11+) when available.
     try:

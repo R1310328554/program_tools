@@ -120,6 +120,21 @@ def line_tools(action: str, text: str, options: dict[str, Any]) -> dict[str, Any
     raise ValueError(f'未知操作: {action}')
 
 
+def slugify_tool(action: str, text: str, options: dict[str, Any]) -> dict[str, Any]:
+    raw = text.strip().lower()
+    # Keep ascii letters/digits; map spaces and others to hyphen; keep CJK as-is joined
+    raw = re.sub(r'[\s_]+', '-', raw)
+    if action == 'slugify':
+        out = re.sub(r'[^a-z0-9\u4e00-\u9fff-]+', '', raw)
+        out = re.sub(r'-{2,}', '-', out).strip('-')
+        return {'result': out or 'item'}
+    if action == 'filename':
+        out = re.sub(r'[\\/:*?"<>|]+', '-', text.strip())
+        out = re.sub(r'\s+', '_', out)
+        return {'result': out or 'file'}
+    raise ValueError(f'未知操作: {action}')
+
+
 def css_js_minify(action: str, text: str, options: dict[str, Any]) -> dict[str, Any]:
     if action == 'css':
         out = re.sub(r'/\*.*?\*/', '', text, flags=re.S)

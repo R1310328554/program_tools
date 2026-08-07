@@ -122,6 +122,29 @@ TOOLS: list[Tool] = [
         placeholder='title = "StackBox"\n[server]\nport = 8000',
         tags=('toml',),
     ),
+    Tool(
+        slug='json-sql',
+        name='JSON → SQL INSERT',
+        description='把对象数组转成 SQL INSERT 语句。',
+        category='json',
+        icon='SQL',
+        actions=('insert',),
+        placeholder='[{"id":1,"name":"Ada"},{"id":2,"name":"Grace"}]',
+        options=(
+            {'key': 'table', 'label': '表名', 'default': 'users', 'type': 'text'},
+        ),
+        tags=('sql', 'insert'),
+    ),
+    Tool(
+        slug='xml-format',
+        name='XML 格式化',
+        description='美化或压缩 XML。',
+        category='json',
+        icon='XML',
+        actions=('format', 'minify'),
+        placeholder='<root><user id="1"><name>Ada</name></user></root>',
+        tags=('xml', '格式化'),
+    ),
 
     # Encode / Crypto
     Tool(
@@ -389,6 +412,16 @@ TOOLS: list[Tool] = [
         actions=('css', 'js'),
         placeholder='/* comment */\n.box {\n  color: #0f766e;\n  margin: 0;\n}',
         tags=('minify', 'css', 'js'),
+    ),
+    Tool(
+        slug='slugify',
+        name='Slugify / 路径化',
+        description='把标题转成 URL 友好 slug（支持中文转拼音近似：保留可读片段）。',
+        category='text',
+        icon='/',
+        actions=('slugify', 'filename'),
+        placeholder='Hello StackBox 开发者工具',
+        tags=('slug', 'url'),
     ),
 
     # Generate
