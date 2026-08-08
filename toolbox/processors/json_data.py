@@ -428,3 +428,87 @@ def toml_json(action: str, text: str, options: dict[str, Any]) -> dict[str, Any]
         data = _loads(text)
         return {'result': _to_toml(data)}
     raise ValueError(f'未知操作: {action}')
+
+
+def json_path(action: str, text: str, options: dict[str, Any]) -> dict[str, Any]:
+    if action != 'query':
+        raise ValueError(f'未知操作: {action}')
+    from jsonpath_ng import parse as jp_parse
+
+    expr = (options.get('path') or options.get('_text_b') or '$.*').strip() or '$.*'
+    data = _loads(text)
+    matches = [m.value for m in jp_parse(expr).find(data)]
+    return {'result': _dumps(matches)}
+
+
+def json_schema_gen(action: str, text: str, options: dict[str, Any]) -> dict[str, Any]:
+    if action != 'generate':
+        raise ValueError(f'未知操作: {action}')
+    data = _loads(text)
+
+    def infer(v: Any) -> dict[str, Any]:
+        if isinstance(v, bool):
+            return {'type': 'boolean'}
+        if isinstance(v, int):
+            return {'type': 'integer'}
+        if isinstance(v, float):
+            return {'type': 'number'}
+        if isinstance(v, str):
+            return {'type': 'string'}
+        if v is None:
+            return {'type': 'null'}
+        if isinstance(v, list):
+            if not v:
+                return {'type': 'array', 'items': {}}
+            return {'type': 'array', 'items': infer(v[0])}
+        if isinstance(v, dict):
+            props = {k: infer(val) for k, val in v.items()}
+            return {
+                'type': 'object',
+                'properties': props,
+                'required': list(props.keys()),
+            }
+        return {}
+
+    schema = {
+        '$schema': 'https://json-schema.org/draft/2020-12/schema',
+        **infer(data),
+    }
+    return {'result': _dumps(schema)}
+
+
+def yaml_format(action: str, text: str, options: dict[str, Any]) -> dict[str, Any]:
+    if action == 'format':
+        data = yaml.safe_load(text)
+        return {'result': yaml.safe_dump(data, allow_unicode=True, sort_keys=False)}
+    if action == 'validate':
+        try:
+            yaml.safe_load(text)
+            return {'result': '✓ YAML 合法'}
+        except Exception as exc:  # noqa: BLE001
+            return {'ok': False, 'error': f'YAML 无效: {exc}'}
+    raise ValueError(f'未知操作: {action}')
+
+
+def properties_json(action: str, text: str, options: dict[str, Any]) -> dict[str, Any]:
+    if action == 'to_json':
+        data = {}
+        for line in text.splitlines():
+            s = line.strip()
+            if not s or s.startswith('#') or s.startswith('!'):
+                continue
+            if '=' in s:
+                k, v = s.split('=', 1)
+            elif ':' in s:
+                k, v = s.split(':', 1)
+            else:
+                continue
+            data[k.strip()] = v.strip()
+        return {'result': _dumps(data)}
+    if action == 'to_properties':
+        data = _loads(text)
+        if not isinstance(data, dict):
+            raise ValueError('需要 JSON 对象')
+        lines = [f'{k}={data[k]}' for k in data]
+        return {'result': '\n'.join(str(x) for x in lines)}
+    raise ValueError(f'未知操作: {action}')

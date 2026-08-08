@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import html
 import json
 import re
 from typing import Any
@@ -146,4 +147,47 @@ def css_js_minify(action: str, text: str, options: dict[str, Any]) -> dict[str, 
         out = re.sub(r'(?m)^\s*//.*?$', '', out)
         out = re.sub(r'\s+', ' ', out)
         return {'result': out.strip()}
+    raise ValueError(f'未知操作: {action}')
+
+
+def html_format(action: str, text: str, options: dict[str, Any]) -> dict[str, Any]:
+    if action == 'minify':
+        out = re.sub(r'<!--.*?-->', '', text, flags=re.S)
+        out = re.sub(r'>\s+<', '><', out)
+        out = re.sub(r'\s+', ' ', out)
+        return {'result': out.strip()}
+    if action == 'format':
+        # lightweight indent based on tags
+        raw = re.sub(r'>\s+<', '><', text.strip())
+        parts = re.split(r'(<[^>]+>)', raw)
+        indent = 0
+        lines = []
+        for part in parts:
+            if not part:
+                continue
+            if part.startswith('</'):
+                indent = max(indent - 1, 0)
+                lines.append('  ' * indent + part)
+            elif part.startswith('<') and part.endswith('/>'):
+                lines.append('  ' * indent + part)
+            elif part.startswith('<') and not part.startswith('<!'):
+                lines.append('  ' * indent + part)
+                if not part.startswith('<?') and not re.match(r'<(br|hr|img|input|meta|link)\b', part, re.I):
+                    indent += 1
+            else:
+                if part.strip():
+                    lines.append('  ' * indent + part.strip())
+        return {'result': '\n'.join(lines)}
+    raise ValueError(f'未知操作: {action}')
+
+
+def markdown_html(action: str, text: str, options: dict[str, Any]) -> dict[str, Any]:
+    if action == 'md_to_html':
+        html = markdown.markdown(text, extensions=['fenced_code', 'tables', 'nl2br'])
+        return {'result': html}
+    if action == 'strip_html':
+        out = re.sub(r'<script[\s\S]*?</script>', '', text, flags=re.I)
+        out = re.sub(r'<style[\s\S]*?</style>', '', out, flags=re.I)
+        out = re.sub(r'<[^>]+>', '', out)
+        return {'result': html.unescape(out)}
     raise ValueError(f'未知操作: {action}')

@@ -1,0 +1,152 @@
+{
+  "scanned_at": "2026-08-08T22:22:50+08:00",
+  "installed_count": 79,
+  "gaps": [
+    {
+      "slug_hint": "contrast-check",
+      "name": "WCAG Contrast",
+      "tags": [
+        "a11y"
+      ],
+      "priority": "medium",
+      "reason": "listed in community_catalog but missing from registry"
+    },
+    {
+      "slug_hint": "css-beautify",
+      "name": "CSS Beautifier",
+      "tags": [
+        "css"
+      ],
+      "priority": "medium",
+      "reason": "listed in community_catalog but missing from registry"
+    },
+    {
+      "slug_hint": "csv-viewer",
+      "name": "CSV Viewer",
+      "tags": [
+        "csv"
+      ],
+      "priority": "medium",
+      "reason": "listed in community_catalog but missing from registry"
+    },
+    {
+      "slug_hint": "dns-lookup",
+      "name": "DNS Lookup",
+      "tags": [
+        "dns"
+      ],
+      "priority": "medium",
+      "reason": "listed in community_catalog but missing from registry"
+    },
+    {
+      "slug_hint": "graphql-format",
+      "name": "GraphQL Formatter",
+      "tags": [
+        "graphql"
+      ],
+      "priority": "medium",
+      "reason": "listed in community_catalog but missing from registry"
+    },
+    {
+      "slug_hint": "htpasswd",
+      "name": "htpasswd Generator",
+      "tags": [
+        "htpasswd"
+      ],
+      "priority": "medium",
+      "reason": "listed in community_catalog but missing from registry"
+    },
+    {
+      "slug_hint": "image-base64",
+      "name": "Image Base64",
+      "tags": [
+        "image"
+      ],
+      "priority": "medium",
+      "reason": "listed in community_catalog but missing from registry"
+    },
+    {
+      "slug_hint": "js-beautify",
+      "name": "JS Beautifier",
+      "tags": [
+        "js"
+      ],
+      "priority": "medium",
+      "reason": "listed in community_catalog but missing from registry"
+    },
+    {
+      "slug_hint": "color-palette",
+      "name": "Color Palette",
+      "tags": [
+        "color"
+      ],
+      "priority": "low",
+      "reason": "listed in community_catalog but missing from registry"
+    },
+    {
+      "slug_hint": "credit-card-luhn",
+      "name": "Luhn Check",
+      "tags": [
+        "luhn"
+      ],
+      "priority": "low",
+      "reason": "listed in community_catalog but missing from registry"
+    },
+    {
+      "slug_hint": "iban",
+      "name": "IBAN Validator",
+      "tags": [
+        "iban"
+      ],
+      "priority": "low",
+      "reason": "listed in community_catalog but missing from registry"
+    },
+    {
+      "slug_hint": "mermaid-preview",
+      "name": "Mermaid Preview",
+      "tags": [
+        "mermaid"
+      ],
+      "priority": "low",
+      "reason": "listed in community_catalog but missing from registry"
+    },
+    {
+      "slug_hint": "openid-jwt",
+      "name": "OpenID Claims",
+      "tags": [
+        "oidc"
+      ],
+      "priority": "low",
+      "reason": "listed in community_catalog but missing from registry"
+    },
+    {
+      "slug_hint": "plantuml",
+      "name": "PlantUML",
+      "tags": [
+        "uml"
+      ],
+      "priority": "low",
+      "reason": "listed in community_catalog but missing from registry"
+    },
+    {
+      "slug_hint": "websocket-test",
+      "name": "WebSocket Tester",
+      "tags": [
+        "websocket"
+      ],
+      "priority": "low",
+      "reason": "listed in community_catalog but missing from registry"
+    },
+    {
+      "slug_hint": "whois",
+      "name": "Whois",
+      "tags": [
+        "whois"
+      ],
+      "priority": "low",
+      "reason": "listed in community_catalog but missing from registry"
+    }
+  ],
+  "github_pulse": [],
+  "report": "reports/tool-scan-20260808.md"
+}

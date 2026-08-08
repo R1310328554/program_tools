@@ -201,3 +201,35 @@ def cron_tool(action: str, text: str, options: dict[str, Any]) -> dict[str, Any]
         'next_runs': next_runs,
     }
     return {'result': json.dumps(result, ensure_ascii=False, indent=2)}
+
+
+_ROMAN = [
+    (1000, 'M'), (900, 'CM'), (500, 'D'), (400, 'CD'),
+    (100, 'C'), (90, 'XC'), (50, 'L'), (40, 'XL'),
+    (10, 'X'), (9, 'IX'), (5, 'V'), (4, 'IV'), (1, 'I'),
+]
+
+
+def roman_tool(action: str, text: str, options: dict[str, Any]) -> dict[str, Any]:
+    raw = text.strip().upper()
+    if action == 'to_roman':
+        n = int(raw)
+        if not 1 <= n <= 3999:
+            raise ValueError('范围需在 1-3999')
+        out = []
+        for val, sym in _ROMAN:
+            while n >= val:
+                out.append(sym)
+                n -= val
+        return {'result': ''.join(out)}
+    if action == 'to_int':
+        i = 0
+        num = 0
+        for val, sym in _ROMAN:
+            while raw[i:i + len(sym)] == sym:
+                num += val
+                i += len(sym)
+        if i != len(raw) or num == 0:
+            raise ValueError('无效罗马数字')
+        return {'result': str(num)}
+    raise ValueError(f'未知操作: {action}')

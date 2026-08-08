@@ -10,7 +10,13 @@ class StackBoxTests(SimpleTestCase):
         self.client = Client(enforce_csrf_checks=True)
 
     def test_tool_catalog_size(self):
-        self.assertGreaterEqual(len(TOOLS), 40)
+        self.assertGreaterEqual(len(TOOLS), 70)
+
+    def test_processor_coverage(self):
+        from toolbox.processors import PROCESSORS
+
+        for tool in TOOLS:
+            self.assertIn(tool.slug, PROCESSORS)
 
     def test_home_ok(self):
         res = self.client.get('/')

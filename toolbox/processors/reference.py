@@ -140,3 +140,33 @@ def content_headers(action: str, text: str, options: dict[str, Any]) -> dict[str
     result = [{'name': n, 'desc': d} for n, d in rows]
     pretty = '\n'.join(f'{n:28} {d}' for n, d in rows)
     return {'result': pretty, 'rows': result}
+
+
+REGEX_CHEAT = [
+    ('.', '任意单字符（除换行，除非 s 标志）'),
+    ('\\d', '数字 [0-9]'),
+    ('\\w', '单词字符 [A-Za-z0-9_]'),
+    ('\\s', '空白字符'),
+    ('^ / $', '行首 / 行尾'),
+    ('*', '0 次或多次'),
+    ('+', '1 次或多次'),
+    ('?', '0 或 1 次'),
+    ('{m,n}', '重复 m 到 n 次'),
+    ('(...)', '捕获分组'),
+    ('(?:...)', '非捕获分组'),
+    ('[abc]', '字符集'),
+    ('[^abc]', '否定字符集'),
+    ('a|b', '或'),
+    ('(?=...)', '正向先行断言'),
+    ('(?!...)', '负向先行断言'),
+]
+
+
+def regex_cheat(action: str, text: str, options: dict[str, Any]) -> dict[str, Any]:
+    if action not in ('list', 'lookup'):
+        raise ValueError(f'未知操作: {action}')
+    q = text.strip().lower()
+    rows = REGEX_CHEAT
+    if q:
+        rows = [r for r in REGEX_CHEAT if q in r[0].lower() or q in r[1].lower()]
+    return {'result': '\n'.join(f'{a:12} {b}' for a, b in rows)}

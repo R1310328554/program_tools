@@ -157,3 +157,90 @@ def hashids_like(action: str, text: str, options: dict[str, Any]) -> dict[str, A
             n = n * _BASE + _ALPHABET.index(ch)
         return {'result': str(n)}
     raise ValueError(f'未知操作: {action}')
+
+
+def nanoid_tool(action: str, text: str, options: dict[str, Any]) -> dict[str, Any]:
+    if action != 'generate':
+        raise ValueError(f'未知操作: {action}')
+    alphabet = string.ascii_letters + string.digits + '_-'
+    length = int(options.get('length') or (text.strip() if text.strip().isdigit() else 21) or 21)
+    length = max(4, min(length, 128))
+    count = _count(options, 5)
+    items = [''.join(secrets.choice(alphabet) for _ in range(length)) for _ in range(count)]
+    return {'result': '\n'.join(items)}
+
+
+def fake_data(action: str, text: str, options: dict[str, Any]) -> dict[str, Any]:
+    count = _count(options, 5)
+    first = ['Ada', 'Grace', 'Alan', 'Linus', 'Guido', 'Ken', 'Dennis', 'Barbara']
+    last = ['Lovelace', 'Hopper', 'Turing', 'Torvalds', 'van Rossum', 'Thompson', 'Ritchie', 'Liskov']
+    domains = ['example.com', 'mail.dev', 'stackbox.local']
+    if action == 'users':
+        rows = []
+        for i in range(count):
+            f, l = random.choice(first), random.choice(last)
+            email = f'{f.lower()}.{l.lower().replace(" ", "")}{i}@{random.choice(domains)}'
+            rows.append({'id': i + 1, 'name': f'{f} {l}', 'email': email})
+        return {'result': json.dumps(rows, ensure_ascii=False, indent=2)}
+    if action == 'emails':
+        items = []
+        for i in range(count):
+            f, l = random.choice(first), random.choice(last)
+            items.append(f'{f.lower()}.{l.lower().replace(" ", "")}{i}@{random.choice(domains)}')
+        return {'result': '\n'.join(items)}
+    if action == 'names':
+        items = [f'{random.choice(first)} {random.choice(last)}' for _ in range(count)]
+        return {'result': '\n'.join(items)}
+    raise ValueError(f'未知操作: {action}')
+
+
+def uuid_v5_tool(action: str, text: str, options: dict[str, Any]) -> dict[str, Any]:
+    if action != 'generate':
+        raise ValueError(f'未知操作: {action}')
+    ns_name = (options.get('namespace') or 'url').lower()
+    ns_map = {
+        'dns': uuid.NAMESPACE_DNS,
+        'url': uuid.NAMESPACE_URL,
+        'oid': uuid.NAMESPACE_OID,
+        'x500': uuid.NAMESPACE_X500,
+    }
+    ns = ns_map.get(ns_name, uuid.NAMESPACE_URL)
+    name = text.strip() or 'https://stackbox.local'
+    return {'result': str(uuid.uuid5(ns, name))}
+
+
+def password_strength(action: str, text: str, options: dict[str, Any]) -> dict[str, Any]:
+    if action != 'check':
+        raise ValueError(f'未知操作: {action}')
+    pw = text
+    score = 0
+    checks = {
+        'length>=8': len(pw) >= 8,
+        'length>=12': len(pw) >= 12,
+        'has_lower': any(c.islower() for c in pw),
+        'has_upper': any(c.isupper() for c in pw),
+        'has_digit': any(c.isdigit() for c in pw),
+        'has_symbol': any(not c.isalnum() for c in pw),
+    }
+    score = sum(1 for v in checks.values() if v)
+    level = 'weak' if score <= 2 else 'fair' if score <= 4 else 'strong'
+    return {'result': json.dumps({'score': score, 'level': level, 'checks': checks}, indent=2)}
+
+
+def ulid_tool(action: str, text: str, options: dict[str, Any]) -> dict[str, Any]:
+    if action != 'generate':
+        raise ValueError(f'未知操作: {action}')
+    # Crockford base32 ULID-like: 48-bit time ms + 80-bit randomness
+    alphabet = '0123456789ABCDEFGHJKMNPQRSTVWXYZ'
+    count = _count(options, 5)
+    import time
+    def one():
+        ts = int(time.time() * 1000)
+        chars = []
+        for _ in range(10):
+            chars.append(alphabet[ts & 31])
+            ts >>= 5
+        time_part = ''.join(reversed(chars))
+        rand_part = ''.join(secrets.choice(alphabet) for _ in range(16))
+        return time_part + rand_part
+    return {'result': chr(10).join(one() for _ in range(count))}

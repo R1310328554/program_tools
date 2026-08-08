@@ -134,3 +134,11 @@ def password_hash(action: str, text: str, options: dict[str, Any]) -> dict[str, 
         }
         return {'result': json.dumps(result, indent=2)}
     raise ValueError(f'未知操作: {action}')
+
+
+def unicode_normalize(action: str, text: str, options: dict[str, Any]) -> dict[str, Any]:
+    import unicodedata
+    form = (action.upper() if action in ('nfc', 'nfd', 'nfkc', 'nfkd') else (options.get('form') or 'NFC')).upper()
+    if form not in {'NFC', 'NFD', 'NFKC', 'NFKD'}:
+        raise ValueError('form 需为 NFC/NFD/NFKC/NFKD')
+    return {'result': unicodedata.normalize(form, text)}
