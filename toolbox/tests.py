@@ -10,7 +10,7 @@ class StackBoxTests(SimpleTestCase):
         self.client = Client(enforce_csrf_checks=True)
 
     def test_tool_catalog_size(self):
-        self.assertGreaterEqual(len(TOOLS), 70)
+        self.assertGreaterEqual(len(TOOLS), 90)
 
     def test_processor_coverage(self):
         from toolbox.processors import PROCESSORS

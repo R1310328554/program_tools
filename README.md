@@ -38,14 +38,19 @@ python3 manage.py runserver 0.0.0.0:8000
 
 多数工具在服务端即时计算，不落库、不保存用户输入。二维码等以 Base64 图片返回；Markdown 在页面内渲染 HTML 预览。
 
-## 每晚自动扫描（01:00 上海时间）
+## 定时扫描（不断完善）
 
-持续从 BeJSON / DevToys / GitHub developer-tools 等社区发现可补充工具：
+| 任务 | 时间（上海） | 命令 / 工作流 |
+|------|--------------|---------------|
+| 每晚轻量扫描 | 每天 01:00 | `nightly-tool-scan.yml` |
+| **每周全网扫描** | **周日 01:00** | `weekly-global-scan.yml`（国内+国外） |
+| 每周集成提醒 | 周四 01:00 | `weekly-integrate-remind.yml` |
 
 ```bash
+python scripts/weekly_global_scan.py          # 全网扫描（推荐）
 python scripts/nightly_tool_scan.py --live-github
+python scripts/integrate_candidates.py
 ```
 
-- GitHub Actions：`.github/workflows/nightly-tool-scan.yml`（`cron: 0 17 * * *` UTC）
-- 说明文档：`docs/NIGHTLY_SCAN.md`
-- 候选结果：`toolbox/discovery/candidates.json`、`reports/tool-scan-*.md`
+- 源清单：`toolbox/discovery/sources_global.json`
+- 文档：`docs/TIMERS.md`

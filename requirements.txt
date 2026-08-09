@@ -12,3 +12,4 @@ jsonpath-ng>=1.6
 pyotp>=2.9
 requests>=2.31
 base58>=2.1
+bcrypt>=4.1

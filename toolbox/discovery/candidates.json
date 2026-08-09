@@ -1,152 +1,454 @@
 {
-  "scanned_at": "2026-08-08T22:22:50+08:00",
-  "installed_count": 79,
-  "gaps": [
+  "scanned_at": "2026-08-09T12:21:12+08:00",
+  "installed_count": 95,
+  "gaps": [],
+  "github_pulse": [
     {
-      "slug_hint": "contrast-check",
-      "name": "WCAG Contrast",
-      "tags": [
-        "a11y"
+      "full_name": "affaan-m/ECC",
+      "html_url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 238850,
+      "topics": [
+        "ai-agents",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "developer-tools",
+        "llm",
+        "mcp",
+        "productivity"
       ],
-      "priority": "medium",
-      "reason": "listed in community_catalog but missing from registry"
+      "language": "JavaScript",
+      "region": "intl",
+      "query": "topic:developer-tools stars:>30"
     },
     {
-      "slug_hint": "css-beautify",
-      "name": "CSS Beautifier",
-      "tags": [
-        "css"
+      "full_name": "Graphify-Labs/graphify",
+      "html_url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "stars": 104397,
+      "topics": [
+        "ai-agents",
+        "antigravity",
+        "ast",
+        "claude-code",
+        "code-analysis",
+        "code-search",
+        "codex",
+        "cursor",
+        "developer-tools",
+        "gemini",
+        "graphrag",
+        "knowledge-graph",
+        "leiden",
+        "llm",
+        "mcp",
+        "openclaw",
+        "rag",
+        "skills",
+        "tree-sitter"
       ],
-      "priority": "medium",
-      "reason": "listed in community_catalog but missing from registry"
+      "language": "Python",
+      "region": "intl",
+      "query": "topic:developer-tools stars:>30"
     },
     {
-      "slug_hint": "csv-viewer",
-      "name": "CSV Viewer",
-      "tags": [
-        "csv"
+      "full_name": "DietrichGebert/ponytail",
+      "html_url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 98864,
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "claude-code-plugin",
+        "cursor-rules",
+        "developer-tools",
+        "llm",
+        "prompt-engineering",
+        "yagni"
       ],
-      "priority": "medium",
-      "reason": "listed in community_catalog but missing from registry"
+      "language": "JavaScript",
+      "region": "intl",
+      "query": "topic:developer-tools stars:>30"
     },
     {
-      "slug_hint": "dns-lookup",
-      "name": "DNS Lookup",
-      "tags": [
-        "dns"
+      "full_name": "puppeteer/puppeteer",
+      "html_url": "https://github.com/puppeteer/puppeteer",
+      "description": "JavaScript API for Chrome and Firefox",
+      "stars": 95423,
+      "topics": [
+        "automation",
+        "chrome",
+        "chromium",
+        "developer-tools",
+        "firefox",
+        "headless-chrome",
+        "node-module",
+        "testing",
+        "web"
       ],
-      "priority": "medium",
-      "reason": "listed in community_catalog but missing from registry"
+      "language": "TypeScript",
+      "region": "intl",
+      "query": "topic:developer-tools stars:>30"
     },
     {
-      "slug_hint": "graphql-format",
-      "name": "GraphQL Formatter",
-      "tags": [
-        "graphql"
+      "full_name": "OpenHands/OpenHands",
+      "html_url": "https://github.com/OpenHands/OpenHands",
+      "description": "🙌 OpenHands: AI-Driven Development",
+      "stars": 83494,
+      "topics": [
+        "agent",
+        "artificial-intelligence",
+        "chatgpt",
+        "claude-ai",
+        "cli",
+        "developer-tools",
+        "gpt",
+        "llm",
+        "openai"
       ],
-      "priority": "medium",
-      "reason": "listed in community_catalog but missing from registry"
+      "language": "TypeScript",
+      "region": "intl",
+      "query": "topic:developer-tools stars:>30"
     },
     {
-      "slug_hint": "htpasswd",
-      "name": "htpasswd Generator",
-      "tags": [
-        "htpasswd"
-      ],
-      "priority": "medium",
-      "reason": "listed in community_catalog but missing from registry"
-    },
-    {
-      "slug_hint": "image-base64",
-      "name": "Image Base64",
-      "tags": [
-        "image"
-      ],
-      "priority": "medium",
-      "reason": "listed in community_catalog but missing from registry"
-    },
-    {
-      "slug_hint": "js-beautify",
-      "name": "JS Beautifier",
-      "tags": [
-        "js"
-      ],
-      "priority": "medium",
-      "reason": "listed in community_catalog but missing from registry"
-    },
-    {
-      "slug_hint": "color-palette",
-      "name": "Color Palette",
-      "tags": [
-        "color"
-      ],
-      "priority": "low",
-      "reason": "listed in community_catalog but missing from registry"
-    },
-    {
-      "slug_hint": "credit-card-luhn",
-      "name": "Luhn Check",
-      "tags": [
-        "luhn"
-      ],
-      "priority": "low",
-      "reason": "listed in community_catalog but missing from registry"
-    },
-    {
-      "slug_hint": "iban",
-      "name": "IBAN Validator",
-      "tags": [
-        "iban"
-      ],
-      "priority": "low",
-      "reason": "listed in community_catalog but missing from registry"
-    },
-    {
-      "slug_hint": "mermaid-preview",
-      "name": "Mermaid Preview",
-      "tags": [
-        "mermaid"
-      ],
-      "priority": "low",
-      "reason": "listed in community_catalog but missing from registry"
-    },
-    {
-      "slug_hint": "openid-jwt",
-      "name": "OpenID Claims",
-      "tags": [
-        "oidc"
-      ],
-      "priority": "low",
-      "reason": "listed in community_catalog but missing from registry"
-    },
-    {
-      "slug_hint": "plantuml",
-      "name": "PlantUML",
-      "tags": [
-        "uml"
-      ],
-      "priority": "low",
-      "reason": "listed in community_catalog but missing from registry"
-    },
-    {
-      "slug_hint": "websocket-test",
-      "name": "WebSocket Tester",
-      "tags": [
+      "full_name": "hoppscotch/hoppscotch",
+      "html_url": "https://github.com/hoppscotch/hoppscotch",
+      "description": "Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia",
+      "stars": 79999,
+      "topics": [
+        "api",
+        "api-client",
+        "api-rest",
+        "api-testing",
+        "developer-tools",
+        "graphql",
+        "http",
+        "http-client",
+        "pwa",
+        "rest",
+        "rest-api",
+        "spa",
+        "testing",
+        "testing-tools",
+        "tools",
+        "vue",
+        "vuejs",
         "websocket"
       ],
-      "priority": "low",
-      "reason": "listed in community_catalog but missing from registry"
+      "language": "TypeScript",
+      "region": "intl",
+      "query": "topic:developer-tools stars:>30"
     },
     {
-      "slug_hint": "whois",
-      "name": "Whois",
-      "tags": [
-        "whois"
+      "full_name": "rtk-ai/rtk",
+      "html_url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "stars": 75286,
+      "topics": [
+        "agentic-coding",
+        "ai-coding",
+        "anthropic",
+        "claude-code",
+        "cli",
+        "command-line-tool",
+        "cost-reduction",
+        "developer-tools",
+        "llm",
+        "open-source",
+        "productivity",
+        "rust",
+        "token-optimization"
       ],
-      "priority": "low",
-      "reason": "listed in community_catalog but missing from registry"
+      "language": "Rust",
+      "region": "intl",
+      "query": "topic:developer-tools stars:>30"
+    },
+    {
+      "full_name": "ComposioHQ/awesome-claude-skills",
+      "html_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "stars": 72100,
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "antigravity",
+        "automation",
+        "claude",
+        "claude-code",
+        "codex",
+        "composio",
+        "cursor",
+        "developer-tools",
+        "gemini-cli",
+        "mcp",
+        "openai-codex",
+        "rube",
+        "saas",
+        "skill",
+        "workflow-automation"
+      ],
+      "language": "Python",
+      "region": "intl",
+      "query": "topic:developer-tools stars:>30"
+    },
+    {
+      "full_name": "daytonaio/daytona",
+      "html_url": "https://github.com/daytonaio/daytona",
+      "description": "Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code",
+      "stars": 72018,
+      "topics": [
+        "agentic-workflow",
+        "ai",
+        "ai-agents",
+        "ai-runtime",
+        "ai-sandboxes",
+        "code-execution",
+        "code-interpreter",
+        "developer-tools"
+      ],
+      "language": null,
+      "region": "intl",
+      "query": "topic:developer-tools stars:>30"
+    },
+    {
+      "full_name": "localstack/localstack",
+      "html_url": "https://github.com/localstack/localstack",
+      "description": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline",
+      "stars": 65140,
+      "topics": [
+        "aws",
+        "cloud",
+        "continuous-integration",
+        "developer-tools",
+        "localstack",
+        "python",
+        "testing"
+      ],
+      "language": "Python",
+      "region": "intl",
+      "query": "topic:developer-tools stars:>30"
+    },
+    {
+      "full_name": "GitHubDaily/GitHubDaily",
+      "html_url": "https://github.com/GitHubDaily/GitHubDaily",
+      "description": "坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.",
+      "stars": 47422,
+      "topics": [
+        "ai",
+        "algorithms-and-data-structures",
+        "backend",
+        "developer-tools",
+        "development",
+        "frontend",
+        "github",
+        "java",
+        "javascript",
+        "kubernetes",
+        "linux",
+        "markdown",
+        "open-source",
+        "python",
+        "tutorials",
+        "web"
+      ],
+      "language": null,
+      "region": "intl",
+      "query": "topic:developer-tools stars:>30"
+    },
+    {
+      "full_name": "usebruno/bruno",
+      "html_url": "https://github.com/usebruno/bruno",
+      "description": "Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)",
+      "stars": 46216,
+      "topics": [
+        "api-client",
+        "api-testing",
+        "automation",
+        "developer-tools",
+        "git",
+        "graphql-client",
+        "http-client",
+        "javascript",
+        "openapi",
+        "openapi3",
+        "opensource",
+        "rest-api",
+        "testing",
+        "testing-tools"
+      ],
+      "language": "JavaScript",
+      "region": "intl",
+      "query": "topic:developer-tools stars:>30"
+    },
+    {
+      "full_name": "lelinhtinh/de4js",
+      "html_url": "https://github.com/lelinhtinh/de4js",
+      "description": "JavaScript Deobfuscator and Unpacker",
+      "stars": 1580,
+      "topics": [
+        "decode",
+        "deobfuscate",
+        "deobfuscation",
+        "deobfuscator",
+        "javascript",
+        "javascript-deobfuscator",
+        "offline-app",
+        "online-tools",
+        "unpacker"
+      ],
+      "language": "JavaScript",
+      "region": "intl",
+      "query": "topic:online-tools stars:>20"
+    },
+    {
+      "full_name": "bestxtools/awesome-toolbox-chinese",
+      "html_url": "https://github.com/bestxtools/awesome-toolbox-chinese",
+      "description": "🧰 优秀工具箱集合 - 收集，推荐好用、优秀的工具箱。工具箱大全。| https://awesome-toolbox-chinese.bestxtools.com/ | https://😎🧰.bestxtools.com/",
+      "stars": 1180,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "awesome-toolbox",
+        "awesome-tools",
+        "bestxtools",
+        "online-tools",
+        "online-tools-websites",
+        "toolbox",
+        "toolboxes",
+        "tools"
+      ],
+      "language": "Shell",
+      "region": "intl",
+      "query": "topic:online-tools stars:>20"
+    },
+    {
+      "full_name": "rivertwilight/toolkits",
+      "html_url": "https://github.com/rivertwilight/toolkits",
+      "description": "All-in-one digital toolbox designed for daily Paper-Cuts with efficiency and simplicity.",
+      "stars": 365,
+      "topics": [
+        "create-react-app",
+        "material-design",
+        "nextjs",
+        "online-tools",
+        "react",
+        "typescript"
+      ],
+      "language": "TypeScript",
+      "region": "intl",
+      "query": "topic:online-tools stars:>20"
+    },
+    {
+      "full_name": "bestxtools/weekly-cn",
+      "html_url": "https://github.com/bestxtools/weekly-cn",
+      "description": "发现并分享有趣，有创意，免费、好用的工具，每周四发布。",
+      "stars": 300,
+      "topics": [
+        "awesome-tools",
+        "best-tools",
+        "bestxtools",
+        "bestxtools-weekly",
+        "free-tools",
+        "newsletter",
+        "online-tools",
+        "tools",
+        "weekly"
+      ],
+      "language": null,
+      "region": "intl",
+      "query": "topic:online-tools stars:>20"
+    },
+    {
+      "full_name": "chicogong/html-tools",
+      "html_url": "https://github.com/chicogong/html-tools",
+      "description": "🛠️ 1088+ 纯前端在线工具集 | 单文件·零构建·可离线·隐私优先 | Pure HTML Tools - Single file, Zero build, Offline-ready, Privacy-first",
+      "stars": 128,
+      "topics": [
+        "ai-tools",
+        "developer-tools",
+        "free-tools",
+        "frontend-tools",
+        "html",
+        "html-tools",
+        "mcp",
+        "no-build",
+        "no-tracking",
+        "offline-first",
+        "online-tools",
+        "privacy-first",
+        "productivity-tools",
+        "pwa",
+        "seo-tools",
+        "single-file",
+        "tools",
+        "vanilla-js",
+        "web-tools",
+        "web-utilities"
+      ],
+      "language": "HTML",
+      "region": "intl",
+      "query": "topic:online-tools stars:>20"
+    },
+    {
+      "full_name": "luin/bazinga",
+      "html_url": "https://github.com/luin/bazinga",
+      "description": "💥 The best all-in-one toolbox. Bazinga!",
+      "stars": 112,
+      "topics": [
+        "converter",
+        "formatter",
+        "online-tools",
+        "raycast",
+        "toolbox",
+        "tools",
+        "webapp"
+      ],
+      "language": "TypeScript",
+      "region": "intl",
+      "query": "topic:online-tools stars:>20"
+    },
+    {
+      "full_name": "AkbarAsghari/IToolKit",
+      "html_url": "https://github.com/AkbarAsghari/IToolKit",
+      "description": "free online tools for developers with offline usable (PWA)",
+      "stars": 60,
+      "topics": [
+        "dev",
+        "devtools",
+        "devtoys",
+        "itoolkit",
+        "kit",
+        "online-tools",
+        "pwa",
+        "tools",
+        "wasm"
+      ],
+      "language": "JavaScript",
+      "region": "intl",
+      "query": "topic:online-tools stars:>20"
+    },
+    {
+      "full_name": "AxelUser/carry-fit",
+      "html_url": "https://github.com/AxelUser/carry-fit",
+      "description": "Online Carry-on Luggage Compliance Checker",
+      "stars": 55,
+      "topics": [
+        "calculator",
+        "online-tools",
+        "responsive-design",
+        "svelte5",
+        "sveltekit",
+        "tailwindcss",
+        "webapp"
+      ],
+      "language": "TypeScript",
+      "region": "intl",
+      "query": "topic:online-tools stars:>20"
     }
   ],
-  "github_pulse": [],
-  "report": "reports/tool-scan-20260808.md"
+  "report": "reports/weekly-global-scan-20260809.md",
+  "scan_type": "weekly_global"
 }

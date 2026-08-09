@@ -1,10 +1,23 @@
 {
-  "updated": "2026-08-08",
+  "updated": "2026-08-09",
   "sources": [
     {
       "name": "BeJSON",
       "url": "https://www.bejson.com/",
-      "type": "site"
+      "type": "site",
+      "region": "cn"
+    },
+    {
+      "name": "SOJSON",
+      "url": "https://www.sojson.com/",
+      "type": "site",
+      "region": "cn"
+    },
+    {
+      "name": "tool.lu",
+      "url": "https://tool.lu/",
+      "type": "site",
+      "region": "cn"
     },
     {
       "name": "DevToys Web Pro",

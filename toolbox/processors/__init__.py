@@ -4,7 +4,7 @@ from __future__ import annotations
 
 from typing import Any, Callable
 
-from . import convert, crypto_extra, encode, generate, json_data, network, ops, reference, text
+from . import convert, crypto_extra, encode, extras, generate, json_data, network, ops, reference, text
 
 Handler = Callable[[str, str, dict[str, Any]], dict[str, Any]]
 
@@ -88,6 +88,22 @@ PROCESSORS: dict[str, Handler] = {
     'mime-types': reference.mime_types,
     'content-headers': reference.content_headers,
     'regex-cheat': reference.regex_cheat,
+    'bcrypt': extras.bcrypt_tool,
+    'htpasswd': extras.htpasswd_tool,
+    'css-beautify': extras.css_beautify,
+    'js-beautify': extras.js_beautify,
+    'dns-lookup': extras.dns_lookup,
+    'contrast-check': extras.contrast_check,
+    'csv-viewer': extras.csv_viewer,
+    'graphql-format': extras.graphql_format,
+    'image-base64': extras.image_base64,
+    'ini-json': extras.ini_json,
+    'sql-to-json': extras.sql_to_json,
+    'number-chinese': extras.number_chinese,
+    'luhn': extras.luhn_check,
+    'ascii-table': extras.ascii_table,
+    'port-ref': extras.port_ref,
+    'punycode': extras.punycode_tool,
 }
 
 

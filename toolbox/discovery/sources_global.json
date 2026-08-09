@@ -1,0 +1,204 @@
+{
+  "updated": "2026-08-09",
+  "regions": {
+    "cn": "国内",
+    "intl": "国外/国际",
+    "oss": "开源仓库"
+  },
+  "sources": [
+    {
+      "id": "bejson",
+      "name": "BeJSON",
+      "url": "https://www.bejson.com/",
+      "region": "cn",
+      "type": "site",
+      "categories": ["json", "encode", "convert", "text", "network"]
+    },
+    {
+      "id": "sojson",
+      "name": "SO JSON",
+      "url": "https://www.sojson.com/",
+      "region": "cn",
+      "type": "site",
+      "categories": ["json", "encode", "text"]
+    },
+    {
+      "id": "tool-lu",
+      "name": "tool.lu 在线工具",
+      "url": "https://tool.lu/",
+      "region": "cn",
+      "type": "site",
+      "categories": ["json", "encode", "text", "convert", "generate"]
+    },
+    {
+      "id": "json-cn",
+      "name": "JSON.cn",
+      "url": "https://www.json.cn/",
+      "region": "cn",
+      "type": "site",
+      "categories": ["json"]
+    },
+    {
+      "id": "oschina-tools",
+      "name": "开源中国在线工具",
+      "url": "https://tool.oschina.net/",
+      "region": "cn",
+      "type": "site",
+      "categories": ["encode", "text", "convert"]
+    },
+    {
+      "id": "cmd5",
+      "name": "CMD5",
+      "url": "https://www.cmd5.com/",
+      "region": "cn",
+      "type": "site",
+      "categories": ["encode", "security"]
+    },
+    {
+      "id": "gitee-devtools",
+      "name": "Gitee 开发者工具主题",
+      "url": "https://gitee.com/explore/developer-tools",
+      "region": "cn",
+      "type": "forge",
+      "categories": ["oss"]
+    },
+    {
+      "id": "devtoys",
+      "name": "DevToys Web Pro",
+      "url": "https://github.com/seyfer/devtoys.pro",
+      "region": "intl",
+      "type": "github",
+      "readme": "https://raw.githubusercontent.com/seyfer/devtoys.pro/main/README.md",
+      "categories": ["json", "encode", "text", "generate", "network"]
+    },
+    {
+      "id": "dev-utilities",
+      "name": "dev-utilities",
+      "url": "https://github.com/aminechraibi/dev-utilities",
+      "region": "intl",
+      "type": "github",
+      "readme": "https://raw.githubusercontent.com/aminechraibi/dev-utilities/main/README.md",
+      "categories": ["json", "encode", "convert", "generate"]
+    },
+    {
+      "id": "dev-toolkit",
+      "name": "yurukusa/dev-toolkit",
+      "url": "https://github.com/yurukusa/dev-toolkit",
+      "region": "intl",
+      "type": "github",
+      "readme": "https://raw.githubusercontent.com/yurukusa/dev-toolkit/main/README.md",
+      "categories": ["json", "encode", "text"]
+    },
+    {
+      "id": "website-tools",
+      "name": "Aidan-996/Website-Tools",
+      "url": "https://github.com/Aidan-996/Website-Tools",
+      "region": "cn",
+      "type": "github",
+      "readme": "https://raw.githubusercontent.com/Aidan-996/Website-Tools/main/README.md",
+      "categories": ["json", "encode", "text", "network", "frontend"]
+    },
+    {
+      "id": "utils-fun",
+      "name": "Licoy/utils.fun",
+      "url": "https://github.com/Licoy/utils.fun",
+      "region": "cn",
+      "type": "github",
+      "readme": "https://raw.githubusercontent.com/Licoy/utils.fun/main/README.md",
+      "categories": ["json", "encode", "text", "generate"]
+    },
+    {
+      "id": "cyberchef",
+      "name": "CyberChef (GCHQ)",
+      "url": "https://github.com/gchq/CyberChef",
+      "region": "intl",
+      "type": "github",
+      "readme": "https://raw.githubusercontent.com/gchq/CyberChef/master/README.md",
+      "categories": ["encode", "security", "convert"]
+    },
+    {
+      "id": "spoold",
+      "name": "spoold-tools",
+      "url": "https://github.com/spoold-com/spoold-tools",
+      "region": "intl",
+      "type": "github",
+      "readme": "https://raw.githubusercontent.com/spoold-com/spoold-tools/main/README.md",
+      "categories": ["json", "encode", "text"]
+    },
+    {
+      "id": "devtoolbox-mm",
+      "name": "mellowmarshall/devtoolbox",
+      "url": "https://github.com/mellowmarshall/devtoolbox",
+      "region": "intl",
+      "type": "github",
+      "readme": "https://raw.githubusercontent.com/mellowmarshall/devtoolbox/main/README.md",
+      "categories": ["json", "encode", "generate"]
+    },
+    {
+      "id": "gh-topic-devtools",
+      "name": "GitHub topic: developer-tools",
+      "url": "https://github.com/topics/developer-tools",
+      "region": "intl",
+      "type": "github-topic",
+      "query": "topic:developer-tools online tools",
+      "categories": ["oss"]
+    },
+    {
+      "id": "gh-topic-online-tools",
+      "name": "GitHub topic: online-tools",
+      "url": "https://github.com/topics/online-tools",
+      "region": "intl",
+      "type": "github-topic",
+      "query": "topic:online-tools",
+      "categories": ["oss"]
+    },
+    {
+      "id": "gh-search-cn-toolbox",
+      "name": "GitHub 搜索：在线工具箱",
+      "url": "https://github.com/search?q=%E5%9C%A8%E7%BA%BF%E5%B7%A5%E5%85%B7%E7%AE%B1",
+      "region": "cn",
+      "type": "github-search",
+      "query": "在线工具箱 OR 开发者工具 language:HTML stars:>20",
+      "categories": ["oss"]
+    },
+    {
+      "id": "gh-search-devtools",
+      "name": "GitHub search: browser developer tools",
+      "url": "https://github.com/search?q=browser+developer+tools",
+      "region": "intl",
+      "type": "github-search",
+      "query": "browser developer tools json base64 stars:>50",
+      "categories": ["oss"]
+    }
+  ],
+  "github_queries": [
+    {"region": "intl", "query": "topic:developer-tools stars:>30"},
+    {"region": "intl", "query": "topic:online-tools stars:>20"},
+    {"region": "intl", "query": "devtools json formatter base64 in:readme stars:>100"},
+    {"region": "cn", "query": "在线工具 JSON Base64 language:TypeScript stars:>10"},
+    {"region": "cn", "query": "开发者工具箱 OR 程序员工具 language:JavaScript stars:>20"},
+    {"region": "intl", "query": "cyberchef OR jwt decoder regex tester in:name,description stars:>50"}
+  ],
+  "seed_tools_extra": [
+    {"slug_hint": "bcrypt", "name": "Bcrypt 哈希", "category": "encode", "region": "intl", "priority": "high", "tags": ["bcrypt", "password"]},
+    {"slug_hint": "htpasswd", "name": "htpasswd 生成", "category": "encode", "region": "intl", "priority": "high", "tags": ["htpasswd", "apache"]},
+    {"slug_hint": "css-beautify", "name": "CSS 美化", "category": "text", "region": "cn", "priority": "high", "tags": ["css", "beautify"]},
+    {"slug_hint": "js-beautify", "name": "JS 美化", "category": "text", "region": "cn", "priority": "high", "tags": ["js", "beautify"]},
+    {"slug_hint": "dns-lookup", "name": "DNS 查询", "category": "network", "region": "intl", "priority": "high", "tags": ["dns"]},
+    {"slug_hint": "contrast-check", "name": "WCAG 对比度", "category": "frontend", "region": "intl", "priority": "medium", "tags": ["a11y", "color"]},
+    {"slug_hint": "csv-viewer", "name": "CSV 预览", "category": "json", "region": "intl", "priority": "medium", "tags": ["csv"]},
+    {"slug_hint": "graphql-format", "name": "GraphQL 格式化", "category": "text", "region": "intl", "priority": "medium", "tags": ["graphql"]},
+    {"slug_hint": "image-base64", "name": "图片 Base64（文本）", "category": "encode", "region": "cn", "priority": "medium", "tags": ["image", "base64"]},
+    {"slug_hint": "ini-json", "name": "INI ↔ JSON", "category": "json", "region": "intl", "priority": "medium", "tags": ["ini"]},
+    {"slug_hint": "sql-to-json", "name": "简易 SQL → JSON", "category": "json", "region": "cn", "priority": "medium", "tags": ["sql"]},
+    {"slug_hint": "number-chinese", "name": "数字转中文大写", "category": "convert", "region": "cn", "priority": "high", "tags": ["chinese", "金额"]},
+    {"slug_hint": "luhn", "name": "Luhn 校验", "category": "security", "region": "intl", "priority": "medium", "tags": ["luhn"]},
+    {"slug_hint": "ascii-table", "name": "ASCII 码表", "category": "reference", "region": "cn", "priority": "medium", "tags": ["ascii"]},
+    {"slug_hint": "port-ref", "name": "常用端口速查", "category": "reference", "region": "cn", "priority": "medium", "tags": ["port"]},
+    {"slug_hint": "punycode", "name": "Punycode 域名", "category": "encode", "region": "intl", "priority": "medium", "tags": ["punycode", "idn"]},
+    {"slug_hint": "jwt-verify", "name": "JWT 验签", "category": "encode", "region": "intl", "priority": "high", "tags": ["jwt"]},
+    {"slug_hint": "barcode", "name": "条形码生成", "category": "generate", "region": "cn", "priority": "low", "tags": ["barcode"]},
+    {"slug_hint": "diff-word", "name": "单词级 Diff", "category": "text", "region": "intl", "priority": "low", "tags": ["diff"]},
+    {"slug_hint": "meta-tags", "name": "HTML Meta 生成", "category": "frontend", "region": "intl", "priority": "low", "tags": ["seo", "meta"]}
+  ]
+}
