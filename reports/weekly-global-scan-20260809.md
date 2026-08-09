@@ -1,41 +1,15 @@
-# StackBox 每周全网扫描 — 2026-08-09T12:21:38+08:00
+# StackBox 每周全网扫描 — 2026-08-09T12:21:55+08:00
 
 - 已集成工具：**95**
-- 发现缺口：**43**（high=0 / medium=0 / low=43）
-- 国内候选：3 · 国际候选：40
+- 发现缺口：**17**（high=0 / medium=0 / low=17）
+- 国内候选：3 · 国际候选：14
 - 源站/仓库跟踪：19 · GitHub 仓库采样：48
 
 ## 分门别类（待集成）
 
-### 文本代码（34）
+### 文本代码（8）
 
-- `12` — **好工具周刊（第 12 期）** · low · 国际 · bestxtools/weekly-cn
-- `14` — **好工具周刊（第 14 期）** · low · 国际 · bestxtools/weekly-cn
-- `15` — **好工具周刊（第 15 期）** · low · 国际 · bestxtools/weekly-cn
-- `16` — **好工具周刊（第 16 期）** · low · 国际 · bestxtools/weekly-cn
-- `17` — **好工具周刊（第 17 期）** · low · 国际 · bestxtools/weekly-cn
-- `19` — **好工具周刊（第 19 期）** · low · 国际 · bestxtools/weekly-cn
-- `21` — **好工具周刊（第 21 期）** · low · 国际 · bestxtools/weekly-cn
-- `22` — **好工具周刊（第 22 期）** · low · 国际 · bestxtools/weekly-cn
-- `23` — **好工具周刊（第 23 期）** · low · 国际 · bestxtools/weekly-cn
-- `24` — **好工具周刊（第 24 期）** · low · 国际 · bestxtools/weekly-cn
-- `29` — **好工具周刊（第 29 期）** · low · 国际 · bestxtools/weekly-cn
-- `30` — **好工具周刊（第 30 期）** · low · 国际 · bestxtools/weekly-cn
-- `31` — **好工具周刊（第 31 期）** · low · 国际 · bestxtools/weekly-cn
-- `33` — **好工具周刊（第 33 期）** · low · 国际 · bestxtools/weekly-cn
-- `34` — **好工具周刊（第 34 期）** · low · 国际 · bestxtools/weekly-cn
-- `37` — **好工具周刊（第 37 期）** · low · 国际 · bestxtools/weekly-cn
-- `39` — **好工具周刊（第 39 期）** · low · 国际 · bestxtools/weekly-cn
-- `40` — **好工具周刊（第 40 期）** · low · 国际 · bestxtools/weekly-cn
-- `42` — **好工具周刊（第 42 期）** · low · 国际 · bestxtools/weekly-cn
-- `43` — **好工具周刊（第 43 期）** · low · 国际 · bestxtools/weekly-cn
-- `44` — **好工具周刊（第 44 期）** · low · 国际 · bestxtools/weekly-cn
-- `50` — **好工具周刊（第 50 期）** · low · 国际 · bestxtools/weekly-cn
-- `52` — **好工具周刊（第 52 期）** · low · 国际 · bestxtools/weekly-cn
-- `53` — **好工具周刊（第 53 期）** · low · 国际 · bestxtools/weekly-cn
-- `54` — **好工具周刊（第 54 期）** · low · 国际 · bestxtools/weekly-cn
 - `55-8` — **55 个工具，8 个分类，首页、搜索、收藏、详情页统一联动。** · low · 国内 · utils-fun
-- `7` — **好工具周刊（第 7 期）** · low · 国际 · bestxtools/weekly-cn
 - `cdn` — **CDN 依赖：** · low · 国际 · chicogong/html-tools
 - `cdn-cdn-cdnjs-unpkg-jsdelivr` — **CDN 依赖**: 如需第三方库，使用 CDN（推荐 cdnjs/unpkg/jsdelivr）** · low · 国际 · chicogong/html-tools
 - `kcompatibilityvariant` — **kCompatibilityVariant 这个兼容区字对应的统一区字** · low · 国内 · garywill/cc-visualize
