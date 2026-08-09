@@ -88,26 +88,22 @@ def collect_candidates(live: bool = True) -> tuple[list[dict], list[dict], dict]
         for t in tools:
             add(t, region=src.get('region') or 'intl', origin=src.get('id') or src.get('name'))
 
-    # 4) live GitHub searches
+    # 4) live GitHub searches — pulse only (do not treat whole repos as tools)
     repos = []
     if live:
         for q in sources_doc.get('github_queries', []):
             found = disco.github_search_repos(q['query'], per_page=12)
             for repo in found:
                 repos.append({**repo, 'region': q.get('region') or 'intl', 'query': q['query']})
-                # treat repo itself as a discovery pulse, not always a tool
-                add(
-                    {
-                        'slug_hint': disco.normalize(repo.get('full_name', '').split('/')[-1]),
-                        'name': repo.get('full_name'),
-                        'description': repo.get('description') or '',
-                        'tags': repo.get('topics') or [],
-                        'priority': 'low',
-                        'source_url': repo.get('html_url'),
-                    },
-                    region=q.get('region') or 'intl',
-                    origin=f"github:{q['query'][:40]}",
-                )
+                # If README exists, mine concrete tool names from popular toolboxes
+                name = (repo.get('full_name') or '').lower()
+                desc = (repo.get('description') or '').lower()
+                if any(k in name or k in desc for k in ('toolbox', 'devtools', 'dev-tool', 'utils', '工具', 'cyberchef', 'formatter')):
+                    readme_url = f"https://raw.githubusercontent.com/{repo.get('full_name')}/HEAD/README.md"
+                    text = disco.http_get_text(readme_url)
+                    if text:
+                        for t in disco.extract_tools_from_readme(text, repo.get('full_name')):
+                            add(t, region=q.get('region') or 'intl', origin=repo.get('full_name'))
 
     gaps = list(pool.values())
     rank = {'high': 0, 'medium': 1, 'low': 2}

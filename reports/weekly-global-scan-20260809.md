@@ -1,84 +1,66 @@
-# StackBox 每周全网扫描 — 2026-08-09T12:21:12+08:00
+# StackBox 每周全网扫描 — 2026-08-09T12:21:31+08:00
 
 - 已集成工具：**95**
-- 发现缺口：**58**（high=0 / medium=0 / low=58）
-- 国内候选：14 · 国际候选：44
+- 发现缺口：**43**（high=0 / medium=0 / low=43）
+- 国内候选：3 · 国际候选：40
 - 源站/仓库跟踪：19 · GitHub 仓库采样：48
 
 ## 分门别类（待集成）
 
-### 文本代码（37）
+### 文本代码（34）
 
+- `12` — **好工具周刊（第 12 期）** · low · 国际 · bestxtools/weekly-cn
+- `14` — **好工具周刊（第 14 期）** · low · 国际 · bestxtools/weekly-cn
+- `15` — **好工具周刊（第 15 期）** · low · 国际 · bestxtools/weekly-cn
+- `16` — **好工具周刊（第 16 期）** · low · 国际 · bestxtools/weekly-cn
+- `17` — **好工具周刊（第 17 期）** · low · 国际 · bestxtools/weekly-cn
+- `19` — **好工具周刊（第 19 期）** · low · 国际 · bestxtools/weekly-cn
+- `21` — **好工具周刊（第 21 期）** · low · 国际 · bestxtools/weekly-cn
+- `22` — **好工具周刊（第 22 期）** · low · 国际 · bestxtools/weekly-cn
+- `23` — **好工具周刊（第 23 期）** · low · 国际 · bestxtools/weekly-cn
+- `24` — **好工具周刊（第 24 期）** · low · 国际 · bestxtools/weekly-cn
+- `29` — **好工具周刊（第 29 期）** · low · 国际 · bestxtools/weekly-cn
+- `30` — **好工具周刊（第 30 期）** · low · 国际 · bestxtools/weekly-cn
+- `31` — **好工具周刊（第 31 期）** · low · 国际 · bestxtools/weekly-cn
+- `33` — **好工具周刊（第 33 期）** · low · 国际 · bestxtools/weekly-cn
+- `34` — **好工具周刊（第 34 期）** · low · 国际 · bestxtools/weekly-cn
+- `37` — **好工具周刊（第 37 期）** · low · 国际 · bestxtools/weekly-cn
+- `39` — **好工具周刊（第 39 期）** · low · 国际 · bestxtools/weekly-cn
+- `40` — **好工具周刊（第 40 期）** · low · 国际 · bestxtools/weekly-cn
+- `42` — **好工具周刊（第 42 期）** · low · 国际 · bestxtools/weekly-cn
+- `43` — **好工具周刊（第 43 期）** · low · 国际 · bestxtools/weekly-cn
+- `44` — **好工具周刊（第 44 期）** · low · 国际 · bestxtools/weekly-cn
+- `50` — **好工具周刊（第 50 期）** · low · 国际 · bestxtools/weekly-cn
+- `52` — **好工具周刊（第 52 期）** · low · 国际 · bestxtools/weekly-cn
+- `53` — **好工具周刊（第 53 期）** · low · 国际 · bestxtools/weekly-cn
+- `54` — **好工具周刊（第 54 期）** · low · 国际 · bestxtools/weekly-cn
 - `55-8` — **55 个工具，8 个分类，首页、搜索、收藏、详情页统一联动。** · low · 国内 · utils-fun
-- `agent-browser` — **vercel-labs/agent-browser** · low · 国际 · github:devtools json formatter base64 in:readme
-- `awesome-elixir` — **h4cc/awesome-elixir** · low · 国际 · github:devtools json formatter base64 in:readme
-- `awesome-mcp-servers` — **punkpeye/awesome-mcp-servers** · low · 国际 · github:devtools json formatter base64 in:readme
-- `awesome-vite` — **vitejs/awesome-vite** · low · 国际 · github:devtools json formatter base64 in:readme
-- `bazinga` — **luin/bazinga** · low · 国际 · github:topic:online-tools stars:>20
-- `bruno` — **usebruno/bruno** · low · 国际 · github:topic:developer-tools stars:>30
-- `carry-fit` — **AxelUser/carry-fit** · low · 国际 · github:topic:online-tools stars:>20
-- `cirosantilli` — **cirosantilli/cirosantilli** · low · 国内 · github:开发者工具箱 OR 程序员工具 language:JavaScript star
-- `daytona` — **daytonaio/daytona** · low · 国际 · github:topic:developer-tools stars:>30
-- `de4js` — **lelinhtinh/de4js** · low · 国际 · github:topic:online-tools stars:>20
-- `devbox` — **moonrailgun/devbox** · low · 国内 · github:开发者工具箱 OR 程序员工具 language:JavaScript star
-- `ecc` — **affaan-m/ECC** · low · 国际 · github:topic:developer-tools stars:>30
-- `front-end-web-development-resources` — **RitikPatni/Front-End-Web-Development-Resources** · low · 国际 · github:devtools json formatter base64 in:readme
-- `githubdaily` — **GitHubDaily/GitHubDaily** · low · 国际 · github:topic:developer-tools stars:>30
-- `hoppscotch` — **hoppscotch/hoppscotch** · low · 国际 · github:topic:developer-tools stars:>30
-- `itoolkit` — **AkbarAsghari/IToolKit** · low · 国际 · github:topic:online-tools stars:>20
-- `javascript-obfuscator` — **javascript-obfuscator/javascript-obfuscator** · low · 国际 · github:devtools json formatter base64 in:readme
-- `localstack` — **localstack/localstack** · low · 国际 · github:topic:developer-tools stars:>30
+- `7` — **好工具周刊（第 7 期）** · low · 国际 · bestxtools/weekly-cn
+- `cdn` — **CDN 依赖：** · low · 国际 · chicogong/html-tools
+- `cdn-cdn-cdnjs-unpkg-jsdelivr` — **CDN 依赖**: 如需第三方库，使用 CDN（推荐 cdnjs/unpkg/jsdelivr）** · low · 国际 · chicogong/html-tools
+- `kcompatibilityvariant` — **kCompatibilityVariant 这个兼容区字对应的统一区字** · low · 国内 · garywill/cc-visualize
+- `lint-pr-htmlhint-stylelint-eslint` — **Lint**: 每次 PR 自动运行 HTMLHint + Stylelint + ESLint** · low · 国际 · chicogong/html-tools
 - `mermaid-preview` — **Mermaid Preview** · low · 国际 · community_catalog
-- `onlinebook` — **small-bears/onlinebook** · low · 国内 · github:开发者工具箱 OR 程序员工具 language:JavaScript star
-- `openhands` — **OpenHands/OpenHands** · low · 国际 · github:topic:developer-tools stars:>30
 - `plantuml` — **PlantUML** · low · 国际 · community_catalog
-- `ponytail` — **DietrichGebert/ponytail** · low · 国际 · github:topic:developer-tools stars:>30
-- `powerass` — **swifuUI/PowerAss** · low · 国内 · github:开发者工具箱 OR 程序员工具 language:JavaScript star
 - `privacy-first` — **Privacy-first**** · low · 国际 · devtoys
-- `project-guidelines` — **elsewhencode/project-guidelines** · low · 国际 · github:devtools json formatter base64 in:readme
-- `puppeteer` — **puppeteer/puppeteer** · low · 国际 · github:topic:developer-tools stars:>30
-- `randomly-online-docs` — **D-xan/Randomly.online-docs** · low · 国际 · github:topic:online-tools stars:>20
-- `rtk` — **rtk-ai/rtk** · low · 国际 · github:topic:developer-tools stars:>30
-- `spellbook-of-modern-webdev` — **dexteryy/spellbook-of-modern-webdev** · low · 国际 · github:devtools json formatter base64 in:readme
-- `til` — **jbranchaud/til** · low · 国际 · github:devtools json formatter base64 in:readme
-- `toolkits` — **rivertwilight/toolkits** · low · 国际 · github:topic:online-tools stars:>20
-- `turbotrainning` — **newboys3075426724/TurboTrainning** · low · 国内 · github:开发者工具箱 OR 程序员工具 language:JavaScript star
-- `utilsbox` — **GooseCoding/utilsbox** · low · 国内 · github:开发者工具箱 OR 程序员工具 language:JavaScript star
-- `weekly-cn` — **bestxtools/weekly-cn** · low · 国际 · github:topic:online-tools stars:>20
-- `zenuml` — **ZenUml/ZenUml** · low · 国际 · github:topic:online-tools stars:>20
 
-### JSON / 数据（6）
+### 网络运维（2）
 
-- `ai-guide` — **liyupi/ai-guide** · low · 国内 · github:开发者工具箱 OR 程序员工具 language:JavaScript star
-- `awesome-claude-skills` — **ComposioHQ/awesome-claude-skills** · low · 国际 · github:topic:developer-tools stars:>30
-- `awesome-web-online-tools` — **uretgec/awesome-web-online-tools** · low · 国际 · github:topic:online-tools stars:>20
-- `cc-visualize` — **garywill/cc-visualize** · low · 国内 · github:开发者工具箱 OR 程序员工具 language:JavaScript star
-- `graphify` — **Graphify-Labs/graphify** · low · 国际 · github:topic:developer-tools stars:>30
-- `minirun` — **dearancelan/MiniRun** · low · 国内 · github:开发者工具箱 OR 程序员工具 language:JavaScript star
-
-### 网络运维（5）
-
-- `companyenter` — **zhaoweiping22/CompanyEnter** · low · 国内 · github:开发者工具箱 OR 程序员工具 language:JavaScript star
-- `turborepair` — **yuhuahuozhe/TurboRepair** · low · 国内 · github:开发者工具箱 OR 程序员工具 language:JavaScript star
-- `websocat` — **vi/websocat** · low · 国际 · github:devtools json formatter base64 in:readme
 - `websocket-test` — **WebSocket Tester** · low · 国际 · community_catalog
 - `whois` — **Whois** · low · 国际 · community_catalog
-
-### 编码加密（3）
-
-- `copyparty` — **9001/copyparty** · low · 国际 · github:devtools json formatter base64 in:readme
-- `openid-jwt` — **OpenID Claims** · low · 国际 · community_catalog
-- `reverse-engineering-online-toolkit` — **Evil0ctal/Reverse-Engineering-Online-Toolkit** · low · 国内 · github:开发者工具箱 OR 程序员工具 language:JavaScript star
-
-### 转换工具（2）
-
-- `awesome-toolbox-chinese` — **bestxtools/awesome-toolbox-chinese** · low · 国际 · github:topic:online-tools stars:>20
-- `color-palette` — **Color Palette** · low · 国际 · community_catalog
 
 ### 安全校验（2）
 
 - `credit-card-luhn` — **Luhn Check** · low · 国际 · community_catalog
 - `iban` — **IBAN Validator** · low · 国际 · community_catalog
+
+### 转换工具（1）
+
+- `color-palette` — **Color Palette** · low · 国际 · community_catalog
+
+### 编码加密（1）
+
+- `openid-jwt` — **OpenID Claims** · low · 国际 · community_catalog
 
 ### 前端视觉（1）
 
@@ -88,9 +70,9 @@
 
 - `barcode` — **条形码生成** · low · 国内 · sources_global.seed
 
-### 速查参考（1）
+### JSON / 数据（1）
 
-- `backend-cheats` — **cheatsnake/backend-cheats** · low · 国际 · github:devtools json formatter base64 in:readme
+- `vercel-json-vercel` — **`vercel.json` - Vercel 配置** · low · 国际 · chicogong/html-tools
 
 ## README 挖掘
 
