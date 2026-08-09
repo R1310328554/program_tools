@@ -152,6 +152,10 @@ def extract_tools_from_readme(text: str, source: str) -> list[dict[str, Any]]:
         slug = normalize(name)
         if not slug or slug in found:
             continue
+        if slug.isdigit() or len(slug) < 3:
+            continue
+        if not re.search(r'[a-z\u4e00-\u9fff]', name, re.I):
+            continue
         found[slug] = {
             'slug_hint': slug,
             'name': re.sub(r'[*`]+', '', name),
