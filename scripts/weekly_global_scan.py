@@ -17,6 +17,7 @@ from __future__ import annotations
 
 import argparse
 import os
+import re
 import sys
 from collections import defaultdict
 from datetime import datetime, timezone
@@ -44,6 +45,12 @@ def collect_candidates(live: bool = True) -> tuple[list[dict], list[dict], dict]
     def add(item: dict, region: str = 'intl', origin: str = ''):
         slug = disco.normalize(item.get('slug_hint') or item.get('name') or '')
         if not slug or slug.startswith('_'):
+            return
+        # drop numeric / too-short noise from README mining
+        if slug.isdigit() or len(slug) < 3:
+            return
+        name = item.get('name') or ''
+        if name and not re.search(r'[A-Za-z\u4e00-\u9fff]', name):
             return
         if disco.is_covered(slug, have, blob):
             return
