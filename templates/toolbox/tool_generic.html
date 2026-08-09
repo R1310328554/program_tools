@@ -1,0 +1,84 @@
+{% extends 'base.html' %}
+
+{% block title %}{{ tool.name }}{% endblock %}
+
+{% block content %}
+<article class="tool-page" data-tool-page data-slug="{{ tool.slug }}" data-dual="{{ tool.dual_input|yesno:'1,0' }}">
+  <header class="tool-head">
+    <a class="back" href="{% url 'home' %}#cat-{{ tool.category }}">← 全部工具</a>
+    <h1>{{ tool.name }}</h1>
+    <p>{{ tool.description }}</p>
+  </header>
+
+  {% if tool.options %}
+  <div class="options-bar">
+    {% for opt in tool.options %}
+      <label class="opt">
+        <span>{{ opt.label }}</span>
+        {% if opt.type == 'select' %}
+          <select name="{{ opt.key }}" data-opt="{{ opt.key }}">
+            {% for value, label in opt.choices %}
+              <option value="{{ value }}" {% if value == opt.default %}selected{% endif %}>{{ label }}</option>
+            {% endfor %}
+          </select>
+        {% else %}
+          <input type="text" name="{{ opt.key }}" data-opt="{{ opt.key }}" value="{{ opt.default }}" />
+        {% endif %}
+      </label>
+    {% endfor %}
+  </div>
+  {% endif %}
+
+  <div class="action-bar" role="toolbar">
+    {% for action, label in action_labels %}
+      <button type="button" class="btn btn-action" data-action="{{ action }}">{{ label }}</button>
+    {% endfor %}
+    <button type="button" class="btn btn-ghost" data-swap title="交换输入输出">⇅ 交换</button>
+    <button type="button" class="btn btn-ghost" data-copy title="复制结果">复制结果</button>
+    <button type="button" class="btn btn-ghost" data-clear>清空</button>
+  </div>
+
+  <div class="workspace {% if tool.dual_input %}dual{% endif %}">
+    {% if tool.dual_input %}
+      <label class="pane">
+        <span class="pane-label">{{ tool.dual_labels.0 }}</span>
+        <textarea id="input-a" spellcheck="false" placeholder="{{ tool.placeholder }}">{{ tool.placeholder }}</textarea>
+      </label>
+      <label class="pane">
+        <span class="pane-label">{{ tool.dual_labels.1 }}</span>
+        <textarea id="input-b" spellcheck="false" placeholder="{{ tool.placeholder_b }}">{{ tool.placeholder_b }}</textarea>
+      </label>
+      <label class="pane pane-out full">
+        <span class="pane-label">结果</span>
+        <textarea id="output" spellcheck="false" readonly placeholder="结果会显示在这里"></textarea>
+        <div id="output-html" class="html-out" hidden></div>
+        <div id="output-image" class="image-out" hidden></div>
+      </label>
+    {% else %}
+      <label class="pane">
+        <span class="pane-label">输入</span>
+        <textarea id="input-a" spellcheck="false" placeholder="{{ tool.placeholder }}">{{ tool.placeholder }}</textarea>
+      </label>
+      <label class="pane pane-out">
+        <span class="pane-label">输出</span>
+        <textarea id="output" spellcheck="false" readonly placeholder="结果会显示在这里"></textarea>
+        <div id="output-html" class="html-out" hidden></div>
+        <div id="output-image" class="image-out" hidden></div>
+      </label>
+    {% endif %}
+  </div>
+
+  <p class="status" id="status" role="status"></p>
+
+  {% if related %}
+  <section class="related">
+    <h2>同分类推荐</h2>
+    <div class="related-list">
+      {% for item in related %}
+        <a href="{% url 'tool' item.slug %}">{{ item.name }}</a>
+      {% endfor %}
+    </div>
+  </section>
+  {% endif %}
+</article>
+{% endblock %}

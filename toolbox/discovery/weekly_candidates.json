@@ -1,0 +1,346 @@
+{
+  "scanned_at": "2026-08-09T12:21:55+08:00",
+  "scan_type": "weekly_global",
+  "installed_count": 95,
+  "gap_count": 17,
+  "gaps": [
+    {
+      "slug_hint": "color-palette",
+      "name": "Color Palette",
+      "description": "",
+      "tags": [
+        "color"
+      ],
+      "priority": "low",
+      "category": "convert",
+      "region": "intl",
+      "sources": [
+        "community_catalog"
+      ],
+      "source_url": ""
+    },
+    {
+      "slug_hint": "openid-jwt",
+      "name": "OpenID Claims",
+      "description": "",
+      "tags": [
+        "oidc"
+      ],
+      "priority": "low",
+      "category": "encode",
+      "region": "intl",
+      "sources": [
+        "community_catalog"
+      ],
+      "source_url": ""
+    },
+    {
+      "slug_hint": "meta-tags",
+      "name": "HTML Meta 生成",
+      "description": "",
+      "tags": [
+        "meta",
+        "seo"
+      ],
+      "priority": "low",
+      "category": "frontend",
+      "region": "intl",
+      "sources": [
+        "sources_global.seed"
+      ],
+      "source_url": ""
+    },
+    {
+      "slug_hint": "barcode",
+      "name": "条形码生成",
+      "description": "",
+      "tags": [
+        "barcode"
+      ],
+      "priority": "low",
+      "category": "generate",
+      "region": "cn",
+      "sources": [
+        "sources_global.seed"
+      ],
+      "source_url": ""
+    },
+    {
+      "slug_hint": "vercel-json-vercel",
+      "name": "`vercel.json` - Vercel 配置",
+      "description": "`netlify.toml` - Netlify 配置",
+      "tags": [],
+      "priority": "low",
+      "category": "json",
+      "region": "intl",
+      "sources": [
+        "chicogong/html-tools"
+      ],
+      "source_url": ""
+    },
+    {
+      "slug_hint": "websocket-test",
+      "name": "WebSocket Tester",
+      "description": "",
+      "tags": [
+        "websocket"
+      ],
+      "priority": "low",
+      "category": "network",
+      "region": "intl",
+      "sources": [
+        "community_catalog"
+      ],
+      "source_url": ""
+    },
+    {
+      "slug_hint": "whois",
+      "name": "Whois",
+      "description": "",
+      "tags": [
+        "whois"
+      ],
+      "priority": "low",
+      "category": "network",
+      "region": "intl",
+      "sources": [
+        "community_catalog"
+      ],
+      "source_url": ""
+    },
+    {
+      "slug_hint": "credit-card-luhn",
+      "name": "Luhn Check",
+      "description": "",
+      "tags": [
+        "luhn"
+      ],
+      "priority": "low",
+      "category": "security",
+      "region": "intl",
+      "sources": [
+        "community_catalog"
+      ],
+      "source_url": ""
+    },
+    {
+      "slug_hint": "iban",
+      "name": "IBAN Validator",
+      "description": "",
+      "tags": [
+        "iban"
+      ],
+      "priority": "low",
+      "category": "security",
+      "region": "intl",
+      "sources": [
+        "community_catalog"
+      ],
+      "source_url": ""
+    },
+    {
+      "slug_hint": "55-8",
+      "name": "55 个工具，8 个分类，首页、搜索、收藏、详情页统一联动。",
+      "description": "浏览器本地优先，常见文本、编码、时间、图片与开发类工具尽量不上传用户数据。",
+      "tags": [],
+      "priority": "low",
+      "category": "text",
+      "region": "cn",
+      "sources": [
+        "utils-fun"
+      ],
+      "source_url": ""
+    },
+    {
+      "slug_hint": "cdn",
+      "name": "CDN 依赖：",
+      "description": "[js-yaml](https://github.com/nodeca/js-yaml) - YAML 解析",
+      "tags": [],
+      "priority": "low",
+      "category": "text",
+      "region": "intl",
+      "sources": [
+        "chicogong/html-tools"
+      ],
+      "source_url": ""
+    },
+    {
+      "slug_hint": "cdn-cdn-cdnjs-unpkg-jsdelivr",
+      "name": "CDN 依赖**: 如需第三方库，使用 CDN（推荐 cdnjs/unpkg/jsdelivr）",
+      "description": "**URL 状态**: 支持通过 URL hash 保存和恢复状态",
+      "tags": [],
+      "priority": "low",
+      "category": "text",
+      "region": "intl",
+      "sources": [
+        "chicogong/html-tools"
+      ],
+      "source_url": ""
+    },
+    {
+      "slug_hint": "kcompatibilityvariant",
+      "name": "kCompatibilityVariant 这个兼容区字对应的统一区字",
+      "description": "kZVariant 相同字多次编码（因为错误，或来源不同）形成的“变体”",
+      "tags": [],
+      "priority": "low",
+      "category": "text",
+      "region": "cn",
+      "sources": [
+        "garywill/cc-visualize"
+      ],
+      "source_url": ""
+    },
+    {
+      "slug_hint": "lint-pr-htmlhint-stylelint-eslint",
+      "name": "Lint**: 每次 PR 自动运行 HTMLHint + Stylelint + ESLint",
+      "description": "**Tools Sync Check**: CI 检查 tools.json 与 index.html 是否同步",
+      "tags": [],
+      "priority": "low",
+      "category": "text",
+      "region": "intl",
+      "sources": [
+        "chicogong/html-tools"
+      ],
+      "source_url": ""
+    },
+    {
+      "slug_hint": "mermaid-preview",
+      "name": "Mermaid Preview",
+      "description": "",
+      "tags": [
+        "mermaid"
+      ],
+      "priority": "low",
+      "category": "text",
+      "region": "intl",
+      "sources": [
+        "community_catalog"
+      ],
+      "source_url": ""
+    },
+    {
+      "slug_hint": "plantuml",
+      "name": "PlantUML",
+      "description": "",
+      "tags": [
+        "uml"
+      ],
+      "priority": "low",
+      "category": "text",
+      "region": "intl",
+      "sources": [
+        "community_catalog"
+      ],
+      "source_url": ""
+    },
+    {
+      "slug_hint": "privacy-first",
+      "name": "Privacy-first**",
+      "description": "Most tools run locally in your tab (JavaScript / Web Crypto / WebAssembly). Your input is not sent off to random servers for routine format, encode, or decode work.",
+      "tags": [],
+      "priority": "low",
+      "category": "text",
+      "region": "intl",
+      "sources": [
+        "devtoys"
+      ],
+      "source_url": ""
+    }
+  ],
+  "by_category": {
+    "convert": [
+      "color-palette"
+    ],
+    "encode": [
+      "openid-jwt"
+    ],
+    "frontend": [
+      "meta-tags"
+    ],
+    "generate": [
+      "barcode"
+    ],
+    "json": [
+      "vercel-json-vercel"
+    ],
+    "network": [
+      "websocket-test",
+      "whois"
+    ],
+    "security": [
+      "credit-card-luhn",
+      "iban"
+    ],
+    "text": [
+      "55-8",
+      "cdn",
+      "cdn-cdn-cdnjs-unpkg-jsdelivr",
+      "kcompatibilityvariant",
+      "lint-pr-htmlhint-stylelint-eslint",
+      "mermaid-preview",
+      "plantuml",
+      "privacy-first"
+    ]
+  },
+  "by_region": {
+    "cn": [
+      "barcode",
+      "55-8",
+      "kcompatibilityvariant"
+    ],
+    "intl": [
+      "color-palette",
+      "openid-jwt",
+      "meta-tags",
+      "vercel-json-vercel",
+      "websocket-test",
+      "whois",
+      "credit-card-luhn",
+      "iban",
+      "cdn",
+      "cdn-cdn-cdnjs-unpkg-jsdelivr",
+      "lint-pr-htmlhint-stylelint-eslint",
+      "mermaid-preview",
+      "plantuml",
+      "privacy-first"
+    ]
+  },
+  "report": "reports/weekly-global-scan-20260809.md",
+  "readme_hits": [
+    {
+      "source": "DevToys Web Pro",
+      "count": 1,
+      "region": "intl"
+    },
+    {
+      "source": "dev-utilities",
+      "count": 0,
+      "region": "intl"
+    },
+    {
+      "source": "yurukusa/dev-toolkit",
+      "count": 0,
+      "region": "intl"
+    },
+    {
+      "source": "Aidan-996/Website-Tools",
+      "count": 0,
+      "region": "cn"
+    },
+    {
+      "source": "Licoy/utils.fun",
+      "count": 1,
+      "region": "cn"
+    },
+    {
+      "source": "CyberChef (GCHQ)",
+      "count": 0,
+      "region": "intl"
+    },
+    {
+      "source": "spoold-tools",
+      "count": 0,
+      "region": "intl"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+name: Weekly Integrate Pass
+
+# Thursday 01:00 Asia/Shanghai == Wednesday 17:00 UTC
+# Reads latest weekly/nightly candidates and opens an integration checklist issue.
+on:
+  schedule:
+    - cron: '0 17 * * 3'
+  workflow_dispatch:
+
+permissions:
+  issues: write
+  contents: read
+
+jobs:
+  integrate-remind:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Build integration checklist issue
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: python scripts/integrate_candidates.py --create-issue

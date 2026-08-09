@@ -1,0 +1,44 @@
+name: Weekly Global Tool Scan
+
+# Sunday 01:00 Asia/Shanghai == Saturday 17:00 UTC
+on:
+  schedule:
+    - cron: '0 17 * * 6'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  weekly-scan:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run weekly CN + international discovery scan
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: python scripts/weekly_global_scan.py --create-issue
+
+      - name: Commit weekly artifacts
+        run: |
+          git config user.name "stackbox-bot"
+          git config user.email "stackbox-bot@users.noreply.github.com"
+          git add toolbox/discovery/weekly_candidates.json toolbox/discovery/candidates.json reports || true
+          if git diff --staged --quiet; then
+            echo "No weekly artifact changes"
+          else
+            git commit -m "chore: weekly global tool scan $(date -u +%Y-%m-%d)"
+            git push
+          fi

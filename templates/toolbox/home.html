@@ -1,0 +1,52 @@
+{% extends 'base.html' %}
+
+{% block title %}StackBox{% endblock %}
+
+{% block content %}
+<section class="hero">
+  <div class="hero-copy">
+    <p class="brand-hero">StackBox</p>
+    <h1>把日常开发里反复打开的小工具，收进一个工作台。</h1>
+    <p class="lede">JSON、编码、哈希、时间戳、正则、SQL、二维码……{{ tool_count }} 个实用工具，开箱即用。</p>
+    <div class="hero-actions">
+      <a class="btn btn-primary" href="#cat-json">开始使用</a>
+      <a class="btn btn-ghost" href="{% url 'tool' 'json-format' %}">JSON 格式化</a>
+    </div>
+  </div>
+  <div class="hero-visual" aria-hidden="true">
+    <div class="hero-panel">
+      <pre>{
+  "tool": "json-format",
+  "status": "ready",
+  "latency": "instant"
+}</pre>
+    </div>
+  </div>
+</section>
+
+{% if query %}
+  <p class="search-hint">搜索 “{{ query }}” · 共 {{ grouped|length }} 组结果</p>
+{% endif %}
+
+{% for key, label, items in grouped %}
+<section class="tool-section" id="cat-{{ key }}">
+  <header class="section-head">
+    <h2>{{ label }}</h2>
+    <p>{{ items|length }} 个工具</p>
+  </header>
+  <div class="tool-grid">
+    {% for tool in items %}
+      <a class="tool-link" href="{% url 'tool' tool.slug %}">
+        <span class="tool-icon">{{ tool.icon }}</span>
+        <span class="tool-meta">
+          <strong>{{ tool.name }}</strong>
+          <span>{{ tool.description }}</span>
+        </span>
+      </a>
+    {% endfor %}
+  </div>
+</section>
+{% empty %}
+  <p class="empty">没有找到相关工具，试试别的关键词。</p>
+{% endfor %}
+{% endblock %}
