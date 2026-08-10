@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-08-10T01:29:01+08:00",
+  "scanned_at": "2026-08-11T01:49:46+08:00",
   "installed_count": 95,
   "gaps": [
     {
@@ -77,6 +77,49 @@
   ],
   "github_pulse": [
     {
+      "slug_hint": "awesome-tools",
+      "name": "wangruofeng/awesome-tools",
+      "tags": [
+        "awesome-list",
+        "developer-tools",
+        "github-pages",
+        "online-tools",
+        "open-source",
+        "static-site",
+        "vanilla-javascript",
+        "web-tools"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/wangruofeng/awesome-tools",
+      "source_url": "https://github.com/wangruofeng/awesome-tools",
+      "description": "A categorized collection of open-source online tools by Wang Ruofeng."
+    },
+    {
+      "slug_hint": "freetoolset",
+      "name": "TMFS87/freetoolset",
+      "tags": [
+        "ai-writing",
+        "calculator",
+        "client-side",
+        "converter",
+        "developer-tools",
+        "free-tools",
+        "json-formatter",
+        "no-signup",
+        "online-tools",
+        "privacy-first",
+        "productivity",
+        "static-site",
+        "utilities",
+        "vercel",
+        "web-tools"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/TMFS87/freetoolset",
+      "source_url": "https://github.com/TMFS87/freetoolset",
+      "description": "76+ free online tools and an AI writing studio. Privacy-first: everything runs in your browser. No signup, no uploads."
+    },
+    {
       "slug_hint": "awesome-dev-utilities",
       "name": "A7medAbde7hamed/awesome-dev-utilities",
       "tags": [
@@ -105,42 +148,6 @@
       "reason": "recent repo: https://github.com/A7medAbde7hamed/awesome-dev-utilities",
       "source_url": "https://github.com/A7medAbde7hamed/awesome-dev-utilities",
       "description": "🛠 Access free, fast developer utility tools for common tasks with ease, all powered by LoopPlunk—your go-to source for essential online resources."
-    },
-    {
-      "slug_hint": "awesome-tools",
-      "name": "wangruofeng/awesome-tools",
-      "tags": [
-        "awesome-list",
-        "developer-tools",
-        "github-pages",
-        "online-tools",
-        "open-source",
-        "static-site",
-        "vanilla-javascript",
-        "web-tools"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/wangruofeng/awesome-tools",
-      "source_url": "https://github.com/wangruofeng/awesome-tools",
-      "description": "A categorized collection of open-source online tools by Wang Ruofeng."
-    },
-    {
-      "slug_hint": "freetoolset",
-      "name": "TMFS87/freetoolset",
-      "tags": [
-        "ai-tools",
-        "developer-tools",
-        "free-tools",
-        "no-signup",
-        "online-tools",
-        "privacy-first",
-        "toolbox",
-        "web-tools"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/TMFS87/freetoolset",
-      "source_url": "https://github.com/TMFS87/freetoolset",
-      "description": "?? 75+ free online tools + AI writing studio. Privacy-first, runs in your browser."
     },
     {
       "slug_hint": "toolaspect",
@@ -311,5 +318,5 @@
       "description": "Three decades leading enterprise delivery across banking, government, and consulting. Built open-source Golang tools that cut sprint spillover from 70% to 19% at ANZ. Online since 1987, four domain names, two sites. After hours: tinkering with code, Windows kernel tuning, and colour-perception image sorting."
     }
   ],
-  "report": "reports/tool-scan-20260810.md"
+  "report": "reports/tool-scan-20260811.md"
 }
