@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-08-11T01:49:46+08:00",
+  "scanned_at": "2026-08-12T01:55:41+08:00",
   "installed_count": 95,
   "gaps": [
     {
@@ -95,6 +95,81 @@
       "description": "A categorized collection of open-source online tools by Wang Ruofeng."
     },
     {
+      "slug_hint": "online-image-tools",
+      "name": "KABUS721/online-image-tools",
+      "tags": [
+        "annotations",
+        "api-management",
+        "api-monitoring",
+        "canvas",
+        "code",
+        "deep-learning",
+        "detection",
+        "developer-tools",
+        "element-ui",
+        "hacktoberfest",
+        "html",
+        "idea",
+        "image-classification",
+        "image-processing",
+        "labelimg",
+        "machine-learning",
+        "markdown",
+        "preact"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/KABUS721/online-image-tools",
+      "source_url": "https://github.com/KABUS721/online-image-tools",
+      "description": "🌐 Convert and process images online for free. Enjoy batch processing, format conversion, and privacy with local handling for your files."
+    },
+    {
+      "slug_hint": "toolaspect",
+      "name": "CoreAspectStu/toolaspect",
+      "tags": [
+        "developer-tools",
+        "free-tools",
+        "json-formatter",
+        "no-signup",
+        "online-tools",
+        "password-generator",
+        "privacy",
+        "qr-code"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/CoreAspectStu/toolaspect",
+      "source_url": "https://github.com/CoreAspectStu/toolaspect",
+      "description": "🔧 ToolAspect — 28 Free Online Tools (No Signup, No Ads) → toolaspect.com"
+    },
+    {
+      "slug_hint": "exponentiallydigital",
+      "name": "ExponentiallyDigital/ExponentiallyDigital",
+      "tags": [
+        "agile",
+        "android",
+        "consulting",
+        "data-analysis",
+        "delivery",
+        "developer-tools",
+        "devops",
+        "financial-services",
+        "go",
+        "golang",
+        "infrstructure",
+        "jira",
+        "leadership",
+        "lua",
+        "powershell",
+        "powershell-script",
+        "release-management",
+        "scrum",
+        "world-of-warcraft-addon"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/ExponentiallyDigital/ExponentiallyDigital",
+      "source_url": "https://github.com/ExponentiallyDigital/ExponentiallyDigital",
+      "description": "Three decades leading enterprise delivery across banking, government, and consulting. Built open-source Golang tools that cut sprint spillover from 70% to 19% at ANZ. Online since 1987, four domain names, two sites. After hours: tinkering with code, Windows kernel tuning, and colour-perception image sorting."
+    },
+    {
       "slug_hint": "freetoolset",
       "name": "TMFS87/freetoolset",
       "tags": [
@@ -148,24 +223,6 @@
       "reason": "recent repo: https://github.com/A7medAbde7hamed/awesome-dev-utilities",
       "source_url": "https://github.com/A7medAbde7hamed/awesome-dev-utilities",
       "description": "🛠 Access free, fast developer utility tools for common tasks with ease, all powered by LoopPlunk—your go-to source for essential online resources."
-    },
-    {
-      "slug_hint": "toolaspect",
-      "name": "CoreAspectStu/toolaspect",
-      "tags": [
-        "developer-tools",
-        "free-tools",
-        "json-formatter",
-        "no-signup",
-        "online-tools",
-        "password-generator",
-        "privacy",
-        "qr-code"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/CoreAspectStu/toolaspect",
-      "source_url": "https://github.com/CoreAspectStu/toolaspect",
-      "description": "🔧 ToolAspect — 28 Free Online Tools (No Signup, No Ads) → toolaspect.com"
     },
     {
       "slug_hint": "utopia",
@@ -259,64 +316,7 @@
       "reason": "recent repo: https://github.com/LucasHenriqueDiniz/smallwebapps",
       "source_url": "https://github.com/LucasHenriqueDiniz/smallwebapps",
       "description": "Free, fast, private browser-based tools"
-    },
-    {
-      "slug_hint": "online-image-tools",
-      "name": "KABUS721/online-image-tools",
-      "tags": [
-        "annotations",
-        "api-management",
-        "api-monitoring",
-        "canvas",
-        "code",
-        "deep-learning",
-        "detection",
-        "developer-tools",
-        "element-ui",
-        "hacktoberfest",
-        "html",
-        "idea",
-        "image-classification",
-        "image-processing",
-        "labelimg",
-        "machine-learning",
-        "markdown",
-        "preact"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/KABUS721/online-image-tools",
-      "source_url": "https://github.com/KABUS721/online-image-tools",
-      "description": "🌐 Convert and process images online for free. Enjoy batch processing, format conversion, and privacy with local handling for your files."
-    },
-    {
-      "slug_hint": "exponentiallydigital",
-      "name": "ExponentiallyDigital/ExponentiallyDigital",
-      "tags": [
-        "agile",
-        "android",
-        "consulting",
-        "data-analysis",
-        "delivery",
-        "developer-tools",
-        "devops",
-        "financial-services",
-        "go",
-        "golang",
-        "infrstructure",
-        "jira",
-        "leadership",
-        "lua",
-        "powershell",
-        "powershell-script",
-        "release-management",
-        "scrum",
-        "world-of-warcraft-addon"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/ExponentiallyDigital/ExponentiallyDigital",
-      "source_url": "https://github.com/ExponentiallyDigital/ExponentiallyDigital",
-      "description": "Three decades leading enterprise delivery across banking, government, and consulting. Built open-source Golang tools that cut sprint spillover from 70% to 19% at ANZ. Online since 1987, four domain names, two sites. After hours: tinkering with code, Windows kernel tuning, and colour-perception image sorting."
     }
   ],
-  "report": "reports/tool-scan-20260811.md"
+  "report": "reports/tool-scan-20260812.md"
 }
