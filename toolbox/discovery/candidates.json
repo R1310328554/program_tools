@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-08-12T01:55:41+08:00",
+  "scanned_at": "2026-08-13T01:55:39+08:00",
   "installed_count": 95,
   "gaps": [
     {
@@ -77,24 +77,6 @@
   ],
   "github_pulse": [
     {
-      "slug_hint": "awesome-tools",
-      "name": "wangruofeng/awesome-tools",
-      "tags": [
-        "awesome-list",
-        "developer-tools",
-        "github-pages",
-        "online-tools",
-        "open-source",
-        "static-site",
-        "vanilla-javascript",
-        "web-tools"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/wangruofeng/awesome-tools",
-      "source_url": "https://github.com/wangruofeng/awesome-tools",
-      "description": "A categorized collection of open-source online tools by Wang Ruofeng."
-    },
-    {
       "slug_hint": "online-image-tools",
       "name": "KABUS721/online-image-tools",
       "tags": [
@@ -123,6 +105,103 @@
       "description": "🌐 Convert and process images online for free. Enjoy batch processing, format conversion, and privacy with local handling for your files."
     },
     {
+      "slug_hint": "utopia",
+      "name": "api-evangelist/utopia",
+      "tags": [
+        "apis-json",
+        "company",
+        "design",
+        "developer-tools",
+        "low-code",
+        "open-source",
+        "react"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/api-evangelist/utopia",
+      "source_url": "https://github.com/api-evangelist/utopia",
+      "description": "Utopia was an online platform for designing, coding, and shipping React applications, pairing a visual design tool with a code editor over one source of truth. A 2020 Seedcamp portfolio company, it was built in the open as the MIT-licensed concrete-utopia/utopia monorepo (3.8k stars) with a first-party utopia-api npm library."
+    },
+    {
+      "slug_hint": "invisionapp",
+      "name": "api-evangelist/invisionapp",
+      "tags": [
+        "apis-json",
+        "company",
+        "defunct",
+        "design",
+        "design-collaboration",
+        "design-systems",
+        "developer-tools",
+        "product-design",
+        "prototyping"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/api-evangelist/invisionapp",
+      "source_url": "https://github.com/api-evangelist/invisionapp",
+      "description": "InVision (InVisionApp, Inc.) was a digital product design collaboration platform founded in 2011 by Clark Valberg and Ben Nadel. It built a suite of tools for prototyping, design handoff, and real-time collaboration — including interactive prototypes, Inspect/Specs for developer handoff, DSM (Design System Manager), Boards, and the Freehand online…"
+    },
+    {
+      "slug_hint": "it-tools",
+      "name": "CorentinTh/it-tools",
+      "tags": [
+        "converter",
+        "developer-productivity",
+        "developer-tools",
+        "frontend",
+        "javascript",
+        "productivity",
+        "tool",
+        "tools",
+        "typescript",
+        "vuejs",
+        "website"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/CorentinTh/it-tools",
+      "source_url": "https://github.com/CorentinTh/it-tools",
+      "description": "Collection of handy online tools for developers, with great UX. "
+    },
+    {
+      "slug_hint": "awesome-tools",
+      "name": "darduracom/awesome-tools",
+      "tags": [
+        "ai-tools",
+        "awesome-list",
+        "curated-list",
+        "design-tools",
+        "developer-tools",
+        "fonts",
+        "free-tools-of-development",
+        "online-tools",
+        "productivity",
+        "seo-tools",
+        "text-tools",
+        "web-utilities"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/darduracom/awesome-tools",
+      "source_url": "https://github.com/darduracom/awesome-tools",
+      "description": "Kumpulan tools online yang dikurasi untuk developer, kreator, dan pengguna umum."
+    },
+    {
+      "slug_hint": "awesome-tools",
+      "name": "wangruofeng/awesome-tools",
+      "tags": [
+        "awesome-list",
+        "developer-tools",
+        "github-pages",
+        "online-tools",
+        "open-source",
+        "static-site",
+        "vanilla-javascript",
+        "web-tools"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/wangruofeng/awesome-tools",
+      "source_url": "https://github.com/wangruofeng/awesome-tools",
+      "description": "A categorized collection of open-source online tools by Wang Ruofeng."
+    },
+    {
       "slug_hint": "toolaspect",
       "name": "CoreAspectStu/toolaspect",
       "tags": [
@@ -138,7 +217,7 @@
       "priority": "low",
       "reason": "recent repo: https://github.com/CoreAspectStu/toolaspect",
       "source_url": "https://github.com/CoreAspectStu/toolaspect",
-      "description": "🔧 ToolAspect — 28 Free Online Tools (No Signup, No Ads) → toolaspect.com"
+      "description": "🔧 ToolAspect — 1,400+ Free Online Tools (No Signup, No Ads). Finance calculators, word unscrambler, JSON formatter, unit converter, AI tools → toolaspect.com"
     },
     {
       "slug_hint": "exponentiallydigital",
@@ -223,100 +302,7 @@
       "reason": "recent repo: https://github.com/A7medAbde7hamed/awesome-dev-utilities",
       "source_url": "https://github.com/A7medAbde7hamed/awesome-dev-utilities",
       "description": "🛠 Access free, fast developer utility tools for common tasks with ease, all powered by LoopPlunk—your go-to source for essential online resources."
-    },
-    {
-      "slug_hint": "utopia",
-      "name": "api-evangelist/utopia",
-      "tags": [
-        "apis-json",
-        "company",
-        "design",
-        "developer-tools",
-        "low-code",
-        "open-source",
-        "react"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/api-evangelist/utopia",
-      "source_url": "https://github.com/api-evangelist/utopia",
-      "description": "Utopia was an online platform for designing, coding, and shipping React applications, pairing a visual design tool with a code editor over one source of truth. A 2020 Seedcamp portfolio company, it was built in the open as the MIT-licensed concrete-utopia/utopia monorepo (3.8k stars) with a first-party utopia-api npm library."
-    },
-    {
-      "slug_hint": "invisionapp",
-      "name": "api-evangelist/invisionapp",
-      "tags": [
-        "apis-json",
-        "company",
-        "defunct",
-        "design",
-        "design-collaboration",
-        "design-systems",
-        "developer-tools",
-        "product-design",
-        "prototyping"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/api-evangelist/invisionapp",
-      "source_url": "https://github.com/api-evangelist/invisionapp",
-      "description": "InVision (InVisionApp, Inc.) was a digital product design collaboration platform founded in 2011 by Clark Valberg and Ben Nadel. It built a suite of tools for prototyping, design handoff, and real-time collaboration — including interactive prototypes, Inspect/Specs for developer handoff, DSM (Design System Manager), Boards, and the Freehand online…"
-    },
-    {
-      "slug_hint": "hazik-mir-github-io",
-      "name": "hazik-mir/hazik-mir.github.io",
-      "tags": [
-        "coding",
-        "compressor",
-        "developer",
-        "developer-platform",
-        "developer-tools",
-        "fast-tools",
-        "free",
-        "free-tools",
-        "games",
-        "image-compressor",
-        "indie-android-windows-linux-games",
-        "no-login",
-        "no-sign-in-tool",
-        "no-signup",
-        "programming-helper",
-        "promgramming",
-        "python",
-        "qr-generator",
-        "quick-tools"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/hazik-mir/hazik-mir.github.io",
-      "source_url": "https://github.com/hazik-mir/hazik-mir.github.io",
-      "description": "Hazik.in provides free online utilities including image compression, file conversion, and productivity tools. Use all tools instantly with no registration, no downloads, and no hidden fees. Fast and Free + Quick"
-    },
-    {
-      "slug_hint": "smallwebapps",
-      "name": "LucasHenriqueDiniz/smallwebapps",
-      "tags": [
-        "astro",
-        "browser",
-        "developer-tools",
-        "free",
-        "images",
-        "javascript",
-        "offline",
-        "online",
-        "optimizer",
-        "pdf",
-        "privacy",
-        "privacy-first",
-        "privacy-focused",
-        "react",
-        "tools",
-        "utilities",
-        "web-app",
-        "youtube"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/LucasHenriqueDiniz/smallwebapps",
-      "source_url": "https://github.com/LucasHenriqueDiniz/smallwebapps",
-      "description": "Free, fast, private browser-based tools"
     }
   ],
-  "report": "reports/tool-scan-20260812.md"
+  "report": "reports/tool-scan-20260813.md"
 }
