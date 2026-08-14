@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-08-14T01:56:13+08:00",
+  "scanned_at": "2026-08-15T01:50:02+08:00",
   "installed_count": 95,
   "gaps": [
     {
@@ -76,6 +76,86 @@
     }
   ],
   "github_pulse": [
+    {
+      "slug_hint": "random-tools-guide",
+      "name": "hassaan806/random-tools-guide",
+      "tags": [
+        "developer-tools",
+        "online-tools",
+        "online-tools-websites",
+        "random-tools",
+        "web-tools"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/hassaan806/random-tools-guide",
+      "source_url": "https://github.com/hassaan806/random-tools-guide",
+      "description": "A curated collection of free online random tools including number generators, wheel spinners, and decision-making utilities for everyday use."
+    },
+    {
+      "slug_hint": "online-image-tools",
+      "name": "KABUS721/online-image-tools",
+      "tags": [
+        "annotations",
+        "api-management",
+        "api-monitoring",
+        "canvas",
+        "code",
+        "deep-learning",
+        "detection",
+        "developer-tools",
+        "element-ui",
+        "hacktoberfest",
+        "html",
+        "idea",
+        "image-classification",
+        "image-processing",
+        "labelimg",
+        "machine-learning",
+        "markdown",
+        "preact"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/KABUS721/online-image-tools",
+      "source_url": "https://github.com/KABUS721/online-image-tools",
+      "description": "🌐 Convert and process images online for free. Enjoy batch processing, format conversion, and privacy with local handling for your files."
+    },
+    {
+      "slug_hint": "toolaspect",
+      "name": "CoreAspectStu/toolaspect",
+      "tags": [
+        "developer-tools",
+        "free-tools",
+        "json-formatter",
+        "no-signup",
+        "online-tools",
+        "password-generator",
+        "privacy",
+        "qr-code"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/CoreAspectStu/toolaspect",
+      "source_url": "https://github.com/CoreAspectStu/toolaspect",
+      "description": "🔧 ToolAspect — 1,400+ Free Online Tools (No Signup, No Ads). Finance calculators, word unscrambler, JSON formatter, unit converter, AI tools → toolaspect.com"
+    },
+    {
+      "slug_hint": "invisionapp",
+      "name": "api-evangelist/invisionapp",
+      "tags": [
+        "apis-json",
+        "company",
+        "defunct",
+        "design",
+        "design-collaboration",
+        "design-systems",
+        "developer-tools",
+        "product-design",
+        "prototyping"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/api-evangelist/invisionapp",
+      "source_url": "https://github.com/api-evangelist/invisionapp",
+      "description": "InVision (InVisionApp, Inc.) was a digital product design collaboration platform founded in 2011 by Clark Valberg and Ben Nadel. It built a suite of tools for prototyping, design handoff, and real-time collaboration — including interactive prototypes, Inspect/Specs for developer handoff, DSM (Design System Manager), Boards, and the Freehand online…"
+    },
     {
       "slug_hint": "awesome-tools",
       "name": "wangruofeng/awesome-tools",
@@ -167,25 +247,6 @@
       "description": "76+ free online tools and an AI writing studio. Privacy-first: everything runs in your browser. No signup, no uploads."
     },
     {
-      "slug_hint": "invisionapp",
-      "name": "api-evangelist/invisionapp",
-      "tags": [
-        "apis-json",
-        "company",
-        "defunct",
-        "design",
-        "design-collaboration",
-        "design-systems",
-        "developer-tools",
-        "product-design",
-        "prototyping"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/api-evangelist/invisionapp",
-      "source_url": "https://github.com/api-evangelist/invisionapp",
-      "description": "InVision (InVisionApp, Inc.) was a digital product design collaboration platform founded in 2011 by Clark Valberg and Ben Nadel. It built a suite of tools for prototyping, design handoff, and real-time collaboration — including interactive prototypes, Inspect/Specs for developer handoff, DSM (Design System Manager), Boards, and the Freehand online…"
-    },
-    {
       "slug_hint": "utilokit-tools",
       "name": "saivaibhavv/utilokit-tools",
       "tags": [
@@ -204,34 +265,6 @@
       "reason": "recent repo: https://github.com/saivaibhavv/utilokit-tools",
       "source_url": "https://github.com/saivaibhavv/utilokit-tools",
       "description": "201 free online tools that run entirely in your browser - calculators, converters, formatters, PDF & image utilities. No uploads, no accounts, no watermarks."
-    },
-    {
-      "slug_hint": "online-image-tools",
-      "name": "KABUS721/online-image-tools",
-      "tags": [
-        "annotations",
-        "api-management",
-        "api-monitoring",
-        "canvas",
-        "code",
-        "deep-learning",
-        "detection",
-        "developer-tools",
-        "element-ui",
-        "hacktoberfest",
-        "html",
-        "idea",
-        "image-classification",
-        "image-processing",
-        "labelimg",
-        "machine-learning",
-        "markdown",
-        "preact"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/KABUS721/online-image-tools",
-      "source_url": "https://github.com/KABUS721/online-image-tools",
-      "description": "🌐 Convert and process images online for free. Enjoy batch processing, format conversion, and privacy with local handling for your files."
     },
     {
       "slug_hint": "it-tools",
@@ -253,47 +286,7 @@
       "reason": "recent repo: https://github.com/CorentinTh/it-tools",
       "source_url": "https://github.com/CorentinTh/it-tools",
       "description": "Collection of handy online tools for developers, with great UX. "
-    },
-    {
-      "slug_hint": "awesome-tools",
-      "name": "darduracom/awesome-tools",
-      "tags": [
-        "ai-tools",
-        "awesome-list",
-        "curated-list",
-        "design-tools",
-        "developer-tools",
-        "fonts",
-        "free-tools-of-development",
-        "online-tools",
-        "productivity",
-        "seo-tools",
-        "text-tools",
-        "web-utilities"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/darduracom/awesome-tools",
-      "source_url": "https://github.com/darduracom/awesome-tools",
-      "description": "Kumpulan tools online yang dikurasi untuk developer, kreator, dan pengguna umum."
-    },
-    {
-      "slug_hint": "toolaspect",
-      "name": "CoreAspectStu/toolaspect",
-      "tags": [
-        "developer-tools",
-        "free-tools",
-        "json-formatter",
-        "no-signup",
-        "online-tools",
-        "password-generator",
-        "privacy",
-        "qr-code"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/CoreAspectStu/toolaspect",
-      "source_url": "https://github.com/CoreAspectStu/toolaspect",
-      "description": "🔧 ToolAspect — 1,400+ Free Online Tools (No Signup, No Ads). Finance calculators, word unscrambler, JSON formatter, unit converter, AI tools → toolaspect.com"
     }
   ],
-  "report": "reports/tool-scan-20260814.md"
+  "report": "reports/tool-scan-20260815.md"
 }
