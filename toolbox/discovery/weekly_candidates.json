@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-08-09T12:21:55+08:00",
+  "scanned_at": "2026-08-16T01:26:38+08:00",
   "scan_type": "weekly_global",
   "installed_count": 95,
   "gap_count": 17,
@@ -305,7 +305,7 @@
       "privacy-first"
     ]
   },
-  "report": "reports/weekly-global-scan-20260809.md",
+  "report": "reports/weekly-global-scan-20260816.md",
   "readme_hits": [
     {
       "source": "DevToys Web Pro",
