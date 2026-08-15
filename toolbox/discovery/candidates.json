@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-08-15T01:50:02+08:00",
+  "scanned_at": "2026-08-16T01:18:03+08:00",
   "installed_count": 95,
   "gaps": [
     {
@@ -77,19 +77,22 @@
   ],
   "github_pulse": [
     {
-      "slug_hint": "random-tools-guide",
-      "name": "hassaan806/random-tools-guide",
+      "slug_hint": "awesome-tools",
+      "name": "wangruofeng/awesome-tools",
       "tags": [
+        "awesome-list",
         "developer-tools",
+        "github-pages",
         "online-tools",
-        "online-tools-websites",
-        "random-tools",
+        "open-source",
+        "static-site",
+        "vanilla-javascript",
         "web-tools"
       ],
       "priority": "low",
-      "reason": "recent repo: https://github.com/hassaan806/random-tools-guide",
-      "source_url": "https://github.com/hassaan806/random-tools-guide",
-      "description": "A curated collection of free online random tools including number generators, wheel spinners, and decision-making utilities for everyday use."
+      "reason": "recent repo: https://github.com/wangruofeng/awesome-tools",
+      "source_url": "https://github.com/wangruofeng/awesome-tools",
+      "description": "A categorized collection of open-source online tools by Wang Ruofeng."
     },
     {
       "slug_hint": "online-image-tools",
@@ -118,6 +121,21 @@
       "reason": "recent repo: https://github.com/KABUS721/online-image-tools",
       "source_url": "https://github.com/KABUS721/online-image-tools",
       "description": "🌐 Convert and process images online for free. Enjoy batch processing, format conversion, and privacy with local handling for your files."
+    },
+    {
+      "slug_hint": "random-tools-guide",
+      "name": "hassaan806/random-tools-guide",
+      "tags": [
+        "developer-tools",
+        "online-tools",
+        "online-tools-websites",
+        "random-tools",
+        "web-tools"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/hassaan806/random-tools-guide",
+      "source_url": "https://github.com/hassaan806/random-tools-guide",
+      "description": "A curated collection of free online random tools including number generators, wheel spinners, and decision-making utilities for everyday use."
     },
     {
       "slug_hint": "toolaspect",
@@ -155,24 +173,6 @@
       "reason": "recent repo: https://github.com/api-evangelist/invisionapp",
       "source_url": "https://github.com/api-evangelist/invisionapp",
       "description": "InVision (InVisionApp, Inc.) was a digital product design collaboration platform founded in 2011 by Clark Valberg and Ben Nadel. It built a suite of tools for prototyping, design handoff, and real-time collaboration — including interactive prototypes, Inspect/Specs for developer handoff, DSM (Design System Manager), Boards, and the Freehand online…"
-    },
-    {
-      "slug_hint": "awesome-tools",
-      "name": "wangruofeng/awesome-tools",
-      "tags": [
-        "awesome-list",
-        "developer-tools",
-        "github-pages",
-        "online-tools",
-        "open-source",
-        "static-site",
-        "vanilla-javascript",
-        "web-tools"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/wangruofeng/awesome-tools",
-      "source_url": "https://github.com/wangruofeng/awesome-tools",
-      "description": "A categorized collection of open-source online tools by Wang Ruofeng."
     },
     {
       "slug_hint": "awesome-dev-utilities",
@@ -288,5 +288,5 @@
       "description": "Collection of handy online tools for developers, with great UX. "
     }
   ],
-  "report": "reports/tool-scan-20260815.md"
+  "report": "reports/tool-scan-20260816.md"
 }
