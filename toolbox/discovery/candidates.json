@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-08-20T01:23:37+08:00",
+  "scanned_at": "2026-08-21T01:25:23+08:00",
   "installed_count": 95,
   "gaps": [
     {
@@ -76,6 +76,54 @@
     }
   ],
   "github_pulse": [
+    {
+      "slug_hint": "online-image-tools",
+      "name": "KABUS721/online-image-tools",
+      "tags": [
+        "annotations",
+        "api-management",
+        "api-monitoring",
+        "canvas",
+        "code",
+        "deep-learning",
+        "detection",
+        "developer-tools",
+        "element-ui",
+        "hacktoberfest",
+        "html",
+        "idea",
+        "image-classification",
+        "image-processing",
+        "labelimg",
+        "machine-learning",
+        "markdown",
+        "preact"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/KABUS721/online-image-tools",
+      "source_url": "https://github.com/KABUS721/online-image-tools",
+      "description": "🌐 Convert and process images online for free. Enjoy batch processing, format conversion, and privacy with local handling for your files."
+    },
+    {
+      "slug_hint": "skill-shelf-check",
+      "name": "Lucian1u/skill-shelf-check",
+      "tags": [
+        "agent",
+        "ai-agent",
+        "developer-tools",
+        "html",
+        "javascript",
+        "local-first",
+        "offline",
+        "productivity",
+        "skill",
+        "skills"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/Lucian1u/skill-shelf-check",
+      "source_url": "https://github.com/Lucian1u/skill-shelf-check",
+      "description": "Skill Shelf Check — a zero-install, local-first, read-only browser tool for diagnosing Agent Skills. Use it online or as a single offline HTML file."
+    },
     {
       "slug_hint": "utopia",
       "name": "api-evangelist/utopia",
@@ -258,47 +306,7 @@
       "reason": "recent repo: https://github.com/TMFS87/freetoolset",
       "source_url": "https://github.com/TMFS87/freetoolset",
       "description": "76+ free online tools and an AI writing studio. Privacy-first: everything runs in your browser. No signup, no uploads."
-    },
-    {
-      "slug_hint": "online-image-tools",
-      "name": "KABUS721/online-image-tools",
-      "tags": [
-        "annotations",
-        "api-management",
-        "api-monitoring",
-        "canvas",
-        "code",
-        "deep-learning",
-        "detection",
-        "developer-tools",
-        "element-ui",
-        "hacktoberfest",
-        "html",
-        "idea",
-        "image-classification",
-        "image-processing",
-        "labelimg",
-        "machine-learning",
-        "markdown",
-        "preact"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/KABUS721/online-image-tools",
-      "source_url": "https://github.com/KABUS721/online-image-tools",
-      "description": "🌐 Convert and process images online for free. Enjoy batch processing, format conversion, and privacy with local handling for your files."
-    },
-    {
-      "slug_hint": "rlugttools",
-      "name": "RickLugtigheid/RlugtTools",
-      "tags": [
-        "developer-tools",
-        "webtools"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/RickLugtigheid/RlugtTools",
-      "source_url": "https://github.com/RickLugtigheid/RlugtTools",
-      "description": "A collection of online tools for developers."
     }
   ],
-  "report": "reports/tool-scan-20260820.md"
+  "report": "reports/tool-scan-20260821.md"
 }
