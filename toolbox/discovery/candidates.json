@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-08-21T01:25:23+08:00",
+  "scanned_at": "2026-08-22T01:25:12+08:00",
   "installed_count": 95,
   "gaps": [
     {
@@ -105,26 +105,6 @@
       "description": "🌐 Convert and process images online for free. Enjoy batch processing, format conversion, and privacy with local handling for your files."
     },
     {
-      "slug_hint": "skill-shelf-check",
-      "name": "Lucian1u/skill-shelf-check",
-      "tags": [
-        "agent",
-        "ai-agent",
-        "developer-tools",
-        "html",
-        "javascript",
-        "local-first",
-        "offline",
-        "productivity",
-        "skill",
-        "skills"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/Lucian1u/skill-shelf-check",
-      "source_url": "https://github.com/Lucian1u/skill-shelf-check",
-      "description": "Skill Shelf Check — a zero-install, local-first, read-only browser tool for diagnosing Agent Skills. Use it online or as a single offline HTML file."
-    },
-    {
       "slug_hint": "utopia",
       "name": "api-evangelist/utopia",
       "tags": [
@@ -159,6 +139,44 @@
       "reason": "recent repo: https://github.com/api-evangelist/invisionapp",
       "source_url": "https://github.com/api-evangelist/invisionapp",
       "description": "InVision (InVisionApp, Inc.) was a digital product design collaboration platform founded in 2011 by Clark Valberg and Ben Nadel. It built a suite of tools for prototyping, design handoff, and real-time collaboration — including interactive prototypes, Inspect/Specs for developer handoff, DSM (Design System Manager), Boards, and the Freehand online…"
+    },
+    {
+      "slug_hint": "toolaspect",
+      "name": "CoreAspectStu/toolaspect",
+      "tags": [
+        "developer-tools",
+        "free-tools",
+        "json-formatter",
+        "no-signup",
+        "online-tools",
+        "password-generator",
+        "privacy",
+        "qr-code"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/CoreAspectStu/toolaspect",
+      "source_url": "https://github.com/CoreAspectStu/toolaspect",
+      "description": "🔧 ToolAspect — 1,400+ Free Online Tools (No Signup, No Ads). Finance calculators, word unscrambler, JSON formatter, unit converter, AI tools → toolaspect.com"
+    },
+    {
+      "slug_hint": "skill-shelf-check",
+      "name": "Lucian1u/skill-shelf-check",
+      "tags": [
+        "agent",
+        "ai-agent",
+        "developer-tools",
+        "html",
+        "javascript",
+        "local-first",
+        "offline",
+        "productivity",
+        "skill",
+        "skills"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/Lucian1u/skill-shelf-check",
+      "source_url": "https://github.com/Lucian1u/skill-shelf-check",
+      "description": "Skill Shelf Check — a zero-install, local-first, read-only browser tool for diagnosing Agent Skills. Use it online or as a single offline HTML file."
     },
     {
       "slug_hint": "microtoolstack-app",
@@ -237,24 +255,6 @@
       "description": "Three decades leading enterprise delivery across banking, government, and consulting. Built open-source Golang tools that cut sprint spillover from 70% to 19% at ANZ. Online since 1987, four domain names, two sites. After hours: tinkering with code, Windows kernel tuning, and colour-perception image sorting."
     },
     {
-      "slug_hint": "toolaspect",
-      "name": "CoreAspectStu/toolaspect",
-      "tags": [
-        "developer-tools",
-        "free-tools",
-        "json-formatter",
-        "no-signup",
-        "online-tools",
-        "password-generator",
-        "privacy",
-        "qr-code"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/CoreAspectStu/toolaspect",
-      "source_url": "https://github.com/CoreAspectStu/toolaspect",
-      "description": "🔧 ToolAspect — 1,400+ Free Online Tools (No Signup, No Ads). Finance calculators, word unscrambler, JSON formatter, unit converter, AI tools → toolaspect.com"
-    },
-    {
       "slug_hint": "smallwebapps",
       "name": "LucasHenriqueDiniz/smallwebapps",
       "tags": [
@@ -308,5 +308,5 @@
       "description": "76+ free online tools and an AI writing studio. Privacy-first: everything runs in your browser. No signup, no uploads."
     }
   ],
-  "report": "reports/tool-scan-20260821.md"
+  "report": "reports/tool-scan-20260822.md"
 }
