@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-08-22T01:25:12+08:00",
+  "scanned_at": "2026-08-23T01:17:57+08:00",
   "installed_count": 95,
   "gaps": [
     {
@@ -77,32 +77,21 @@
   ],
   "github_pulse": [
     {
-      "slug_hint": "online-image-tools",
-      "name": "KABUS721/online-image-tools",
+      "slug_hint": "microtoolstack-app",
+      "name": "imammehedihasan07-cyber/MicroToolStack-App",
       "tags": [
-        "annotations",
-        "api-management",
-        "api-monitoring",
-        "canvas",
-        "code",
-        "deep-learning",
-        "detection",
         "developer-tools",
-        "element-ui",
-        "hacktoberfest",
-        "html",
-        "idea",
-        "image-classification",
-        "image-processing",
-        "labelimg",
-        "machine-learning",
-        "markdown",
-        "preact"
+        "developer-tools-productivity",
+        "open-source",
+        "pdf-tools",
+        "productivity",
+        "seo-tools",
+        "web-utilities"
       ],
       "priority": "low",
-      "reason": "recent repo: https://github.com/KABUS721/online-image-tools",
-      "source_url": "https://github.com/KABUS721/online-image-tools",
-      "description": "🌐 Convert and process images online for free. Enjoy batch processing, format conversion, and privacy with local handling for your files."
+      "reason": "recent repo: https://github.com/imammehedihasan07-cyber/MicroToolStack-App",
+      "source_url": "https://github.com/imammehedihasan07-cyber/MicroToolStack-App",
+      "description": "Free online web utility tools for text, SEO, developers, calculators, and AI generators."
     },
     {
       "slug_hint": "utopia",
@@ -141,6 +130,80 @@
       "description": "InVision (InVisionApp, Inc.) was a digital product design collaboration platform founded in 2011 by Clark Valberg and Ben Nadel. It built a suite of tools for prototyping, design handoff, and real-time collaboration — including interactive prototypes, Inspect/Specs for developer handoff, DSM (Design System Manager), Boards, and the Freehand online…"
     },
     {
+      "slug_hint": "clean-csv",
+      "name": "cig13zs/clean-csv",
+      "tags": [
+        "csv",
+        "csv-cleaner",
+        "csv-parser",
+        "data-cleaning",
+        "developer-tools",
+        "offline-tool"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/cig13zs/clean-csv",
+      "source_url": "https://github.com/cig13zs/clean-csv",
+      "description": "Free online CSV cleaner and repair tool. Auto-detect delimiters, fix unescaped quotes, balance columns, and format messy CSV files 100% offline."
+    },
+    {
+      "slug_hint": "awesome-dev-utilities",
+      "name": "A7medAbde7hamed/awesome-dev-utilities",
+      "tags": [
+        "android",
+        "awesome",
+        "awesomeness",
+        "blockchain",
+        "cleancode",
+        "crypto",
+        "developer-tools",
+        "django",
+        "graphql",
+        "ionic",
+        "library",
+        "php",
+        "python",
+        "qr",
+        "seo",
+        "typescript",
+        "utilities",
+        "ux",
+        "webapp",
+        "webdev"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/A7medAbde7hamed/awesome-dev-utilities",
+      "source_url": "https://github.com/A7medAbde7hamed/awesome-dev-utilities",
+      "description": "🛠 Access free, fast developer utility tools for common tasks with ease, all powered by LoopPlunk—your go-to source for essential online resources."
+    },
+    {
+      "slug_hint": "online-image-tools",
+      "name": "KABUS721/online-image-tools",
+      "tags": [
+        "annotations",
+        "api-management",
+        "api-monitoring",
+        "canvas",
+        "code",
+        "deep-learning",
+        "detection",
+        "developer-tools",
+        "element-ui",
+        "hacktoberfest",
+        "html",
+        "idea",
+        "image-classification",
+        "image-processing",
+        "labelimg",
+        "machine-learning",
+        "markdown",
+        "preact"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/KABUS721/online-image-tools",
+      "source_url": "https://github.com/KABUS721/online-image-tools",
+      "description": "🌐 Convert and process images online for free. Enjoy batch processing, format conversion, and privacy with local handling for your files."
+    },
+    {
       "slug_hint": "toolaspect",
       "name": "CoreAspectStu/toolaspect",
       "tags": [
@@ -177,53 +240,6 @@
       "reason": "recent repo: https://github.com/Lucian1u/skill-shelf-check",
       "source_url": "https://github.com/Lucian1u/skill-shelf-check",
       "description": "Skill Shelf Check — a zero-install, local-first, read-only browser tool for diagnosing Agent Skills. Use it online or as a single offline HTML file."
-    },
-    {
-      "slug_hint": "microtoolstack-app",
-      "name": "imammehedihasan07-cyber/MicroToolStack-App",
-      "tags": [
-        "developer-tools",
-        "developer-tools-productivity",
-        "open-source",
-        "pdf-tools",
-        "productivity",
-        "seo-tools",
-        "web-utilities"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/imammehedihasan07-cyber/MicroToolStack-App",
-      "source_url": "https://github.com/imammehedihasan07-cyber/MicroToolStack-App",
-      "description": "Free online web utility tools for text, SEO, developers, calculators, and AI generators."
-    },
-    {
-      "slug_hint": "awesome-dev-utilities",
-      "name": "A7medAbde7hamed/awesome-dev-utilities",
-      "tags": [
-        "android",
-        "awesome",
-        "awesomeness",
-        "blockchain",
-        "cleancode",
-        "crypto",
-        "developer-tools",
-        "django",
-        "graphql",
-        "ionic",
-        "library",
-        "php",
-        "python",
-        "qr",
-        "seo",
-        "typescript",
-        "utilities",
-        "ux",
-        "webapp",
-        "webdev"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/A7medAbde7hamed/awesome-dev-utilities",
-      "source_url": "https://github.com/A7medAbde7hamed/awesome-dev-utilities",
-      "description": "🛠 Access free, fast developer utility tools for common tasks with ease, all powered by LoopPlunk—your go-to source for essential online resources."
     },
     {
       "slug_hint": "exponentiallydigital",
@@ -281,32 +297,7 @@
       "reason": "recent repo: https://github.com/LucasHenriqueDiniz/smallwebapps",
       "source_url": "https://github.com/LucasHenriqueDiniz/smallwebapps",
       "description": "Free, fast, private browser-based tools"
-    },
-    {
-      "slug_hint": "freetoolset",
-      "name": "TMFS87/freetoolset",
-      "tags": [
-        "ai-writing",
-        "calculator",
-        "client-side",
-        "converter",
-        "developer-tools",
-        "free-tools",
-        "json-formatter",
-        "no-signup",
-        "online-tools",
-        "privacy-first",
-        "productivity",
-        "static-site",
-        "utilities",
-        "vercel",
-        "web-tools"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/TMFS87/freetoolset",
-      "source_url": "https://github.com/TMFS87/freetoolset",
-      "description": "76+ free online tools and an AI writing studio. Privacy-first: everything runs in your browser. No signup, no uploads."
     }
   ],
-  "report": "reports/tool-scan-20260822.md"
+  "report": "reports/tool-scan-20260823.md"
 }
