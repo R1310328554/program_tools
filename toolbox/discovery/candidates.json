@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-08-24T01:17:38+08:00",
+  "scanned_at": "2026-08-25T01:27:46+08:00",
   "installed_count": 95,
   "gaps": [
     {
@@ -77,6 +77,71 @@
   ],
   "github_pulse": [
     {
+      "slug_hint": "devbox-tools",
+      "name": "Linanxi12/devbox-tools",
+      "tags": [
+        "base64",
+        "developer-tools",
+        "developer-utilities",
+        "free-tools",
+        "json-formatter",
+        "online-tools",
+        "regex-tester",
+        "web-dev"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/Linanxi12/devbox-tools",
+      "source_url": "https://github.com/Linanxi12/devbox-tools",
+      "description": "Free online developer tools - JSON formatter, Base64, UUID, regex tester and more"
+    },
+    {
+      "slug_hint": "microtoolstack-app",
+      "name": "imammehedihasan07-cyber/MicroToolStack-App",
+      "tags": [
+        "developer-tools",
+        "developer-tools-productivity",
+        "open-source",
+        "pdf-tools",
+        "productivity",
+        "seo-tools",
+        "web-utilities"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/imammehedihasan07-cyber/MicroToolStack-App",
+      "source_url": "https://github.com/imammehedihasan07-cyber/MicroToolStack-App",
+      "description": "Free online web utility tools for text, SEO, developers, calculators, and AI generators."
+    },
+    {
+      "slug_hint": "awesome-dev-utilities",
+      "name": "A7medAbde7hamed/awesome-dev-utilities",
+      "tags": [
+        "android",
+        "awesome",
+        "awesomeness",
+        "blockchain",
+        "cleancode",
+        "crypto",
+        "developer-tools",
+        "django",
+        "graphql",
+        "ionic",
+        "library",
+        "php",
+        "python",
+        "qr",
+        "seo",
+        "typescript",
+        "utilities",
+        "ux",
+        "webapp",
+        "webdev"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/A7medAbde7hamed/awesome-dev-utilities",
+      "source_url": "https://github.com/A7medAbde7hamed/awesome-dev-utilities",
+      "description": "🛠 Access free, fast developer utility tools for common tasks with ease, all powered by LoopPlunk—your go-to source for essential online resources."
+    },
+    {
       "slug_hint": "online-image-tools",
       "name": "KABUS721/online-image-tools",
       "tags": [
@@ -135,23 +200,6 @@
       "description": "Free online developer tools: JSON formatter, image compressor, PDF merger, base64 encoder, regex tester & 100+ more. No login required. All processing in browser."
     },
     {
-      "slug_hint": "microtoolstack-app",
-      "name": "imammehedihasan07-cyber/MicroToolStack-App",
-      "tags": [
-        "developer-tools",
-        "developer-tools-productivity",
-        "open-source",
-        "pdf-tools",
-        "productivity",
-        "seo-tools",
-        "web-utilities"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/imammehedihasan07-cyber/MicroToolStack-App",
-      "source_url": "https://github.com/imammehedihasan07-cyber/MicroToolStack-App",
-      "description": "Free online web utility tools for text, SEO, developers, calculators, and AI generators."
-    },
-    {
       "slug_hint": "clean-csv",
       "name": "cig13zs/clean-csv",
       "tags": [
@@ -204,36 +252,6 @@
       "description": "InVision (InVisionApp, Inc.) was a digital product design collaboration platform founded in 2011 by Clark Valberg and Ben Nadel. It built a suite of tools for prototyping, design handoff, and real-time collaboration — including interactive prototypes, Inspect/Specs for developer handoff, DSM (Design System Manager), Boards, and the Freehand online…"
     },
     {
-      "slug_hint": "awesome-dev-utilities",
-      "name": "A7medAbde7hamed/awesome-dev-utilities",
-      "tags": [
-        "android",
-        "awesome",
-        "awesomeness",
-        "blockchain",
-        "cleancode",
-        "crypto",
-        "developer-tools",
-        "django",
-        "graphql",
-        "ionic",
-        "library",
-        "php",
-        "python",
-        "qr",
-        "seo",
-        "typescript",
-        "utilities",
-        "ux",
-        "webapp",
-        "webdev"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/A7medAbde7hamed/awesome-dev-utilities",
-      "source_url": "https://github.com/A7medAbde7hamed/awesome-dev-utilities",
-      "description": "🛠 Access free, fast developer utility tools for common tasks with ease, all powered by LoopPlunk—your go-to source for essential online resources."
-    },
-    {
       "slug_hint": "toolaspect",
       "name": "CoreAspectStu/toolaspect",
       "tags": [
@@ -270,36 +288,7 @@
       "reason": "recent repo: https://github.com/Lucian1u/skill-shelf-check",
       "source_url": "https://github.com/Lucian1u/skill-shelf-check",
       "description": "Skill Shelf Check — a zero-install, local-first, read-only browser tool for diagnosing Agent Skills. Use it online or as a single offline HTML file."
-    },
-    {
-      "slug_hint": "exponentiallydigital",
-      "name": "ExponentiallyDigital/ExponentiallyDigital",
-      "tags": [
-        "agile",
-        "android",
-        "consulting",
-        "data-analysis",
-        "delivery",
-        "developer-tools",
-        "devops",
-        "financial-services",
-        "go",
-        "golang",
-        "infrstructure",
-        "jira",
-        "leadership",
-        "lua",
-        "powershell",
-        "powershell-script",
-        "release-management",
-        "scrum",
-        "world-of-warcraft-addon"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/ExponentiallyDigital/ExponentiallyDigital",
-      "source_url": "https://github.com/ExponentiallyDigital/ExponentiallyDigital",
-      "description": "Three decades leading enterprise delivery across banking, government, and consulting. Built open-source Golang tools that cut sprint spillover from 70% to 19% at ANZ. Online since 1987, four domain names, two sites. After hours: tinkering with code, Windows kernel tuning, and colour-perception image sorting."
     }
   ],
-  "report": "reports/tool-scan-20260824.md"
+  "report": "reports/tool-scan-20260825.md"
 }
