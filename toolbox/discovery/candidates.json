@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-08-29T08:51:05+08:00",
+  "scanned_at": "2026-08-30T03:35:48+08:00",
   "installed_count": 95,
   "gaps": [
     {
@@ -77,6 +77,117 @@
   ],
   "github_pulse": [
     {
+      "slug_hint": "tool-kit",
+      "name": "satwikmyneni/tool_kit",
+      "tags": [
+        "barcode-generator",
+        "developer-tools",
+        "documenttools",
+        "expense-tracker",
+        "finance-tools",
+        "gif-maker",
+        "image-generation",
+        "imagetools",
+        "loan-calculator",
+        "onlinetools",
+        "pdftools",
+        "productivity-tools",
+        "python3",
+        "text-to-speech",
+        "toolbox",
+        "typingspeedtest",
+        "utilitytools"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/satwikmyneni/tool_kit",
+      "source_url": "https://github.com/satwikmyneni/tool_kit",
+      "description": "A collection of fast, simple online tools for PDFs, documents, images, text, generators, calculators, productivity, finance, and media, all in one place."
+    },
+    {
+      "slug_hint": "online-image-tools",
+      "name": "KABUS721/online-image-tools",
+      "tags": [
+        "annotations",
+        "api-management",
+        "api-monitoring",
+        "canvas",
+        "code",
+        "deep-learning",
+        "detection",
+        "developer-tools",
+        "element-ui",
+        "hacktoberfest",
+        "html",
+        "idea",
+        "image-classification",
+        "image-processing",
+        "labelimg",
+        "machine-learning",
+        "markdown",
+        "preact"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/KABUS721/online-image-tools",
+      "source_url": "https://github.com/KABUS721/online-image-tools",
+      "description": "🌐 Convert and process images online for free. Enjoy batch processing, format conversion, and privacy with local handling for your files."
+    },
+    {
+      "slug_hint": "toolaspect",
+      "name": "CoreAspectStu/toolaspect",
+      "tags": [
+        "developer-tools",
+        "free-tools",
+        "json-formatter",
+        "no-signup",
+        "online-tools",
+        "password-generator",
+        "privacy",
+        "qr-code"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/CoreAspectStu/toolaspect",
+      "source_url": "https://github.com/CoreAspectStu/toolaspect",
+      "description": "🔧 ToolAspect — 1,400+ Free Online Tools (No Signup, No Ads). Finance calculators, word unscrambler, JSON formatter, unit converter, AI tools → toolaspect.com"
+    },
+    {
+      "slug_hint": "jsobfuscator",
+      "name": "Jammysmith844/jsobfuscator",
+      "tags": [
+        "code-obfuscation",
+        "code-protection",
+        "developer-tools",
+        "frontend-tools",
+        "javascript",
+        "javascript-minification",
+        "javascript-minifier",
+        "javascript-obfuscation",
+        "javascript-tools",
+        "js-obfuscator",
+        "online-tools"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/Jammysmith844/jsobfuscator",
+      "source_url": "https://github.com/Jammysmith844/jsobfuscator",
+      "description": "JavaScript obfuscation and minification tools for developers. Protect and transform client-side JavaScript code with an easy-to-use online toolkit."
+    },
+    {
+      "slug_hint": "utopia",
+      "name": "api-evangelist/utopia",
+      "tags": [
+        "apis-json",
+        "company",
+        "design",
+        "developer-tools",
+        "low-code",
+        "open-source",
+        "react"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/api-evangelist/utopia",
+      "source_url": "https://github.com/api-evangelist/utopia",
+      "description": "Utopia — independent third-party profile of a public API surface, by API Evangelist. Utopia was an online platform for designing, coding, and shipping React applications, pairing a visual design tool with a code editor over one source of truth. A 2020 Seedcamp portfolio company, it was built in the open as the MIT-licensed concrete-utopia/utopia mo"
+    },
+    {
       "slug_hint": "free-online-tools",
       "name": "freetoolwisehelp/free-online-tools",
       "tags": [
@@ -100,24 +211,6 @@
       "reason": "recent repo: https://github.com/freetoolwisehelp/free-online-tools",
       "source_url": "https://github.com/freetoolwisehelp/free-online-tools",
       "description": "🛠️ 246+ free browser-based tools AI writing, image & PDF editing, developer utilities. No signup, no paywall, files stay on your device."
-    },
-    {
-      "slug_hint": "toolaspect",
-      "name": "CoreAspectStu/toolaspect",
-      "tags": [
-        "developer-tools",
-        "free-tools",
-        "json-formatter",
-        "no-signup",
-        "online-tools",
-        "password-generator",
-        "privacy",
-        "qr-code"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/CoreAspectStu/toolaspect",
-      "source_url": "https://github.com/CoreAspectStu/toolaspect",
-      "description": "🔧 ToolAspect — 1,400+ Free Online Tools (No Signup, No Ads). Finance calculators, word unscrambler, JSON formatter, unit converter, AI tools → toolaspect.com"
     },
     {
       "slug_hint": "awesome-dev-utilities",
@@ -178,70 +271,6 @@
       "description": "Free, fast, private browser-based tools"
     },
     {
-      "slug_hint": "invisionapp",
-      "name": "api-evangelist/invisionapp",
-      "tags": [
-        "apis-json",
-        "company",
-        "defunct",
-        "design",
-        "design-collaboration",
-        "design-systems",
-        "developer-tools",
-        "product-design",
-        "prototyping"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/api-evangelist/invisionapp",
-      "source_url": "https://github.com/api-evangelist/invisionapp",
-      "description": "InVision (InVisionApp, Inc.) was a digital product design collaboration platform founded in 2011 by Clark Valberg and Ben Nadel. It built a suite of tools for prototyping, design handoff, and real-time collaboration — including interactive prototypes, Inspect/Specs for developer handoff, DSM (Design System Manager), Boards, and the Freehand online…"
-    },
-    {
-      "slug_hint": "utopia",
-      "name": "api-evangelist/utopia",
-      "tags": [
-        "apis-json",
-        "company",
-        "design",
-        "developer-tools",
-        "low-code",
-        "open-source",
-        "react"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/api-evangelist/utopia",
-      "source_url": "https://github.com/api-evangelist/utopia",
-      "description": "Utopia was an online platform for designing, coding, and shipping React applications, pairing a visual design tool with a code editor over one source of truth. A 2020 Seedcamp portfolio company, it was built in the open as the MIT-licensed concrete-utopia/utopia monorepo (3.8k stars) with a first-party utopia-api npm library."
-    },
-    {
-      "slug_hint": "online-image-tools",
-      "name": "KABUS721/online-image-tools",
-      "tags": [
-        "annotations",
-        "api-management",
-        "api-monitoring",
-        "canvas",
-        "code",
-        "deep-learning",
-        "detection",
-        "developer-tools",
-        "element-ui",
-        "hacktoberfest",
-        "html",
-        "idea",
-        "image-classification",
-        "image-processing",
-        "labelimg",
-        "machine-learning",
-        "markdown",
-        "preact"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/KABUS721/online-image-tools",
-      "source_url": "https://github.com/KABUS721/online-image-tools",
-      "description": "🌐 Convert and process images online for free. Enjoy batch processing, format conversion, and privacy with local handling for your files."
-    },
-    {
       "slug_hint": "it-tools",
       "name": "CorentinTh/it-tools",
       "tags": [
@@ -277,37 +306,7 @@
       "reason": "recent repo: https://github.com/cig13zs/clean-csv",
       "source_url": "https://github.com/cig13zs/clean-csv",
       "description": "Free online CSV cleaner and repair tool. Auto-detect delimiters, fix unescaped quotes, balance columns, and format messy CSV files 100% offline."
-    },
-    {
-      "slug_hint": "qubittool",
-      "name": "qubittool/qubittool",
-      "tags": [
-        "ai-tools",
-        "base64",
-        "code-formatter",
-        "color-picker",
-        "developer-tools",
-        "free-tools",
-        "image-compressor",
-        "image-converter",
-        "json-diff",
-        "json-formatter",
-        "markdown-editor",
-        "mcp-server",
-        "online-tools",
-        "pdf-tools",
-        "privacy-first",
-        "productivity",
-        "regex-tester",
-        "timestamp-converter",
-        "uuid-generator",
-        "web-tools"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/qubittool/qubittool",
-      "source_url": "https://github.com/qubittool/qubittool",
-      "description": "Free online developer tools: JSON formatter, image compressor, PDF merger, base64 encoder, regex tester & 100+ more. No login required. All processing in browser."
     }
   ],
-  "report": "reports/tool-scan-20260829.md"
+  "report": "reports/tool-scan-20260830.md"
 }
