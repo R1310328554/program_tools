@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-08-28T09:15:14+08:00",
+  "scanned_at": "2026-08-29T08:51:05+08:00",
   "installed_count": 95,
   "gaps": [
     {
@@ -77,6 +77,31 @@
   ],
   "github_pulse": [
     {
+      "slug_hint": "free-online-tools",
+      "name": "freetoolwisehelp/free-online-tools",
+      "tags": [
+        "ai-tools",
+        "build-in-public",
+        "developer-tools",
+        "free-tools-of-development",
+        "image-tools",
+        "nextjs",
+        "no-signup",
+        "online-tools",
+        "pdf-tools",
+        "privacy",
+        "productivity",
+        "react",
+        "typescript",
+        "utilities",
+        "web-tools"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/freetoolwisehelp/free-online-tools",
+      "source_url": "https://github.com/freetoolwisehelp/free-online-tools",
+      "description": "🛠️ 246+ free browser-based tools AI writing, image & PDF editing, developer utilities. No signup, no paywall, files stay on your device."
+    },
+    {
       "slug_hint": "toolaspect",
       "name": "CoreAspectStu/toolaspect",
       "tags": [
@@ -93,34 +118,6 @@
       "reason": "recent repo: https://github.com/CoreAspectStu/toolaspect",
       "source_url": "https://github.com/CoreAspectStu/toolaspect",
       "description": "🔧 ToolAspect — 1,400+ Free Online Tools (No Signup, No Ads). Finance calculators, word unscrambler, JSON formatter, unit converter, AI tools → toolaspect.com"
-    },
-    {
-      "slug_hint": "smallwebapps",
-      "name": "LucasHenriqueDiniz/smallwebapps",
-      "tags": [
-        "astro",
-        "browser",
-        "developer-tools",
-        "free",
-        "images",
-        "javascript",
-        "offline",
-        "online",
-        "optimizer",
-        "pdf",
-        "privacy",
-        "privacy-first",
-        "privacy-focused",
-        "react",
-        "tools",
-        "utilities",
-        "web-app",
-        "youtube"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/LucasHenriqueDiniz/smallwebapps",
-      "source_url": "https://github.com/LucasHenriqueDiniz/smallwebapps",
-      "description": "Free, fast, private browser-based tools"
     },
     {
       "slug_hint": "awesome-dev-utilities",
@@ -151,6 +148,34 @@
       "reason": "recent repo: https://github.com/A7medAbde7hamed/awesome-dev-utilities",
       "source_url": "https://github.com/A7medAbde7hamed/awesome-dev-utilities",
       "description": "🛠 Access free, fast developer utility tools for common tasks with ease, all powered by LoopPlunk—your go-to source for essential online resources."
+    },
+    {
+      "slug_hint": "smallwebapps",
+      "name": "LucasHenriqueDiniz/smallwebapps",
+      "tags": [
+        "astro",
+        "browser",
+        "developer-tools",
+        "free",
+        "images",
+        "javascript",
+        "offline",
+        "online",
+        "optimizer",
+        "pdf",
+        "privacy",
+        "privacy-first",
+        "privacy-focused",
+        "react",
+        "tools",
+        "utilities",
+        "web-app",
+        "youtube"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/LucasHenriqueDiniz/smallwebapps",
+      "source_url": "https://github.com/LucasHenriqueDiniz/smallwebapps",
+      "description": "Free, fast, private browser-based tools"
     },
     {
       "slug_hint": "invisionapp",
@@ -282,25 +307,7 @@
       "reason": "recent repo: https://github.com/qubittool/qubittool",
       "source_url": "https://github.com/qubittool/qubittool",
       "description": "Free online developer tools: JSON formatter, image compressor, PDF merger, base64 encoder, regex tester & 100+ more. No login required. All processing in browser."
-    },
-    {
-      "slug_hint": "devbox-tools",
-      "name": "Linanxi12/devbox-tools",
-      "tags": [
-        "base64",
-        "developer-tools",
-        "developer-utilities",
-        "free-tools",
-        "json-formatter",
-        "online-tools",
-        "regex-tester",
-        "web-dev"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/Linanxi12/devbox-tools",
-      "source_url": "https://github.com/Linanxi12/devbox-tools",
-      "description": "Free online developer tools - JSON formatter, Base64, UUID, regex tester and more"
     }
   ],
-  "report": "reports/tool-scan-20260828.md"
+  "report": "reports/tool-scan-20260829.md"
 }
