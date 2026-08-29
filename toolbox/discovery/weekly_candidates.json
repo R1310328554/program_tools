@@ -1,8 +1,8 @@
 {
-  "scanned_at": "2026-08-23T01:26:51+08:00",
+  "scanned_at": "2026-08-30T03:39:25+08:00",
   "scan_type": "weekly_global",
   "installed_count": 95,
-  "gap_count": 17,
+  "gap_count": 18,
   "gaps": [
     {
       "slug_hint": "color-palette",
@@ -191,19 +191,6 @@
       "source_url": ""
     },
     {
-      "slug_hint": "lint-pr-htmlhint-stylelint-eslint",
-      "name": "Lint**: 每次 PR 自动运行 HTMLHint + Stylelint + ESLint",
-      "description": "**Tools Sync Check**: CI 检查 tools.json 与 index.html 是否同步",
-      "tags": [],
-      "priority": "low",
-      "category": "text",
-      "region": "intl",
-      "sources": [
-        "chicogong/html-tools"
-      ],
-      "source_url": ""
-    },
-    {
       "slug_hint": "mermaid-preview",
       "name": "Mermaid Preview",
       "description": "",
@@ -245,6 +232,32 @@
         "devtoys"
       ],
       "source_url": ""
+    },
+    {
+      "slug_hint": "release-release-tag",
+      "name": "Release**: Release 使用手动工作流并校验既有 tag、版本、制品与安全门",
+      "description": "**Dependabot**: 自动检查依赖更新",
+      "tags": [],
+      "priority": "low",
+      "category": "text",
+      "region": "intl",
+      "sources": [
+        "chicogong/html-tools"
+      ],
+      "source_url": ""
+    },
+    {
+      "slug_hint": "tools-sync-check",
+      "name": "Tools Sync Check**",
+      "description": "CI 检查 tools.json 与 index.html 是否同步",
+      "tags": [],
+      "priority": "low",
+      "category": "text",
+      "region": "intl",
+      "sources": [
+        "chicogong/html-tools"
+      ],
+      "source_url": ""
     }
   ],
   "by_category": {
@@ -276,10 +289,11 @@
       "cdn",
       "cdn-cdn-cdnjs-unpkg-jsdelivr",
       "kcompatibilityvariant",
-      "lint-pr-htmlhint-stylelint-eslint",
       "mermaid-preview",
       "plantuml",
-      "privacy-first"
+      "privacy-first",
+      "release-release-tag",
+      "tools-sync-check"
     ]
   },
   "by_region": {
@@ -299,13 +313,14 @@
       "iban",
       "cdn",
       "cdn-cdn-cdnjs-unpkg-jsdelivr",
-      "lint-pr-htmlhint-stylelint-eslint",
       "mermaid-preview",
       "plantuml",
-      "privacy-first"
+      "privacy-first",
+      "release-release-tag",
+      "tools-sync-check"
     ]
   },
-  "report": "reports/weekly-global-scan-20260823.md",
+  "report": "reports/weekly-global-scan-20260830.md",
   "readme_hits": [
     {
       "source": "DevToys Web Pro",

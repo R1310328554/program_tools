@@ -1,312 +1,454 @@
 {
-  "scanned_at": "2026-08-30T03:35:48+08:00",
+  "scanned_at": "2026-08-30T03:39:25+08:00",
   "installed_count": 95,
-  "gaps": [
-    {
-      "slug_hint": "color-palette",
-      "name": "Color Palette",
-      "tags": [
-        "color"
-      ],
-      "priority": "low",
-      "reason": "listed in community_catalog but missing from registry"
-    },
-    {
-      "slug_hint": "credit-card-luhn",
-      "name": "Luhn Check",
-      "tags": [
-        "luhn"
-      ],
-      "priority": "low",
-      "reason": "listed in community_catalog but missing from registry"
-    },
-    {
-      "slug_hint": "iban",
-      "name": "IBAN Validator",
-      "tags": [
-        "iban"
-      ],
-      "priority": "low",
-      "reason": "listed in community_catalog but missing from registry"
-    },
-    {
-      "slug_hint": "mermaid-preview",
-      "name": "Mermaid Preview",
-      "tags": [
-        "mermaid"
-      ],
-      "priority": "low",
-      "reason": "listed in community_catalog but missing from registry"
-    },
-    {
-      "slug_hint": "openid-jwt",
-      "name": "OpenID Claims",
-      "tags": [
-        "oidc"
-      ],
-      "priority": "low",
-      "reason": "listed in community_catalog but missing from registry"
-    },
-    {
-      "slug_hint": "plantuml",
-      "name": "PlantUML",
-      "tags": [
-        "uml"
-      ],
-      "priority": "low",
-      "reason": "listed in community_catalog but missing from registry"
-    },
-    {
-      "slug_hint": "websocket-test",
-      "name": "WebSocket Tester",
-      "tags": [
-        "websocket"
-      ],
-      "priority": "low",
-      "reason": "listed in community_catalog but missing from registry"
-    },
-    {
-      "slug_hint": "whois",
-      "name": "Whois",
-      "tags": [
-        "whois"
-      ],
-      "priority": "low",
-      "reason": "listed in community_catalog but missing from registry"
-    }
-  ],
+  "gaps": [],
   "github_pulse": [
     {
-      "slug_hint": "tool-kit",
-      "name": "satwikmyneni/tool_kit",
-      "tags": [
-        "barcode-generator",
+      "full_name": "affaan-m/ECC",
+      "html_url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 244145,
+      "topics": [
+        "ai-agents",
+        "anthropic",
+        "claude",
+        "claude-code",
         "developer-tools",
-        "documenttools",
-        "expense-tracker",
-        "finance-tools",
-        "gif-maker",
-        "image-generation",
-        "imagetools",
-        "loan-calculator",
-        "onlinetools",
-        "pdftools",
-        "productivity-tools",
-        "python3",
-        "text-to-speech",
-        "toolbox",
-        "typingspeedtest",
-        "utilitytools"
+        "llm",
+        "mcp",
+        "productivity"
       ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/satwikmyneni/tool_kit",
-      "source_url": "https://github.com/satwikmyneni/tool_kit",
-      "description": "A collection of fast, simple online tools for PDFs, documents, images, text, generators, calculators, productivity, finance, and media, all in one place."
+      "language": "JavaScript",
+      "region": "intl",
+      "query": "topic:developer-tools stars:>30"
     },
     {
-      "slug_hint": "online-image-tools",
-      "name": "KABUS721/online-image-tools",
-      "tags": [
-        "annotations",
-        "api-management",
-        "api-monitoring",
-        "canvas",
-        "code",
-        "deep-learning",
-        "detection",
+      "full_name": "DietrichGebert/ponytail",
+      "html_url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 116317,
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "claude-code-plugin",
+        "cursor-rules",
         "developer-tools",
-        "element-ui",
-        "hacktoberfest",
-        "html",
-        "idea",
-        "image-classification",
-        "image-processing",
-        "labelimg",
-        "machine-learning",
+        "llm",
+        "prompt-engineering",
+        "yagni"
+      ],
+      "language": "JavaScript",
+      "region": "intl",
+      "query": "topic:developer-tools stars:>30"
+    },
+    {
+      "full_name": "Graphify-Labs/graphify",
+      "html_url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "stars": 112246,
+      "topics": [
+        "ai-agents",
+        "antigravity",
+        "ast",
+        "claude-code",
+        "code-analysis",
+        "code-search",
+        "codex",
+        "cursor",
+        "developer-tools",
+        "gemini",
+        "graphrag",
+        "knowledge-graph",
+        "leiden",
+        "llm",
+        "mcp",
+        "openclaw",
+        "rag",
+        "skills",
+        "tree-sitter"
+      ],
+      "language": "Python",
+      "region": "intl",
+      "query": "topic:developer-tools stars:>30"
+    },
+    {
+      "full_name": "puppeteer/puppeteer",
+      "html_url": "https://github.com/puppeteer/puppeteer",
+      "description": "JavaScript API for Chrome and Firefox",
+      "stars": 95521,
+      "topics": [
+        "automation",
+        "chrome",
+        "chromium",
+        "developer-tools",
+        "firefox",
+        "headless-chrome",
+        "node-module",
+        "testing",
+        "web"
+      ],
+      "language": "TypeScript",
+      "region": "intl",
+      "query": "topic:developer-tools stars:>30"
+    },
+    {
+      "full_name": "OpenHands/OpenHands",
+      "html_url": "https://github.com/OpenHands/OpenHands",
+      "description": "🙌 OpenHands: AI-Driven Development",
+      "stars": 85562,
+      "topics": [
+        "agent",
+        "artificial-intelligence",
+        "chatgpt",
+        "claude-ai",
+        "cli",
+        "developer-tools",
+        "gpt",
+        "llm",
+        "openai"
+      ],
+      "language": "TypeScript",
+      "region": "intl",
+      "query": "topic:developer-tools stars:>30"
+    },
+    {
+      "full_name": "hoppscotch/hoppscotch",
+      "html_url": "https://github.com/hoppscotch/hoppscotch",
+      "description": "Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia",
+      "stars": 80116,
+      "topics": [
+        "api",
+        "api-client",
+        "api-rest",
+        "api-testing",
+        "developer-tools",
+        "graphql",
+        "http",
+        "http-client",
+        "pwa",
+        "rest",
+        "rest-api",
+        "spa",
+        "testing",
+        "testing-tools",
+        "tools",
+        "vue",
+        "vuejs",
+        "websocket"
+      ],
+      "language": "TypeScript",
+      "region": "intl",
+      "query": "topic:developer-tools stars:>30"
+    },
+    {
+      "full_name": "rtk-ai/rtk",
+      "html_url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "stars": 77811,
+      "topics": [
+        "agentic-coding",
+        "ai-coding",
+        "anthropic",
+        "claude-code",
+        "cli",
+        "command-line-tool",
+        "cost-reduction",
+        "developer-tools",
+        "llm",
+        "open-source",
+        "productivity",
+        "rust",
+        "token-optimization"
+      ],
+      "language": "Rust",
+      "region": "intl",
+      "query": "topic:developer-tools stars:>30"
+    },
+    {
+      "full_name": "ComposioHQ/awesome-claude-skills",
+      "html_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "stars": 73869,
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "antigravity",
+        "automation",
+        "claude",
+        "claude-code",
+        "codex",
+        "composio",
+        "cursor",
+        "developer-tools",
+        "gemini-cli",
+        "mcp",
+        "openai-codex",
+        "rube",
+        "saas",
+        "skill",
+        "workflow-automation"
+      ],
+      "language": "Python",
+      "region": "intl",
+      "query": "topic:developer-tools stars:>30"
+    },
+    {
+      "full_name": "daytonaio/daytona",
+      "html_url": "https://github.com/daytonaio/daytona",
+      "description": "Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code",
+      "stars": 71858,
+      "topics": [
+        "agentic-workflow",
+        "ai",
+        "ai-agents",
+        "ai-runtime",
+        "ai-sandboxes",
+        "code-execution",
+        "code-interpreter",
+        "developer-tools"
+      ],
+      "language": null,
+      "region": "intl",
+      "query": "topic:developer-tools stars:>30"
+    },
+    {
+      "full_name": "localstack/localstack",
+      "html_url": "https://github.com/localstack/localstack",
+      "description": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline",
+      "stars": 65143,
+      "topics": [
+        "aws",
+        "cloud",
+        "continuous-integration",
+        "developer-tools",
+        "localstack",
+        "python",
+        "testing"
+      ],
+      "language": "Python",
+      "region": "intl",
+      "query": "topic:developer-tools stars:>30"
+    },
+    {
+      "full_name": "GitHubDaily/GitHubDaily",
+      "html_url": "https://github.com/GitHubDaily/GitHubDaily",
+      "description": "坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.",
+      "stars": 47755,
+      "topics": [
+        "ai",
+        "algorithms-and-data-structures",
+        "backend",
+        "developer-tools",
+        "development",
+        "frontend",
+        "github",
+        "java",
+        "javascript",
+        "kubernetes",
+        "linux",
         "markdown",
-        "preact"
+        "open-source",
+        "python",
+        "tutorials",
+        "web"
       ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/KABUS721/online-image-tools",
-      "source_url": "https://github.com/KABUS721/online-image-tools",
-      "description": "🌐 Convert and process images online for free. Enjoy batch processing, format conversion, and privacy with local handling for your files."
+      "language": null,
+      "region": "intl",
+      "query": "topic:developer-tools stars:>30"
     },
     {
-      "slug_hint": "toolaspect",
-      "name": "CoreAspectStu/toolaspect",
-      "tags": [
+      "full_name": "usebruno/bruno",
+      "html_url": "https://github.com/usebruno/bruno",
+      "description": "Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)",
+      "stars": 46636,
+      "topics": [
+        "api-client",
+        "api-testing",
+        "automation",
+        "developer-tools",
+        "git",
+        "graphql-client",
+        "http-client",
+        "javascript",
+        "openapi",
+        "openapi3",
+        "opensource",
+        "rest-api",
+        "testing",
+        "testing-tools"
+      ],
+      "language": "JavaScript",
+      "region": "intl",
+      "query": "topic:developer-tools stars:>30"
+    },
+    {
+      "full_name": "lelinhtinh/de4js",
+      "html_url": "https://github.com/lelinhtinh/de4js",
+      "description": "JavaScript Deobfuscator and Unpacker",
+      "stars": 1582,
+      "topics": [
+        "decode",
+        "deobfuscate",
+        "deobfuscation",
+        "deobfuscator",
+        "javascript",
+        "javascript-deobfuscator",
+        "offline-app",
+        "online-tools",
+        "unpacker"
+      ],
+      "language": "JavaScript",
+      "region": "intl",
+      "query": "topic:online-tools stars:>20"
+    },
+    {
+      "full_name": "bestxtools/awesome-toolbox-chinese",
+      "html_url": "https://github.com/bestxtools/awesome-toolbox-chinese",
+      "description": "🧰 优秀工具箱集合 - 收集，推荐好用、优秀的工具箱。工具箱大全。| https://awesome-toolbox-chinese.bestxtools.com/ | https://😎🧰.bestxtools.com/",
+      "stars": 1181,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "awesome-toolbox",
+        "awesome-tools",
+        "bestxtools",
+        "online-tools",
+        "online-tools-websites",
+        "toolbox",
+        "toolboxes",
+        "tools"
+      ],
+      "language": "Shell",
+      "region": "intl",
+      "query": "topic:online-tools stars:>20"
+    },
+    {
+      "full_name": "rivertwilight/toolkits",
+      "html_url": "https://github.com/rivertwilight/toolkits",
+      "description": "All-in-one digital toolbox designed for daily Paper-Cuts with efficiency and simplicity.",
+      "stars": 366,
+      "topics": [
+        "create-react-app",
+        "material-design",
+        "nextjs",
+        "online-tools",
+        "react",
+        "typescript"
+      ],
+      "language": "TypeScript",
+      "region": "intl",
+      "query": "topic:online-tools stars:>20"
+    },
+    {
+      "full_name": "bestxtools/weekly-cn",
+      "html_url": "https://github.com/bestxtools/weekly-cn",
+      "description": "发现并分享有趣，有创意，免费、好用的工具，每周四发布。",
+      "stars": 300,
+      "topics": [
+        "awesome-tools",
+        "best-tools",
+        "bestxtools",
+        "bestxtools-weekly",
+        "free-tools",
+        "newsletter",
+        "online-tools",
+        "tools",
+        "weekly"
+      ],
+      "language": null,
+      "region": "intl",
+      "query": "topic:online-tools stars:>20"
+    },
+    {
+      "full_name": "chicogong/html-tools",
+      "html_url": "https://github.com/chicogong/html-tools",
+      "description": "🛠️ 1088+ 纯前端在线工具集 | 单文件·零构建·可离线·隐私优先 | Pure HTML Tools - Single file, Zero build, Offline-ready, Privacy-first",
+      "stars": 137,
+      "topics": [
+        "ai-tools",
         "developer-tools",
         "free-tools",
-        "json-formatter",
-        "no-signup",
-        "online-tools",
-        "password-generator",
-        "privacy",
-        "qr-code"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/CoreAspectStu/toolaspect",
-      "source_url": "https://github.com/CoreAspectStu/toolaspect",
-      "description": "🔧 ToolAspect — 1,400+ Free Online Tools (No Signup, No Ads). Finance calculators, word unscrambler, JSON formatter, unit converter, AI tools → toolaspect.com"
-    },
-    {
-      "slug_hint": "jsobfuscator",
-      "name": "Jammysmith844/jsobfuscator",
-      "tags": [
-        "code-obfuscation",
-        "code-protection",
-        "developer-tools",
         "frontend-tools",
-        "javascript",
-        "javascript-minification",
-        "javascript-minifier",
-        "javascript-obfuscation",
-        "javascript-tools",
-        "js-obfuscator",
-        "online-tools"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/Jammysmith844/jsobfuscator",
-      "source_url": "https://github.com/Jammysmith844/jsobfuscator",
-      "description": "JavaScript obfuscation and minification tools for developers. Protect and transform client-side JavaScript code with an easy-to-use online toolkit."
-    },
-    {
-      "slug_hint": "utopia",
-      "name": "api-evangelist/utopia",
-      "tags": [
-        "apis-json",
-        "company",
-        "design",
-        "developer-tools",
-        "low-code",
-        "open-source",
-        "react"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/api-evangelist/utopia",
-      "source_url": "https://github.com/api-evangelist/utopia",
-      "description": "Utopia — independent third-party profile of a public API surface, by API Evangelist. Utopia was an online platform for designing, coding, and shipping React applications, pairing a visual design tool with a code editor over one source of truth. A 2020 Seedcamp portfolio company, it was built in the open as the MIT-licensed concrete-utopia/utopia mo"
-    },
-    {
-      "slug_hint": "free-online-tools",
-      "name": "freetoolwisehelp/free-online-tools",
-      "tags": [
-        "ai-tools",
-        "build-in-public",
-        "developer-tools",
-        "free-tools-of-development",
-        "image-tools",
-        "nextjs",
-        "no-signup",
+        "html",
+        "html-tools",
+        "mcp",
+        "no-build",
+        "no-tracking",
+        "offline-first",
         "online-tools",
-        "pdf-tools",
-        "privacy",
-        "productivity",
-        "react",
-        "typescript",
-        "utilities",
-        "web-tools"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/freetoolwisehelp/free-online-tools",
-      "source_url": "https://github.com/freetoolwisehelp/free-online-tools",
-      "description": "🛠️ 246+ free browser-based tools AI writing, image & PDF editing, developer utilities. No signup, no paywall, files stay on your device."
-    },
-    {
-      "slug_hint": "awesome-dev-utilities",
-      "name": "A7medAbde7hamed/awesome-dev-utilities",
-      "tags": [
-        "android",
-        "awesome",
-        "awesomeness",
-        "blockchain",
-        "cleancode",
-        "crypto",
-        "developer-tools",
-        "django",
-        "graphql",
-        "ionic",
-        "library",
-        "php",
-        "python",
-        "qr",
-        "seo",
-        "typescript",
-        "utilities",
-        "ux",
-        "webapp",
-        "webdev"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/A7medAbde7hamed/awesome-dev-utilities",
-      "source_url": "https://github.com/A7medAbde7hamed/awesome-dev-utilities",
-      "description": "🛠 Access free, fast developer utility tools for common tasks with ease, all powered by LoopPlunk—your go-to source for essential online resources."
-    },
-    {
-      "slug_hint": "smallwebapps",
-      "name": "LucasHenriqueDiniz/smallwebapps",
-      "tags": [
-        "astro",
-        "browser",
-        "developer-tools",
-        "free",
-        "images",
-        "javascript",
-        "offline",
-        "online",
-        "optimizer",
-        "pdf",
-        "privacy",
         "privacy-first",
-        "privacy-focused",
-        "react",
+        "productivity-tools",
+        "pwa",
+        "seo-tools",
+        "single-file",
         "tools",
-        "utilities",
-        "web-app",
-        "youtube"
+        "vanilla-js",
+        "web-tools",
+        "web-utilities"
       ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/LucasHenriqueDiniz/smallwebapps",
-      "source_url": "https://github.com/LucasHenriqueDiniz/smallwebapps",
-      "description": "Free, fast, private browser-based tools"
+      "language": "HTML",
+      "region": "intl",
+      "query": "topic:online-tools stars:>20"
     },
     {
-      "slug_hint": "it-tools",
-      "name": "CorentinTh/it-tools",
-      "tags": [
+      "full_name": "luin/bazinga",
+      "html_url": "https://github.com/luin/bazinga",
+      "description": "💥 The best all-in-one toolbox. Bazinga!",
+      "stars": 112,
+      "topics": [
         "converter",
-        "developer-productivity",
-        "developer-tools",
-        "frontend",
-        "javascript",
-        "productivity",
-        "tool",
+        "formatter",
+        "online-tools",
+        "raycast",
+        "toolbox",
         "tools",
-        "typescript",
-        "vuejs",
-        "website"
+        "webapp"
       ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/CorentinTh/it-tools",
-      "source_url": "https://github.com/CorentinTh/it-tools",
-      "description": "Collection of handy online tools for developers, with great UX. "
+      "language": "TypeScript",
+      "region": "intl",
+      "query": "topic:online-tools stars:>20"
     },
     {
-      "slug_hint": "clean-csv",
-      "name": "cig13zs/clean-csv",
-      "tags": [
-        "csv",
-        "csv-cleaner",
-        "csv-parser",
-        "data-cleaning",
-        "developer-tools",
-        "offline-tool"
+      "full_name": "AkbarAsghari/IToolKit",
+      "html_url": "https://github.com/AkbarAsghari/IToolKit",
+      "description": "free online tools for developers with offline usable (PWA)",
+      "stars": 60,
+      "topics": [
+        "dev",
+        "devtools",
+        "devtoys",
+        "itoolkit",
+        "kit",
+        "online-tools",
+        "pwa",
+        "tools",
+        "wasm"
       ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/cig13zs/clean-csv",
-      "source_url": "https://github.com/cig13zs/clean-csv",
-      "description": "Free online CSV cleaner and repair tool. Auto-detect delimiters, fix unescaped quotes, balance columns, and format messy CSV files 100% offline."
+      "language": "JavaScript",
+      "region": "intl",
+      "query": "topic:online-tools stars:>20"
+    },
+    {
+      "full_name": "AxelUser/carry-fit",
+      "html_url": "https://github.com/AxelUser/carry-fit",
+      "description": "Online Carry-on Luggage Compliance Checker",
+      "stars": 54,
+      "topics": [
+        "calculator",
+        "online-tools",
+        "responsive-design",
+        "svelte5",
+        "sveltekit",
+        "tailwindcss",
+        "webapp"
+      ],
+      "language": "TypeScript",
+      "region": "intl",
+      "query": "topic:online-tools stars:>20"
     }
   ],
-  "report": "reports/tool-scan-20260830.md"
+  "report": "reports/weekly-global-scan-20260830.md",
+  "scan_type": "weekly_global"
 }
