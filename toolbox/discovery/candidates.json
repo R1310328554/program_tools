@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-08-31T03:37:48+08:00",
+  "scanned_at": "2026-09-01T05:43:43+08:00",
   "installed_count": 95,
   "gaps": [
     {
@@ -77,6 +77,116 @@
   ],
   "github_pulse": [
     {
+      "slug_hint": "cubbbix-tools",
+      "name": "b0b90/cubbbix-tools",
+      "tags": [
+        "awesome",
+        "cubbbix",
+        "developer-tools",
+        "online-tools"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/b0b90/cubbbix-tools",
+      "source_url": "https://github.com/b0b90/cubbbix-tools",
+      "description": "A curated list of free online tools from Cubbbix"
+    },
+    {
+      "slug_hint": "toolaspect",
+      "name": "CoreAspectStu/toolaspect",
+      "tags": [
+        "developer-tools",
+        "free-tools",
+        "json-formatter",
+        "no-signup",
+        "online-tools",
+        "password-generator",
+        "privacy",
+        "qr-code"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/CoreAspectStu/toolaspect",
+      "source_url": "https://github.com/CoreAspectStu/toolaspect",
+      "description": "🔧 ToolAspect — 1,400+ Free Online Tools (No Signup, No Ads). Finance calculators, word unscrambler, JSON formatter, unit converter, AI tools → toolaspect.com"
+    },
+    {
+      "slug_hint": "it-tools",
+      "name": "saifullahseodeveloper/it-tools",
+      "tags": [
+        "converter",
+        "developer-productivity",
+        "developer-tools",
+        "frontend",
+        "javascript",
+        "productivity",
+        "tool",
+        "tools",
+        "typescript",
+        "vuejs",
+        "website"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/saifullahseodeveloper/it-tools",
+      "source_url": "https://github.com/saifullahseodeveloper/it-tools",
+      "description": "Collection of handy online tools for developers, with great UX."
+    },
+    {
+      "slug_hint": "tools",
+      "name": "divyanshupatel17/tools",
+      "tags": [
+        "ai-tools",
+        "audio-tools",
+        "browser-tools",
+        "calculator",
+        "client-side",
+        "developer-tools",
+        "file-converter",
+        "free-tools",
+        "image-processing",
+        "image-tools",
+        "math-tools",
+        "online-tools",
+        "pdf-tools",
+        "privacy-focused",
+        "qr-code-generator",
+        "text-tools",
+        "tools",
+        "utilities",
+        "video-tools",
+        "watermark-remover"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/divyanshupatel17/tools",
+      "source_url": "https://github.com/divyanshupatel17/tools",
+      "description": "ToolHub – free online tools for PDF, image, video, audio, text, math, developers, ai and more. Fast, privacy-focused, easy-to-use tools in one place."
+    },
+    {
+      "slug_hint": "tool-kit",
+      "name": "satwikmyneni/tool_kit",
+      "tags": [
+        "barcode-generator",
+        "developer-tools",
+        "documenttools",
+        "expense-tracker",
+        "finance-tools",
+        "gif-maker",
+        "image-generation",
+        "imagetools",
+        "loan-calculator",
+        "onlinetools",
+        "pdftools",
+        "productivity-tools",
+        "python3",
+        "text-to-speech",
+        "toolbox",
+        "typingspeedtest",
+        "utilitytools"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/satwikmyneni/tool_kit",
+      "source_url": "https://github.com/satwikmyneni/tool_kit",
+      "description": "A collection of fast, simple online tools for PDFs, documents, images, text, generators, calculators, productivity, finance, and media, all in one place."
+    },
+    {
       "slug_hint": "awesome-dev-utilities",
       "name": "A7medAbde7hamed/awesome-dev-utilities",
       "tags": [
@@ -107,6 +217,23 @@
       "description": "🛠 Access free, fast developer utility tools for common tasks with ease, all powered by LoopPlunk—your go-to source for essential online resources."
     },
     {
+      "slug_hint": "utopia",
+      "name": "api-evangelist/utopia",
+      "tags": [
+        "apis-json",
+        "company",
+        "design",
+        "developer-tools",
+        "low-code",
+        "open-source",
+        "react"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/api-evangelist/utopia",
+      "source_url": "https://github.com/api-evangelist/utopia",
+      "description": "Utopia — independent third-party profile of a public API surface, by API Evangelist. Utopia was an online platform for designing, coding, and shipping React applications, pairing a visual design tool with a code editor over one source of truth. A 2020 Seedcamp portfolio company, it was built in the open as the MIT-licensed concrete-utopia/utopia mo"
+    },
+    {
       "slug_hint": "webdecky-tools",
       "name": "gmkhan1973/webdecky-tools",
       "tags": [
@@ -124,33 +251,6 @@
       "reason": "recent repo: https://github.com/gmkhan1973/webdecky-tools",
       "source_url": "https://github.com/gmkhan1973/webdecky-tools",
       "description": "Free online web, SEO, and developer tools from WebDecky."
-    },
-    {
-      "slug_hint": "tool-kit",
-      "name": "satwikmyneni/tool_kit",
-      "tags": [
-        "barcode-generator",
-        "developer-tools",
-        "documenttools",
-        "expense-tracker",
-        "finance-tools",
-        "gif-maker",
-        "image-generation",
-        "imagetools",
-        "loan-calculator",
-        "onlinetools",
-        "pdftools",
-        "productivity-tools",
-        "python3",
-        "text-to-speech",
-        "toolbox",
-        "typingspeedtest",
-        "utilitytools"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/satwikmyneni/tool_kit",
-      "source_url": "https://github.com/satwikmyneni/tool_kit",
-      "description": "A collection of fast, simple online tools for PDFs, documents, images, text, generators, calculators, productivity, finance, and media, all in one place."
     },
     {
       "slug_hint": "online-image-tools",
@@ -194,118 +294,7 @@
       "reason": "recent repo: https://github.com/zzhenghua/web-easytoolsbox",
       "source_url": "https://github.com/zzhenghua/web-easytoolsbox",
       "description": "Free online tools (Image Compressor, JSON Formatter, QR Generator, TTS) - 100% browser-based, no upload."
-    },
-    {
-      "slug_hint": "qubittool",
-      "name": "qubittool/qubittool",
-      "tags": [
-        "ai-tools",
-        "base64",
-        "code-formatter",
-        "color-picker",
-        "developer-tools",
-        "free-tools",
-        "image-compressor",
-        "image-converter",
-        "json-diff",
-        "json-formatter",
-        "markdown-editor",
-        "mcp-server",
-        "online-tools",
-        "pdf-tools",
-        "privacy-first",
-        "productivity",
-        "regex-tester",
-        "timestamp-converter",
-        "uuid-generator",
-        "web-tools"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/qubittool/qubittool",
-      "source_url": "https://github.com/qubittool/qubittool",
-      "description": "Free online developer tools: JSON formatter, image compressor, PDF merger, base64 encoder, regex tester & 100+ more. No login required. All processing in browser."
-    },
-    {
-      "slug_hint": "utopia",
-      "name": "api-evangelist/utopia",
-      "tags": [
-        "apis-json",
-        "company",
-        "design",
-        "developer-tools",
-        "low-code",
-        "open-source",
-        "react"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/api-evangelist/utopia",
-      "source_url": "https://github.com/api-evangelist/utopia",
-      "description": "Utopia — independent third-party profile of a public API surface, by API Evangelist. Utopia was an online platform for designing, coding, and shipping React applications, pairing a visual design tool with a code editor over one source of truth. A 2020 Seedcamp portfolio company, it was built in the open as the MIT-licensed concrete-utopia/utopia mo"
-    },
-    {
-      "slug_hint": "toolaspect",
-      "name": "CoreAspectStu/toolaspect",
-      "tags": [
-        "developer-tools",
-        "free-tools",
-        "json-formatter",
-        "no-signup",
-        "online-tools",
-        "password-generator",
-        "privacy",
-        "qr-code"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/CoreAspectStu/toolaspect",
-      "source_url": "https://github.com/CoreAspectStu/toolaspect",
-      "description": "🔧 ToolAspect — 1,400+ Free Online Tools (No Signup, No Ads). Finance calculators, word unscrambler, JSON formatter, unit converter, AI tools → toolaspect.com"
-    },
-    {
-      "slug_hint": "jsobfuscator",
-      "name": "Jammysmith844/jsobfuscator",
-      "tags": [
-        "code-obfuscation",
-        "code-protection",
-        "developer-tools",
-        "frontend-tools",
-        "javascript",
-        "javascript-minification",
-        "javascript-minifier",
-        "javascript-obfuscation",
-        "javascript-tools",
-        "js-obfuscator",
-        "online-tools"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/Jammysmith844/jsobfuscator",
-      "source_url": "https://github.com/Jammysmith844/jsobfuscator",
-      "description": "JavaScript obfuscation and minification tools for developers. Protect and transform client-side JavaScript code with an easy-to-use online toolkit."
-    },
-    {
-      "slug_hint": "free-online-tools",
-      "name": "freetoolwisehelp/free-online-tools",
-      "tags": [
-        "ai-tools",
-        "build-in-public",
-        "developer-tools",
-        "free-tools-of-development",
-        "image-tools",
-        "nextjs",
-        "no-signup",
-        "online-tools",
-        "pdf-tools",
-        "privacy",
-        "productivity",
-        "react",
-        "typescript",
-        "utilities",
-        "web-tools"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/freetoolwisehelp/free-online-tools",
-      "source_url": "https://github.com/freetoolwisehelp/free-online-tools",
-      "description": "🛠️ 246+ free browser-based tools AI writing, image & PDF editing, developer utilities. No signup, no paywall, files stay on your device."
     }
   ],
-  "report": "reports/tool-scan-20260831.md"
+  "report": "reports/tool-scan-20260901.md"
 }
