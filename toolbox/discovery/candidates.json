@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-09-01T05:43:43+08:00",
+  "scanned_at": "2026-09-02T03:44:05+08:00",
   "installed_count": 95,
   "gaps": [
     {
@@ -77,18 +77,128 @@
   ],
   "github_pulse": [
     {
-      "slug_hint": "cubbbix-tools",
-      "name": "b0b90/cubbbix-tools",
+      "slug_hint": "qubittool",
+      "name": "qubittool/qubittool",
       "tags": [
-        "awesome",
-        "cubbbix",
+        "ai-tools",
+        "base64",
+        "code-formatter",
+        "color-picker",
         "developer-tools",
-        "online-tools"
+        "free-tools",
+        "image-compressor",
+        "image-converter",
+        "json-diff",
+        "json-formatter",
+        "markdown-editor",
+        "mcp-server",
+        "online-tools",
+        "pdf-tools",
+        "privacy-first",
+        "productivity",
+        "regex-tester",
+        "timestamp-converter",
+        "uuid-generator",
+        "web-tools"
       ],
       "priority": "low",
-      "reason": "recent repo: https://github.com/b0b90/cubbbix-tools",
-      "source_url": "https://github.com/b0b90/cubbbix-tools",
-      "description": "A curated list of free online tools from Cubbbix"
+      "reason": "recent repo: https://github.com/qubittool/qubittool",
+      "source_url": "https://github.com/qubittool/qubittool",
+      "description": "Free online developer tools: JSON formatter, image compressor, PDF merger, base64 encoder, regex tester & 100+ more. No login required. All processing in browser."
+    },
+    {
+      "slug_hint": "smallwebapps",
+      "name": "LucasHenriqueDiniz/smallwebapps",
+      "tags": [
+        "astro",
+        "browser",
+        "developer-tools",
+        "free",
+        "images",
+        "javascript",
+        "offline",
+        "online",
+        "optimizer",
+        "pdf",
+        "privacy",
+        "privacy-first",
+        "privacy-focused",
+        "react",
+        "tools",
+        "utilities",
+        "web-app",
+        "youtube"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/LucasHenriqueDiniz/smallwebapps",
+      "source_url": "https://github.com/LucasHenriqueDiniz/smallwebapps",
+      "description": "Free, fast, private browser-based tools"
+    },
+    {
+      "slug_hint": "utopia",
+      "name": "api-evangelist/utopia",
+      "tags": [
+        "apis-json",
+        "company",
+        "design",
+        "developer-tools",
+        "low-code",
+        "open-source",
+        "react"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/api-evangelist/utopia",
+      "source_url": "https://github.com/api-evangelist/utopia",
+      "description": "Utopia — independent third-party profile of a public API surface, by API Evangelist. Utopia was an online platform for designing, coding, and shipping React applications, pairing a visual design tool with a code editor over one source of truth. A 2020 Seedcamp portfolio company, it was built in the open as the MIT-licensed concrete-utopia/utopia mo"
+    },
+    {
+      "slug_hint": "online-image-tools",
+      "name": "KABUS721/online-image-tools",
+      "tags": [
+        "annotations",
+        "api-management",
+        "api-monitoring",
+        "canvas",
+        "code",
+        "deep-learning",
+        "detection",
+        "developer-tools",
+        "element-ui",
+        "hacktoberfest",
+        "html",
+        "idea",
+        "image-classification",
+        "image-processing",
+        "labelimg",
+        "machine-learning",
+        "markdown",
+        "preact"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/KABUS721/online-image-tools",
+      "source_url": "https://github.com/KABUS721/online-image-tools",
+      "description": "🌐 Convert and process images online for free. Enjoy batch processing, format conversion, and privacy with local handling for your files."
+    },
+    {
+      "slug_hint": "tooladda-online",
+      "name": "tooladda-online/tooladda-online",
+      "tags": [
+        "developer-tools",
+        "developer-tools-",
+        "free-tools-of-development",
+        "online-tools",
+        "online-tools-text-tools",
+        "online-tools-websites",
+        "pdf-tools",
+        "pdf-tools-software",
+        "static-site",
+        "tools",
+        "toolsets"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/tooladda-online/tooladda-online",
+      "source_url": "https://github.com/tooladda-online/tooladda-online",
+      "description": "ToolAdda — 139 free, browser-based tools: PDF, image, resume & payroll docs, India-first finance calculators, developer utilities, text, chemistry, SEO and games. Everything runs on your device — no sign-up, no upload, no watermark, no limits. This is the main repo of the org; every other repo here is one tool"
     },
     {
       "slug_hint": "toolaspect",
@@ -107,6 +217,20 @@
       "reason": "recent repo: https://github.com/CoreAspectStu/toolaspect",
       "source_url": "https://github.com/CoreAspectStu/toolaspect",
       "description": "🔧 ToolAspect — 1,400+ Free Online Tools (No Signup, No Ads). Finance calculators, word unscrambler, JSON formatter, unit converter, AI tools → toolaspect.com"
+    },
+    {
+      "slug_hint": "cubbbix-tools",
+      "name": "b0b90/cubbbix-tools",
+      "tags": [
+        "awesome",
+        "cubbbix",
+        "developer-tools",
+        "online-tools"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/b0b90/cubbbix-tools",
+      "source_url": "https://github.com/b0b90/cubbbix-tools",
+      "description": "A curated list of free online tools from Cubbbix"
     },
     {
       "slug_hint": "it-tools",
@@ -185,116 +309,7 @@
       "reason": "recent repo: https://github.com/satwikmyneni/tool_kit",
       "source_url": "https://github.com/satwikmyneni/tool_kit",
       "description": "A collection of fast, simple online tools for PDFs, documents, images, text, generators, calculators, productivity, finance, and media, all in one place."
-    },
-    {
-      "slug_hint": "awesome-dev-utilities",
-      "name": "A7medAbde7hamed/awesome-dev-utilities",
-      "tags": [
-        "android",
-        "awesome",
-        "awesomeness",
-        "blockchain",
-        "cleancode",
-        "crypto",
-        "developer-tools",
-        "django",
-        "graphql",
-        "ionic",
-        "library",
-        "php",
-        "python",
-        "qr",
-        "seo",
-        "typescript",
-        "utilities",
-        "ux",
-        "webapp",
-        "webdev"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/A7medAbde7hamed/awesome-dev-utilities",
-      "source_url": "https://github.com/A7medAbde7hamed/awesome-dev-utilities",
-      "description": "🛠 Access free, fast developer utility tools for common tasks with ease, all powered by LoopPlunk—your go-to source for essential online resources."
-    },
-    {
-      "slug_hint": "utopia",
-      "name": "api-evangelist/utopia",
-      "tags": [
-        "apis-json",
-        "company",
-        "design",
-        "developer-tools",
-        "low-code",
-        "open-source",
-        "react"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/api-evangelist/utopia",
-      "source_url": "https://github.com/api-evangelist/utopia",
-      "description": "Utopia — independent third-party profile of a public API surface, by API Evangelist. Utopia was an online platform for designing, coding, and shipping React applications, pairing a visual design tool with a code editor over one source of truth. A 2020 Seedcamp portfolio company, it was built in the open as the MIT-licensed concrete-utopia/utopia mo"
-    },
-    {
-      "slug_hint": "webdecky-tools",
-      "name": "gmkhan1973/webdecky-tools",
-      "tags": [
-        "developer-tools",
-        "laravel",
-        "php",
-        "robots-txt",
-        "seo",
-        "seo-tools",
-        "web-development",
-        "web-tools",
-        "website-tools"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/gmkhan1973/webdecky-tools",
-      "source_url": "https://github.com/gmkhan1973/webdecky-tools",
-      "description": "Free online web, SEO, and developer tools from WebDecky."
-    },
-    {
-      "slug_hint": "online-image-tools",
-      "name": "KABUS721/online-image-tools",
-      "tags": [
-        "annotations",
-        "api-management",
-        "api-monitoring",
-        "canvas",
-        "code",
-        "deep-learning",
-        "detection",
-        "developer-tools",
-        "element-ui",
-        "hacktoberfest",
-        "html",
-        "idea",
-        "image-classification",
-        "image-processing",
-        "labelimg",
-        "machine-learning",
-        "markdown",
-        "preact"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/KABUS721/online-image-tools",
-      "source_url": "https://github.com/KABUS721/online-image-tools",
-      "description": "🌐 Convert and process images online for free. Enjoy batch processing, format conversion, and privacy with local handling for your files."
-    },
-    {
-      "slug_hint": "web-easytoolsbox",
-      "name": "zzhenghua/web-easytoolsbox",
-      "tags": [
-        "developer-tools",
-        "free-tools-of-development",
-        "image-tools",
-        "nextjs",
-        "online-tools"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/zzhenghua/web-easytoolsbox",
-      "source_url": "https://github.com/zzhenghua/web-easytoolsbox",
-      "description": "Free online tools (Image Compressor, JSON Formatter, QR Generator, TTS) - 100% browser-based, no upload."
     }
   ],
-  "report": "reports/tool-scan-20260901.md"
+  "report": "reports/tool-scan-20260902.md"
 }
