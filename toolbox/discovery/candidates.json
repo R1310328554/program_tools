@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-09-03T03:37:16+08:00",
+  "scanned_at": "2026-09-04T03:37:59+08:00",
   "installed_count": 95,
   "gaps": [
     {
@@ -77,6 +77,34 @@
   ],
   "github_pulse": [
     {
+      "slug_hint": "randomly-online-docs",
+      "name": "D-xan/Randomly.online-docs",
+      "tags": [
+        "browser-tools",
+        "client-side-tools",
+        "date-time-tools",
+        "developer-tools",
+        "free-tools",
+        "frontend-tools",
+        "image-tools",
+        "javascript-tools",
+        "online-tools",
+        "online-utilities",
+        "pdf-tools",
+        "privacy-first",
+        "productivity-tools",
+        "random-generators",
+        "text-tools",
+        "text-utilities",
+        "utility-tools",
+        "writing-tools"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/D-xan/Randomly.online-docs",
+      "source_url": "https://github.com/D-xan/Randomly.online-docs",
+      "description": "Randomly.online is a privacy focused collection of fast browser-based tools for PDFs, images, text, calculators and more. Built by Dhruba Singha Roy, the platform emphasizes client-side processing, speed, simplicity and accessibility without unnecessary uploads."
+    },
+    {
       "slug_hint": "smallwebapps",
       "name": "LucasHenriqueDiniz/smallwebapps",
       "tags": [
@@ -105,20 +133,58 @@
       "description": "Free, fast, private browser-based tools"
     },
     {
-      "slug_hint": "toolman",
-      "name": "DahyXu/toolman",
+      "slug_hint": "random-tools-guide",
+      "name": "hassaan806/random-tools-guide",
       "tags": [
-        "cloudflare-pages",
         "developer-tools",
-        "privacy",
-        "seo",
-        "static-site-generator",
+        "online-tools",
+        "online-tools-websites",
+        "random-tools",
         "web-tools"
       ],
       "priority": "low",
-      "reason": "recent repo: https://github.com/DahyXu/toolman",
-      "source_url": "https://github.com/DahyXu/toolman",
-      "description": "6,478 free online tools and reference pages that run entirely in your browser — no upload, no sign-up, no tracking. https://toolman.top"
+      "reason": "recent repo: https://github.com/hassaan806/random-tools-guide",
+      "source_url": "https://github.com/hassaan806/random-tools-guide",
+      "description": "A curated collection of free online random tools including number generators, wheel spinners, and decision-making utilities for everyday use."
+    },
+    {
+      "slug_hint": "it-tools",
+      "name": "CorentinTh/it-tools",
+      "tags": [
+        "converter",
+        "developer-productivity",
+        "developer-tools",
+        "frontend",
+        "javascript",
+        "productivity",
+        "tool",
+        "tools",
+        "typescript",
+        "vuejs",
+        "website"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/CorentinTh/it-tools",
+      "source_url": "https://github.com/CorentinTh/it-tools",
+      "description": "Collection of handy online tools for developers, with great UX. "
+    },
+    {
+      "slug_hint": "toolaspect",
+      "name": "CoreAspectStu/toolaspect",
+      "tags": [
+        "developer-tools",
+        "free-tools",
+        "json-formatter",
+        "no-signup",
+        "online-tools",
+        "password-generator",
+        "privacy",
+        "qr-code"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/CoreAspectStu/toolaspect",
+      "source_url": "https://github.com/CoreAspectStu/toolaspect",
+      "description": "🔧 ToolAspect — 1,400+ Free Online Tools (No Signup, No Ads). Finance calculators, word unscrambler, JSON formatter, unit converter, AI tools → toolaspect.com"
     },
     {
       "slug_hint": "awesome-dev-utilities",
@@ -151,22 +217,20 @@
       "description": "🛠 Access free, fast developer utility tools for common tasks with ease, all powered by LoopPlunk—your go-to source for essential online resources."
     },
     {
-      "slug_hint": "toolaspect",
-      "name": "CoreAspectStu/toolaspect",
+      "slug_hint": "toolman",
+      "name": "DahyXu/toolman",
       "tags": [
+        "cloudflare-pages",
         "developer-tools",
-        "free-tools",
-        "json-formatter",
-        "no-signup",
-        "online-tools",
-        "password-generator",
         "privacy",
-        "qr-code"
+        "seo",
+        "static-site-generator",
+        "web-tools"
       ],
       "priority": "low",
-      "reason": "recent repo: https://github.com/CoreAspectStu/toolaspect",
-      "source_url": "https://github.com/CoreAspectStu/toolaspect",
-      "description": "🔧 ToolAspect — 1,400+ Free Online Tools (No Signup, No Ads). Finance calculators, word unscrambler, JSON formatter, unit converter, AI tools → toolaspect.com"
+      "reason": "recent repo: https://github.com/DahyXu/toolman",
+      "source_url": "https://github.com/DahyXu/toolman",
+      "description": "6,478 free online tools and reference pages that run entirely in your browser — no upload, no sign-up, no tracking. https://toolman.top"
     },
     {
       "slug_hint": "online-image-tools",
@@ -195,21 +259,6 @@
       "reason": "recent repo: https://github.com/KABUS721/online-image-tools",
       "source_url": "https://github.com/KABUS721/online-image-tools",
       "description": "🌐 Convert and process images online for free. Enjoy batch processing, format conversion, and privacy with local handling for your files."
-    },
-    {
-      "slug_hint": "random-tools-guide",
-      "name": "hassaan806/random-tools-guide",
-      "tags": [
-        "developer-tools",
-        "online-tools",
-        "online-tools-websites",
-        "random-tools",
-        "web-tools"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/hassaan806/random-tools-guide",
-      "source_url": "https://github.com/hassaan806/random-tools-guide",
-      "description": "A curated collection of free online random tools including number generators, wheel spinners, and decision-making utilities for everyday use."
     },
     {
       "slug_hint": "qubittool",
@@ -257,42 +306,7 @@
       "reason": "recent repo: https://github.com/api-evangelist/utopia",
       "source_url": "https://github.com/api-evangelist/utopia",
       "description": "Utopia — independent third-party profile of a public API surface, by API Evangelist. Utopia was an online platform for designing, coding, and shipping React applications, pairing a visual design tool with a code editor over one source of truth. A 2020 Seedcamp portfolio company, it was built in the open as the MIT-licensed concrete-utopia/utopia mo"
-    },
-    {
-      "slug_hint": "tooladda-online",
-      "name": "tooladda-online/tooladda-online",
-      "tags": [
-        "developer-tools",
-        "developer-tools-",
-        "free-tools-of-development",
-        "online-tools",
-        "online-tools-text-tools",
-        "online-tools-websites",
-        "pdf-tools",
-        "pdf-tools-software",
-        "static-site",
-        "tools",
-        "toolsets"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/tooladda-online/tooladda-online",
-      "source_url": "https://github.com/tooladda-online/tooladda-online",
-      "description": "ToolAdda — 139 free, browser-based tools: PDF, image, resume & payroll docs, India-first finance calculators, developer utilities, text, chemistry, SEO and games. Everything runs on your device — no sign-up, no upload, no watermark, no limits. This is the main repo of the org; every other repo here is one tool"
-    },
-    {
-      "slug_hint": "cubbbix-tools",
-      "name": "b0b90/cubbbix-tools",
-      "tags": [
-        "awesome",
-        "cubbbix",
-        "developer-tools",
-        "online-tools"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/b0b90/cubbbix-tools",
-      "source_url": "https://github.com/b0b90/cubbbix-tools",
-      "description": "A curated list of free online tools from Cubbbix"
     }
   ],
-  "report": "reports/tool-scan-20260903.md"
+  "report": "reports/tool-scan-20260904.md"
 }
