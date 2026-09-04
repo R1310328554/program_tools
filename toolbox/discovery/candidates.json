@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-09-04T03:37:59+08:00",
+  "scanned_at": "2026-09-05T03:16:42+08:00",
   "installed_count": 95,
   "gaps": [
     {
@@ -77,6 +77,73 @@
   ],
   "github_pulse": [
     {
+      "slug_hint": "online-image-tools",
+      "name": "KABUS721/online-image-tools",
+      "tags": [
+        "annotations",
+        "api-management",
+        "api-monitoring",
+        "canvas",
+        "code",
+        "deep-learning",
+        "detection",
+        "developer-tools",
+        "element-ui",
+        "hacktoberfest",
+        "html",
+        "idea",
+        "image-classification",
+        "image-processing",
+        "labelimg",
+        "machine-learning",
+        "markdown",
+        "preact"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/KABUS721/online-image-tools",
+      "source_url": "https://github.com/KABUS721/online-image-tools",
+      "description": "🌐 Convert and process images online for free. Enjoy batch processing, format conversion, and privacy with local handling for your files."
+    },
+    {
+      "slug_hint": "toolaspect",
+      "name": "CoreAspectStu/toolaspect",
+      "tags": [
+        "developer-tools",
+        "free-tools",
+        "json-formatter",
+        "no-signup",
+        "online-tools",
+        "password-generator",
+        "privacy",
+        "qr-code"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/CoreAspectStu/toolaspect",
+      "source_url": "https://github.com/CoreAspectStu/toolaspect",
+      "description": "🔧 ToolAspect — 1,400+ Free Online Tools (No Signup, No Ads). Finance calculators, word unscrambler, JSON formatter, unit converter, AI tools → toolaspect.com"
+    },
+    {
+      "slug_hint": "it-tools",
+      "name": "CorentinTh/it-tools",
+      "tags": [
+        "converter",
+        "developer-productivity",
+        "developer-tools",
+        "frontend",
+        "javascript",
+        "productivity",
+        "tool",
+        "tools",
+        "typescript",
+        "vuejs",
+        "website"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/CorentinTh/it-tools",
+      "source_url": "https://github.com/CorentinTh/it-tools",
+      "description": "Collection of handy online tools for developers, with great UX. "
+    },
+    {
       "slug_hint": "randomly-online-docs",
       "name": "D-xan/Randomly.online-docs",
       "tags": [
@@ -148,45 +215,6 @@
       "description": "A curated collection of free online random tools including number generators, wheel spinners, and decision-making utilities for everyday use."
     },
     {
-      "slug_hint": "it-tools",
-      "name": "CorentinTh/it-tools",
-      "tags": [
-        "converter",
-        "developer-productivity",
-        "developer-tools",
-        "frontend",
-        "javascript",
-        "productivity",
-        "tool",
-        "tools",
-        "typescript",
-        "vuejs",
-        "website"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/CorentinTh/it-tools",
-      "source_url": "https://github.com/CorentinTh/it-tools",
-      "description": "Collection of handy online tools for developers, with great UX. "
-    },
-    {
-      "slug_hint": "toolaspect",
-      "name": "CoreAspectStu/toolaspect",
-      "tags": [
-        "developer-tools",
-        "free-tools",
-        "json-formatter",
-        "no-signup",
-        "online-tools",
-        "password-generator",
-        "privacy",
-        "qr-code"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/CoreAspectStu/toolaspect",
-      "source_url": "https://github.com/CoreAspectStu/toolaspect",
-      "description": "🔧 ToolAspect — 1,400+ Free Online Tools (No Signup, No Ads). Finance calculators, word unscrambler, JSON formatter, unit converter, AI tools → toolaspect.com"
-    },
-    {
       "slug_hint": "awesome-dev-utilities",
       "name": "A7medAbde7hamed/awesome-dev-utilities",
       "tags": [
@@ -231,34 +259,6 @@
       "reason": "recent repo: https://github.com/DahyXu/toolman",
       "source_url": "https://github.com/DahyXu/toolman",
       "description": "6,478 free online tools and reference pages that run entirely in your browser — no upload, no sign-up, no tracking. https://toolman.top"
-    },
-    {
-      "slug_hint": "online-image-tools",
-      "name": "KABUS721/online-image-tools",
-      "tags": [
-        "annotations",
-        "api-management",
-        "api-monitoring",
-        "canvas",
-        "code",
-        "deep-learning",
-        "detection",
-        "developer-tools",
-        "element-ui",
-        "hacktoberfest",
-        "html",
-        "idea",
-        "image-classification",
-        "image-processing",
-        "labelimg",
-        "machine-learning",
-        "markdown",
-        "preact"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/KABUS721/online-image-tools",
-      "source_url": "https://github.com/KABUS721/online-image-tools",
-      "description": "🌐 Convert and process images online for free. Enjoy batch processing, format conversion, and privacy with local handling for your files."
     },
     {
       "slug_hint": "qubittool",
@@ -308,5 +308,5 @@
       "description": "Utopia — independent third-party profile of a public API surface, by API Evangelist. Utopia was an online platform for designing, coding, and shipping React applications, pairing a visual design tool with a code editor over one source of truth. A 2020 Seedcamp portfolio company, it was built in the open as the MIT-licensed concrete-utopia/utopia mo"
     }
   ],
-  "report": "reports/tool-scan-20260904.md"
+  "report": "reports/tool-scan-20260905.md"
 }
