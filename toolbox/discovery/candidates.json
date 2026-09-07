@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-09-07T02:50:07+08:00",
+  "scanned_at": "2026-09-08T04:21:16+08:00",
   "installed_count": 95,
   "gaps": [
     {
@@ -77,135 +77,30 @@
   ],
   "github_pulse": [
     {
-      "slug_hint": "toolify-free-ai-tools-and-utilities",
-      "name": "Saeed-gondle/toolify-free-ai-tools-and-utilities",
+      "slug_hint": "toolkitlife",
+      "name": "xiongfh2008/toolkitlife",
       "tags": [
-        "ai-tools",
-        "ai-tools-china",
-        "ai-tools-directory",
-        "ai-tools-guru",
-        "ai-tools-list",
-        "developer-tools",
-        "developer-tools-ai-agent",
-        "developer-tools-productivity",
-        "free-tools-for-small-business",
-        "free-tools-of-development",
-        "image-tools",
-        "json",
-        "json-formatters",
-        "json-parser",
-        "json-tools",
-        "no-signup",
-        "pdf-tools",
-        "pdf-tools-pdf-editor",
-        "pdf-tools-software",
-        "toolify"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/Saeed-gondle/toolify-free-ai-tools-and-utilities",
-      "source_url": "https://github.com/Saeed-gondle/toolify-free-ai-tools-and-utilities",
-      "description": "312+ free online tools — AI writer, image editor, PDF converter, JSON formatter & more. No signup, no credit card. Visit toolify.studio"
-    },
-    {
-      "slug_hint": "andryroby-github-io",
-      "name": "AndryRoby/AndryRoby.github.io",
-      "tags": [
-        "arling",
-        "browser-tools",
-        "developer-tools",
-        "slovakia",
-        "static-site"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/AndryRoby/AndryRoby.github.io",
-      "source_url": "https://github.com/AndryRoby/AndryRoby.github.io",
-      "description": "arling.sk: small browser tools for online shops, accountants and developers. Nothing you paste leaves your browser."
-    },
-    {
-      "slug_hint": "cubbbix-tools",
-      "name": "b0b90/cubbbix-tools",
-      "tags": [
-        "awesome",
-        "cubbbix",
-        "developer-tools",
-        "online-tools"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/b0b90/cubbbix-tools",
-      "source_url": "https://github.com/b0b90/cubbbix-tools",
-      "description": "A curated list of free online tools from Cubbbix"
-    },
-    {
-      "slug_hint": "eve-online-mcp",
-      "name": "HammoTime/eve-online-mcp",
-      "tags": [
-        "ai-tools",
-        "api-client",
-        "ccp-games",
-        "developer-tools",
-        "esi",
-        "eve-online",
-        "fenris-creations",
-        "mcp",
-        "mcp-server",
-        "model-context-protocol",
-        "oauth2",
-        "pkce",
-        "read-only",
-        "typescript"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/HammoTime/eve-online-mcp",
-      "source_url": "https://github.com/HammoTime/eve-online-mcp",
-      "description": "A secure, read-only MCP server that gives AI assistants comprehensive access to EVE Online’s ESI API, including authenticated character data and schema-aware tools."
-    },
-    {
-      "slug_hint": "awesome-dev-utilities",
-      "name": "A7medAbde7hamed/awesome-dev-utilities",
-      "tags": [
-        "android",
-        "awesome",
-        "awesomeness",
-        "blockchain",
-        "cleancode",
-        "crypto",
-        "developer-tools",
-        "django",
-        "graphql",
-        "ionic",
-        "library",
-        "php",
-        "python",
-        "qr",
-        "seo",
-        "typescript",
-        "utilities",
-        "ux",
-        "webapp",
-        "webdev"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/A7medAbde7hamed/awesome-dev-utilities",
-      "source_url": "https://github.com/A7medAbde7hamed/awesome-dev-utilities",
-      "description": "🛠 Access free, fast developer utility tools for common tasks with ease, all powered by LoopPlunk—your go-to source for essential online resources."
-    },
-    {
-      "slug_hint": "toolaspect",
-      "name": "CoreAspectStu/toolaspect",
-      "tags": [
+        "calculators",
+        "client-side",
         "developer-tools",
         "free-tools",
-        "json-formatter",
+        "image-processing",
+        "nextjs",
         "no-signup",
         "online-tools",
-        "password-generator",
-        "privacy",
-        "qr-code"
+        "pdf-tools",
+        "privacy-first",
+        "productivity",
+        "react",
+        "tailwindcss",
+        "typescript",
+        "video-tools",
+        "web-tools"
       ],
       "priority": "low",
-      "reason": "recent repo: https://github.com/CoreAspectStu/toolaspect",
-      "source_url": "https://github.com/CoreAspectStu/toolaspect",
-      "description": "🔧 ToolAspect — 1,400+ Free Online Tools (No Signup, No Ads). Finance calculators, word unscrambler, JSON formatter, unit converter, AI tools → toolaspect.com"
+      "reason": "recent repo: https://github.com/xiongfh2008/toolkitlife",
+      "source_url": "https://github.com/xiongfh2008/toolkitlife",
+      "description": "375 free online tools & calculators that run entirely in your browser - PDF, image, video, finance, health & more. No signup, no upload, no data stored."
     },
     {
       "slug_hint": "smallwebapps",
@@ -264,6 +159,137 @@
       "description": "🌐 Convert and process images online for free. Enjoy batch processing, format conversion, and privacy with local handling for your files."
     },
     {
+      "slug_hint": "andryroby-github-io",
+      "name": "AndryRoby/AndryRoby.github.io",
+      "tags": [
+        "arling",
+        "browser-tools",
+        "developer-tools",
+        "slovakia",
+        "static-site"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/AndryRoby/AndryRoby.github.io",
+      "source_url": "https://github.com/AndryRoby/AndryRoby.github.io",
+      "description": "arling.sk: small browser tools for online shops, accountants and developers. Nothing you paste leaves your browser."
+    },
+    {
+      "slug_hint": "eve-online-mcp",
+      "name": "HammoTime/eve-online-mcp",
+      "tags": [
+        "ai-tools",
+        "api-client",
+        "ccp-games",
+        "developer-tools",
+        "esi",
+        "eve-online",
+        "fenris-creations",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "oauth2",
+        "pkce",
+        "read-only",
+        "typescript"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/HammoTime/eve-online-mcp",
+      "source_url": "https://github.com/HammoTime/eve-online-mcp",
+      "description": "A secure, read-only MCP server that gives AI assistants comprehensive access to EVE Online’s ESI API, including authenticated character data and schema-aware tools."
+    },
+    {
+      "slug_hint": "toolaspect",
+      "name": "CoreAspectStu/toolaspect",
+      "tags": [
+        "developer-tools",
+        "free-tools",
+        "json-formatter",
+        "no-signup",
+        "online-tools",
+        "password-generator",
+        "privacy",
+        "qr-code"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/CoreAspectStu/toolaspect",
+      "source_url": "https://github.com/CoreAspectStu/toolaspect",
+      "description": "🔧 ToolAspect — 1,400+ Free Online Tools (No Signup, No Ads). Finance calculators, word unscrambler, JSON formatter, unit converter, AI tools → toolaspect.com"
+    },
+    {
+      "slug_hint": "toolify-free-ai-tools-and-utilities",
+      "name": "Saeed-gondle/toolify-free-ai-tools-and-utilities",
+      "tags": [
+        "ai-tools",
+        "ai-tools-china",
+        "ai-tools-directory",
+        "ai-tools-guru",
+        "ai-tools-list",
+        "developer-tools",
+        "developer-tools-ai-agent",
+        "developer-tools-productivity",
+        "free-tools-for-small-business",
+        "free-tools-of-development",
+        "image-tools",
+        "json",
+        "json-formatters",
+        "json-parser",
+        "json-tools",
+        "no-signup",
+        "pdf-tools",
+        "pdf-tools-pdf-editor",
+        "pdf-tools-software",
+        "toolify"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/Saeed-gondle/toolify-free-ai-tools-and-utilities",
+      "source_url": "https://github.com/Saeed-gondle/toolify-free-ai-tools-and-utilities",
+      "description": "312+ free online tools — AI writer, image editor, PDF converter, JSON formatter & more. No signup, no credit card. Visit toolify.studio"
+    },
+    {
+      "slug_hint": "cubbbix-tools",
+      "name": "b0b90/cubbbix-tools",
+      "tags": [
+        "awesome",
+        "cubbbix",
+        "developer-tools",
+        "online-tools"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/b0b90/cubbbix-tools",
+      "source_url": "https://github.com/b0b90/cubbbix-tools",
+      "description": "A curated list of free online tools from Cubbbix"
+    },
+    {
+      "slug_hint": "awesome-dev-utilities",
+      "name": "A7medAbde7hamed/awesome-dev-utilities",
+      "tags": [
+        "android",
+        "awesome",
+        "awesomeness",
+        "blockchain",
+        "cleancode",
+        "crypto",
+        "developer-tools",
+        "django",
+        "graphql",
+        "ionic",
+        "library",
+        "php",
+        "python",
+        "qr",
+        "seo",
+        "typescript",
+        "utilities",
+        "ux",
+        "webapp",
+        "webdev"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/A7medAbde7hamed/awesome-dev-utilities",
+      "source_url": "https://github.com/A7medAbde7hamed/awesome-dev-utilities",
+      "description": "🛠 Access free, fast developer utility tools for common tasks with ease, all powered by LoopPlunk—your go-to source for essential online resources."
+    },
+    {
       "slug_hint": "utopia",
       "name": "api-evangelist/utopia",
       "tags": [
@@ -279,28 +305,7 @@
       "reason": "recent repo: https://github.com/api-evangelist/utopia",
       "source_url": "https://github.com/api-evangelist/utopia",
       "description": "Utopia — independent third-party profile of a public API surface, by API Evangelist. Utopia was an online platform for designing, coding, and shipping React applications, pairing a visual design tool with a code editor over one source of truth. A 2020 Seedcamp portfolio company, it was built in the open as the MIT-licensed concrete-utopia/utopia mo"
-    },
-    {
-      "slug_hint": "it-tools",
-      "name": "CorentinTh/it-tools",
-      "tags": [
-        "converter",
-        "developer-productivity",
-        "developer-tools",
-        "frontend",
-        "javascript",
-        "productivity",
-        "tool",
-        "tools",
-        "typescript",
-        "vuejs",
-        "website"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/CorentinTh/it-tools",
-      "source_url": "https://github.com/CorentinTh/it-tools",
-      "description": "Collection of handy online tools for developers, with great UX. "
     }
   ],
-  "report": "reports/tool-scan-20260907.md"
+  "report": "reports/tool-scan-20260908.md"
 }
