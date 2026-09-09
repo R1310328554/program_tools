@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-09-09T03:43:15+08:00",
+  "scanned_at": "2026-09-10T03:35:41+08:00",
   "installed_count": 95,
   "gaps": [
     {
@@ -77,6 +77,32 @@
   ],
   "github_pulse": [
     {
+      "slug_hint": "toolkitlife",
+      "name": "xiongfh2008/toolkitlife",
+      "tags": [
+        "calculators",
+        "client-side",
+        "developer-tools",
+        "free-tools",
+        "image-processing",
+        "nextjs",
+        "no-signup",
+        "online-tools",
+        "pdf-tools",
+        "privacy-first",
+        "productivity",
+        "react",
+        "tailwindcss",
+        "typescript",
+        "video-tools",
+        "web-tools"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/xiongfh2008/toolkitlife",
+      "source_url": "https://github.com/xiongfh2008/toolkitlife",
+      "description": "375 free online tools & calculators that run entirely in your browser - PDF, image, video, finance, health & more. No signup, no upload, no data stored."
+    },
+    {
       "slug_hint": "eve-online-mcp",
       "name": "HammoTime/eve-online-mcp",
       "tags": [
@@ -101,23 +127,40 @@
       "description": "A secure, read-only MCP server that gives AI assistants comprehensive access to EVE Online’s ESI API, including authenticated character data and schema-aware tools."
     },
     {
-      "slug_hint": "online-tools",
-      "name": "danielmnunes/online-tools",
+      "slug_hint": "toolaspect",
+      "name": "CoreAspectStu/toolaspect",
       "tags": [
-        "astro",
-        "cloudflare-workers",
-        "cryptography",
         "developer-tools",
-        "encoding",
-        "hashing",
+        "free-tools",
+        "json-formatter",
+        "no-signup",
         "online-tools",
-        "svelte",
-        "typescript"
+        "password-generator",
+        "privacy",
+        "qr-code"
       ],
       "priority": "low",
-      "reason": "recent repo: https://github.com/danielmnunes/online-tools",
-      "source_url": "https://github.com/danielmnunes/online-tools",
-      "description": "Developer tools that run entirely in your browser: hashing, encoding, ciphers, compression. Nothing is uploaded."
+      "reason": "recent repo: https://github.com/CoreAspectStu/toolaspect",
+      "source_url": "https://github.com/CoreAspectStu/toolaspect",
+      "description": "🔧 ToolAspect — 1,400+ Free Online Tools (No Signup, No Ads). Finance calculators, word unscrambler, JSON formatter, unit converter, AI tools → toolaspect.com"
+    },
+    {
+      "slug_hint": "free-online-tools",
+      "name": "mrdasdeveloper/free-online-tools",
+      "tags": [
+        "developer-tools",
+        "free-tools-of-development",
+        "freelance",
+        "online-tool",
+        "online-tools",
+        "seo-tools",
+        "tools-and-automation",
+        "toolset"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/mrdasdeveloper/free-online-tools",
+      "source_url": "https://github.com/mrdasdeveloper/free-online-tools",
+      "description": "Online Free Tools - Ramesh Das"
     },
     {
       "slug_hint": "awesome-dev-utilities",
@@ -148,6 +191,46 @@
       "reason": "recent repo: https://github.com/A7medAbde7hamed/awesome-dev-utilities",
       "source_url": "https://github.com/A7medAbde7hamed/awesome-dev-utilities",
       "description": "🛠 Access free, fast developer utility tools for common tasks with ease, all powered by LoopPlunk—your go-to source for essential online resources."
+    },
+    {
+      "slug_hint": "it-tools",
+      "name": "CorentinTh/it-tools",
+      "tags": [
+        "converter",
+        "developer-productivity",
+        "developer-tools",
+        "frontend",
+        "javascript",
+        "productivity",
+        "tool",
+        "tools",
+        "typescript",
+        "vuejs",
+        "website"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/CorentinTh/it-tools",
+      "source_url": "https://github.com/CorentinTh/it-tools",
+      "description": "Collection of handy online tools for developers, with great UX. "
+    },
+    {
+      "slug_hint": "online-tools",
+      "name": "danielmnunes/online-tools",
+      "tags": [
+        "astro",
+        "cloudflare-workers",
+        "cryptography",
+        "developer-tools",
+        "encoding",
+        "hashing",
+        "online-tools",
+        "svelte",
+        "typescript"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/danielmnunes/online-tools",
+      "source_url": "https://github.com/danielmnunes/online-tools",
+      "description": "Developer tools that run entirely in your browser: hashing, encoding, ciphers, compression. Nothing is uploaded."
     },
     {
       "slug_hint": "online-image-tools",
@@ -206,71 +289,6 @@
       "description": "Free, fast, private browser-based tools"
     },
     {
-      "slug_hint": "it-tools",
-      "name": "CorentinTh/it-tools",
-      "tags": [
-        "converter",
-        "developer-productivity",
-        "developer-tools",
-        "frontend",
-        "javascript",
-        "productivity",
-        "tool",
-        "tools",
-        "typescript",
-        "vuejs",
-        "website"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/CorentinTh/it-tools",
-      "source_url": "https://github.com/CorentinTh/it-tools",
-      "description": "Collection of handy online tools for developers, with great UX. "
-    },
-    {
-      "slug_hint": "toolaspect",
-      "name": "CoreAspectStu/toolaspect",
-      "tags": [
-        "developer-tools",
-        "free-tools",
-        "json-formatter",
-        "no-signup",
-        "online-tools",
-        "password-generator",
-        "privacy",
-        "qr-code"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/CoreAspectStu/toolaspect",
-      "source_url": "https://github.com/CoreAspectStu/toolaspect",
-      "description": "🔧 ToolAspect — 1,400+ Free Online Tools (No Signup, No Ads). Finance calculators, word unscrambler, JSON formatter, unit converter, AI tools → toolaspect.com"
-    },
-    {
-      "slug_hint": "toolkitlife",
-      "name": "xiongfh2008/toolkitlife",
-      "tags": [
-        "calculators",
-        "client-side",
-        "developer-tools",
-        "free-tools",
-        "image-processing",
-        "nextjs",
-        "no-signup",
-        "online-tools",
-        "pdf-tools",
-        "privacy-first",
-        "productivity",
-        "react",
-        "tailwindcss",
-        "typescript",
-        "video-tools",
-        "web-tools"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/xiongfh2008/toolkitlife",
-      "source_url": "https://github.com/xiongfh2008/toolkitlife",
-      "description": "375 free online tools & calculators that run entirely in your browser - PDF, image, video, finance, health & more. No signup, no upload, no data stored."
-    },
-    {
       "slug_hint": "andryroby-github-io",
       "name": "AndryRoby/AndryRoby.github.io",
       "tags": [
@@ -284,37 +302,7 @@
       "reason": "recent repo: https://github.com/AndryRoby/AndryRoby.github.io",
       "source_url": "https://github.com/AndryRoby/AndryRoby.github.io",
       "description": "arling.sk: small browser tools for online shops, accountants and developers. Nothing you paste leaves your browser."
-    },
-    {
-      "slug_hint": "toolify-free-ai-tools-and-utilities",
-      "name": "Saeed-gondle/toolify-free-ai-tools-and-utilities",
-      "tags": [
-        "ai-tools",
-        "ai-tools-china",
-        "ai-tools-directory",
-        "ai-tools-guru",
-        "ai-tools-list",
-        "developer-tools",
-        "developer-tools-ai-agent",
-        "developer-tools-productivity",
-        "free-tools-for-small-business",
-        "free-tools-of-development",
-        "image-tools",
-        "json",
-        "json-formatters",
-        "json-parser",
-        "json-tools",
-        "no-signup",
-        "pdf-tools",
-        "pdf-tools-pdf-editor",
-        "pdf-tools-software",
-        "toolify"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/Saeed-gondle/toolify-free-ai-tools-and-utilities",
-      "source_url": "https://github.com/Saeed-gondle/toolify-free-ai-tools-and-utilities",
-      "description": "312+ free online tools — AI writer, image editor, PDF converter, JSON formatter & more. No signup, no credit card. Visit toolify.studio"
     }
   ],
-  "report": "reports/tool-scan-20260909.md"
+  "report": "reports/tool-scan-20260910.md"
 }
