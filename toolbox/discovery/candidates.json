@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-09-12T03:26:25+08:00",
+  "scanned_at": "2026-09-13T02:55:39+08:00",
   "installed_count": 95,
   "gaps": [
     {
@@ -77,30 +77,92 @@
   ],
   "github_pulse": [
     {
-      "slug_hint": "toolkitlife",
-      "name": "xiongfh2008/toolkitlife",
+      "slug_hint": "smallwebapps",
+      "name": "LucasHenriqueDiniz/smallwebapps",
       "tags": [
-        "calculators",
-        "client-side",
+        "astro",
+        "browser",
         "developer-tools",
-        "free-tools",
-        "image-processing",
-        "nextjs",
-        "no-signup",
-        "online-tools",
-        "pdf-tools",
+        "free",
+        "images",
+        "javascript",
+        "offline",
+        "online",
+        "optimizer",
+        "pdf",
+        "privacy",
         "privacy-first",
-        "productivity",
+        "privacy-focused",
         "react",
-        "tailwindcss",
-        "typescript",
-        "video-tools",
-        "web-tools"
+        "tools",
+        "utilities",
+        "web-app",
+        "youtube"
       ],
       "priority": "low",
-      "reason": "recent repo: https://github.com/xiongfh2008/toolkitlife",
-      "source_url": "https://github.com/xiongfh2008/toolkitlife",
-      "description": "375 free online tools & calculators that run entirely in your browser - PDF, image, video, finance, health & more. No signup, no upload, no data stored."
+      "reason": "recent repo: https://github.com/LucasHenriqueDiniz/smallwebapps",
+      "source_url": "https://github.com/LucasHenriqueDiniz/smallwebapps",
+      "description": "Free, fast, private browser-based tools"
+    },
+    {
+      "slug_hint": "andryroby-github-io",
+      "name": "AndryRoby/AndryRoby.github.io",
+      "tags": [
+        "arling",
+        "browser-tools",
+        "developer-tools",
+        "slovakia",
+        "static-site"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/AndryRoby/AndryRoby.github.io",
+      "source_url": "https://github.com/AndryRoby/AndryRoby.github.io",
+      "description": "arling.sk: small browser tools for online shops, accountants and developers. Nothing you paste leaves your browser."
+    },
+    {
+      "slug_hint": "u2tool-hex-editor",
+      "name": "asiawright1122-boop/u2tool-hex-editor",
+      "tags": [
+        "binary",
+        "developer-tools",
+        "hex",
+        "hex-editor",
+        "javascript",
+        "online-tools"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/asiawright1122-boop/u2tool-hex-editor",
+      "source_url": "https://github.com/asiawright1122-boop/u2tool-hex-editor",
+      "description": "Free open-source online hex editor — hex/ASCII grid, byte editing, KMP search, 2 MB files, 100% browser-side. Part of U2Tool (564+ free online tools)."
+    },
+    {
+      "slug_hint": "exponentiallydigital",
+      "name": "ExponentiallyDigital/ExponentiallyDigital",
+      "tags": [
+        "agile",
+        "android",
+        "consulting",
+        "data-analysis",
+        "delivery",
+        "developer-tools",
+        "devops",
+        "financial-services",
+        "go",
+        "golang",
+        "infrstructure",
+        "jira",
+        "leadership",
+        "lua",
+        "powershell",
+        "powershell-script",
+        "release-management",
+        "scrum",
+        "world-of-warcraft-addon"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/ExponentiallyDigital/ExponentiallyDigital",
+      "source_url": "https://github.com/ExponentiallyDigital/ExponentiallyDigital",
+      "description": "Three decades leading enterprise delivery across banking, government, and consulting. Built open-source Golang tools that cut sprint spillover from 70% to 19% at ANZ. Online since 1987, four domain names, two sites. After hours: tinkering with code, Windows kernel tuning, and colour-perception image sorting."
     },
     {
       "slug_hint": "awesome-dev-utilities",
@@ -157,19 +219,48 @@
       "description": "A secure, read-only MCP server that gives AI assistants comprehensive access to EVE Online’s ESI API, including authenticated character data and schema-aware tools."
     },
     {
-      "slug_hint": "andryroby-github-io",
-      "name": "AndryRoby/AndryRoby.github.io",
+      "slug_hint": "toolaspect",
+      "name": "CoreAspectStu/toolaspect",
       "tags": [
-        "arling",
-        "browser-tools",
         "developer-tools",
-        "slovakia",
-        "static-site"
+        "free-tools",
+        "json-formatter",
+        "no-signup",
+        "online-tools",
+        "password-generator",
+        "privacy",
+        "qr-code"
       ],
       "priority": "low",
-      "reason": "recent repo: https://github.com/AndryRoby/AndryRoby.github.io",
-      "source_url": "https://github.com/AndryRoby/AndryRoby.github.io",
-      "description": "arling.sk: small browser tools for online shops, accountants and developers. Nothing you paste leaves your browser."
+      "reason": "recent repo: https://github.com/CoreAspectStu/toolaspect",
+      "source_url": "https://github.com/CoreAspectStu/toolaspect",
+      "description": "🔧 ToolAspect — 1,400+ Free Online Tools (No Signup, No Ads). Finance calculators, word unscrambler, JSON formatter, unit converter, AI tools → toolaspect.com"
+    },
+    {
+      "slug_hint": "toolkitlife",
+      "name": "xiongfh2008/toolkitlife",
+      "tags": [
+        "calculators",
+        "client-side",
+        "developer-tools",
+        "free-tools",
+        "image-processing",
+        "nextjs",
+        "no-signup",
+        "online-tools",
+        "pdf-tools",
+        "privacy-first",
+        "productivity",
+        "react",
+        "tailwindcss",
+        "typescript",
+        "video-tools",
+        "web-tools"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/xiongfh2008/toolkitlife",
+      "source_url": "https://github.com/xiongfh2008/toolkitlife",
+      "description": "375 free online tools & calculators that run entirely in your browser - PDF, image, video, finance, health & more. No signup, no upload, no data stored."
     },
     {
       "slug_hint": "online-image-tools",
@@ -200,24 +291,6 @@
       "description": "🌐 Convert and process images online for free. Enjoy batch processing, format conversion, and privacy with local handling for your files."
     },
     {
-      "slug_hint": "toolaspect",
-      "name": "CoreAspectStu/toolaspect",
-      "tags": [
-        "developer-tools",
-        "free-tools",
-        "json-formatter",
-        "no-signup",
-        "online-tools",
-        "password-generator",
-        "privacy",
-        "qr-code"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/CoreAspectStu/toolaspect",
-      "source_url": "https://github.com/CoreAspectStu/toolaspect",
-      "description": "🔧 ToolAspect — 1,400+ Free Online Tools (No Signup, No Ads). Finance calculators, word unscrambler, JSON formatter, unit converter, AI tools → toolaspect.com"
-    },
-    {
       "slug_hint": "free-online-developer-tools",
       "name": "fullstackdeveloper-lang/free-online-developer-tools",
       "tags": [
@@ -243,64 +316,7 @@
       "reason": "recent repo: https://github.com/fullstackdeveloper-lang/free-online-developer-tools",
       "source_url": "https://github.com/fullstackdeveloper-lang/free-online-developer-tools",
       "description": "Free online developer tools for JSON, JWT, Base64, URLs, regex, UUIDs, hashes, timestamps, HTTP, SQL, HTML, CSS, JavaScript, Markdown, and more. Fast, browser-based, and no signup required."
-    },
-    {
-      "slug_hint": "it-tools",
-      "name": "CorentinTh/it-tools",
-      "tags": [
-        "converter",
-        "developer-productivity",
-        "developer-tools",
-        "frontend",
-        "javascript",
-        "productivity",
-        "tool",
-        "tools",
-        "typescript",
-        "vuejs",
-        "website"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/CorentinTh/it-tools",
-      "source_url": "https://github.com/CorentinTh/it-tools",
-      "description": "Collection of handy online tools for developers, with great UX. "
-    },
-    {
-      "slug_hint": "awesome-tools",
-      "name": "wangruofeng/awesome-tools",
-      "tags": [
-        "awesome-list",
-        "developer-tools",
-        "github-pages",
-        "online-tools",
-        "open-source",
-        "static-site",
-        "vanilla-javascript",
-        "web-tools"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/wangruofeng/awesome-tools",
-      "source_url": "https://github.com/wangruofeng/awesome-tools",
-      "description": "A categorized collection of open-source online tools by Wang Ruofeng."
-    },
-    {
-      "slug_hint": "free-online-tools",
-      "name": "mrdasdeveloper/free-online-tools",
-      "tags": [
-        "developer-tools",
-        "free-tools-of-development",
-        "freelance",
-        "online-tool",
-        "online-tools",
-        "seo-tools",
-        "tools-and-automation",
-        "toolset"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/mrdasdeveloper/free-online-tools",
-      "source_url": "https://github.com/mrdasdeveloper/free-online-tools",
-      "description": "Online Free Tools - Ramesh Das"
     }
   ],
-  "report": "reports/tool-scan-20260912.md"
+  "report": "reports/tool-scan-20260913.md"
 }
