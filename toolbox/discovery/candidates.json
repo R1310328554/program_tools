@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-09-15T04:44:00+08:00",
+  "scanned_at": "2026-09-16T03:57:41+08:00",
   "installed_count": 95,
   "gaps": [
     {
@@ -77,34 +77,45 @@
   ],
   "github_pulse": [
     {
-      "slug_hint": "awesome-dev-utilities",
-      "name": "A7medAbde7hamed/awesome-dev-utilities",
+      "slug_hint": "it-tools",
+      "name": "CorentinTh/it-tools",
       "tags": [
-        "android",
-        "awesome",
-        "awesomeness",
-        "blockchain",
-        "cleancode",
-        "crypto",
+        "converter",
+        "developer-productivity",
         "developer-tools",
-        "django",
-        "graphql",
-        "ionic",
-        "library",
-        "php",
-        "python",
-        "qr",
-        "seo",
+        "frontend",
+        "javascript",
+        "productivity",
+        "tool",
+        "tools",
         "typescript",
-        "utilities",
-        "ux",
-        "webapp",
-        "webdev"
+        "vuejs",
+        "website"
       ],
       "priority": "low",
-      "reason": "recent repo: https://github.com/A7medAbde7hamed/awesome-dev-utilities",
-      "source_url": "https://github.com/A7medAbde7hamed/awesome-dev-utilities",
-      "description": "🛠 Access free, fast developer utility tools for common tasks with ease, all powered by LoopPlunk—your go-to source for essential online resources."
+      "reason": "recent repo: https://github.com/CorentinTh/it-tools",
+      "source_url": "https://github.com/CorentinTh/it-tools",
+      "description": "Collection of handy online tools for developers, with great UX. "
+    },
+    {
+      "slug_hint": "onlinetools-dev",
+      "name": "noobnooc/onlinetools.dev",
+      "tags": [
+        "developer-tools",
+        "devtools",
+        "json-formatter",
+        "local-first",
+        "online-tools",
+        "privacy",
+        "pwa",
+        "svelte",
+        "sveltekit",
+        "typescript"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/noobnooc/onlinetools.dev",
+      "source_url": "https://github.com/noobnooc/onlinetools.dev",
+      "description": "Developer tools that run entirely in your browser — format JSON, decode JWTs, convert timestamps, test regex. No upload, no signup, no tracking. Works offline, in 14 languages."
     },
     {
       "slug_hint": "exponentiallydigital",
@@ -134,6 +145,36 @@
       "reason": "recent repo: https://github.com/ExponentiallyDigital/ExponentiallyDigital",
       "source_url": "https://github.com/ExponentiallyDigital/ExponentiallyDigital",
       "description": "Three decades leading enterprise delivery across banking, government, and consulting. Built open-source Golang tools that cut sprint spillover from 70% to 19% at ANZ. Online since 1987, four domain names, two sites. After hours: tinkering with code, Windows kernel tuning, and colour-perception image sorting."
+    },
+    {
+      "slug_hint": "awesome-dev-utilities",
+      "name": "A7medAbde7hamed/awesome-dev-utilities",
+      "tags": [
+        "android",
+        "awesome",
+        "awesomeness",
+        "blockchain",
+        "cleancode",
+        "crypto",
+        "developer-tools",
+        "django",
+        "graphql",
+        "ionic",
+        "library",
+        "php",
+        "python",
+        "qr",
+        "seo",
+        "typescript",
+        "utilities",
+        "ux",
+        "webapp",
+        "webdev"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/A7medAbde7hamed/awesome-dev-utilities",
+      "source_url": "https://github.com/A7medAbde7hamed/awesome-dev-utilities",
+      "description": "🛠 Access free, fast developer utility tools for common tasks with ease, all powered by LoopPlunk—your go-to source for essential online resources."
     },
     {
       "slug_hint": "online-image-tools",
@@ -252,40 +293,7 @@
       "reason": "recent repo: https://github.com/lordbasilaiassistant-sudo/devcalc-tools",
       "source_url": "https://github.com/lordbasilaiassistant-sudo/devcalc-tools",
       "description": "DevCalc.tools — free online tools. Live: https://lordbasilaiassistant-sudo.github.io/devcalc-tools/"
-    },
-    {
-      "slug_hint": "awesome-tools",
-      "name": "wangruofeng/awesome-tools",
-      "tags": [
-        "awesome-list",
-        "developer-tools",
-        "github-pages",
-        "online-tools",
-        "open-source",
-        "static-site",
-        "vanilla-javascript",
-        "web-tools"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/wangruofeng/awesome-tools",
-      "source_url": "https://github.com/wangruofeng/awesome-tools",
-      "description": "A categorized collection of open-source online tools by Wang Ruofeng."
-    },
-    {
-      "slug_hint": "andryroby-github-io",
-      "name": "AndryRoby/AndryRoby.github.io",
-      "tags": [
-        "arling",
-        "browser-tools",
-        "developer-tools",
-        "slovakia",
-        "static-site"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/AndryRoby/AndryRoby.github.io",
-      "source_url": "https://github.com/AndryRoby/AndryRoby.github.io",
-      "description": "arling.sk: small browser tools for online shops, accountants and developers. Nothing you paste leaves your browser."
     }
   ],
-  "report": "reports/tool-scan-20260915.md"
+  "report": "reports/tool-scan-20260916.md"
 }
