@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-09-16T03:57:41+08:00",
+  "scanned_at": "2026-09-17T03:50:21+08:00",
   "installed_count": 95,
   "gaps": [
     {
@@ -77,6 +77,140 @@
   ],
   "github_pulse": [
     {
+      "slug_hint": "online-image-tools",
+      "name": "KABUS721/online-image-tools",
+      "tags": [
+        "annotations",
+        "api-management",
+        "api-monitoring",
+        "canvas",
+        "code",
+        "deep-learning",
+        "detection",
+        "developer-tools",
+        "element-ui",
+        "hacktoberfest",
+        "html",
+        "idea",
+        "image-classification",
+        "image-processing",
+        "labelimg",
+        "machine-learning",
+        "markdown",
+        "preact"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/KABUS721/online-image-tools",
+      "source_url": "https://github.com/KABUS721/online-image-tools",
+      "description": "🌐 Convert and process images online for free. Enjoy batch processing, format conversion, and privacy with local handling for your files."
+    },
+    {
+      "slug_hint": "awesome-tools",
+      "name": "wangruofeng/awesome-tools",
+      "tags": [
+        "awesome-list",
+        "developer-tools",
+        "github-pages",
+        "online-tools",
+        "open-source",
+        "static-site",
+        "vanilla-javascript",
+        "web-tools"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/wangruofeng/awesome-tools",
+      "source_url": "https://github.com/wangruofeng/awesome-tools",
+      "description": "A categorized collection of open-source online tools by Wang Ruofeng."
+    },
+    {
+      "slug_hint": "toolkitlife",
+      "name": "xiongfh2008/toolkitlife",
+      "tags": [
+        "calculators",
+        "client-side",
+        "developer-tools",
+        "free-tools",
+        "image-processing",
+        "nextjs",
+        "no-signup",
+        "online-tools",
+        "pdf-tools",
+        "privacy-first",
+        "productivity",
+        "react",
+        "tailwindcss",
+        "typescript",
+        "video-tools",
+        "web-tools"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/xiongfh2008/toolkitlife",
+      "source_url": "https://github.com/xiongfh2008/toolkitlife",
+      "description": "375 free online tools & calculators that run entirely in your browser - PDF, image, video, finance, health & more. No signup, no upload, no data stored."
+    },
+    {
+      "slug_hint": "utopia",
+      "name": "api-evangelist/utopia",
+      "tags": [
+        "apis-json",
+        "company",
+        "design",
+        "developer-tools",
+        "low-code",
+        "open-source",
+        "react"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/api-evangelist/utopia",
+      "source_url": "https://github.com/api-evangelist/utopia",
+      "description": "Utopia — independent third-party profile of a public API surface, by API Evangelist. Utopia was an online platform for designing, coding, and shipping React applications, pairing a visual design tool with a code editor over one source of truth. A 2020 Seedcamp portfolio company, it was built in the open as the MIT-licensed concrete-utopia/utopia mo"
+    },
+    {
+      "slug_hint": "toolman",
+      "name": "DahyXu/toolman",
+      "tags": [
+        "cloudflare-pages",
+        "developer-tools",
+        "privacy",
+        "seo",
+        "static-site-generator",
+        "web-tools"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/DahyXu/toolman",
+      "source_url": "https://github.com/DahyXu/toolman",
+      "description": "6,478 free online tools and reference pages that run entirely in your browser — no upload, no sign-up, no tracking. https://toolman.top"
+    },
+    {
+      "slug_hint": "exponentiallydigital",
+      "name": "ExponentiallyDigital/ExponentiallyDigital",
+      "tags": [
+        "agile",
+        "android",
+        "consulting",
+        "data-analysis",
+        "delivery",
+        "developer-tools",
+        "devops",
+        "financial-services",
+        "go",
+        "golang",
+        "infrstructure",
+        "jira",
+        "leadership",
+        "lua",
+        "powershell",
+        "powershell-script",
+        "release-management",
+        "scrum",
+        "world-of-warcraft-addon"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/ExponentiallyDigital/ExponentiallyDigital",
+      "source_url": "https://github.com/ExponentiallyDigital/ExponentiallyDigital",
+      "description": "Three decades leading enterprise delivery across banking, government, and consulting. Built open-source Golang tools that cut sprint spillover from 70% to 19% at ANZ. Online since 1987, four domain names, two sites. After hours: tinkering with code, Windows kernel tuning, and colour-perception image sorting."
+    },
+    {
       "slug_hint": "it-tools",
       "name": "CorentinTh/it-tools",
       "tags": [
@@ -118,35 +252,6 @@
       "description": "Developer tools that run entirely in your browser — format JSON, decode JWTs, convert timestamps, test regex. No upload, no signup, no tracking. Works offline, in 14 languages."
     },
     {
-      "slug_hint": "exponentiallydigital",
-      "name": "ExponentiallyDigital/ExponentiallyDigital",
-      "tags": [
-        "agile",
-        "android",
-        "consulting",
-        "data-analysis",
-        "delivery",
-        "developer-tools",
-        "devops",
-        "financial-services",
-        "go",
-        "golang",
-        "infrstructure",
-        "jira",
-        "leadership",
-        "lua",
-        "powershell",
-        "powershell-script",
-        "release-management",
-        "scrum",
-        "world-of-warcraft-addon"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/ExponentiallyDigital/ExponentiallyDigital",
-      "source_url": "https://github.com/ExponentiallyDigital/ExponentiallyDigital",
-      "description": "Three decades leading enterprise delivery across banking, government, and consulting. Built open-source Golang tools that cut sprint spillover from 70% to 19% at ANZ. Online since 1987, four domain names, two sites. After hours: tinkering with code, Windows kernel tuning, and colour-perception image sorting."
-    },
-    {
       "slug_hint": "awesome-dev-utilities",
       "name": "A7medAbde7hamed/awesome-dev-utilities",
       "tags": [
@@ -177,34 +282,6 @@
       "description": "🛠 Access free, fast developer utility tools for common tasks with ease, all powered by LoopPlunk—your go-to source for essential online resources."
     },
     {
-      "slug_hint": "online-image-tools",
-      "name": "KABUS721/online-image-tools",
-      "tags": [
-        "annotations",
-        "api-management",
-        "api-monitoring",
-        "canvas",
-        "code",
-        "deep-learning",
-        "detection",
-        "developer-tools",
-        "element-ui",
-        "hacktoberfest",
-        "html",
-        "idea",
-        "image-classification",
-        "image-processing",
-        "labelimg",
-        "machine-learning",
-        "markdown",
-        "preact"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/KABUS721/online-image-tools",
-      "source_url": "https://github.com/KABUS721/online-image-tools",
-      "description": "🌐 Convert and process images online for free. Enjoy batch processing, format conversion, and privacy with local handling for your files."
-    },
-    {
       "slug_hint": "eve-online-mcp",
       "name": "HammoTime/eve-online-mcp",
       "tags": [
@@ -227,73 +304,7 @@
       "reason": "recent repo: https://github.com/HammoTime/eve-online-mcp",
       "source_url": "https://github.com/HammoTime/eve-online-mcp",
       "description": "A secure, read-only MCP server that gives AI assistants comprehensive access to EVE Online’s ESI API, including authenticated character data and schema-aware tools."
-    },
-    {
-      "slug_hint": "toolaspect",
-      "name": "CoreAspectStu/toolaspect",
-      "tags": [
-        "developer-tools",
-        "free-tools",
-        "json-formatter",
-        "no-signup",
-        "online-tools",
-        "password-generator",
-        "privacy",
-        "qr-code"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/CoreAspectStu/toolaspect",
-      "source_url": "https://github.com/CoreAspectStu/toolaspect",
-      "description": "🔧 ToolAspect — 1,400+ Free Online Tools (No Signup, No Ads). Finance calculators, word unscrambler, JSON formatter, unit converter, AI tools → toolaspect.com"
-    },
-    {
-      "slug_hint": "csstools-dev",
-      "name": "lordbasilaiassistant-sudo/csstools-dev",
-      "tags": [
-        "css",
-        "css-tools",
-        "developer-tools",
-        "free",
-        "html",
-        "web-design"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/lordbasilaiassistant-sudo/csstools-dev",
-      "source_url": "https://github.com/lordbasilaiassistant-sudo/csstools-dev",
-      "description": "CSSTools.dev — free online tools. Live: https://lordbasilaiassistant-sudo.github.io/csstools-dev/"
-    },
-    {
-      "slug_hint": "textutils-tools",
-      "name": "lordbasilaiassistant-sudo/textutils-tools",
-      "tags": [
-        "developer-tools",
-        "free",
-        "html",
-        "text-tools",
-        "text-utilities",
-        "web-tools"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/lordbasilaiassistant-sudo/textutils-tools",
-      "source_url": "https://github.com/lordbasilaiassistant-sudo/textutils-tools",
-      "description": "TextUtils.tools — free online tools. Live: https://lordbasilaiassistant-sudo.github.io/textutils-tools/"
-    },
-    {
-      "slug_hint": "devcalc-tools",
-      "name": "lordbasilaiassistant-sudo/devcalc-tools",
-      "tags": [
-        "calculator",
-        "developer-tools",
-        "free",
-        "html",
-        "utilities",
-        "web-tools"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/lordbasilaiassistant-sudo/devcalc-tools",
-      "source_url": "https://github.com/lordbasilaiassistant-sudo/devcalc-tools",
-      "description": "DevCalc.tools — free online tools. Live: https://lordbasilaiassistant-sudo.github.io/devcalc-tools/"
     }
   ],
-  "report": "reports/tool-scan-20260916.md"
+  "report": "reports/tool-scan-20260917.md"
 }
