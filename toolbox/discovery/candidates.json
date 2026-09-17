@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-09-17T03:50:21+08:00",
+  "scanned_at": "2026-09-18T03:58:48+08:00",
   "installed_count": 95,
   "gaps": [
     {
@@ -77,6 +77,51 @@
   ],
   "github_pulse": [
     {
+      "slug_hint": "awesome-dev-utilities",
+      "name": "A7medAbde7hamed/awesome-dev-utilities",
+      "tags": [
+        "android",
+        "awesome",
+        "awesomeness",
+        "blockchain",
+        "cleancode",
+        "crypto",
+        "developer-tools",
+        "django",
+        "graphql",
+        "ionic",
+        "library",
+        "php",
+        "python",
+        "qr",
+        "seo",
+        "typescript",
+        "utilities",
+        "ux",
+        "webapp",
+        "webdev"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/A7medAbde7hamed/awesome-dev-utilities",
+      "source_url": "https://github.com/A7medAbde7hamed/awesome-dev-utilities",
+      "description": "🛠 Access free, fast developer utility tools for common tasks with ease, all powered by LoopPlunk—your go-to source for essential online resources."
+    },
+    {
+      "slug_hint": "andryroby-github-io",
+      "name": "AndryRoby/AndryRoby.github.io",
+      "tags": [
+        "arling",
+        "browser-tools",
+        "developer-tools",
+        "slovakia",
+        "static-site"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/AndryRoby/AndryRoby.github.io",
+      "source_url": "https://github.com/AndryRoby/AndryRoby.github.io",
+      "description": "arling.sk: small browser tools for online shops, accountants and developers. Nothing you paste leaves your browser."
+    },
+    {
       "slug_hint": "online-image-tools",
       "name": "KABUS721/online-image-tools",
       "tags": [
@@ -103,6 +148,31 @@
       "reason": "recent repo: https://github.com/KABUS721/online-image-tools",
       "source_url": "https://github.com/KABUS721/online-image-tools",
       "description": "🌐 Convert and process images online for free. Enjoy batch processing, format conversion, and privacy with local handling for your files."
+    },
+    {
+      "slug_hint": "goimagekitpro",
+      "name": "imagekitpro/goimagekitpro",
+      "tags": [
+        "base64",
+        "browser-tools",
+        "color-picker",
+        "developer-tools",
+        "free-tools-of-development",
+        "image-compressor",
+        "image-converter",
+        "image-resizer",
+        "image-tools",
+        "json-formatter",
+        "password-generator",
+        "privacy-first",
+        "qr-code-generator",
+        "uuid-generator",
+        "web-tools"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/imagekitpro/goimagekitpro",
+      "source_url": "https://github.com/imagekitpro/goimagekitpro",
+      "description": "Free online image tools & developer utilities. Compress, convert, resize images, generate QR codes, format JSON, and more. 100% browser-based, no signup."
     },
     {
       "slug_hint": "awesome-tools",
@@ -147,6 +217,27 @@
       "reason": "recent repo: https://github.com/xiongfh2008/toolkitlife",
       "source_url": "https://github.com/xiongfh2008/toolkitlife",
       "description": "375 free online tools & calculators that run entirely in your browser - PDF, image, video, finance, health & more. No signup, no upload, no data stored."
+    },
+    {
+      "slug_hint": "it-tools",
+      "name": "CorentinTh/it-tools",
+      "tags": [
+        "converter",
+        "developer-productivity",
+        "developer-tools",
+        "frontend",
+        "javascript",
+        "productivity",
+        "tool",
+        "tools",
+        "typescript",
+        "vuejs",
+        "website"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/CorentinTh/it-tools",
+      "source_url": "https://github.com/CorentinTh/it-tools",
+      "description": "Collection of handy online tools for developers, with great UX. "
     },
     {
       "slug_hint": "utopia",
@@ -209,102 +300,7 @@
       "reason": "recent repo: https://github.com/ExponentiallyDigital/ExponentiallyDigital",
       "source_url": "https://github.com/ExponentiallyDigital/ExponentiallyDigital",
       "description": "Three decades leading enterprise delivery across banking, government, and consulting. Built open-source Golang tools that cut sprint spillover from 70% to 19% at ANZ. Online since 1987, four domain names, two sites. After hours: tinkering with code, Windows kernel tuning, and colour-perception image sorting."
-    },
-    {
-      "slug_hint": "it-tools",
-      "name": "CorentinTh/it-tools",
-      "tags": [
-        "converter",
-        "developer-productivity",
-        "developer-tools",
-        "frontend",
-        "javascript",
-        "productivity",
-        "tool",
-        "tools",
-        "typescript",
-        "vuejs",
-        "website"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/CorentinTh/it-tools",
-      "source_url": "https://github.com/CorentinTh/it-tools",
-      "description": "Collection of handy online tools for developers, with great UX. "
-    },
-    {
-      "slug_hint": "onlinetools-dev",
-      "name": "noobnooc/onlinetools.dev",
-      "tags": [
-        "developer-tools",
-        "devtools",
-        "json-formatter",
-        "local-first",
-        "online-tools",
-        "privacy",
-        "pwa",
-        "svelte",
-        "sveltekit",
-        "typescript"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/noobnooc/onlinetools.dev",
-      "source_url": "https://github.com/noobnooc/onlinetools.dev",
-      "description": "Developer tools that run entirely in your browser — format JSON, decode JWTs, convert timestamps, test regex. No upload, no signup, no tracking. Works offline, in 14 languages."
-    },
-    {
-      "slug_hint": "awesome-dev-utilities",
-      "name": "A7medAbde7hamed/awesome-dev-utilities",
-      "tags": [
-        "android",
-        "awesome",
-        "awesomeness",
-        "blockchain",
-        "cleancode",
-        "crypto",
-        "developer-tools",
-        "django",
-        "graphql",
-        "ionic",
-        "library",
-        "php",
-        "python",
-        "qr",
-        "seo",
-        "typescript",
-        "utilities",
-        "ux",
-        "webapp",
-        "webdev"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/A7medAbde7hamed/awesome-dev-utilities",
-      "source_url": "https://github.com/A7medAbde7hamed/awesome-dev-utilities",
-      "description": "🛠 Access free, fast developer utility tools for common tasks with ease, all powered by LoopPlunk—your go-to source for essential online resources."
-    },
-    {
-      "slug_hint": "eve-online-mcp",
-      "name": "HammoTime/eve-online-mcp",
-      "tags": [
-        "ai-tools",
-        "api-client",
-        "ccp-games",
-        "developer-tools",
-        "esi",
-        "eve-online",
-        "fenris-creations",
-        "mcp",
-        "mcp-server",
-        "model-context-protocol",
-        "oauth2",
-        "pkce",
-        "read-only",
-        "typescript"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/HammoTime/eve-online-mcp",
-      "source_url": "https://github.com/HammoTime/eve-online-mcp",
-      "description": "A secure, read-only MCP server that gives AI assistants comprehensive access to EVE Online’s ESI API, including authenticated character data and schema-aware tools."
     }
   ],
-  "report": "reports/tool-scan-20260917.md"
+  "report": "reports/tool-scan-20260918.md"
 }
