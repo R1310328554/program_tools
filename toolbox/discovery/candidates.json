@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-09-18T03:58:48+08:00",
+  "scanned_at": "2026-09-19T03:25:31+08:00",
   "installed_count": 95,
   "gaps": [
     {
@@ -77,6 +77,123 @@
   ],
   "github_pulse": [
     {
+      "slug_hint": "andryroby-github-io",
+      "name": "AndryRoby/AndryRoby.github.io",
+      "tags": [
+        "arling",
+        "browser-tools",
+        "developer-tools",
+        "slovakia",
+        "static-site"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/AndryRoby/AndryRoby.github.io",
+      "source_url": "https://github.com/AndryRoby/AndryRoby.github.io",
+      "description": "arling.sk: small browser tools for online shops, accountants and developers. Nothing you paste leaves your browser."
+    },
+    {
+      "slug_hint": "qubittool",
+      "name": "qubittool/qubittool",
+      "tags": [
+        "ai-tools",
+        "base64",
+        "code-formatter",
+        "color-picker",
+        "developer-tools",
+        "free-tools",
+        "image-compressor",
+        "image-converter",
+        "json-diff",
+        "json-formatter",
+        "markdown-editor",
+        "mcp-server",
+        "online-tools",
+        "pdf-tools",
+        "privacy-first",
+        "productivity",
+        "regex-tester",
+        "timestamp-converter",
+        "uuid-generator",
+        "web-tools"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/qubittool/qubittool",
+      "source_url": "https://github.com/qubittool/qubittool",
+      "description": "Free online developer tools: JSON formatter, image compressor, PDF merger, base64 encoder, regex tester & 100+ more. No login required. All processing in browser."
+    },
+    {
+      "slug_hint": "free-online-tools",
+      "name": "dhruvilrg/free-online-tools",
+      "tags": [
+        "calculator-app",
+        "code-review",
+        "developer-tools",
+        "emi-calculator",
+        "gst-calculator",
+        "hardware-tools",
+        "image-generation",
+        "image-processing",
+        "json-parser",
+        "keyboard",
+        "logo-design",
+        "media-tools",
+        "pdf-tools",
+        "security-tools",
+        "sip-calculator",
+        "system-tools"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/dhruvilrg/free-online-tools",
+      "source_url": "https://github.com/dhruvilrg/free-online-tools",
+      "description": "Free Online Tools, Right In Your Browser No signup. No uploads. Nothing you type, pick, record, or drop ever leav es your device. "
+    },
+    {
+      "slug_hint": "free-online-utilities",
+      "name": "dhruvilrg/Free-Online-Utilities",
+      "tags": [
+        "calculator-application",
+        "code-generation",
+        "developer-tools",
+        "emi-calculator",
+        "gst-calculator",
+        "image-analysis",
+        "image-generation",
+        "image-manipulation",
+        "image-processing",
+        "image-recognition",
+        "json-parser",
+        "logo-generator",
+        "media",
+        "network-security",
+        "pdf-processing",
+        "pdf-tools",
+        "security-tools",
+        "sip-calculator",
+        "utility-tool",
+        "web-development"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/dhruvilrg/Free-Online-Utilities",
+      "source_url": "https://github.com/dhruvilrg/Free-Online-Utilities",
+      "description": "Free Online Tools, Right In Your Browser  No signup. No uploads. Nothing you type, pick, record, or drop ever leav es your device. "
+    },
+    {
+      "slug_hint": "toolman",
+      "name": "DahyXu/toolman",
+      "tags": [
+        "cloudflare-pages",
+        "developer-tools",
+        "privacy",
+        "seo",
+        "static-site-generator",
+        "web-tools"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/DahyXu/toolman",
+      "source_url": "https://github.com/DahyXu/toolman",
+      "description": "6,478 free online tools and reference pages that run entirely in your browser — no upload, no sign-up, no tracking. https://toolman.top"
+    },
+    {
       "slug_hint": "awesome-dev-utilities",
       "name": "A7medAbde7hamed/awesome-dev-utilities",
       "tags": [
@@ -105,21 +222,6 @@
       "reason": "recent repo: https://github.com/A7medAbde7hamed/awesome-dev-utilities",
       "source_url": "https://github.com/A7medAbde7hamed/awesome-dev-utilities",
       "description": "🛠 Access free, fast developer utility tools for common tasks with ease, all powered by LoopPlunk—your go-to source for essential online resources."
-    },
-    {
-      "slug_hint": "andryroby-github-io",
-      "name": "AndryRoby/AndryRoby.github.io",
-      "tags": [
-        "arling",
-        "browser-tools",
-        "developer-tools",
-        "slovakia",
-        "static-site"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/AndryRoby/AndryRoby.github.io",
-      "source_url": "https://github.com/AndryRoby/AndryRoby.github.io",
-      "description": "arling.sk: small browser tools for online shops, accountants and developers. Nothing you paste leaves your browser."
     },
     {
       "slug_hint": "online-image-tools",
@@ -217,90 +319,7 @@
       "reason": "recent repo: https://github.com/xiongfh2008/toolkitlife",
       "source_url": "https://github.com/xiongfh2008/toolkitlife",
       "description": "375 free online tools & calculators that run entirely in your browser - PDF, image, video, finance, health & more. No signup, no upload, no data stored."
-    },
-    {
-      "slug_hint": "it-tools",
-      "name": "CorentinTh/it-tools",
-      "tags": [
-        "converter",
-        "developer-productivity",
-        "developer-tools",
-        "frontend",
-        "javascript",
-        "productivity",
-        "tool",
-        "tools",
-        "typescript",
-        "vuejs",
-        "website"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/CorentinTh/it-tools",
-      "source_url": "https://github.com/CorentinTh/it-tools",
-      "description": "Collection of handy online tools for developers, with great UX. "
-    },
-    {
-      "slug_hint": "utopia",
-      "name": "api-evangelist/utopia",
-      "tags": [
-        "apis-json",
-        "company",
-        "design",
-        "developer-tools",
-        "low-code",
-        "open-source",
-        "react"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/api-evangelist/utopia",
-      "source_url": "https://github.com/api-evangelist/utopia",
-      "description": "Utopia — independent third-party profile of a public API surface, by API Evangelist. Utopia was an online platform for designing, coding, and shipping React applications, pairing a visual design tool with a code editor over one source of truth. A 2020 Seedcamp portfolio company, it was built in the open as the MIT-licensed concrete-utopia/utopia mo"
-    },
-    {
-      "slug_hint": "toolman",
-      "name": "DahyXu/toolman",
-      "tags": [
-        "cloudflare-pages",
-        "developer-tools",
-        "privacy",
-        "seo",
-        "static-site-generator",
-        "web-tools"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/DahyXu/toolman",
-      "source_url": "https://github.com/DahyXu/toolman",
-      "description": "6,478 free online tools and reference pages that run entirely in your browser — no upload, no sign-up, no tracking. https://toolman.top"
-    },
-    {
-      "slug_hint": "exponentiallydigital",
-      "name": "ExponentiallyDigital/ExponentiallyDigital",
-      "tags": [
-        "agile",
-        "android",
-        "consulting",
-        "data-analysis",
-        "delivery",
-        "developer-tools",
-        "devops",
-        "financial-services",
-        "go",
-        "golang",
-        "infrstructure",
-        "jira",
-        "leadership",
-        "lua",
-        "powershell",
-        "powershell-script",
-        "release-management",
-        "scrum",
-        "world-of-warcraft-addon"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/ExponentiallyDigital/ExponentiallyDigital",
-      "source_url": "https://github.com/ExponentiallyDigital/ExponentiallyDigital",
-      "description": "Three decades leading enterprise delivery across banking, government, and consulting. Built open-source Golang tools that cut sprint spillover from 70% to 19% at ANZ. Online since 1987, four domain names, two sites. After hours: tinkering with code, Windows kernel tuning, and colour-perception image sorting."
     }
   ],
-  "report": "reports/tool-scan-20260918.md"
+  "report": "reports/tool-scan-20260919.md"
 }
