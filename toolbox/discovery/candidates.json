@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-09-19T03:25:31+08:00",
+  "scanned_at": "2026-09-20T03:08:19+08:00",
   "installed_count": 95,
   "gaps": [
     {
@@ -77,6 +77,24 @@
   ],
   "github_pulse": [
     {
+      "slug_hint": "awesome-tools",
+      "name": "wangruofeng/awesome-tools",
+      "tags": [
+        "awesome-list",
+        "developer-tools",
+        "github-pages",
+        "online-tools",
+        "open-source",
+        "static-site",
+        "vanilla-javascript",
+        "web-tools"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/wangruofeng/awesome-tools",
+      "source_url": "https://github.com/wangruofeng/awesome-tools",
+      "description": "A categorized collection of open-source online tools by Wang Ruofeng."
+    },
+    {
       "slug_hint": "andryroby-github-io",
       "name": "AndryRoby/AndryRoby.github.io",
       "tags": [
@@ -90,6 +108,145 @@
       "reason": "recent repo: https://github.com/AndryRoby/AndryRoby.github.io",
       "source_url": "https://github.com/AndryRoby/AndryRoby.github.io",
       "description": "arling.sk: small browser tools for online shops, accountants and developers. Nothing you paste leaves your browser."
+    },
+    {
+      "slug_hint": "online-image-tools",
+      "name": "KABUS721/online-image-tools",
+      "tags": [
+        "annotations",
+        "api-management",
+        "api-monitoring",
+        "canvas",
+        "code",
+        "deep-learning",
+        "detection",
+        "developer-tools",
+        "element-ui",
+        "hacktoberfest",
+        "html",
+        "idea",
+        "image-classification",
+        "image-processing",
+        "labelimg",
+        "machine-learning",
+        "markdown",
+        "preact"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/KABUS721/online-image-tools",
+      "source_url": "https://github.com/KABUS721/online-image-tools",
+      "description": "🌐 Convert and process images online for free. Enjoy batch processing, format conversion, and privacy with local handling for your files."
+    },
+    {
+      "slug_hint": "toolkitloop",
+      "name": "ToolkitLoop/toolkitloop",
+      "tags": [
+        "calculators",
+        "converters",
+        "converters-for-everything",
+        "developer-tools",
+        "image-tools",
+        "image-tools-calculator",
+        "online-tools",
+        "privacy-friendly",
+        "productivity-tools",
+        "productivity-tools-platform",
+        "text-tools",
+        "text-tools-online",
+        "toolkitloop",
+        "web-tools",
+        "webtool"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/ToolkitLoop/toolkitloop",
+      "source_url": "https://github.com/ToolkitLoop/toolkitloop",
+      "description": "Official GitHub home of ToolkitLoop — fast, private and easy-to-use online tools for everyday tasks."
+    },
+    {
+      "slug_hint": "utopia",
+      "name": "api-evangelist/utopia",
+      "tags": [
+        "apis-json",
+        "company",
+        "design",
+        "developer-tools",
+        "low-code",
+        "open-source",
+        "react"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/api-evangelist/utopia",
+      "source_url": "https://github.com/api-evangelist/utopia",
+      "description": "Utopia — independent third-party profile of a public API surface, by API Evangelist. Utopia was an online platform for designing, coding, and shipping React applications, pairing a visual design tool with a code editor over one source of truth. A 2020 Seedcamp portfolio company, it was built in the open as the MIT-licensed concrete-utopia/utopia mo"
+    },
+    {
+      "slug_hint": "exponentiallydigital",
+      "name": "ExponentiallyDigital/ExponentiallyDigital",
+      "tags": [
+        "agile",
+        "android",
+        "consulting",
+        "data-analysis",
+        "delivery",
+        "developer-tools",
+        "devops",
+        "financial-services",
+        "go",
+        "golang",
+        "infrstructure",
+        "jira",
+        "leadership",
+        "lua",
+        "powershell",
+        "powershell-script",
+        "release-management",
+        "scrum",
+        "world-of-warcraft-addon"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/ExponentiallyDigital/ExponentiallyDigital",
+      "source_url": "https://github.com/ExponentiallyDigital/ExponentiallyDigital",
+      "description": "Three decades leading enterprise delivery across banking, government, and consulting. Built open-source Golang tools that cut sprint spillover from 70% to 19% at ANZ. Online since 1987, four domain names, two sites. After hours: tinkering with code, Windows kernel tuning, and colour-perception image sorting."
+    },
+    {
+      "slug_hint": "eve-online-mcp",
+      "name": "HammoTime/eve-online-mcp",
+      "tags": [
+        "ai-tools",
+        "api-client",
+        "ccp-games",
+        "developer-tools",
+        "esi",
+        "eve-online",
+        "fenris-creations",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "oauth2",
+        "pkce",
+        "read-only",
+        "typescript"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/HammoTime/eve-online-mcp",
+      "source_url": "https://github.com/HammoTime/eve-online-mcp",
+      "description": "A secure, read-only MCP server that gives AI assistants comprehensive access to EVE Online’s ESI API, including authenticated character data and schema-aware tools."
+    },
+    {
+      "slug_hint": "toolman",
+      "name": "DahyXu/toolman",
+      "tags": [
+        "cloudflare-pages",
+        "developer-tools",
+        "privacy",
+        "seo",
+        "static-site-generator",
+        "web-tools"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/DahyXu/toolman",
+      "source_url": "https://github.com/DahyXu/toolman",
+      "description": "6,478 free online tools and reference pages that run entirely in your browser — no upload, no sign-up, no tracking. https://toolman.top"
     },
     {
       "slug_hint": "qubittool",
@@ -146,180 +303,7 @@
       "reason": "recent repo: https://github.com/dhruvilrg/free-online-tools",
       "source_url": "https://github.com/dhruvilrg/free-online-tools",
       "description": "Free Online Tools, Right In Your Browser No signup. No uploads. Nothing you type, pick, record, or drop ever leav es your device. "
-    },
-    {
-      "slug_hint": "free-online-utilities",
-      "name": "dhruvilrg/Free-Online-Utilities",
-      "tags": [
-        "calculator-application",
-        "code-generation",
-        "developer-tools",
-        "emi-calculator",
-        "gst-calculator",
-        "image-analysis",
-        "image-generation",
-        "image-manipulation",
-        "image-processing",
-        "image-recognition",
-        "json-parser",
-        "logo-generator",
-        "media",
-        "network-security",
-        "pdf-processing",
-        "pdf-tools",
-        "security-tools",
-        "sip-calculator",
-        "utility-tool",
-        "web-development"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/dhruvilrg/Free-Online-Utilities",
-      "source_url": "https://github.com/dhruvilrg/Free-Online-Utilities",
-      "description": "Free Online Tools, Right In Your Browser  No signup. No uploads. Nothing you type, pick, record, or drop ever leav es your device. "
-    },
-    {
-      "slug_hint": "toolman",
-      "name": "DahyXu/toolman",
-      "tags": [
-        "cloudflare-pages",
-        "developer-tools",
-        "privacy",
-        "seo",
-        "static-site-generator",
-        "web-tools"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/DahyXu/toolman",
-      "source_url": "https://github.com/DahyXu/toolman",
-      "description": "6,478 free online tools and reference pages that run entirely in your browser — no upload, no sign-up, no tracking. https://toolman.top"
-    },
-    {
-      "slug_hint": "awesome-dev-utilities",
-      "name": "A7medAbde7hamed/awesome-dev-utilities",
-      "tags": [
-        "android",
-        "awesome",
-        "awesomeness",
-        "blockchain",
-        "cleancode",
-        "crypto",
-        "developer-tools",
-        "django",
-        "graphql",
-        "ionic",
-        "library",
-        "php",
-        "python",
-        "qr",
-        "seo",
-        "typescript",
-        "utilities",
-        "ux",
-        "webapp",
-        "webdev"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/A7medAbde7hamed/awesome-dev-utilities",
-      "source_url": "https://github.com/A7medAbde7hamed/awesome-dev-utilities",
-      "description": "🛠 Access free, fast developer utility tools for common tasks with ease, all powered by LoopPlunk—your go-to source for essential online resources."
-    },
-    {
-      "slug_hint": "online-image-tools",
-      "name": "KABUS721/online-image-tools",
-      "tags": [
-        "annotations",
-        "api-management",
-        "api-monitoring",
-        "canvas",
-        "code",
-        "deep-learning",
-        "detection",
-        "developer-tools",
-        "element-ui",
-        "hacktoberfest",
-        "html",
-        "idea",
-        "image-classification",
-        "image-processing",
-        "labelimg",
-        "machine-learning",
-        "markdown",
-        "preact"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/KABUS721/online-image-tools",
-      "source_url": "https://github.com/KABUS721/online-image-tools",
-      "description": "🌐 Convert and process images online for free. Enjoy batch processing, format conversion, and privacy with local handling for your files."
-    },
-    {
-      "slug_hint": "goimagekitpro",
-      "name": "imagekitpro/goimagekitpro",
-      "tags": [
-        "base64",
-        "browser-tools",
-        "color-picker",
-        "developer-tools",
-        "free-tools-of-development",
-        "image-compressor",
-        "image-converter",
-        "image-resizer",
-        "image-tools",
-        "json-formatter",
-        "password-generator",
-        "privacy-first",
-        "qr-code-generator",
-        "uuid-generator",
-        "web-tools"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/imagekitpro/goimagekitpro",
-      "source_url": "https://github.com/imagekitpro/goimagekitpro",
-      "description": "Free online image tools & developer utilities. Compress, convert, resize images, generate QR codes, format JSON, and more. 100% browser-based, no signup."
-    },
-    {
-      "slug_hint": "awesome-tools",
-      "name": "wangruofeng/awesome-tools",
-      "tags": [
-        "awesome-list",
-        "developer-tools",
-        "github-pages",
-        "online-tools",
-        "open-source",
-        "static-site",
-        "vanilla-javascript",
-        "web-tools"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/wangruofeng/awesome-tools",
-      "source_url": "https://github.com/wangruofeng/awesome-tools",
-      "description": "A categorized collection of open-source online tools by Wang Ruofeng."
-    },
-    {
-      "slug_hint": "toolkitlife",
-      "name": "xiongfh2008/toolkitlife",
-      "tags": [
-        "calculators",
-        "client-side",
-        "developer-tools",
-        "free-tools",
-        "image-processing",
-        "nextjs",
-        "no-signup",
-        "online-tools",
-        "pdf-tools",
-        "privacy-first",
-        "productivity",
-        "react",
-        "tailwindcss",
-        "typescript",
-        "video-tools",
-        "web-tools"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/xiongfh2008/toolkitlife",
-      "source_url": "https://github.com/xiongfh2008/toolkitlife",
-      "description": "375 free online tools & calculators that run entirely in your browser - PDF, image, video, finance, health & more. No signup, no upload, no data stored."
     }
   ],
-  "report": "reports/tool-scan-20260919.md"
+  "report": "reports/tool-scan-20260920.md"
 }
