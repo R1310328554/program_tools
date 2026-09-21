@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-09-21T03:14:53+08:00",
+  "scanned_at": "2026-09-22T04:46:02+08:00",
   "installed_count": 95,
   "gaps": [
     {
@@ -77,6 +77,41 @@
   ],
   "github_pulse": [
     {
+      "slug_hint": "andryroby-github-io",
+      "name": "AndryRoby/AndryRoby.github.io",
+      "tags": [
+        "arling",
+        "browser-tools",
+        "developer-tools",
+        "slovakia",
+        "static-site"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/AndryRoby/AndryRoby.github.io",
+      "source_url": "https://github.com/AndryRoby/AndryRoby.github.io",
+      "description": "arling.sk: small browser tools for online shops, accountants and developers. Nothing you paste leaves your browser."
+    },
+    {
+      "slug_hint": "allinone-tools",
+      "name": "RehanALiBalti/allinone-tools",
+      "tags": [
+        "calculators",
+        "converters",
+        "developer-tools",
+        "json-formatter",
+        "online-tools",
+        "pdf-tools",
+        "qr-code",
+        "qr-code-generator",
+        "qr-code-scanner",
+        "qr-codes"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/RehanALiBalti/allinone-tools",
+      "source_url": "https://github.com/RehanALiBalti/allinone-tools",
+      "description": "Free online tools for PDF, images, developers, calculators, converters, QR codes and more."
+    },
+    {
       "slug_hint": "awesome-dev-utilities",
       "name": "A7medAbde7hamed/awesome-dev-utilities",
       "tags": [
@@ -107,36 +142,28 @@
       "description": "🛠 Access free, fast developer utility tools for common tasks with ease, all powered by LoopPlunk—your go-to source for essential online resources."
     },
     {
-      "slug_hint": "utopia",
-      "name": "api-evangelist/utopia",
+      "slug_hint": "eve-online-mcp",
+      "name": "HammoTime/eve-online-mcp",
       "tags": [
-        "apis-json",
-        "company",
-        "design",
+        "ai-tools",
+        "api-client",
+        "ccp-games",
         "developer-tools",
-        "low-code",
-        "open-source",
-        "react"
+        "esi",
+        "eve-online",
+        "fenris-creations",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "oauth2",
+        "pkce",
+        "read-only",
+        "typescript"
       ],
       "priority": "low",
-      "reason": "recent repo: https://github.com/api-evangelist/utopia",
-      "source_url": "https://github.com/api-evangelist/utopia",
-      "description": "Utopia — independent third-party profile of a public API surface, by API Evangelist. Utopia was an online platform for designing, coding, and shipping React applications, pairing a visual design tool with a code editor over one source of truth. A 2020 Seedcamp portfolio company, it was built in the open as the MIT-licensed concrete-utopia/utopia mo"
-    },
-    {
-      "slug_hint": "andryroby-github-io",
-      "name": "AndryRoby/AndryRoby.github.io",
-      "tags": [
-        "arling",
-        "browser-tools",
-        "developer-tools",
-        "slovakia",
-        "static-site"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/AndryRoby/AndryRoby.github.io",
-      "source_url": "https://github.com/AndryRoby/AndryRoby.github.io",
-      "description": "arling.sk: small browser tools for online shops, accountants and developers. Nothing you paste leaves your browser."
+      "reason": "recent repo: https://github.com/HammoTime/eve-online-mcp",
+      "source_url": "https://github.com/HammoTime/eve-online-mcp",
+      "description": "A secure, read-only MCP server that gives AI assistants comprehensive access to EVE Online’s ESI API, including authenticated character data and schema-aware tools."
     },
     {
       "slug_hint": "brasil-ferramentas",
@@ -155,6 +182,23 @@
       "reason": "recent repo: https://github.com/alessandrooliveirape-prog/Brasil-ferramentas",
       "source_url": "https://github.com/alessandrooliveirape-prog/Brasil-ferramentas",
       "description": "Free online tools and utilities built with TypeScript for practical everyday tasks."
+    },
+    {
+      "slug_hint": "utopia",
+      "name": "api-evangelist/utopia",
+      "tags": [
+        "apis-json",
+        "company",
+        "design",
+        "developer-tools",
+        "low-code",
+        "open-source",
+        "react"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/api-evangelist/utopia",
+      "source_url": "https://github.com/api-evangelist/utopia",
+      "description": "Utopia — independent third-party profile of a public API surface, by API Evangelist. Utopia was an online platform for designing, coding, and shipping React applications, pairing a visual design tool with a code editor over one source of truth. A 2020 Seedcamp portfolio company, it was built in the open as the MIT-licensed concrete-utopia/utopia mo"
     },
     {
       "slug_hint": "online-image-tools",
@@ -244,60 +288,7 @@
       "reason": "recent repo: https://github.com/ToolkitLoop/toolkitloop",
       "source_url": "https://github.com/ToolkitLoop/toolkitloop",
       "description": "Official GitHub home of ToolkitLoop — fast, private and easy-to-use online tools for everyday tasks."
-    },
-    {
-      "slug_hint": "exponentiallydigital",
-      "name": "ExponentiallyDigital/ExponentiallyDigital",
-      "tags": [
-        "agile",
-        "android",
-        "consulting",
-        "data-analysis",
-        "delivery",
-        "developer-tools",
-        "devops",
-        "financial-services",
-        "go",
-        "golang",
-        "infrstructure",
-        "jira",
-        "leadership",
-        "lua",
-        "powershell",
-        "powershell-script",
-        "release-management",
-        "scrum",
-        "world-of-warcraft-addon"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/ExponentiallyDigital/ExponentiallyDigital",
-      "source_url": "https://github.com/ExponentiallyDigital/ExponentiallyDigital",
-      "description": "Three decades leading enterprise delivery across banking, government, and consulting. Built open-source Golang tools that cut sprint spillover from 70% to 19% at ANZ. Online since 1987, four domain names, two sites. After hours: tinkering with code, Windows kernel tuning, and colour-perception image sorting."
-    },
-    {
-      "slug_hint": "eve-online-mcp",
-      "name": "HammoTime/eve-online-mcp",
-      "tags": [
-        "ai-tools",
-        "api-client",
-        "ccp-games",
-        "developer-tools",
-        "esi",
-        "eve-online",
-        "fenris-creations",
-        "mcp",
-        "mcp-server",
-        "model-context-protocol",
-        "oauth2",
-        "pkce",
-        "read-only",
-        "typescript"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/HammoTime/eve-online-mcp",
-      "source_url": "https://github.com/HammoTime/eve-online-mcp",
-      "description": "A secure, read-only MCP server that gives AI assistants comprehensive access to EVE Online’s ESI API, including authenticated character data and schema-aware tools."
     }
   ],
-  "report": "reports/tool-scan-20260921.md"
+  "report": "reports/tool-scan-20260922.md"
 }
