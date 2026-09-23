@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-09-23T03:59:51+08:00",
+  "scanned_at": "2026-09-24T03:56:58+08:00",
   "installed_count": 95,
   "gaps": [
     {
@@ -77,183 +77,50 @@
   ],
   "github_pulse": [
     {
-      "slug_hint": "awesome-tools",
-      "name": "wangruofeng/awesome-tools",
-      "tags": [
-        "awesome-list",
-        "developer-tools",
-        "github-pages",
-        "online-tools",
-        "open-source",
-        "static-site",
-        "vanilla-javascript",
-        "web-tools"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/wangruofeng/awesome-tools",
-      "source_url": "https://github.com/wangruofeng/awesome-tools",
-      "description": "A categorized collection of open-source online tools by Wang Ruofeng."
-    },
-    {
-      "slug_hint": "online-image-tools",
-      "name": "KABUS721/online-image-tools",
-      "tags": [
-        "annotations",
-        "api-management",
-        "api-monitoring",
-        "canvas",
-        "code",
-        "deep-learning",
-        "detection",
-        "developer-tools",
-        "element-ui",
-        "hacktoberfest",
-        "html",
-        "idea",
-        "image-classification",
-        "image-processing",
-        "labelimg",
-        "machine-learning",
-        "markdown",
-        "preact"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/KABUS721/online-image-tools",
-      "source_url": "https://github.com/KABUS721/online-image-tools",
-      "description": "🌐 Convert and process images online for free. Enjoy batch processing, format conversion, and privacy with local handling for your files."
-    },
-    {
-      "slug_hint": "andryroby-github-io",
-      "name": "AndryRoby/AndryRoby.github.io",
-      "tags": [
-        "arling",
-        "browser-tools",
-        "developer-tools",
-        "slovakia",
-        "static-site"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/AndryRoby/AndryRoby.github.io",
-      "source_url": "https://github.com/AndryRoby/AndryRoby.github.io",
-      "description": "arling.sk: small browser tools for online shops, accountants and developers. Nothing you paste leaves your browser."
-    },
-    {
-      "slug_hint": "utopia",
-      "name": "api-evangelist/utopia",
-      "tags": [
-        "apis-json",
-        "company",
-        "design",
-        "developer-tools",
-        "low-code",
-        "open-source",
-        "react"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/api-evangelist/utopia",
-      "source_url": "https://github.com/api-evangelist/utopia",
-      "description": "Utopia — independent third-party profile of a public API surface, by API Evangelist. Utopia was an online platform for designing, coding, and shipping React applications, pairing a visual design tool with a code editor over one source of truth. A 2020 Seedcamp portfolio company, it was built in the open as the MIT-licensed concrete-utopia/utopia mo"
-    },
-    {
-      "slug_hint": "tooladda-online",
-      "name": "tooladda-online/tooladda-online",
+      "slug_hint": "devtools-presence-service",
+      "name": "LinusHolm3764/devtools-presence-service",
       "tags": [
         "developer-tools",
-        "developer-tools-",
-        "free-tools-of-development",
-        "online-tools",
-        "online-tools-text-tools",
-        "online-tools-websites",
-        "pdf-tools",
-        "pdf-tools-software",
-        "static-site",
-        "tools",
-        "toolsets"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/tooladda-online/tooladda-online",
-      "source_url": "https://github.com/tooladda-online/tooladda-online",
-      "description": "ToolAdda — 139 free, browser-based tools: PDF, image, resume & payroll docs, India-first finance calculators, developer utilities, text, chemistry, SEO and games. Everything runs on your device — no sign-up, no upload, no watermark, no limits. This is the main repo of the org; every other repo here is one tool"
-    },
-    {
-      "slug_hint": "eve-online-mcp",
-      "name": "HammoTime/eve-online-mcp",
-      "tags": [
-        "ai-tools",
-        "api-client",
-        "ccp-games",
-        "developer-tools",
-        "esi",
-        "eve-online",
-        "fenris-creations",
-        "mcp",
-        "mcp-server",
-        "model-context-protocol",
-        "oauth2",
-        "pkce",
-        "read-only",
+        "infrastructure",
+        "observability",
+        "presence",
+        "realtime",
         "typescript"
       ],
       "priority": "low",
-      "reason": "recent repo: https://github.com/HammoTime/eve-online-mcp",
-      "source_url": "https://github.com/HammoTime/eve-online-mcp",
-      "description": "A secure, read-only MCP server that gives AI assistants comprehensive access to EVE Online’s ESI API, including authenticated character data and schema-aware tools."
+      "reason": "recent repo: https://github.com/LinusHolm3764/devtools-presence-service",
+      "source_url": "https://github.com/LinusHolm3764/devtools-presence-service",
+      "description": "Typed realtime presence for an online developer-tools workspace"
     },
     {
-      "slug_hint": "free-online-tools",
-      "name": "dhruvilrg/free-online-tools",
+      "slug_hint": "awesome-dev-utilities",
+      "name": "A7medAbde7hamed/awesome-dev-utilities",
       "tags": [
-        "calculator-app",
-        "code-review",
+        "android",
+        "awesome",
+        "awesomeness",
+        "blockchain",
+        "cleancode",
+        "crypto",
         "developer-tools",
-        "emi-calculator",
-        "gst-calculator",
-        "hardware-tools",
-        "image-generation",
-        "image-processing",
-        "json-parser",
-        "keyboard",
-        "logo-design",
-        "media-tools",
-        "pdf-tools",
-        "security-tools",
-        "sip-calculator",
-        "system-tools"
+        "django",
+        "graphql",
+        "ionic",
+        "library",
+        "php",
+        "python",
+        "qr",
+        "seo",
+        "typescript",
+        "utilities",
+        "ux",
+        "webapp",
+        "webdev"
       ],
       "priority": "low",
-      "reason": "recent repo: https://github.com/dhruvilrg/free-online-tools",
-      "source_url": "https://github.com/dhruvilrg/free-online-tools",
-      "description": "Free Online Tools, Right In Your Browser No signup. No uploads. Nothing you type, pick, record, or drop ever leav es your device. "
-    },
-    {
-      "slug_hint": "free-online-utilities",
-      "name": "dhruvilrg/Free-Online-Utilities",
-      "tags": [
-        "calculator-application",
-        "code-generation",
-        "developer-tools",
-        "emi-calculator",
-        "gst-calculator",
-        "image-analysis",
-        "image-generation",
-        "image-manipulation",
-        "image-processing",
-        "image-recognition",
-        "json-parser",
-        "logo-generator",
-        "media",
-        "network-security",
-        "pdf-processing",
-        "pdf-tools",
-        "security-tools",
-        "sip-calculator",
-        "utility-tool",
-        "web-development"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/dhruvilrg/Free-Online-Utilities",
-      "source_url": "https://github.com/dhruvilrg/Free-Online-Utilities",
-      "description": "Free Online Tools, Right In Your Browser  No signup. No uploads. Nothing you type, pick, record, or drop ever leav es your device. "
+      "reason": "recent repo: https://github.com/A7medAbde7hamed/awesome-dev-utilities",
+      "source_url": "https://github.com/A7medAbde7hamed/awesome-dev-utilities",
+      "description": "🛠 Access free, fast developer utility tools for common tasks with ease, all powered by LoopPlunk—your go-to source for essential online resources."
     },
     {
       "slug_hint": "exponentiallydigital",
@@ -285,25 +152,154 @@
       "description": "Three decades leading enterprise delivery across banking, government, and consulting. Built open-source Golang tools that cut sprint spillover from 70% to 19% at ANZ. Online since 1987, four domain names, two sites. After hours: tinkering with code, Windows kernel tuning, and colour-perception image sorting."
     },
     {
-      "slug_hint": "allinone-tools",
-      "name": "RehanALiBalti/allinone-tools",
+      "slug_hint": "eve-online-mcp",
+      "name": "HammoTime/eve-online-mcp",
       "tags": [
-        "calculators",
-        "converters",
+        "ai-tools",
+        "api-client",
+        "ccp-games",
         "developer-tools",
-        "json-formatter",
-        "online-tools",
-        "pdf-tools",
-        "qr-code",
-        "qr-code-generator",
-        "qr-code-scanner",
-        "qr-codes"
+        "esi",
+        "eve-online",
+        "fenris-creations",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "oauth2",
+        "pkce",
+        "read-only",
+        "typescript"
       ],
       "priority": "low",
-      "reason": "recent repo: https://github.com/RehanALiBalti/allinone-tools",
-      "source_url": "https://github.com/RehanALiBalti/allinone-tools",
-      "description": "Free online tools for PDF, images, developers, calculators, converters, QR codes and more."
+      "reason": "recent repo: https://github.com/HammoTime/eve-online-mcp",
+      "source_url": "https://github.com/HammoTime/eve-online-mcp",
+      "description": "A secure, read-only MCP server that gives AI assistants comprehensive access to EVE Online’s ESI API, including authenticated character data and schema-aware tools."
+    },
+    {
+      "slug_hint": "online-image-tools",
+      "name": "KABUS721/online-image-tools",
+      "tags": [
+        "annotations",
+        "api-management",
+        "api-monitoring",
+        "canvas",
+        "code",
+        "deep-learning",
+        "detection",
+        "developer-tools",
+        "element-ui",
+        "hacktoberfest",
+        "html",
+        "idea",
+        "image-classification",
+        "image-processing",
+        "labelimg",
+        "machine-learning",
+        "markdown",
+        "preact"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/KABUS721/online-image-tools",
+      "source_url": "https://github.com/KABUS721/online-image-tools",
+      "description": "🌐 Convert and process images online for free. Enjoy batch processing, format conversion, and privacy with local handling for your files."
+    },
+    {
+      "slug_hint": "awesome-tools",
+      "name": "wangruofeng/awesome-tools",
+      "tags": [
+        "awesome-list",
+        "developer-tools",
+        "github-pages",
+        "online-tools",
+        "open-source",
+        "static-site",
+        "vanilla-javascript",
+        "web-tools"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/wangruofeng/awesome-tools",
+      "source_url": "https://github.com/wangruofeng/awesome-tools",
+      "description": "A categorized collection of open-source online tools by Wang Ruofeng."
+    },
+    {
+      "slug_hint": "utopia",
+      "name": "api-evangelist/utopia",
+      "tags": [
+        "apis-json",
+        "company",
+        "design",
+        "developer-tools",
+        "low-code",
+        "open-source",
+        "react"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/api-evangelist/utopia",
+      "source_url": "https://github.com/api-evangelist/utopia",
+      "description": "Utopia — independent third-party profile of a public API surface, by API Evangelist. Utopia was an online platform for designing, coding, and shipping React applications, pairing a visual design tool with a code editor over one source of truth. A 2020 Seedcamp portfolio company, it was built in the open as the MIT-licensed concrete-utopia/utopia mo"
+    },
+    {
+      "slug_hint": "andryroby-github-io",
+      "name": "AndryRoby/AndryRoby.github.io",
+      "tags": [
+        "arling",
+        "browser-tools",
+        "developer-tools",
+        "slovakia",
+        "static-site"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/AndryRoby/AndryRoby.github.io",
+      "source_url": "https://github.com/AndryRoby/AndryRoby.github.io",
+      "description": "arling.sk: small browser tools for online shops, accountants and developers. Nothing you paste leaves your browser."
+    },
+    {
+      "slug_hint": "tooladda-online",
+      "name": "tooladda-online/tooladda-online",
+      "tags": [
+        "developer-tools",
+        "developer-tools-",
+        "free-tools-of-development",
+        "online-tools",
+        "online-tools-text-tools",
+        "online-tools-websites",
+        "pdf-tools",
+        "pdf-tools-software",
+        "static-site",
+        "tools",
+        "toolsets"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/tooladda-online/tooladda-online",
+      "source_url": "https://github.com/tooladda-online/tooladda-online",
+      "description": "ToolAdda — 139 free, browser-based tools: PDF, image, resume & payroll docs, India-first finance calculators, developer utilities, text, chemistry, SEO and games. Everything runs on your device — no sign-up, no upload, no watermark, no limits. This is the main repo of the org; every other repo here is one tool"
+    },
+    {
+      "slug_hint": "free-online-tools",
+      "name": "dhruvilrg/free-online-tools",
+      "tags": [
+        "calculator-app",
+        "code-review",
+        "developer-tools",
+        "emi-calculator",
+        "gst-calculator",
+        "hardware-tools",
+        "image-generation",
+        "image-processing",
+        "json-parser",
+        "keyboard",
+        "logo-design",
+        "media-tools",
+        "pdf-tools",
+        "security-tools",
+        "sip-calculator",
+        "system-tools"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/dhruvilrg/free-online-tools",
+      "source_url": "https://github.com/dhruvilrg/free-online-tools",
+      "description": "Free Online Tools, Right In Your Browser No signup. No uploads. Nothing you type, pick, record, or drop ever leav es your device. "
     }
   ],
-  "report": "reports/tool-scan-20260923.md"
+  "report": "reports/tool-scan-20260924.md"
 }
