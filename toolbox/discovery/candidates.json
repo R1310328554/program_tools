@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-09-24T03:56:58+08:00",
+  "scanned_at": "2026-09-25T04:15:40+08:00",
   "installed_count": 95,
   "gaps": [
     {
@@ -77,20 +77,136 @@
   ],
   "github_pulse": [
     {
-      "slug_hint": "devtools-presence-service",
-      "name": "LinusHolm3764/devtools-presence-service",
+      "slug_hint": "andryroby-github-io",
+      "name": "AndryRoby/AndryRoby.github.io",
       "tags": [
+        "arling",
+        "browser-tools",
         "developer-tools",
-        "infrastructure",
-        "observability",
-        "presence",
-        "realtime",
-        "typescript"
+        "slovakia",
+        "static-site"
       ],
       "priority": "low",
-      "reason": "recent repo: https://github.com/LinusHolm3764/devtools-presence-service",
-      "source_url": "https://github.com/LinusHolm3764/devtools-presence-service",
-      "description": "Typed realtime presence for an online developer-tools workspace"
+      "reason": "recent repo: https://github.com/AndryRoby/AndryRoby.github.io",
+      "source_url": "https://github.com/AndryRoby/AndryRoby.github.io",
+      "description": "arling.sk: small browser tools for online shops, accountants and developers. Nothing you paste leaves your browser."
+    },
+    {
+      "slug_hint": "toolkitlife",
+      "name": "xiongfh2008/toolkitlife",
+      "tags": [
+        "calculators",
+        "client-side",
+        "developer-tools",
+        "free-tools",
+        "image-processing",
+        "nextjs",
+        "no-signup",
+        "online-tools",
+        "pdf-tools",
+        "privacy-first",
+        "productivity",
+        "react",
+        "tailwindcss",
+        "typescript",
+        "video-tools",
+        "web-tools"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/xiongfh2008/toolkitlife",
+      "source_url": "https://github.com/xiongfh2008/toolkitlife",
+      "description": "375 free online tools & calculators that run entirely in your browser - PDF, image, video, finance, health & more. No signup, no upload, no data stored."
+    },
+    {
+      "slug_hint": "freeonlinetoolsgo-web",
+      "name": "niceyayale/freeonlinetoolsgo-web",
+      "tags": [
+        "developer-tools",
+        "free-tools",
+        "image-converter",
+        "json",
+        "online-tools",
+        "pdf",
+        "qr-code"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/niceyayale/freeonlinetoolsgo-web",
+      "source_url": "https://github.com/niceyayale/freeonlinetoolsgo-web",
+      "description": "Free online tools for images, PDF, JSON, Base64, hashing and QR codes - all in the browser"
+    },
+    {
+      "slug_hint": "ez4code-web",
+      "name": "niceyayale/ez4code-web",
+      "tags": [
+        "code-tools",
+        "developer-tools",
+        "ide",
+        "learning",
+        "programming"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/niceyayale/ez4code-web",
+      "source_url": "https://github.com/niceyayale/ez4code-web",
+      "description": "Online programming tools and code learning platform for developers"
+    },
+    {
+      "slug_hint": "devtools",
+      "name": "fadeltd/devtools",
+      "tags": [
+        "base64",
+        "base64-decoder",
+        "base64-encoder",
+        "character-counter",
+        "client-side",
+        "cloudflare-workers",
+        "developer-tools",
+        "devtools",
+        "diff-checker",
+        "diff-tool",
+        "json-formatter",
+        "json-validator",
+        "no-backend",
+        "offline-first",
+        "online-tools",
+        "privacy",
+        "react",
+        "text-statistics",
+        "typescript",
+        "word-counter"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/fadeltd/devtools",
+      "source_url": "https://github.com/fadeltd/devtools",
+      "description": "Free open-source developer tools that run entirely in your browser — nothing you paste is ever uploaded. JSON formatter and validator, diff checker, base64 encoder/decoder, word counter and text statistics, list sorter and duplicate remover. A private, offline-capable alternative to online dev tool sites."
+    },
+    {
+      "slug_hint": "exponentiallydigital",
+      "name": "ExponentiallyDigital/ExponentiallyDigital",
+      "tags": [
+        "agile",
+        "android",
+        "consulting",
+        "data-analysis",
+        "delivery",
+        "developer-tools",
+        "devops",
+        "financial-services",
+        "go",
+        "golang",
+        "infrstructure",
+        "jira",
+        "leadership",
+        "lua",
+        "powershell",
+        "powershell-script",
+        "release-management",
+        "scrum",
+        "world-of-warcraft-addon"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/ExponentiallyDigital/ExponentiallyDigital",
+      "source_url": "https://github.com/ExponentiallyDigital/ExponentiallyDigital",
+      "description": "Three decades leading enterprise delivery across banking, government, and consulting. Built open-source Golang tools that cut sprint spillover from 70% to 19% at ANZ. Online since 1987, four domain names, two sites. After hours: tinkering with code, Windows kernel tuning, and colour-perception image sorting."
     },
     {
       "slug_hint": "awesome-dev-utilities",
@@ -123,183 +239,58 @@
       "description": "🛠 Access free, fast developer utility tools for common tasks with ease, all powered by LoopPlunk—your go-to source for essential online resources."
     },
     {
-      "slug_hint": "exponentiallydigital",
-      "name": "ExponentiallyDigital/ExponentiallyDigital",
+      "slug_hint": "toolman",
+      "name": "DahyXu/toolman",
       "tags": [
-        "agile",
-        "android",
-        "consulting",
-        "data-analysis",
-        "delivery",
+        "cloudflare-pages",
         "developer-tools",
-        "devops",
-        "financial-services",
-        "go",
-        "golang",
-        "infrstructure",
-        "jira",
-        "leadership",
-        "lua",
-        "powershell",
-        "powershell-script",
-        "release-management",
-        "scrum",
-        "world-of-warcraft-addon"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/ExponentiallyDigital/ExponentiallyDigital",
-      "source_url": "https://github.com/ExponentiallyDigital/ExponentiallyDigital",
-      "description": "Three decades leading enterprise delivery across banking, government, and consulting. Built open-source Golang tools that cut sprint spillover from 70% to 19% at ANZ. Online since 1987, four domain names, two sites. After hours: tinkering with code, Windows kernel tuning, and colour-perception image sorting."
-    },
-    {
-      "slug_hint": "eve-online-mcp",
-      "name": "HammoTime/eve-online-mcp",
-      "tags": [
-        "ai-tools",
-        "api-client",
-        "ccp-games",
-        "developer-tools",
-        "esi",
-        "eve-online",
-        "fenris-creations",
-        "mcp",
-        "mcp-server",
-        "model-context-protocol",
-        "oauth2",
-        "pkce",
-        "read-only",
-        "typescript"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/HammoTime/eve-online-mcp",
-      "source_url": "https://github.com/HammoTime/eve-online-mcp",
-      "description": "A secure, read-only MCP server that gives AI assistants comprehensive access to EVE Online’s ESI API, including authenticated character data and schema-aware tools."
-    },
-    {
-      "slug_hint": "online-image-tools",
-      "name": "KABUS721/online-image-tools",
-      "tags": [
-        "annotations",
-        "api-management",
-        "api-monitoring",
-        "canvas",
-        "code",
-        "deep-learning",
-        "detection",
-        "developer-tools",
-        "element-ui",
-        "hacktoberfest",
-        "html",
-        "idea",
-        "image-classification",
-        "image-processing",
-        "labelimg",
-        "machine-learning",
-        "markdown",
-        "preact"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/KABUS721/online-image-tools",
-      "source_url": "https://github.com/KABUS721/online-image-tools",
-      "description": "🌐 Convert and process images online for free. Enjoy batch processing, format conversion, and privacy with local handling for your files."
-    },
-    {
-      "slug_hint": "awesome-tools",
-      "name": "wangruofeng/awesome-tools",
-      "tags": [
-        "awesome-list",
-        "developer-tools",
-        "github-pages",
-        "online-tools",
-        "open-source",
-        "static-site",
-        "vanilla-javascript",
+        "privacy",
+        "seo",
+        "static-site-generator",
         "web-tools"
       ],
       "priority": "low",
-      "reason": "recent repo: https://github.com/wangruofeng/awesome-tools",
-      "source_url": "https://github.com/wangruofeng/awesome-tools",
-      "description": "A categorized collection of open-source online tools by Wang Ruofeng."
+      "reason": "recent repo: https://github.com/DahyXu/toolman",
+      "source_url": "https://github.com/DahyXu/toolman",
+      "description": "6,478 free online tools and reference pages that run entirely in your browser — no upload, no sign-up, no tracking. https://toolman.top"
     },
     {
-      "slug_hint": "utopia",
-      "name": "api-evangelist/utopia",
+      "slug_hint": "it-tools",
+      "name": "CorentinTh/it-tools",
       "tags": [
-        "apis-json",
-        "company",
-        "design",
+        "converter",
+        "developer-productivity",
         "developer-tools",
-        "low-code",
-        "open-source",
-        "react"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/api-evangelist/utopia",
-      "source_url": "https://github.com/api-evangelist/utopia",
-      "description": "Utopia — independent third-party profile of a public API surface, by API Evangelist. Utopia was an online platform for designing, coding, and shipping React applications, pairing a visual design tool with a code editor over one source of truth. A 2020 Seedcamp portfolio company, it was built in the open as the MIT-licensed concrete-utopia/utopia mo"
-    },
-    {
-      "slug_hint": "andryroby-github-io",
-      "name": "AndryRoby/AndryRoby.github.io",
-      "tags": [
-        "arling",
-        "browser-tools",
-        "developer-tools",
-        "slovakia",
-        "static-site"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/AndryRoby/AndryRoby.github.io",
-      "source_url": "https://github.com/AndryRoby/AndryRoby.github.io",
-      "description": "arling.sk: small browser tools for online shops, accountants and developers. Nothing you paste leaves your browser."
-    },
-    {
-      "slug_hint": "tooladda-online",
-      "name": "tooladda-online/tooladda-online",
-      "tags": [
-        "developer-tools",
-        "developer-tools-",
-        "free-tools-of-development",
-        "online-tools",
-        "online-tools-text-tools",
-        "online-tools-websites",
-        "pdf-tools",
-        "pdf-tools-software",
-        "static-site",
+        "frontend",
+        "javascript",
+        "productivity",
+        "tool",
         "tools",
-        "toolsets"
+        "typescript",
+        "vuejs",
+        "website"
       ],
       "priority": "low",
-      "reason": "recent repo: https://github.com/tooladda-online/tooladda-online",
-      "source_url": "https://github.com/tooladda-online/tooladda-online",
-      "description": "ToolAdda — 139 free, browser-based tools: PDF, image, resume & payroll docs, India-first finance calculators, developer utilities, text, chemistry, SEO and games. Everything runs on your device — no sign-up, no upload, no watermark, no limits. This is the main repo of the org; every other repo here is one tool"
+      "reason": "recent repo: https://github.com/CorentinTh/it-tools",
+      "source_url": "https://github.com/CorentinTh/it-tools",
+      "description": "Collection of handy online tools for developers, with great UX. "
     },
     {
-      "slug_hint": "free-online-tools",
-      "name": "dhruvilrg/free-online-tools",
+      "slug_hint": "devtools-presence-service",
+      "name": "LinusHolm3764/devtools-presence-service",
       "tags": [
-        "calculator-app",
-        "code-review",
         "developer-tools",
-        "emi-calculator",
-        "gst-calculator",
-        "hardware-tools",
-        "image-generation",
-        "image-processing",
-        "json-parser",
-        "keyboard",
-        "logo-design",
-        "media-tools",
-        "pdf-tools",
-        "security-tools",
-        "sip-calculator",
-        "system-tools"
+        "infrastructure",
+        "observability",
+        "presence",
+        "realtime",
+        "typescript"
       ],
       "priority": "low",
-      "reason": "recent repo: https://github.com/dhruvilrg/free-online-tools",
-      "source_url": "https://github.com/dhruvilrg/free-online-tools",
-      "description": "Free Online Tools, Right In Your Browser No signup. No uploads. Nothing you type, pick, record, or drop ever leav es your device. "
+      "reason": "recent repo: https://github.com/LinusHolm3764/devtools-presence-service",
+      "source_url": "https://github.com/LinusHolm3764/devtools-presence-service",
+      "description": "Typed realtime presence for an online developer-tools workspace"
     }
   ],
-  "report": "reports/tool-scan-20260924.md"
+  "report": "reports/tool-scan-20260925.md"
 }
