@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-09-25T04:15:40+08:00",
+  "scanned_at": "2026-09-26T04:13:52+08:00",
   "installed_count": 95,
   "gaps": [
     {
@@ -77,6 +77,34 @@
   ],
   "github_pulse": [
     {
+      "slug_hint": "online-image-tools",
+      "name": "KABUS721/online-image-tools",
+      "tags": [
+        "annotations",
+        "api-management",
+        "api-monitoring",
+        "canvas",
+        "code",
+        "deep-learning",
+        "detection",
+        "developer-tools",
+        "element-ui",
+        "hacktoberfest",
+        "html",
+        "idea",
+        "image-classification",
+        "image-processing",
+        "labelimg",
+        "machine-learning",
+        "markdown",
+        "preact"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/KABUS721/online-image-tools",
+      "source_url": "https://github.com/KABUS721/online-image-tools",
+      "description": "🌐 Convert and process images online for free. Enjoy batch processing, format conversion, and privacy with local handling for your files."
+    },
+    {
       "slug_hint": "andryroby-github-io",
       "name": "AndryRoby/AndryRoby.github.io",
       "tags": [
@@ -92,62 +120,26 @@
       "description": "arling.sk: small browser tools for online shops, accountants and developers. Nothing you paste leaves your browser."
     },
     {
-      "slug_hint": "toolkitlife",
-      "name": "xiongfh2008/toolkitlife",
+      "slug_hint": "mofei-dev-tools",
+      "name": "zmofei/mofei-dev-tools",
       "tags": [
-        "calculators",
-        "client-side",
+        "base64",
+        "cloudflare-workers",
         "developer-tools",
-        "free-tools",
-        "image-processing",
-        "nextjs",
-        "no-signup",
-        "online-tools",
-        "pdf-tools",
-        "privacy-first",
-        "productivity",
-        "react",
-        "tailwindcss",
-        "typescript",
-        "video-tools",
-        "web-tools"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/xiongfh2008/toolkitlife",
-      "source_url": "https://github.com/xiongfh2008/toolkitlife",
-      "description": "375 free online tools & calculators that run entirely in your browser - PDF, image, video, finance, health & more. No signup, no upload, no data stored."
-    },
-    {
-      "slug_hint": "freeonlinetoolsgo-web",
-      "name": "niceyayale/freeonlinetoolsgo-web",
-      "tags": [
-        "developer-tools",
-        "free-tools",
-        "image-converter",
+        "geojson",
+        "gis",
+        "i18n",
         "json",
+        "mapbox",
+        "nextjs",
         "online-tools",
-        "pdf",
-        "qr-code"
+        "opennext",
+        "typescript"
       ],
       "priority": "low",
-      "reason": "recent repo: https://github.com/niceyayale/freeonlinetoolsgo-web",
-      "source_url": "https://github.com/niceyayale/freeonlinetoolsgo-web",
-      "description": "Free online tools for images, PDF, JSON, Base64, hashing and QR codes - all in the browser"
-    },
-    {
-      "slug_hint": "ez4code-web",
-      "name": "niceyayale/ez4code-web",
-      "tags": [
-        "code-tools",
-        "developer-tools",
-        "ide",
-        "learning",
-        "programming"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/niceyayale/ez4code-web",
-      "source_url": "https://github.com/niceyayale/ez4code-web",
-      "description": "Online programming tools and code learning platform for developers"
+      "reason": "recent repo: https://github.com/zmofei/mofei-dev-tools",
+      "source_url": "https://github.com/zmofei/mofei-dev-tools",
+      "description": "Free online developer tools by Mofei: Base64, BBox, GeoJSON, JSON extraction, coordinate conversion, and ObjectID utilities. Built with Next.js and Cloudflare."
     },
     {
       "slug_hint": "devtools",
@@ -209,6 +201,85 @@
       "description": "Three decades leading enterprise delivery across banking, government, and consulting. Built open-source Golang tools that cut sprint spillover from 70% to 19% at ANZ. Online since 1987, four domain names, two sites. After hours: tinkering with code, Windows kernel tuning, and colour-perception image sorting."
     },
     {
+      "slug_hint": "it-tools",
+      "name": "CorentinTh/it-tools",
+      "tags": [
+        "converter",
+        "developer-productivity",
+        "developer-tools",
+        "frontend",
+        "javascript",
+        "productivity",
+        "tool",
+        "tools",
+        "typescript",
+        "vuejs",
+        "website"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/CorentinTh/it-tools",
+      "source_url": "https://github.com/CorentinTh/it-tools",
+      "description": "Collection of handy online tools for developers, with great UX. "
+    },
+    {
+      "slug_hint": "toolkitlife",
+      "name": "xiongfh2008/toolkitlife",
+      "tags": [
+        "calculators",
+        "client-side",
+        "developer-tools",
+        "free-tools",
+        "image-processing",
+        "nextjs",
+        "no-signup",
+        "online-tools",
+        "pdf-tools",
+        "privacy-first",
+        "productivity",
+        "react",
+        "tailwindcss",
+        "typescript",
+        "video-tools",
+        "web-tools"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/xiongfh2008/toolkitlife",
+      "source_url": "https://github.com/xiongfh2008/toolkitlife",
+      "description": "375 free online tools & calculators that run entirely in your browser - PDF, image, video, finance, health & more. No signup, no upload, no data stored."
+    },
+    {
+      "slug_hint": "freeonlinetoolsgo-web",
+      "name": "niceyayale/freeonlinetoolsgo-web",
+      "tags": [
+        "developer-tools",
+        "free-tools",
+        "image-converter",
+        "json",
+        "online-tools",
+        "pdf",
+        "qr-code"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/niceyayale/freeonlinetoolsgo-web",
+      "source_url": "https://github.com/niceyayale/freeonlinetoolsgo-web",
+      "description": "Free online tools for images, PDF, JSON, Base64, hashing and QR codes - all in the browser"
+    },
+    {
+      "slug_hint": "ez4code-web",
+      "name": "niceyayale/ez4code-web",
+      "tags": [
+        "code-tools",
+        "developer-tools",
+        "ide",
+        "learning",
+        "programming"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/niceyayale/ez4code-web",
+      "source_url": "https://github.com/niceyayale/ez4code-web",
+      "description": "Online programming tools and code learning platform for developers"
+    },
+    {
       "slug_hint": "awesome-dev-utilities",
       "name": "A7medAbde7hamed/awesome-dev-utilities",
       "tags": [
@@ -237,60 +308,7 @@
       "reason": "recent repo: https://github.com/A7medAbde7hamed/awesome-dev-utilities",
       "source_url": "https://github.com/A7medAbde7hamed/awesome-dev-utilities",
       "description": "🛠 Access free, fast developer utility tools for common tasks with ease, all powered by LoopPlunk—your go-to source for essential online resources."
-    },
-    {
-      "slug_hint": "toolman",
-      "name": "DahyXu/toolman",
-      "tags": [
-        "cloudflare-pages",
-        "developer-tools",
-        "privacy",
-        "seo",
-        "static-site-generator",
-        "web-tools"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/DahyXu/toolman",
-      "source_url": "https://github.com/DahyXu/toolman",
-      "description": "6,478 free online tools and reference pages that run entirely in your browser — no upload, no sign-up, no tracking. https://toolman.top"
-    },
-    {
-      "slug_hint": "it-tools",
-      "name": "CorentinTh/it-tools",
-      "tags": [
-        "converter",
-        "developer-productivity",
-        "developer-tools",
-        "frontend",
-        "javascript",
-        "productivity",
-        "tool",
-        "tools",
-        "typescript",
-        "vuejs",
-        "website"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/CorentinTh/it-tools",
-      "source_url": "https://github.com/CorentinTh/it-tools",
-      "description": "Collection of handy online tools for developers, with great UX. "
-    },
-    {
-      "slug_hint": "devtools-presence-service",
-      "name": "LinusHolm3764/devtools-presence-service",
-      "tags": [
-        "developer-tools",
-        "infrastructure",
-        "observability",
-        "presence",
-        "realtime",
-        "typescript"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/LinusHolm3764/devtools-presence-service",
-      "source_url": "https://github.com/LinusHolm3764/devtools-presence-service",
-      "description": "Typed realtime presence for an online developer-tools workspace"
     }
   ],
-  "report": "reports/tool-scan-20260925.md"
+  "report": "reports/tool-scan-20260926.md"
 }
