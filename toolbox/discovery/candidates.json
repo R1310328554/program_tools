@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-09-26T04:13:52+08:00",
+  "scanned_at": "2026-09-27T03:31:21+08:00",
   "installed_count": 95,
   "gaps": [
     {
@@ -77,6 +77,51 @@
   ],
   "github_pulse": [
     {
+      "slug_hint": "andryroby-github-io",
+      "name": "AndryRoby/AndryRoby.github.io",
+      "tags": [
+        "arling",
+        "browser-tools",
+        "developer-tools",
+        "slovakia",
+        "static-site"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/AndryRoby/AndryRoby.github.io",
+      "source_url": "https://github.com/AndryRoby/AndryRoby.github.io",
+      "description": "arling.sk: small browser tools for online shops, accountants and developers. Nothing you paste leaves your browser."
+    },
+    {
+      "slug_hint": "awesome-dev-utilities",
+      "name": "A7medAbde7hamed/awesome-dev-utilities",
+      "tags": [
+        "android",
+        "awesome",
+        "awesomeness",
+        "blockchain",
+        "cleancode",
+        "crypto",
+        "developer-tools",
+        "django",
+        "graphql",
+        "ionic",
+        "library",
+        "php",
+        "python",
+        "qr",
+        "seo",
+        "typescript",
+        "utilities",
+        "ux",
+        "webapp",
+        "webdev"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/A7medAbde7hamed/awesome-dev-utilities",
+      "source_url": "https://github.com/A7medAbde7hamed/awesome-dev-utilities",
+      "description": "🛠 Access free, fast developer utility tools for common tasks with ease, all powered by LoopPlunk—your go-to source for essential online resources."
+    },
+    {
       "slug_hint": "online-image-tools",
       "name": "KABUS721/online-image-tools",
       "tags": [
@@ -105,19 +150,36 @@
       "description": "🌐 Convert and process images online for free. Enjoy batch processing, format conversion, and privacy with local handling for your files."
     },
     {
-      "slug_hint": "andryroby-github-io",
-      "name": "AndryRoby/AndryRoby.github.io",
+      "slug_hint": "freeonlinetoolsgo-web",
+      "name": "niceyayale/freeonlinetoolsgo-web",
       "tags": [
-        "arling",
-        "browser-tools",
         "developer-tools",
-        "slovakia",
-        "static-site"
+        "free-tools",
+        "image-converter",
+        "json",
+        "online-tools",
+        "pdf",
+        "qr-code"
       ],
       "priority": "low",
-      "reason": "recent repo: https://github.com/AndryRoby/AndryRoby.github.io",
-      "source_url": "https://github.com/AndryRoby/AndryRoby.github.io",
-      "description": "arling.sk: small browser tools for online shops, accountants and developers. Nothing you paste leaves your browser."
+      "reason": "recent repo: https://github.com/niceyayale/freeonlinetoolsgo-web",
+      "source_url": "https://github.com/niceyayale/freeonlinetoolsgo-web",
+      "description": "Free online tools for images, PDF, JSON, Base64, hashing and QR codes - all in the browser"
+    },
+    {
+      "slug_hint": "ez4code-web",
+      "name": "niceyayale/ez4code-web",
+      "tags": [
+        "code-tools",
+        "developer-tools",
+        "ide",
+        "learning",
+        "programming"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/niceyayale/ez4code-web",
+      "source_url": "https://github.com/niceyayale/ez4code-web",
+      "description": "Online programming tools and code learning platform for developers"
     },
     {
       "slug_hint": "mofei-dev-tools",
@@ -246,69 +308,7 @@
       "reason": "recent repo: https://github.com/xiongfh2008/toolkitlife",
       "source_url": "https://github.com/xiongfh2008/toolkitlife",
       "description": "375 free online tools & calculators that run entirely in your browser - PDF, image, video, finance, health & more. No signup, no upload, no data stored."
-    },
-    {
-      "slug_hint": "freeonlinetoolsgo-web",
-      "name": "niceyayale/freeonlinetoolsgo-web",
-      "tags": [
-        "developer-tools",
-        "free-tools",
-        "image-converter",
-        "json",
-        "online-tools",
-        "pdf",
-        "qr-code"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/niceyayale/freeonlinetoolsgo-web",
-      "source_url": "https://github.com/niceyayale/freeonlinetoolsgo-web",
-      "description": "Free online tools for images, PDF, JSON, Base64, hashing and QR codes - all in the browser"
-    },
-    {
-      "slug_hint": "ez4code-web",
-      "name": "niceyayale/ez4code-web",
-      "tags": [
-        "code-tools",
-        "developer-tools",
-        "ide",
-        "learning",
-        "programming"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/niceyayale/ez4code-web",
-      "source_url": "https://github.com/niceyayale/ez4code-web",
-      "description": "Online programming tools and code learning platform for developers"
-    },
-    {
-      "slug_hint": "awesome-dev-utilities",
-      "name": "A7medAbde7hamed/awesome-dev-utilities",
-      "tags": [
-        "android",
-        "awesome",
-        "awesomeness",
-        "blockchain",
-        "cleancode",
-        "crypto",
-        "developer-tools",
-        "django",
-        "graphql",
-        "ionic",
-        "library",
-        "php",
-        "python",
-        "qr",
-        "seo",
-        "typescript",
-        "utilities",
-        "ux",
-        "webapp",
-        "webdev"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/A7medAbde7hamed/awesome-dev-utilities",
-      "source_url": "https://github.com/A7medAbde7hamed/awesome-dev-utilities",
-      "description": "🛠 Access free, fast developer utility tools for common tasks with ease, all powered by LoopPlunk—your go-to source for essential online resources."
     }
   ],
-  "report": "reports/tool-scan-20260926.md"
+  "report": "reports/tool-scan-20260927.md"
 }
