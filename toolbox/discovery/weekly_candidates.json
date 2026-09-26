@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-09-20T03:16:12+08:00",
+  "scanned_at": "2026-09-27T03:39:45+08:00",
   "scan_type": "weekly_global",
   "installed_count": 95,
   "gap_count": 18,
@@ -320,7 +320,7 @@
       "tools-sync-check"
     ]
   },
-  "report": "reports/weekly-global-scan-20260920.md",
+  "report": "reports/weekly-global-scan-20260927.md",
   "readme_hits": [
     {
       "source": "DevToys Web Pro",
