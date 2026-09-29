@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-09-29T06:23:58+08:00",
+  "scanned_at": "2026-09-30T05:15:13+08:00",
   "installed_count": 95,
   "gaps": [
     {
@@ -77,6 +77,36 @@
   ],
   "github_pulse": [
     {
+      "slug_hint": "awesome-dev-utilities",
+      "name": "A7medAbde7hamed/awesome-dev-utilities",
+      "tags": [
+        "android",
+        "awesome",
+        "awesomeness",
+        "blockchain",
+        "cleancode",
+        "crypto",
+        "developer-tools",
+        "django",
+        "graphql",
+        "ionic",
+        "library",
+        "php",
+        "python",
+        "qr",
+        "seo",
+        "typescript",
+        "utilities",
+        "ux",
+        "webapp",
+        "webdev"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/A7medAbde7hamed/awesome-dev-utilities",
+      "source_url": "https://github.com/A7medAbde7hamed/awesome-dev-utilities",
+      "description": "🛠 Access free, fast developer utility tools for common tasks with ease, all powered by LoopPlunk—your go-to source for essential online resources."
+    },
+    {
       "slug_hint": "andryroby-github-io",
       "name": "AndryRoby/AndryRoby.github.io",
       "tags": [
@@ -90,6 +120,61 @@
       "reason": "recent repo: https://github.com/AndryRoby/AndryRoby.github.io",
       "source_url": "https://github.com/AndryRoby/AndryRoby.github.io",
       "description": "arling.sk: small browser tools for online shops, accountants and developers. Nothing you paste leaves your browser."
+    },
+    {
+      "slug_hint": "toolkitlife",
+      "name": "xiongfh2008/toolkitlife",
+      "tags": [
+        "calculators",
+        "client-side",
+        "developer-tools",
+        "free-tools",
+        "image-processing",
+        "nextjs",
+        "no-signup",
+        "online-tools",
+        "pdf-tools",
+        "privacy-first",
+        "productivity",
+        "react",
+        "tailwindcss",
+        "typescript",
+        "video-tools",
+        "web-tools"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/xiongfh2008/toolkitlife",
+      "source_url": "https://github.com/xiongfh2008/toolkitlife",
+      "description": "375 free online tools & calculators that run entirely in your browser - PDF, image, video, finance, health & more. No signup, no upload, no data stored."
+    },
+    {
+      "slug_hint": "exponentiallydigital",
+      "name": "ExponentiallyDigital/ExponentiallyDigital",
+      "tags": [
+        "agile",
+        "android",
+        "consulting",
+        "data-analysis",
+        "delivery",
+        "developer-tools",
+        "devops",
+        "financial-services",
+        "go",
+        "golang",
+        "infrstructure",
+        "jira",
+        "leadership",
+        "lua",
+        "powershell",
+        "powershell-script",
+        "release-management",
+        "scrum",
+        "world-of-warcraft-addon"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/ExponentiallyDigital/ExponentiallyDigital",
+      "source_url": "https://github.com/ExponentiallyDigital/ExponentiallyDigital",
+      "description": "Three decades leading enterprise delivery across banking, government, and consulting. Built open-source Golang tools that cut sprint spillover from 70% to 19% at ANZ. Online since 1987, four domain names, two sites. After hours: tinkering with code, Windows kernel tuning, and colour-perception image sorting."
     },
     {
       "slug_hint": "online-image-tools",
@@ -120,6 +205,22 @@
       "description": "🌐 Convert and process images online for free. Enjoy batch processing, format conversion, and privacy with local handling for your files."
     },
     {
+      "slug_hint": "devtools-presence-service",
+      "name": "LinusHolm3764/devtools-presence-service",
+      "tags": [
+        "developer-tools",
+        "infrastructure",
+        "observability",
+        "presence",
+        "realtime",
+        "typescript"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/LinusHolm3764/devtools-presence-service",
+      "source_url": "https://github.com/LinusHolm3764/devtools-presence-service",
+      "description": "Typed realtime presence for an online developer-tools workspace"
+    },
+    {
       "slug_hint": "awesome-tools",
       "name": "wangruofeng/awesome-tools",
       "tags": [
@@ -136,35 +237,6 @@
       "reason": "recent repo: https://github.com/wangruofeng/awesome-tools",
       "source_url": "https://github.com/wangruofeng/awesome-tools",
       "description": "A categorized collection of open-source online tools by Wang Ruofeng."
-    },
-    {
-      "slug_hint": "exponentiallydigital",
-      "name": "ExponentiallyDigital/ExponentiallyDigital",
-      "tags": [
-        "agile",
-        "android",
-        "consulting",
-        "data-analysis",
-        "delivery",
-        "developer-tools",
-        "devops",
-        "financial-services",
-        "go",
-        "golang",
-        "infrstructure",
-        "jira",
-        "leadership",
-        "lua",
-        "powershell",
-        "powershell-script",
-        "release-management",
-        "scrum",
-        "world-of-warcraft-addon"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/ExponentiallyDigital/ExponentiallyDigital",
-      "source_url": "https://github.com/ExponentiallyDigital/ExponentiallyDigital",
-      "description": "Three decades leading enterprise delivery across banking, government, and consulting. Built open-source Golang tools that cut sprint spillover from 70% to 19% at ANZ. Online since 1987, four domain names, two sites. After hours: tinkering with code, Windows kernel tuning, and colour-perception image sorting."
     },
     {
       "slug_hint": "devtools",
@@ -238,69 +310,7 @@
       "reason": "recent repo: https://github.com/ToolkitLoop/toolkitloop",
       "source_url": "https://github.com/ToolkitLoop/toolkitloop",
       "description": "Official GitHub home of ToolkitLoop — fast, private and easy-to-use online tools for everyday tasks."
-    },
-    {
-      "slug_hint": "eve-online-mcp",
-      "name": "HammoTime/eve-online-mcp",
-      "tags": [
-        "ai-tools",
-        "api-client",
-        "ccp-games",
-        "developer-tools",
-        "esi",
-        "eve-online",
-        "fenris-creations",
-        "mcp",
-        "mcp-server",
-        "model-context-protocol",
-        "oauth2",
-        "pkce",
-        "read-only",
-        "typescript"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/HammoTime/eve-online-mcp",
-      "source_url": "https://github.com/HammoTime/eve-online-mcp",
-      "description": "A secure, read-only MCP server that gives AI assistants comprehensive access to EVE Online’s ESI API, including authenticated character data and schema-aware tools."
-    },
-    {
-      "slug_hint": "freeonlinetoolsgo-web",
-      "name": "niceyayale/freeonlinetoolsgo-web",
-      "tags": [
-        "developer-tools",
-        "free-tools",
-        "image-converter",
-        "json",
-        "online-tools",
-        "pdf",
-        "qr-code"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/niceyayale/freeonlinetoolsgo-web",
-      "source_url": "https://github.com/niceyayale/freeonlinetoolsgo-web",
-      "description": "Free online tools for images, PDF, JSON, Base64, hashing and QR codes - all in the browser"
-    },
-    {
-      "slug_hint": "it-tools",
-      "name": "CorentinTh/it-tools",
-      "tags": [
-        "converter",
-        "developer-productivity",
-        "developer-tools",
-        "frontend",
-        "javascript",
-        "productivity",
-        "tool",
-        "tools",
-        "typescript",
-        "vuejs",
-        "website"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/CorentinTh/it-tools",
-      "source_url": "https://github.com/CorentinTh/it-tools",
-      "description": "Collection of handy online tools for developers, with great UX. "
     }
   ],
-  "report": "reports/tool-scan-20260929.md"
+  "report": "reports/tool-scan-20260930.md"
 }
