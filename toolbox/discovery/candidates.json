@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-10-02T05:32:59+08:00",
+  "scanned_at": "2026-10-03T05:08:27+08:00",
   "installed_count": 95,
   "gaps": [
     {
@@ -77,6 +77,71 @@
   ],
   "github_pulse": [
     {
+      "slug_hint": "andryroby-github-io",
+      "name": "AndryRoby/AndryRoby.github.io",
+      "tags": [
+        "arling",
+        "browser-tools",
+        "developer-tools",
+        "slovakia",
+        "static-site"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/AndryRoby/AndryRoby.github.io",
+      "source_url": "https://github.com/AndryRoby/AndryRoby.github.io",
+      "description": "arling.sk: small browser tools for online shops, accountants and developers. Nothing you paste leaves your browser."
+    },
+    {
+      "slug_hint": "awesome-dev-utilities",
+      "name": "A7medAbde7hamed/awesome-dev-utilities",
+      "tags": [
+        "android",
+        "awesome",
+        "awesomeness",
+        "blockchain",
+        "cleancode",
+        "crypto",
+        "developer-tools",
+        "django",
+        "graphql",
+        "ionic",
+        "library",
+        "php",
+        "python",
+        "qr",
+        "seo",
+        "typescript",
+        "utilities",
+        "ux",
+        "webapp",
+        "webdev"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/A7medAbde7hamed/awesome-dev-utilities",
+      "source_url": "https://github.com/A7medAbde7hamed/awesome-dev-utilities",
+      "description": "🛠 Access free, fast developer utility tools for common tasks with ease, all powered by LoopPlunk—your go-to source for essential online resources."
+    },
+    {
+      "slug_hint": "diffly",
+      "name": "HiteshGarg098/diffly",
+      "tags": [
+        "client-side",
+        "code-diff",
+        "codemirror",
+        "developer-tools",
+        "diff",
+        "diffchecker",
+        "merge-tool",
+        "privacy",
+        "react",
+        "text-compare"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/HiteshGarg098/diffly",
+      "source_url": "https://github.com/HiteshGarg098/diffly",
+      "description": "Free online diff checker & text compare tool. 100% private — runs entirely in your browser."
+    },
+    {
       "slug_hint": "online-image-tools",
       "name": "KABUS721/online-image-tools",
       "tags": [
@@ -103,46 +168,6 @@
       "reason": "recent repo: https://github.com/KABUS721/online-image-tools",
       "source_url": "https://github.com/KABUS721/online-image-tools",
       "description": "🌐 Convert and process images online for free. Enjoy batch processing, format conversion, and privacy with local handling for your files."
-    },
-    {
-      "slug_hint": "andryroby-github-io",
-      "name": "AndryRoby/AndryRoby.github.io",
-      "tags": [
-        "arling",
-        "browser-tools",
-        "developer-tools",
-        "slovakia",
-        "static-site"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/AndryRoby/AndryRoby.github.io",
-      "source_url": "https://github.com/AndryRoby/AndryRoby.github.io",
-      "description": "arling.sk: small browser tools for online shops, accountants and developers. Nothing you paste leaves your browser."
-    },
-    {
-      "slug_hint": "toolkitloop",
-      "name": "ToolkitLoop/toolkitloop",
-      "tags": [
-        "calculators",
-        "converters",
-        "converters-for-everything",
-        "developer-tools",
-        "image-tools",
-        "image-tools-calculator",
-        "online-tools",
-        "privacy-friendly",
-        "productivity-tools",
-        "productivity-tools-platform",
-        "text-tools",
-        "text-tools-online",
-        "toolkitloop",
-        "web-tools",
-        "webtool"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/ToolkitLoop/toolkitloop",
-      "source_url": "https://github.com/ToolkitLoop/toolkitloop",
-      "description": "Official GitHub home of ToolkitLoop — fast, private and easy-to-use online tools for everyday tasks."
     },
     {
       "slug_hint": "qubittool",
@@ -173,6 +198,31 @@
       "reason": "recent repo: https://github.com/qubittool/qubittool",
       "source_url": "https://github.com/qubittool/qubittool",
       "description": "Free online developer tools: JSON formatter, image compressor, PDF merger, base64 encoder, regex tester & 100+ more. No login required. All processing in browser."
+    },
+    {
+      "slug_hint": "toolkitloop",
+      "name": "ToolkitLoop/toolkitloop",
+      "tags": [
+        "calculators",
+        "converters",
+        "converters-for-everything",
+        "developer-tools",
+        "image-tools",
+        "image-tools-calculator",
+        "online-tools",
+        "privacy-friendly",
+        "productivity-tools",
+        "productivity-tools-platform",
+        "text-tools",
+        "text-tools-online",
+        "toolkitloop",
+        "web-tools",
+        "webtool"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/ToolkitLoop/toolkitloop",
+      "source_url": "https://github.com/ToolkitLoop/toolkitloop",
+      "description": "Official GitHub home of ToolkitLoop — fast, private and easy-to-use online tools for everyday tasks."
     },
     {
       "slug_hint": "exponentiallydigital",
@@ -243,36 +293,6 @@
       "description": "Collection of handy online tools for developers, with great UX. "
     },
     {
-      "slug_hint": "awesome-dev-utilities",
-      "name": "A7medAbde7hamed/awesome-dev-utilities",
-      "tags": [
-        "android",
-        "awesome",
-        "awesomeness",
-        "blockchain",
-        "cleancode",
-        "crypto",
-        "developer-tools",
-        "django",
-        "graphql",
-        "ionic",
-        "library",
-        "php",
-        "python",
-        "qr",
-        "seo",
-        "typescript",
-        "utilities",
-        "ux",
-        "webapp",
-        "webdev"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/A7medAbde7hamed/awesome-dev-utilities",
-      "source_url": "https://github.com/A7medAbde7hamed/awesome-dev-utilities",
-      "description": "🛠 Access free, fast developer utility tools for common tasks with ease, all powered by LoopPlunk—your go-to source for essential online resources."
-    },
-    {
       "slug_hint": "toolkitlife",
       "name": "xiongfh2008/toolkitlife",
       "tags": [
@@ -297,23 +317,7 @@
       "reason": "recent repo: https://github.com/xiongfh2008/toolkitlife",
       "source_url": "https://github.com/xiongfh2008/toolkitlife",
       "description": "375 free online tools & calculators that run entirely in your browser - PDF, image, video, finance, health & more. No signup, no upload, no data stored."
-    },
-    {
-      "slug_hint": "devtools-presence-service",
-      "name": "LinusHolm3764/devtools-presence-service",
-      "tags": [
-        "developer-tools",
-        "infrastructure",
-        "observability",
-        "presence",
-        "realtime",
-        "typescript"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/LinusHolm3764/devtools-presence-service",
-      "source_url": "https://github.com/LinusHolm3764/devtools-presence-service",
-      "description": "Typed realtime presence for an online developer-tools workspace"
     }
   ],
-  "report": "reports/tool-scan-20261002.md"
+  "report": "reports/tool-scan-20261003.md"
 }
