@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-10-03T05:08:27+08:00",
+  "scanned_at": "2026-10-04T03:39:39+08:00",
   "installed_count": 95,
   "gaps": [
     {
@@ -92,6 +92,65 @@
       "description": "arling.sk: small browser tools for online shops, accountants and developers. Nothing you paste leaves your browser."
     },
     {
+      "slug_hint": "exponentiallydigital",
+      "name": "ExponentiallyDigital/ExponentiallyDigital",
+      "tags": [
+        "agile",
+        "android",
+        "consulting",
+        "data-analysis",
+        "delivery",
+        "developer-tools",
+        "devops",
+        "financial-services",
+        "go",
+        "golang",
+        "infrstructure",
+        "jira",
+        "leadership",
+        "lua",
+        "powershell",
+        "powershell-script",
+        "release-management",
+        "scrum",
+        "world-of-warcraft-addon"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/ExponentiallyDigital/ExponentiallyDigital",
+      "source_url": "https://github.com/ExponentiallyDigital/ExponentiallyDigital",
+      "description": "Three decades leading enterprise delivery across banking, government, and consulting. Built open-source Golang tools that cut sprint spillover from 70% to 19% at ANZ. Online since 1987, four domain names, two sites. After hours: tinkering with code, Windows kernel tuning, and colour-perception image sorting."
+    },
+    {
+      "slug_hint": "qubittool",
+      "name": "qubittool/qubittool",
+      "tags": [
+        "ai-tools",
+        "base64",
+        "code-formatter",
+        "color-picker",
+        "developer-tools",
+        "free-tools",
+        "image-compressor",
+        "image-converter",
+        "json-diff",
+        "json-formatter",
+        "markdown-editor",
+        "mcp-server",
+        "online-tools",
+        "pdf-tools",
+        "privacy-first",
+        "productivity",
+        "regex-tester",
+        "timestamp-converter",
+        "uuid-generator",
+        "web-tools"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/qubittool/qubittool",
+      "source_url": "https://github.com/qubittool/qubittool",
+      "description": "Free online developer tools: JSON formatter, image compressor, PDF merger, base64 encoder, regex tester & 100+ more. No login required. All processing in browser."
+    },
+    {
       "slug_hint": "awesome-dev-utilities",
       "name": "A7medAbde7hamed/awesome-dev-utilities",
       "tags": [
@@ -170,34 +229,23 @@
       "description": "🌐 Convert and process images online for free. Enjoy batch processing, format conversion, and privacy with local handling for your files."
     },
     {
-      "slug_hint": "qubittool",
-      "name": "qubittool/qubittool",
+      "slug_hint": "convertlinx",
+      "name": "ashfaqazad/convertlinx",
       "tags": [
-        "ai-tools",
-        "base64",
-        "code-formatter",
-        "color-picker",
         "developer-tools",
-        "free-tools",
-        "image-compressor",
-        "image-converter",
-        "json-diff",
-        "json-formatter",
-        "markdown-editor",
-        "mcp-server",
+        "file-converter",
+        "image-tools",
+        "nextjs",
         "online-tools",
         "pdf-tools",
-        "privacy-first",
-        "productivity",
-        "regex-tester",
-        "timestamp-converter",
-        "uuid-generator",
+        "reactjs",
+        "utility-tools",
         "web-tools"
       ],
       "priority": "low",
-      "reason": "recent repo: https://github.com/qubittool/qubittool",
-      "source_url": "https://github.com/qubittool/qubittool",
-      "description": "Free online developer tools: JSON formatter, image compressor, PDF merger, base64 encoder, regex tester & 100+ more. No login required. All processing in browser."
+      "reason": "recent repo: https://github.com/ashfaqazad/convertlinx",
+      "source_url": "https://github.com/ashfaqazad/convertlinx",
+      "description": "Free online tools for converting, editing, and working with files — simple, fast, and easy to use."
     },
     {
       "slug_hint": "toolkitloop",
@@ -223,35 +271,6 @@
       "reason": "recent repo: https://github.com/ToolkitLoop/toolkitloop",
       "source_url": "https://github.com/ToolkitLoop/toolkitloop",
       "description": "Official GitHub home of ToolkitLoop — fast, private and easy-to-use online tools for everyday tasks."
-    },
-    {
-      "slug_hint": "exponentiallydigital",
-      "name": "ExponentiallyDigital/ExponentiallyDigital",
-      "tags": [
-        "agile",
-        "android",
-        "consulting",
-        "data-analysis",
-        "delivery",
-        "developer-tools",
-        "devops",
-        "financial-services",
-        "go",
-        "golang",
-        "infrstructure",
-        "jira",
-        "leadership",
-        "lua",
-        "powershell",
-        "powershell-script",
-        "release-management",
-        "scrum",
-        "world-of-warcraft-addon"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/ExponentiallyDigital/ExponentiallyDigital",
-      "source_url": "https://github.com/ExponentiallyDigital/ExponentiallyDigital",
-      "description": "Three decades leading enterprise delivery across banking, government, and consulting. Built open-source Golang tools that cut sprint spillover from 70% to 19% at ANZ. Online since 1987, four domain names, two sites. After hours: tinkering with code, Windows kernel tuning, and colour-perception image sorting."
     },
     {
       "slug_hint": "awesome-tools",
@@ -291,33 +310,7 @@
       "reason": "recent repo: https://github.com/CorentinTh/it-tools",
       "source_url": "https://github.com/CorentinTh/it-tools",
       "description": "Collection of handy online tools for developers, with great UX. "
-    },
-    {
-      "slug_hint": "toolkitlife",
-      "name": "xiongfh2008/toolkitlife",
-      "tags": [
-        "calculators",
-        "client-side",
-        "developer-tools",
-        "free-tools",
-        "image-processing",
-        "nextjs",
-        "no-signup",
-        "online-tools",
-        "pdf-tools",
-        "privacy-first",
-        "productivity",
-        "react",
-        "tailwindcss",
-        "typescript",
-        "video-tools",
-        "web-tools"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/xiongfh2008/toolkitlife",
-      "source_url": "https://github.com/xiongfh2008/toolkitlife",
-      "description": "375 free online tools & calculators that run entirely in your browser - PDF, image, video, finance, health & more. No signup, no upload, no data stored."
     }
   ],
-  "report": "reports/tool-scan-20261003.md"
+  "report": "reports/tool-scan-20261004.md"
 }
