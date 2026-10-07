@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-10-07T05:25:49+08:00",
+  "scanned_at": "2026-10-08T05:45:11+08:00",
   "installed_count": 95,
   "gaps": [
     {
@@ -77,19 +77,80 @@
   ],
   "github_pulse": [
     {
-      "slug_hint": "andryroby-github-io",
-      "name": "AndryRoby/AndryRoby.github.io",
+      "slug_hint": "online-image-tools",
+      "name": "KABUS721/online-image-tools",
       "tags": [
-        "arling",
-        "browser-tools",
+        "annotations",
+        "api-management",
+        "api-monitoring",
+        "canvas",
+        "code",
+        "deep-learning",
+        "detection",
         "developer-tools",
-        "slovakia",
-        "static-site"
+        "element-ui",
+        "hacktoberfest",
+        "html",
+        "idea",
+        "image-classification",
+        "image-processing",
+        "labelimg",
+        "machine-learning",
+        "markdown",
+        "preact"
       ],
       "priority": "low",
-      "reason": "recent repo: https://github.com/AndryRoby/AndryRoby.github.io",
-      "source_url": "https://github.com/AndryRoby/AndryRoby.github.io",
-      "description": "arling.sk: small browser tools for online shops, accountants and developers. Nothing you paste leaves your browser."
+      "reason": "recent repo: https://github.com/KABUS721/online-image-tools",
+      "source_url": "https://github.com/KABUS721/online-image-tools",
+      "description": "🌐 Convert and process images online for free. Enjoy batch processing, format conversion, and privacy with local handling for your files."
+    },
+    {
+      "slug_hint": "privacy-first",
+      "name": "varundeva/privacy-first",
+      "tags": [
+        "browser-based",
+        "client-side",
+        "developer-tools",
+        "file-converter",
+        "free-tools",
+        "hacktoberfest",
+        "image-converter",
+        "json-formatter",
+        "nextjs",
+        "no-upload",
+        "online-tools",
+        "open-source",
+        "pdf-tools",
+        "privacy-first",
+        "privacy-tools",
+        "react",
+        "typescript",
+        "utilities",
+        "web-tools",
+        "webworkers"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/varundeva/privacy-first",
+      "source_url": "https://github.com/varundeva/privacy-first",
+      "description": "🛡️ Free, privacy-first online tools - Image converter, PDF merger, JSON formatter & 60+ utilities. 100% browser-based, no file uploads. Open source toolkit for developers & everyone."
+    },
+    {
+      "slug_hint": "dev-tools",
+      "name": "yqh-core/dev-tools",
+      "tags": [
+        "base64",
+        "cron",
+        "developer-tools",
+        "json-formatter",
+        "jwt",
+        "online-tools",
+        "regex",
+        "typescript"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/yqh-core/dev-tools",
+      "source_url": "https://github.com/yqh-core/dev-tools",
+      "description": "CoderKit — 100+ free online developer tools for JSON, Base64, JWT, regex, cron, hashes and more. Runs in your browser with no sign-up. Open source, based on it-tools."
     },
     {
       "slug_hint": "qubittool",
@@ -122,22 +183,38 @@
       "description": "Free online developer tools: JSON formatter, image compressor, PDF merger, base64 encoder, regex tester & 100+ more. No login required. All processing in browser."
     },
     {
-      "slug_hint": "dev-tools",
-      "name": "yqh-core/dev-tools",
+      "slug_hint": "convertlinx",
+      "name": "ashfaqazad/convertlinx",
       "tags": [
-        "base64",
-        "cron",
         "developer-tools",
-        "json-formatter",
-        "jwt",
+        "file-converter",
+        "image-tools",
+        "nextjs",
         "online-tools",
-        "regex",
-        "typescript"
+        "pdf-tools",
+        "reactjs",
+        "utility-tools",
+        "web-tools"
       ],
       "priority": "low",
-      "reason": "recent repo: https://github.com/yqh-core/dev-tools",
-      "source_url": "https://github.com/yqh-core/dev-tools",
-      "description": "CoderKit — 100+ free online developer tools for JSON, Base64, JWT, regex, cron, hashes and more. Runs in your browser with no sign-up. Open source, based on it-tools."
+      "reason": "recent repo: https://github.com/ashfaqazad/convertlinx",
+      "source_url": "https://github.com/ashfaqazad/convertlinx",
+      "description": "Free online tools for converting, editing, and working with files — simple, fast, and easy to use."
+    },
+    {
+      "slug_hint": "andryroby-github-io",
+      "name": "AndryRoby/AndryRoby.github.io",
+      "tags": [
+        "arling",
+        "browser-tools",
+        "developer-tools",
+        "slovakia",
+        "static-site"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/AndryRoby/AndryRoby.github.io",
+      "source_url": "https://github.com/AndryRoby/AndryRoby.github.io",
+      "description": "arling.sk: small browser tools for online shops, accountants and developers. Nothing you paste leaves your browser."
     },
     {
       "slug_hint": "toolkitlife",
@@ -217,53 +294,6 @@
       "description": "Collection of handy online tools for developers, with great UX. "
     },
     {
-      "slug_hint": "convertlinx",
-      "name": "ashfaqazad/convertlinx",
-      "tags": [
-        "developer-tools",
-        "file-converter",
-        "image-tools",
-        "nextjs",
-        "online-tools",
-        "pdf-tools",
-        "reactjs",
-        "utility-tools",
-        "web-tools"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/ashfaqazad/convertlinx",
-      "source_url": "https://github.com/ashfaqazad/convertlinx",
-      "description": "Free online tools for converting, editing, and working with files — simple, fast, and easy to use."
-    },
-    {
-      "slug_hint": "online-image-tools",
-      "name": "KABUS721/online-image-tools",
-      "tags": [
-        "annotations",
-        "api-management",
-        "api-monitoring",
-        "canvas",
-        "code",
-        "deep-learning",
-        "detection",
-        "developer-tools",
-        "element-ui",
-        "hacktoberfest",
-        "html",
-        "idea",
-        "image-classification",
-        "image-processing",
-        "labelimg",
-        "machine-learning",
-        "markdown",
-        "preact"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/KABUS721/online-image-tools",
-      "source_url": "https://github.com/KABUS721/online-image-tools",
-      "description": "🌐 Convert and process images online for free. Enjoy batch processing, format conversion, and privacy with local handling for your files."
-    },
-    {
       "slug_hint": "eve-online-mcp",
       "name": "HammoTime/eve-online-mcp",
       "tags": [
@@ -286,24 +316,7 @@
       "reason": "recent repo: https://github.com/HammoTime/eve-online-mcp",
       "source_url": "https://github.com/HammoTime/eve-online-mcp",
       "description": "A secure, read-only MCP server that gives AI assistants comprehensive access to EVE Online’s ESI API, including authenticated character data and schema-aware tools."
-    },
-    {
-      "slug_hint": "utopia",
-      "name": "api-evangelist/utopia",
-      "tags": [
-        "apis-json",
-        "company",
-        "design",
-        "developer-tools",
-        "low-code",
-        "open-source",
-        "react"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/api-evangelist/utopia",
-      "source_url": "https://github.com/api-evangelist/utopia",
-      "description": "Utopia — independent third-party profile of a public API surface, by API Evangelist. Utopia was an online platform for designing, coding, and shipping React applications, pairing a visual design tool with a code editor over one source of truth. A 2020 Seedcamp portfolio company, it was built in the open as the MIT-licensed concrete-utopia/utopia mo"
     }
   ],
-  "report": "reports/tool-scan-20261007.md"
+  "report": "reports/tool-scan-20261008.md"
 }
