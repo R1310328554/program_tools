@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-10-09T05:48:14+08:00",
+  "scanned_at": "2026-10-10T05:27:47+08:00",
   "installed_count": 95,
   "gaps": [
     {
@@ -77,21 +77,102 @@
   ],
   "github_pulse": [
     {
-      "slug_hint": "mahvex-tools",
-      "name": "Mahvex/mahvex-tools",
+      "slug_hint": "andryroby-github-io",
+      "name": "AndryRoby/AndryRoby.github.io",
       "tags": [
-        "css",
+        "arling",
+        "browser-tools",
         "developer-tools",
-        "html",
-        "javascript",
-        "online-tools",
+        "slovakia",
+        "static-site"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/AndryRoby/AndryRoby.github.io",
+      "source_url": "https://github.com/AndryRoby/AndryRoby.github.io",
+      "description": "arling.sk: small browser tools for online shops, accountants and developers. Nothing you paste leaves your browser."
+    },
+    {
+      "slug_hint": "utopia",
+      "name": "api-evangelist/utopia",
+      "tags": [
+        "apis-json",
+        "company",
+        "design",
+        "developer-tools",
+        "low-code",
         "open-source",
+        "react"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/api-evangelist/utopia",
+      "source_url": "https://github.com/api-evangelist/utopia",
+      "description": "Utopia — independent third-party profile of a public API surface, by API Evangelist. Utopia was an online platform for designing, coding, and shipping React applications, pairing a visual design tool with a code editor over one source of truth. A 2020 Seedcamp portfolio company, it was built in the open as the MIT-licensed concrete-utopia/utopia mo"
+    },
+    {
+      "slug_hint": "convertlinx",
+      "name": "ashfaqazad/convertlinx",
+      "tags": [
+        "developer-tools",
+        "file-converter",
+        "image-tools",
+        "nextjs",
+        "online-tools",
+        "pdf-tools",
+        "reactjs",
+        "utility-tools",
         "web-tools"
       ],
       "priority": "low",
-      "reason": "recent repo: https://github.com/Mahvex/mahvex-tools",
-      "source_url": "https://github.com/Mahvex/mahvex-tools",
-      "description": "A collection of free, fast, and privacy-friendly online tools for developers"
+      "reason": "recent repo: https://github.com/ashfaqazad/convertlinx",
+      "source_url": "https://github.com/ashfaqazad/convertlinx",
+      "description": "Free online tools for converting, editing, and working with files — simple, fast, and easy to use."
+    },
+    {
+      "slug_hint": "brasil-ferramentas",
+      "name": "alessandrooliveirape-prog/Brasil-ferramentas",
+      "tags": [
+        "css-generators",
+        "data-validation",
+        "developer-tools",
+        "privacy-first",
+        "react",
+        "typescript",
+        "utilities",
+        "vite"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/alessandrooliveirape-prog/Brasil-ferramentas",
+      "source_url": "https://github.com/alessandrooliveirape-prog/Brasil-ferramentas",
+      "description": "Free online tools and utilities built with TypeScript for practical everyday tasks."
+    },
+    {
+      "slug_hint": "exponentiallydigital",
+      "name": "ExponentiallyDigital/ExponentiallyDigital",
+      "tags": [
+        "agile",
+        "android",
+        "consulting",
+        "data-analysis",
+        "delivery",
+        "developer-tools",
+        "devops",
+        "financial-services",
+        "go",
+        "golang",
+        "infrstructure",
+        "jira",
+        "leadership",
+        "lua",
+        "powershell",
+        "powershell-script",
+        "release-management",
+        "scrum",
+        "world-of-warcraft-addon"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/ExponentiallyDigital/ExponentiallyDigital",
+      "source_url": "https://github.com/ExponentiallyDigital/ExponentiallyDigital",
+      "description": "Three decades leading enterprise delivery across banking, government, and consulting. Built open-source Golang tools that cut sprint spillover from 70% to 19% at ANZ. Online since 1987, four domain names, two sites. After hours: tinkering with code, Windows kernel tuning, and colour-perception image sorting."
     },
     {
       "slug_hint": "awesome-dev-utilities",
@@ -124,38 +205,21 @@
       "description": "🛠 Access free, fast developer utility tools for common tasks with ease, all powered by LoopPlunk—your go-to source for essential online resources."
     },
     {
-      "slug_hint": "convertlinx",
-      "name": "ashfaqazad/convertlinx",
+      "slug_hint": "mahvex-tools",
+      "name": "Mahvex/mahvex-tools",
       "tags": [
+        "css",
         "developer-tools",
-        "file-converter",
-        "image-tools",
-        "nextjs",
+        "html",
+        "javascript",
         "online-tools",
-        "pdf-tools",
-        "reactjs",
-        "utility-tools",
+        "open-source",
         "web-tools"
       ],
       "priority": "low",
-      "reason": "recent repo: https://github.com/ashfaqazad/convertlinx",
-      "source_url": "https://github.com/ashfaqazad/convertlinx",
-      "description": "Free online tools for converting, editing, and working with files — simple, fast, and easy to use."
-    },
-    {
-      "slug_hint": "andryroby-github-io",
-      "name": "AndryRoby/AndryRoby.github.io",
-      "tags": [
-        "arling",
-        "browser-tools",
-        "developer-tools",
-        "slovakia",
-        "static-site"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/AndryRoby/AndryRoby.github.io",
-      "source_url": "https://github.com/AndryRoby/AndryRoby.github.io",
-      "description": "arling.sk: small browser tools for online shops, accountants and developers. Nothing you paste leaves your browser."
+      "reason": "recent repo: https://github.com/Mahvex/mahvex-tools",
+      "source_url": "https://github.com/Mahvex/mahvex-tools",
+      "description": "A collection of free, fast, and privacy-friendly online tools for developers"
     },
     {
       "slug_hint": "toolkitlife",
@@ -231,74 +295,7 @@
       "reason": "recent repo: https://github.com/KABUS721/online-image-tools",
       "source_url": "https://github.com/KABUS721/online-image-tools",
       "description": "🌐 Convert and process images online for free. Enjoy batch processing, format conversion, and privacy with local handling for your files."
-    },
-    {
-      "slug_hint": "dev-tools",
-      "name": "yqh-core/dev-tools",
-      "tags": [
-        "base64",
-        "cron",
-        "developer-tools",
-        "json-formatter",
-        "jwt",
-        "online-tools",
-        "regex",
-        "typescript"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/yqh-core/dev-tools",
-      "source_url": "https://github.com/yqh-core/dev-tools",
-      "description": "CoderKit — 100+ free online developer tools for JSON, Base64, JWT, regex, cron, hashes and more. Runs in your browser with no sign-up. Open source, based on it-tools."
-    },
-    {
-      "slug_hint": "swiftutils",
-      "name": "taqiraza/swiftutils",
-      "tags": [
-        "client-side",
-        "developer-tools",
-        "image-converter",
-        "pdf-merger",
-        "privacy",
-        "tools",
-        "utilities",
-        "webassembly",
-        "zero-knowledge"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/taqiraza/swiftutils",
-      "source_url": "https://github.com/taqiraza/swiftutils",
-      "description": "100% Free, Private, Client-Side Online Web Utilities. Process PDFs, convert images, calculate taxes, and format code with zero cloud uploads."
-    },
-    {
-      "slug_hint": "privacy-first",
-      "name": "varundeva/privacy-first",
-      "tags": [
-        "browser-based",
-        "client-side",
-        "developer-tools",
-        "file-converter",
-        "free-tools",
-        "hacktoberfest",
-        "image-converter",
-        "json-formatter",
-        "nextjs",
-        "no-upload",
-        "online-tools",
-        "open-source",
-        "pdf-tools",
-        "privacy-first",
-        "privacy-tools",
-        "react",
-        "typescript",
-        "utilities",
-        "web-tools",
-        "webworkers"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/varundeva/privacy-first",
-      "source_url": "https://github.com/varundeva/privacy-first",
-      "description": "🛡️ Free, privacy-first online tools - Image converter, PDF merger, JSON formatter & 60+ utilities. 100% browser-based, no file uploads. Open source toolkit for developers & everyone."
     }
   ],
-  "report": "reports/tool-scan-20261009.md"
+  "report": "reports/tool-scan-20261010.md"
 }
