@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-10-12T04:46:46+08:00",
+  "scanned_at": "2026-10-13T07:28:02+08:00",
   "installed_count": 95,
   "gaps": [
     {
@@ -77,6 +77,58 @@
   ],
   "github_pulse": [
     {
+      "slug_hint": "andryroby-github-io",
+      "name": "AndryRoby/AndryRoby.github.io",
+      "tags": [
+        "arling",
+        "browser-tools",
+        "developer-tools",
+        "slovakia",
+        "static-site"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/AndryRoby/AndryRoby.github.io",
+      "source_url": "https://github.com/AndryRoby/AndryRoby.github.io",
+      "description": "arling.sk: small browser tools for online shops, accountants and developers. Nothing you paste leaves your browser."
+    },
+    {
+      "slug_hint": "dev-tools",
+      "name": "yqh-core/dev-tools",
+      "tags": [
+        "base64",
+        "cron",
+        "developer-tools",
+        "json-formatter",
+        "jwt",
+        "online-tools",
+        "regex",
+        "typescript"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/yqh-core/dev-tools",
+      "source_url": "https://github.com/yqh-core/dev-tools",
+      "description": "CoderKit — 100+ free online developer tools for JSON, Base64, JWT, regex, cron, hashes and more. Runs in your browser with no sign-up. Open source, based on it-tools."
+    },
+    {
+      "slug_hint": "convertlinx",
+      "name": "ashfaqazad/convertlinx",
+      "tags": [
+        "developer-tools",
+        "file-converter",
+        "image-tools",
+        "nextjs",
+        "online-tools",
+        "pdf-tools",
+        "reactjs",
+        "utility-tools",
+        "web-tools"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/ashfaqazad/convertlinx",
+      "source_url": "https://github.com/ashfaqazad/convertlinx",
+      "description": "Free online tools for converting, editing, and working with files — simple, fast, and easy to use."
+    },
+    {
       "slug_hint": "awesome-dev-utilities",
       "name": "A7medAbde7hamed/awesome-dev-utilities",
       "tags": [
@@ -107,23 +159,53 @@
       "description": "🛠 Access free, fast developer utility tools for common tasks with ease, all powered by LoopPlunk—your go-to source for essential online resources."
     },
     {
-      "slug_hint": "convertlinx",
-      "name": "ashfaqazad/convertlinx",
+      "slug_hint": "toolkitloop",
+      "name": "ToolkitLoop/toolkitloop",
       "tags": [
+        "calculators",
+        "converters",
+        "converters-for-everything",
         "developer-tools",
-        "file-converter",
         "image-tools",
-        "nextjs",
+        "image-tools-calculator",
         "online-tools",
-        "pdf-tools",
-        "reactjs",
-        "utility-tools",
-        "web-tools"
+        "privacy-friendly",
+        "productivity-tools",
+        "productivity-tools-platform",
+        "text-tools",
+        "text-tools-online",
+        "toolkitloop",
+        "web-tools",
+        "webtool"
       ],
       "priority": "low",
-      "reason": "recent repo: https://github.com/ashfaqazad/convertlinx",
-      "source_url": "https://github.com/ashfaqazad/convertlinx",
-      "description": "Free online tools for converting, editing, and working with files — simple, fast, and easy to use."
+      "reason": "recent repo: https://github.com/ToolkitLoop/toolkitloop",
+      "source_url": "https://github.com/ToolkitLoop/toolkitloop",
+      "description": "Official GitHub home of ToolkitLoop — fast, private and easy-to-use online tools for everyday tasks."
+    },
+    {
+      "slug_hint": "eve-online-mcp",
+      "name": "HammoTime/eve-online-mcp",
+      "tags": [
+        "ai-tools",
+        "api-client",
+        "ccp-games",
+        "developer-tools",
+        "esi",
+        "eve-online",
+        "fenris-creations",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "oauth2",
+        "pkce",
+        "read-only",
+        "typescript"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/HammoTime/eve-online-mcp",
+      "source_url": "https://github.com/HammoTime/eve-online-mcp",
+      "description": "A secure, read-only MCP server that gives AI assistants comprehensive access to EVE Online’s ESI API, including authenticated character data and schema-aware tools."
     },
     {
       "slug_hint": "toolkitlife",
@@ -221,85 +303,7 @@
       "reason": "recent repo: https://github.com/toolaska/code-diff-checker",
       "source_url": "https://github.com/toolaska/code-diff-checker",
       "description": "Free online side-by-side code difference and text comparison tool. Fast, accurate, and 100% client-side with zero server data transit and complete privacy."
-    },
-    {
-      "slug_hint": "online-image-tools",
-      "name": "KABUS721/online-image-tools",
-      "tags": [
-        "annotations",
-        "api-management",
-        "api-monitoring",
-        "canvas",
-        "code",
-        "deep-learning",
-        "detection",
-        "developer-tools",
-        "element-ui",
-        "hacktoberfest",
-        "html",
-        "idea",
-        "image-classification",
-        "image-processing",
-        "labelimg",
-        "machine-learning",
-        "markdown",
-        "preact"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/KABUS721/online-image-tools",
-      "source_url": "https://github.com/KABUS721/online-image-tools",
-      "description": "🌐 Convert and process images online for free. Enjoy batch processing, format conversion, and privacy with local handling for your files."
-    },
-    {
-      "slug_hint": "andryroby-github-io",
-      "name": "AndryRoby/AndryRoby.github.io",
-      "tags": [
-        "arling",
-        "browser-tools",
-        "developer-tools",
-        "slovakia",
-        "static-site"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/AndryRoby/AndryRoby.github.io",
-      "source_url": "https://github.com/AndryRoby/AndryRoby.github.io",
-      "description": "arling.sk: small browser tools for online shops, accountants and developers. Nothing you paste leaves your browser."
-    },
-    {
-      "slug_hint": "geteasytool-directory",
-      "name": "tanvir-data-analyst/geteasytool-directory",
-      "tags": [
-        "data-analytics",
-        "developer-tools",
-        "developer-tools-ai-agents",
-        "ecommerce-tools",
-        "free-tools-for-small-business",
-        "free-tools-of-development",
-        "productivity-tools",
-        "seo-tools",
-        "web-utilities"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/tanvir-data-analyst/geteasytool-directory",
-      "source_url": "https://github.com/tanvir-data-analyst/geteasytool-directory",
-      "description": "50+ free web utilities and online tools for eCommerce, SEO, Data Analytics, Design, and Developers. No sign-ups, instant results."
-    },
-    {
-      "slug_hint": "toolman",
-      "name": "DahyXu/toolman",
-      "tags": [
-        "cloudflare-pages",
-        "developer-tools",
-        "privacy",
-        "seo",
-        "static-site-generator",
-        "web-tools"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/DahyXu/toolman",
-      "source_url": "https://github.com/DahyXu/toolman",
-      "description": "6,478 free online tools and reference pages that run entirely in your browser — no upload, no sign-up, no tracking. https://toolman.top"
     }
   ],
-  "report": "reports/tool-scan-20261012.md"
+  "report": "reports/tool-scan-20261013.md"
 }
