@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-10-13T07:28:02+08:00",
+  "scanned_at": "2026-10-14T05:42:39+08:00",
   "installed_count": 95,
   "gaps": [
     {
@@ -77,19 +77,32 @@
   ],
   "github_pulse": [
     {
-      "slug_hint": "andryroby-github-io",
-      "name": "AndryRoby/AndryRoby.github.io",
+      "slug_hint": "online-image-tools",
+      "name": "KABUS721/online-image-tools",
       "tags": [
-        "arling",
-        "browser-tools",
+        "annotations",
+        "api-management",
+        "api-monitoring",
+        "canvas",
+        "code",
+        "deep-learning",
+        "detection",
         "developer-tools",
-        "slovakia",
-        "static-site"
+        "element-ui",
+        "hacktoberfest",
+        "html",
+        "idea",
+        "image-classification",
+        "image-processing",
+        "labelimg",
+        "machine-learning",
+        "markdown",
+        "preact"
       ],
       "priority": "low",
-      "reason": "recent repo: https://github.com/AndryRoby/AndryRoby.github.io",
-      "source_url": "https://github.com/AndryRoby/AndryRoby.github.io",
-      "description": "arling.sk: small browser tools for online shops, accountants and developers. Nothing you paste leaves your browser."
+      "reason": "recent repo: https://github.com/KABUS721/online-image-tools",
+      "source_url": "https://github.com/KABUS721/online-image-tools",
+      "description": "🌐 Convert and process images online for free. Enjoy batch processing, format conversion, and privacy with local handling for your files."
     },
     {
       "slug_hint": "dev-tools",
@@ -108,6 +121,91 @@
       "reason": "recent repo: https://github.com/yqh-core/dev-tools",
       "source_url": "https://github.com/yqh-core/dev-tools",
       "description": "CoderKit — 100+ free online developer tools for JSON, Base64, JWT, regex, cron, hashes and more. Runs in your browser with no sign-up. Open source, based on it-tools."
+    },
+    {
+      "slug_hint": "it-tools",
+      "name": "CorentinTh/it-tools",
+      "tags": [
+        "converter",
+        "developer-productivity",
+        "developer-tools",
+        "frontend",
+        "javascript",
+        "productivity",
+        "tool",
+        "tools",
+        "typescript",
+        "vuejs",
+        "website"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/CorentinTh/it-tools",
+      "source_url": "https://github.com/CorentinTh/it-tools",
+      "description": "Collection of handy online tools for developers, with great UX. "
+    },
+    {
+      "slug_hint": "toolverse",
+      "name": "Surya-1301/Toolverse",
+      "tags": [
+        "android",
+        "converter",
+        "developer-tools",
+        "file-sharing",
+        "formatter",
+        "image-tools",
+        "open-source",
+        "pdf-tools",
+        "url-shortener",
+        "utility-tools"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/Surya-1301/Toolverse",
+      "source_url": "https://github.com/Surya-1301/Toolverse",
+      "description": "Free online utilities — 65 tools for developers, creators & everyday users: formatters, converters, generators, image tools, PDF tools & file sharing. No sign-up. Browser-first. Android app available."
+    },
+    {
+      "slug_hint": "exponentiallydigital",
+      "name": "ExponentiallyDigital/ExponentiallyDigital",
+      "tags": [
+        "agile",
+        "android",
+        "consulting",
+        "data-analysis",
+        "delivery",
+        "developer-tools",
+        "devops",
+        "financial-services",
+        "go",
+        "golang",
+        "infrstructure",
+        "jira",
+        "leadership",
+        "lua",
+        "powershell",
+        "powershell-script",
+        "release-management",
+        "scrum",
+        "world-of-warcraft-addon"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/ExponentiallyDigital/ExponentiallyDigital",
+      "source_url": "https://github.com/ExponentiallyDigital/ExponentiallyDigital",
+      "description": "Three decades leading enterprise delivery across banking, government, and consulting. Built open-source Golang tools that cut sprint spillover from 70% to 19% at ANZ. Online since 1987, four domain names, two sites. After hours: tinkering with code, Windows kernel tuning, and colour-perception image sorting."
+    },
+    {
+      "slug_hint": "andryroby-github-io",
+      "name": "AndryRoby/AndryRoby.github.io",
+      "tags": [
+        "arling",
+        "browser-tools",
+        "developer-tools",
+        "slovakia",
+        "static-site"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/AndryRoby/AndryRoby.github.io",
+      "source_url": "https://github.com/AndryRoby/AndryRoby.github.io",
+      "description": "arling.sk: small browser tools for online shops, accountants and developers. Nothing you paste leaves your browser."
     },
     {
       "slug_hint": "convertlinx",
@@ -206,104 +304,7 @@
       "reason": "recent repo: https://github.com/HammoTime/eve-online-mcp",
       "source_url": "https://github.com/HammoTime/eve-online-mcp",
       "description": "A secure, read-only MCP server that gives AI assistants comprehensive access to EVE Online’s ESI API, including authenticated character data and schema-aware tools."
-    },
-    {
-      "slug_hint": "toolkitlife",
-      "name": "xiongfh2008/toolkitlife",
-      "tags": [
-        "calculators",
-        "client-side",
-        "developer-tools",
-        "free-tools",
-        "image-processing",
-        "nextjs",
-        "no-signup",
-        "online-tools",
-        "pdf-tools",
-        "privacy-first",
-        "productivity",
-        "react",
-        "tailwindcss",
-        "typescript",
-        "video-tools",
-        "web-tools"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/xiongfh2008/toolkitlife",
-      "source_url": "https://github.com/xiongfh2008/toolkitlife",
-      "description": "375 free online tools & calculators that run entirely in your browser - PDF, image, video, finance, health & more. No signup, no upload, no data stored."
-    },
-    {
-      "slug_hint": "json-formatter-tool",
-      "name": "toolaska/json-formatter-tool",
-      "tags": [
-        "developer-tools",
-        "json",
-        "json-beautifier",
-        "json-converter",
-        "json-formatter",
-        "json-formatter-guide",
-        "json-formatter-online",
-        "json-formatter-validator",
-        "json-formatters",
-        "json-minifier",
-        "json-validator",
-        "online-tools",
-        "online-tools-websites",
-        "toolaska"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/toolaska/json-formatter-tool",
-      "source_url": "https://github.com/toolaska/json-formatter-tool",
-      "description": "Free online JSON formatter, beautifier, validator, and minifier for developers and students. Convert JSON to CSV, XML, and YAML, sort keys, escape or unescape data, and copy or download results instantly. Save recent JSON locally and share data through temporary links. Simplify JSON formatting, validation, and conversion with easy-to-use tools."
-    },
-    {
-      "slug_hint": "toolaska",
-      "name": "toolaska/toolaska",
-      "tags": [
-        "audio-editor",
-        "calculators",
-        "code-editor",
-        "data-converter",
-        "data-visualization",
-        "developer-tools",
-        "diff-checker",
-        "html-css-javascript",
-        "image-editor",
-        "javascript",
-        "json-formatter",
-        "online-compiler",
-        "pdf-tools",
-        "regex-tester",
-        "sql-playground",
-        "sql-practice",
-        "video-editing",
-        "web-utilities",
-        "whiteboard"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/toolaska/toolaska",
-      "source_url": "https://github.com/toolaska/toolaska",
-      "description": "Toolaska is a collection of free online tools for developers, students, and creators. Explore JSON Formatter, Diff Checker, Code Compiler, SQL Playground, Whiteboard, Diagram Tool, Image Editor, calculators, and more. Built to simplify everyday tasks with fast, accessible, browser-based utilities."
-    },
-    {
-      "slug_hint": "code-diff-checker",
-      "name": "toolaska/code-diff-checker",
-      "tags": [
-        "client-side",
-        "code-diff",
-        "code-reviewer",
-        "developer-tools",
-        "diff-checker",
-        "side-by-side",
-        "text-compare",
-        "toolaska"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/toolaska/code-diff-checker",
-      "source_url": "https://github.com/toolaska/code-diff-checker",
-      "description": "Free online side-by-side code difference and text comparison tool. Fast, accurate, and 100% client-side with zero server data transit and complete privacy."
     }
   ],
-  "report": "reports/tool-scan-20261013.md"
+  "report": "reports/tool-scan-20261014.md"
 }
