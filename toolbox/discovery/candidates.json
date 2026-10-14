@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-10-14T05:42:39+08:00",
+  "scanned_at": "2026-10-15T04:25:46+08:00",
   "installed_count": 95,
   "gaps": [
     {
@@ -77,73 +77,6 @@
   ],
   "github_pulse": [
     {
-      "slug_hint": "online-image-tools",
-      "name": "KABUS721/online-image-tools",
-      "tags": [
-        "annotations",
-        "api-management",
-        "api-monitoring",
-        "canvas",
-        "code",
-        "deep-learning",
-        "detection",
-        "developer-tools",
-        "element-ui",
-        "hacktoberfest",
-        "html",
-        "idea",
-        "image-classification",
-        "image-processing",
-        "labelimg",
-        "machine-learning",
-        "markdown",
-        "preact"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/KABUS721/online-image-tools",
-      "source_url": "https://github.com/KABUS721/online-image-tools",
-      "description": "🌐 Convert and process images online for free. Enjoy batch processing, format conversion, and privacy with local handling for your files."
-    },
-    {
-      "slug_hint": "dev-tools",
-      "name": "yqh-core/dev-tools",
-      "tags": [
-        "base64",
-        "cron",
-        "developer-tools",
-        "json-formatter",
-        "jwt",
-        "online-tools",
-        "regex",
-        "typescript"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/yqh-core/dev-tools",
-      "source_url": "https://github.com/yqh-core/dev-tools",
-      "description": "CoderKit — 100+ free online developer tools for JSON, Base64, JWT, regex, cron, hashes and more. Runs in your browser with no sign-up. Open source, based on it-tools."
-    },
-    {
-      "slug_hint": "it-tools",
-      "name": "CorentinTh/it-tools",
-      "tags": [
-        "converter",
-        "developer-productivity",
-        "developer-tools",
-        "frontend",
-        "javascript",
-        "productivity",
-        "tool",
-        "tools",
-        "typescript",
-        "vuejs",
-        "website"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/CorentinTh/it-tools",
-      "source_url": "https://github.com/CorentinTh/it-tools",
-      "description": "Collection of handy online tools for developers, with great UX. "
-    },
-    {
       "slug_hint": "toolverse",
       "name": "Surya-1301/Toolverse",
       "tags": [
@@ -162,6 +95,24 @@
       "reason": "recent repo: https://github.com/Surya-1301/Toolverse",
       "source_url": "https://github.com/Surya-1301/Toolverse",
       "description": "Free online utilities — 65 tools for developers, creators & everyday users: formatters, converters, generators, image tools, PDF tools & file sharing. No sign-up. Browser-first. Android app available."
+    },
+    {
+      "slug_hint": "dev-tools",
+      "name": "yqh-core/dev-tools",
+      "tags": [
+        "base64",
+        "cron",
+        "developer-tools",
+        "json-formatter",
+        "jwt",
+        "online-tools",
+        "regex",
+        "typescript"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/yqh-core/dev-tools",
+      "source_url": "https://github.com/yqh-core/dev-tools",
+      "description": "CoderKit — 100+ free online developer tools for JSON, Base64, JWT, regex, cron, hashes and more. Runs in your browser with no sign-up. Open source, based on it-tools."
     },
     {
       "slug_hint": "exponentiallydigital",
@@ -193,6 +144,34 @@
       "description": "Three decades leading enterprise delivery across banking, government, and consulting. Built open-source Golang tools that cut sprint spillover from 70% to 19% at ANZ. Online since 1987, four domain names, two sites. After hours: tinkering with code, Windows kernel tuning, and colour-perception image sorting."
     },
     {
+      "slug_hint": "online-image-tools",
+      "name": "KABUS721/online-image-tools",
+      "tags": [
+        "annotations",
+        "api-management",
+        "api-monitoring",
+        "canvas",
+        "code",
+        "deep-learning",
+        "detection",
+        "developer-tools",
+        "element-ui",
+        "hacktoberfest",
+        "html",
+        "idea",
+        "image-classification",
+        "image-processing",
+        "labelimg",
+        "machine-learning",
+        "markdown",
+        "preact"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/KABUS721/online-image-tools",
+      "source_url": "https://github.com/KABUS721/online-image-tools",
+      "description": "🌐 Convert and process images online for free. Enjoy batch processing, format conversion, and privacy with local handling for your files."
+    },
+    {
       "slug_hint": "andryroby-github-io",
       "name": "AndryRoby/AndryRoby.github.io",
       "tags": [
@@ -206,6 +185,27 @@
       "reason": "recent repo: https://github.com/AndryRoby/AndryRoby.github.io",
       "source_url": "https://github.com/AndryRoby/AndryRoby.github.io",
       "description": "arling.sk: small browser tools for online shops, accountants and developers. Nothing you paste leaves your browser."
+    },
+    {
+      "slug_hint": "it-tools",
+      "name": "CorentinTh/it-tools",
+      "tags": [
+        "converter",
+        "developer-productivity",
+        "developer-tools",
+        "frontend",
+        "javascript",
+        "productivity",
+        "tool",
+        "tools",
+        "typescript",
+        "vuejs",
+        "website"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/CorentinTh/it-tools",
+      "source_url": "https://github.com/CorentinTh/it-tools",
+      "description": "Collection of handy online tools for developers, with great UX. "
     },
     {
       "slug_hint": "convertlinx",
@@ -306,5 +306,5 @@
       "description": "A secure, read-only MCP server that gives AI assistants comprehensive access to EVE Online’s ESI API, including authenticated character data and schema-aware tools."
     }
   ],
-  "report": "reports/tool-scan-20261014.md"
+  "report": "reports/tool-scan-20261015.md"
 }
