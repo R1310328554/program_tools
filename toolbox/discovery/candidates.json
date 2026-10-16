@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-10-16T04:10:20+08:00",
+  "scanned_at": "2026-10-17T03:47:49+08:00",
   "installed_count": 95,
   "gaps": [
     {
@@ -77,6 +77,20 @@
   ],
   "github_pulse": [
     {
+      "slug_hint": "cubbbix-tools",
+      "name": "b0b90/cubbbix-tools",
+      "tags": [
+        "awesome",
+        "cubbbix",
+        "developer-tools",
+        "online-tools"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/b0b90/cubbbix-tools",
+      "source_url": "https://github.com/b0b90/cubbbix-tools",
+      "description": "A curated list of free online tools from Cubbbix"
+    },
+    {
       "slug_hint": "dev-tools",
       "name": "yqh-core/dev-tools",
       "tags": [
@@ -93,6 +107,50 @@
       "reason": "recent repo: https://github.com/yqh-core/dev-tools",
       "source_url": "https://github.com/yqh-core/dev-tools",
       "description": "CoderKit — 100+ free online developer tools for JSON, Base64, JWT, regex, cron, hashes and more. Runs in your browser with no sign-up. Open source, based on it-tools."
+    },
+    {
+      "slug_hint": "andryroby-github-io",
+      "name": "AndryRoby/AndryRoby.github.io",
+      "tags": [
+        "arling",
+        "browser-tools",
+        "developer-tools",
+        "slovakia",
+        "static-site"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/AndryRoby/AndryRoby.github.io",
+      "source_url": "https://github.com/AndryRoby/AndryRoby.github.io",
+      "description": "arling.sk: small browser tools for online shops, accountants and developers. Nothing you paste leaves your browser."
+    },
+    {
+      "slug_hint": "exponentiallydigital",
+      "name": "ExponentiallyDigital/ExponentiallyDigital",
+      "tags": [
+        "agile",
+        "android",
+        "consulting",
+        "data-analysis",
+        "delivery",
+        "developer-tools",
+        "devops",
+        "financial-services",
+        "go",
+        "golang",
+        "infrstructure",
+        "jira",
+        "leadership",
+        "lua",
+        "powershell",
+        "powershell-script",
+        "release-management",
+        "scrum",
+        "world-of-warcraft-addon"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/ExponentiallyDigital/ExponentiallyDigital",
+      "source_url": "https://github.com/ExponentiallyDigital/ExponentiallyDigital",
+      "description": "Three decades leading enterprise delivery across banking, government, and consulting. Built open-source Golang tools that cut sprint spillover from 70% to 19% at ANZ. Online since 1987, four domain names, two sites. After hours: tinkering with code, Windows kernel tuning, and colour-perception image sorting."
     },
     {
       "slug_hint": "toolverse",
@@ -113,21 +171,6 @@
       "reason": "recent repo: https://github.com/Surya-1301/Toolverse",
       "source_url": "https://github.com/Surya-1301/Toolverse",
       "description": "Free online utilities — 65 tools for developers, creators & everyday users: formatters, converters, generators, image tools, PDF tools & file sharing. No sign-up. Browser-first. Android app available."
-    },
-    {
-      "slug_hint": "andryroby-github-io",
-      "name": "AndryRoby/AndryRoby.github.io",
-      "tags": [
-        "arling",
-        "browser-tools",
-        "developer-tools",
-        "slovakia",
-        "static-site"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/AndryRoby/AndryRoby.github.io",
-      "source_url": "https://github.com/AndryRoby/AndryRoby.github.io",
-      "description": "arling.sk: small browser tools for online shops, accountants and developers. Nothing you paste leaves your browser."
     },
     {
       "slug_hint": "convertlinx",
@@ -193,35 +236,6 @@
       "description": "A categorized collection of open-source online tools by Wang Ruofeng."
     },
     {
-      "slug_hint": "exponentiallydigital",
-      "name": "ExponentiallyDigital/ExponentiallyDigital",
-      "tags": [
-        "agile",
-        "android",
-        "consulting",
-        "data-analysis",
-        "delivery",
-        "developer-tools",
-        "devops",
-        "financial-services",
-        "go",
-        "golang",
-        "infrstructure",
-        "jira",
-        "leadership",
-        "lua",
-        "powershell",
-        "powershell-script",
-        "release-management",
-        "scrum",
-        "world-of-warcraft-addon"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/ExponentiallyDigital/ExponentiallyDigital",
-      "source_url": "https://github.com/ExponentiallyDigital/ExponentiallyDigital",
-      "description": "Three decades leading enterprise delivery across banking, government, and consulting. Built open-source Golang tools that cut sprint spillover from 70% to 19% at ANZ. Online since 1987, four domain names, two sites. After hours: tinkering with code, Windows kernel tuning, and colour-perception image sorting."
-    },
-    {
       "slug_hint": "tooloraa-online-tools",
       "name": "karma1911/tooloraa-online-tools",
       "tags": [
@@ -259,35 +273,7 @@
       "reason": "recent repo: https://github.com/vincent-k-sm/uhub-tools",
       "source_url": "https://github.com/vincent-k-sm/uhub-tools",
       "description": "30 free online tools that run entirely in your browser — JSON, images, app icons, QR, PDF tables and more. No upload, 10 languages."
-    },
-    {
-      "slug_hint": "online-image-tools",
-      "name": "KABUS721/online-image-tools",
-      "tags": [
-        "annotations",
-        "api-management",
-        "api-monitoring",
-        "canvas",
-        "code",
-        "deep-learning",
-        "detection",
-        "developer-tools",
-        "element-ui",
-        "hacktoberfest",
-        "html",
-        "idea",
-        "image-classification",
-        "image-processing",
-        "labelimg",
-        "machine-learning",
-        "markdown",
-        "preact"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/KABUS721/online-image-tools",
-      "source_url": "https://github.com/KABUS721/online-image-tools",
-      "description": "🌐 Convert and process images online for free. Enjoy batch processing, format conversion, and privacy with local handling for your files."
     }
   ],
-  "report": "reports/tool-scan-20261016.md"
+  "report": "reports/tool-scan-20261017.md"
 }
