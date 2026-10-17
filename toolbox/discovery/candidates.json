@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-10-17T03:47:49+08:00",
+  "scanned_at": "2026-10-18T03:00:19+08:00",
   "installed_count": 95,
   "gaps": [
     {
@@ -77,18 +77,47 @@
   ],
   "github_pulse": [
     {
-      "slug_hint": "cubbbix-tools",
-      "name": "b0b90/cubbbix-tools",
+      "slug_hint": "convertlinx",
+      "name": "ashfaqazad/convertlinx",
       "tags": [
-        "awesome",
-        "cubbbix",
         "developer-tools",
-        "online-tools"
+        "file-converter",
+        "image-tools",
+        "nextjs",
+        "online-tools",
+        "pdf-tools",
+        "reactjs",
+        "utility-tools",
+        "web-tools"
       ],
       "priority": "low",
-      "reason": "recent repo: https://github.com/b0b90/cubbbix-tools",
-      "source_url": "https://github.com/b0b90/cubbbix-tools",
-      "description": "A curated list of free online tools from Cubbbix"
+      "reason": "recent repo: https://github.com/ashfaqazad/convertlinx",
+      "source_url": "https://github.com/ashfaqazad/convertlinx",
+      "description": "Free online tools for converting, editing, and working with files — simple, fast, and easy to use."
+    },
+    {
+      "slug_hint": "toolzen",
+      "name": "Jaydip212/toolzen",
+      "tags": [
+        "aeo",
+        "developer-tools",
+        "free-tools",
+        "geo",
+        "json-ld",
+        "online-tools",
+        "privacy-first",
+        "react",
+        "seo",
+        "tailwindcss",
+        "typescript",
+        "utilities",
+        "vite",
+        "web-tools"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/Jaydip212/toolzen",
+      "source_url": "https://github.com/Jaydip212/toolzen",
+      "description": "TOOLZEN — Every Tool. One Place. A free, privacy-first online tools platform. React + Vite + TypeScript, with SEO/AEO/GEO built in."
     },
     {
       "slug_hint": "dev-tools",
@@ -122,6 +151,37 @@
       "reason": "recent repo: https://github.com/AndryRoby/AndryRoby.github.io",
       "source_url": "https://github.com/AndryRoby/AndryRoby.github.io",
       "description": "arling.sk: small browser tools for online shops, accountants and developers. Nothing you paste leaves your browser."
+    },
+    {
+      "slug_hint": "utopia",
+      "name": "api-evangelist/utopia",
+      "tags": [
+        "apis-json",
+        "company",
+        "design",
+        "developer-tools",
+        "low-code",
+        "open-source",
+        "react"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/api-evangelist/utopia",
+      "source_url": "https://github.com/api-evangelist/utopia",
+      "description": "Utopia — independent third-party profile of a public API surface, by API Evangelist. Utopia was an online platform for designing, coding, and shipping React applications, pairing a visual design tool with a code editor over one source of truth. A 2020 Seedcamp portfolio company, it was built in the open as the MIT-licensed concrete-utopia/utopia mo"
+    },
+    {
+      "slug_hint": "cubbbix-tools",
+      "name": "b0b90/cubbbix-tools",
+      "tags": [
+        "awesome",
+        "cubbbix",
+        "developer-tools",
+        "online-tools"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/b0b90/cubbbix-tools",
+      "source_url": "https://github.com/b0b90/cubbbix-tools",
+      "description": "A curated list of free online tools from Cubbbix"
     },
     {
       "slug_hint": "exponentiallydigital",
@@ -173,25 +233,6 @@
       "description": "Free online utilities — 65 tools for developers, creators & everyday users: formatters, converters, generators, image tools, PDF tools & file sharing. No sign-up. Browser-first. Android app available."
     },
     {
-      "slug_hint": "convertlinx",
-      "name": "ashfaqazad/convertlinx",
-      "tags": [
-        "developer-tools",
-        "file-converter",
-        "image-tools",
-        "nextjs",
-        "online-tools",
-        "pdf-tools",
-        "reactjs",
-        "utility-tools",
-        "web-tools"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/ashfaqazad/convertlinx",
-      "source_url": "https://github.com/ashfaqazad/convertlinx",
-      "description": "Free online tools for converting, editing, and working with files — simple, fast, and easy to use."
-    },
-    {
       "slug_hint": "toolkitlife",
       "name": "xiongfh2008/toolkitlife",
       "tags": [
@@ -234,46 +275,7 @@
       "reason": "recent repo: https://github.com/wangruofeng/awesome-tools",
       "source_url": "https://github.com/wangruofeng/awesome-tools",
       "description": "A categorized collection of open-source online tools by Wang Ruofeng."
-    },
-    {
-      "slug_hint": "tooloraa-online-tools",
-      "name": "karma1911/tooloraa-online-tools",
-      "tags": [
-        "developer-tools",
-        "developer-tools-",
-        "developer-tools-productivity",
-        "free-tools-of-development",
-        "online-tools",
-        "online-tools-source-code",
-        "online-tools-text-tools",
-        "online-tools-websites",
-        "web-utilities"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/karma1911/tooloraa-online-tools",
-      "source_url": "https://github.com/karma1911/tooloraa-online-tools",
-      "description": "A collection of free online utilities for developers, students, and everyday users."
-    },
-    {
-      "slug_hint": "uhub-tools",
-      "name": "vincent-k-sm/uhub-tools",
-      "tags": [
-        "app-icon-generator",
-        "browser-tools",
-        "developer-tools",
-        "free-tools",
-        "image-converter",
-        "json-formatter",
-        "multilingual",
-        "online-tools",
-        "privacy",
-        "qr-code-generator"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/vincent-k-sm/uhub-tools",
-      "source_url": "https://github.com/vincent-k-sm/uhub-tools",
-      "description": "30 free online tools that run entirely in your browser — JSON, images, app icons, QR, PDF tables and more. No upload, 10 languages."
     }
   ],
-  "report": "reports/tool-scan-20261017.md"
+  "report": "reports/tool-scan-20261018.md"
 }
