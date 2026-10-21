@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-10-21T04:16:45+08:00",
+  "scanned_at": "2026-10-22T04:26:26+08:00",
   "installed_count": 95,
   "gaps": [
     {
@@ -77,76 +77,77 @@
   ],
   "github_pulse": [
     {
-      "slug_hint": "toolverse",
-      "name": "Surya-1301/Toolverse",
-      "tags": [
-        "android",
-        "converter",
-        "developer-tools",
-        "file-sharing",
-        "formatter",
-        "image-tools",
-        "open-source",
-        "pdf-tools",
-        "url-shortener",
-        "utility-tools"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/Surya-1301/Toolverse",
-      "source_url": "https://github.com/Surya-1301/Toolverse",
-      "description": "Free online utilities — 65 tools for developers, creators & everyday users: formatters, converters, generators, image tools, PDF tools & file sharing. No sign-up. Browser-first. Android app available."
-    },
-    {
-      "slug_hint": "andryroby-github-io",
-      "name": "AndryRoby/AndryRoby.github.io",
-      "tags": [
-        "arling",
-        "browser-tools",
-        "developer-tools",
-        "slovakia",
-        "static-site"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/AndryRoby/AndryRoby.github.io",
-      "source_url": "https://github.com/AndryRoby/AndryRoby.github.io",
-      "description": "arling.sk: small browser tools for online shops, accountants and developers. Nothing you paste leaves your browser."
-    },
-    {
-      "slug_hint": "convertlinx",
-      "name": "ashfaqazad/convertlinx",
+      "slug_hint": "free-online-tools",
+      "name": "zynocode/free-online-tools",
       "tags": [
         "developer-tools",
-        "file-converter",
-        "image-tools",
+        "free-tools",
+        "image-compressor",
         "nextjs",
         "online-tools",
         "pdf-tools",
-        "reactjs",
-        "utility-tools",
+        "privacy-first",
+        "productivity",
+        "seo-tools",
         "web-tools"
       ],
       "priority": "low",
-      "reason": "recent repo: https://github.com/ashfaqazad/convertlinx",
-      "source_url": "https://github.com/ashfaqazad/convertlinx",
-      "description": "Free online tools for converting, editing, and working with files — simple, fast, and easy to use."
+      "reason": "recent repo: https://github.com/zynocode/free-online-tools",
+      "source_url": "https://github.com/zynocode/free-online-tools",
+      "description": "Free online tools for PDF, images, SEO, writing, developers and finance — runs in your browser"
     },
     {
-      "slug_hint": "dev-tools",
-      "name": "yqh-core/dev-tools",
+      "slug_hint": "eve-online-mcp",
+      "name": "HammoTime/eve-online-mcp",
       "tags": [
-        "base64",
-        "cron",
+        "ai-tools",
+        "api-client",
+        "ccp-games",
         "developer-tools",
-        "json-formatter",
-        "jwt",
-        "online-tools",
-        "regex",
+        "esi",
+        "eve-online",
+        "fenris-creations",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "oauth2",
+        "pkce",
+        "read-only",
         "typescript"
       ],
       "priority": "low",
-      "reason": "recent repo: https://github.com/yqh-core/dev-tools",
-      "source_url": "https://github.com/yqh-core/dev-tools",
-      "description": "CoderKit — 100+ free online developer tools for JSON, Base64, JWT, regex, cron, hashes and more. Runs in your browser with no sign-up. Open source, based on it-tools."
+      "reason": "recent repo: https://github.com/HammoTime/eve-online-mcp",
+      "source_url": "https://github.com/HammoTime/eve-online-mcp",
+      "description": "A secure, read-only MCP server that gives AI assistants comprehensive access to EVE Online’s ESI API, including authenticated character data and schema-aware tools."
+    },
+    {
+      "slug_hint": "exponentiallydigital",
+      "name": "ExponentiallyDigital/ExponentiallyDigital",
+      "tags": [
+        "agile",
+        "android",
+        "consulting",
+        "data-analysis",
+        "delivery",
+        "developer-tools",
+        "devops",
+        "financial-services",
+        "go",
+        "golang",
+        "infrstructure",
+        "jira",
+        "leadership",
+        "lua",
+        "powershell",
+        "powershell-script",
+        "release-management",
+        "scrum",
+        "world-of-warcraft-addon"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/ExponentiallyDigital/ExponentiallyDigital",
+      "source_url": "https://github.com/ExponentiallyDigital/ExponentiallyDigital",
+      "description": "Three decades leading enterprise delivery across banking, government, and consulting. Built open-source Golang tools that cut sprint spillover from 70% to 19% at ANZ. Online since 1987, four domain names, two sites. After hours: tinkering with code, Windows kernel tuning, and colour-perception image sorting."
     },
     {
       "slug_hint": "it-tools",
@@ -168,6 +169,78 @@
       "reason": "recent repo: https://github.com/CorentinTh/it-tools",
       "source_url": "https://github.com/CorentinTh/it-tools",
       "description": "Collection of handy online tools for developers, with great UX. "
+    },
+    {
+      "slug_hint": "dev-tools",
+      "name": "yqh-core/dev-tools",
+      "tags": [
+        "base64",
+        "cron",
+        "developer-tools",
+        "json-formatter",
+        "jwt",
+        "online-tools",
+        "regex",
+        "typescript"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/yqh-core/dev-tools",
+      "source_url": "https://github.com/yqh-core/dev-tools",
+      "description": "CoderKit — 100+ free online developer tools for JSON, Base64, JWT, regex, cron, hashes and more. Runs in your browser with no sign-up. Open source, based on it-tools."
+    },
+    {
+      "slug_hint": "andryroby-github-io",
+      "name": "AndryRoby/AndryRoby.github.io",
+      "tags": [
+        "arling",
+        "browser-tools",
+        "developer-tools",
+        "slovakia",
+        "static-site"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/AndryRoby/AndryRoby.github.io",
+      "source_url": "https://github.com/AndryRoby/AndryRoby.github.io",
+      "description": "arling.sk: small browser tools for online shops, accountants and developers. Nothing you paste leaves your browser."
+    },
+    {
+      "slug_hint": "toolverse",
+      "name": "Surya-1301/Toolverse",
+      "tags": [
+        "android",
+        "converter",
+        "developer-tools",
+        "file-sharing",
+        "formatter",
+        "image-tools",
+        "open-source",
+        "pdf-tools",
+        "url-shortener",
+        "utility-tools"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/Surya-1301/Toolverse",
+      "source_url": "https://github.com/Surya-1301/Toolverse",
+      "description": "Free online utilities — 65 tools for developers, creators & everyday users: formatters, converters, generators, image tools, PDF tools & file sharing. No sign-up. Browser-first. Android app available."
+    },
+    {
+      "slug_hint": "convertlinx",
+      "name": "ashfaqazad/convertlinx",
+      "tags": [
+        "developer-tools",
+        "file-converter",
+        "image-tools",
+        "nextjs",
+        "online-tools",
+        "pdf-tools",
+        "reactjs",
+        "utility-tools",
+        "web-tools"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/ashfaqazad/convertlinx",
+      "source_url": "https://github.com/ashfaqazad/convertlinx",
+      "description": "Free online tools for converting, editing, and working with files — simple, fast, and easy to use."
     },
     {
       "slug_hint": "free-web-tools",
@@ -206,66 +279,7 @@
       "reason": "recent repo: https://github.com/wangruofeng/awesome-tools",
       "source_url": "https://github.com/wangruofeng/awesome-tools",
       "description": "A categorized collection of open-source online tools by Wang Ruofeng."
-    },
-    {
-      "slug_hint": "cubbbix-tools",
-      "name": "b0b90/cubbbix-tools",
-      "tags": [
-        "awesome",
-        "cubbbix",
-        "developer-tools",
-        "online-tools"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/b0b90/cubbbix-tools",
-      "source_url": "https://github.com/b0b90/cubbbix-tools",
-      "description": "A curated list of free online tools from Cubbbix"
-    },
-    {
-      "slug_hint": "exponentiallydigital",
-      "name": "ExponentiallyDigital/ExponentiallyDigital",
-      "tags": [
-        "agile",
-        "android",
-        "consulting",
-        "data-analysis",
-        "delivery",
-        "developer-tools",
-        "devops",
-        "financial-services",
-        "go",
-        "golang",
-        "infrstructure",
-        "jira",
-        "leadership",
-        "lua",
-        "powershell",
-        "powershell-script",
-        "release-management",
-        "scrum",
-        "world-of-warcraft-addon"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/ExponentiallyDigital/ExponentiallyDigital",
-      "source_url": "https://github.com/ExponentiallyDigital/ExponentiallyDigital",
-      "description": "Three decades leading enterprise delivery across banking, government, and consulting. Built open-source Golang tools that cut sprint spillover from 70% to 19% at ANZ. Online since 1987, four domain names, two sites. After hours: tinkering with code, Windows kernel tuning, and colour-perception image sorting."
-    },
-    {
-      "slug_hint": "devkithq",
-      "name": "peichendev/devkithq",
-      "tags": [
-        "developer-tools",
-        "image-tools",
-        "online-tools",
-        "privacy",
-        "vanilla-js",
-        "vercel"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/peichendev/devkithq",
-      "source_url": "https://github.com/peichendev/devkithq",
-      "description": "12 free, privacy-first online tools for images and code — compress, convert, JSON, Base64, Markdown. Runs entirely in the browser, zero build step."
     }
   ],
-  "report": "reports/tool-scan-20261021.md"
+  "report": "reports/tool-scan-20261022.md"
 }
