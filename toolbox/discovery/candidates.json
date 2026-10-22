@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-10-22T04:26:26+08:00",
+  "scanned_at": "2026-10-23T04:24:52+08:00",
   "installed_count": 95,
   "gaps": [
     {
@@ -76,6 +76,55 @@
     }
   ],
   "github_pulse": [
+    {
+      "slug_hint": "andryroby-github-io",
+      "name": "AndryRoby/AndryRoby.github.io",
+      "tags": [
+        "arling",
+        "browser-tools",
+        "developer-tools",
+        "slovakia",
+        "static-site"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/AndryRoby/AndryRoby.github.io",
+      "source_url": "https://github.com/AndryRoby/AndryRoby.github.io",
+      "description": "arling.sk: small browser tools for online shops, accountants and developers. Nothing you paste leaves your browser."
+    },
+    {
+      "slug_hint": "awesome-tools",
+      "name": "wangruofeng/awesome-tools",
+      "tags": [
+        "awesome-list",
+        "developer-tools",
+        "github-pages",
+        "online-tools",
+        "open-source",
+        "static-site",
+        "vanilla-javascript",
+        "web-tools"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/wangruofeng/awesome-tools",
+      "source_url": "https://github.com/wangruofeng/awesome-tools",
+      "description": "A categorized collection of open-source online tools by Wang Ruofeng."
+    },
+    {
+      "slug_hint": "toolman",
+      "name": "DahyXu/toolman",
+      "tags": [
+        "cloudflare-pages",
+        "developer-tools",
+        "privacy",
+        "seo",
+        "static-site-generator",
+        "web-tools"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/DahyXu/toolman",
+      "source_url": "https://github.com/DahyXu/toolman",
+      "description": "6,478 free online tools and reference pages that run entirely in your browser — no upload, no sign-up, no tracking. https://toolman.top"
+    },
     {
       "slug_hint": "free-online-tools",
       "name": "zynocode/free-online-tools",
@@ -189,21 +238,6 @@
       "description": "CoderKit — 100+ free online developer tools for JSON, Base64, JWT, regex, cron, hashes and more. Runs in your browser with no sign-up. Open source, based on it-tools."
     },
     {
-      "slug_hint": "andryroby-github-io",
-      "name": "AndryRoby/AndryRoby.github.io",
-      "tags": [
-        "arling",
-        "browser-tools",
-        "developer-tools",
-        "slovakia",
-        "static-site"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/AndryRoby/AndryRoby.github.io",
-      "source_url": "https://github.com/AndryRoby/AndryRoby.github.io",
-      "description": "arling.sk: small browser tools for online shops, accountants and developers. Nothing you paste leaves your browser."
-    },
-    {
       "slug_hint": "toolverse",
       "name": "Surya-1301/Toolverse",
       "tags": [
@@ -241,45 +275,7 @@
       "reason": "recent repo: https://github.com/ashfaqazad/convertlinx",
       "source_url": "https://github.com/ashfaqazad/convertlinx",
       "description": "Free online tools for converting, editing, and working with files — simple, fast, and easy to use."
-    },
-    {
-      "slug_hint": "free-web-tools",
-      "name": "abczsl520/free-web-tools",
-      "tags": [
-        "calculator",
-        "converter",
-        "developer-tools",
-        "free-tools",
-        "image-tools",
-        "online-tools",
-        "pdf-tools",
-        "seo-tools",
-        "text-tools",
-        "web-tools"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/abczsl520/free-web-tools",
-      "source_url": "https://github.com/abczsl520/free-web-tools",
-      "description": "600+ free online tools: converters, calculators, generators, text tools, PDF tools, image tools, SEO tools, dev tools. No signup, works in browser."
-    },
-    {
-      "slug_hint": "awesome-tools",
-      "name": "wangruofeng/awesome-tools",
-      "tags": [
-        "awesome-list",
-        "developer-tools",
-        "github-pages",
-        "online-tools",
-        "open-source",
-        "static-site",
-        "vanilla-javascript",
-        "web-tools"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/wangruofeng/awesome-tools",
-      "source_url": "https://github.com/wangruofeng/awesome-tools",
-      "description": "A categorized collection of open-source online tools by Wang Ruofeng."
     }
   ],
-  "report": "reports/tool-scan-20261022.md"
+  "report": "reports/tool-scan-20261023.md"
 }
