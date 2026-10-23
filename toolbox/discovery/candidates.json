@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-10-23T04:24:52+08:00",
+  "scanned_at": "2026-10-24T04:11:37+08:00",
   "installed_count": 95,
   "gaps": [
     {
@@ -90,6 +90,79 @@
       "reason": "recent repo: https://github.com/AndryRoby/AndryRoby.github.io",
       "source_url": "https://github.com/AndryRoby/AndryRoby.github.io",
       "description": "arling.sk: small browser tools for online shops, accountants and developers. Nothing you paste leaves your browser."
+    },
+    {
+      "slug_hint": "dev-tools",
+      "name": "yqh-core/dev-tools",
+      "tags": [
+        "base64",
+        "cron",
+        "developer-tools",
+        "json-formatter",
+        "jwt",
+        "online-tools",
+        "regex",
+        "typescript"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/yqh-core/dev-tools",
+      "source_url": "https://github.com/yqh-core/dev-tools",
+      "description": "CoderKit — 100+ free online developer tools for JSON, Base64, JWT, regex, cron, hashes and more. Runs in your browser with no sign-up. Open source, based on it-tools."
+    },
+    {
+      "slug_hint": "devtoolbox",
+      "name": "YuChuanhui3/devtoolbox",
+      "tags": [
+        "developer-tools",
+        "file-transfer",
+        "json-formatter",
+        "online-tools",
+        "react",
+        "toolbox",
+        "typescript",
+        "vite",
+        "web-development"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/YuChuanhui3/devtoolbox",
+      "source_url": "https://github.com/YuChuanhui3/devtoolbox",
+      "description": "Free bilingual (EN/中文) online developer toolbox — 91 browser-based tools: JSON formatter, encoding & encryption, regex, image compressor, QR codes, WebRTC LAN file transfer. No backend, data never leaves your device."
+    },
+    {
+      "slug_hint": "tools",
+      "name": "xsrazy/tools",
+      "tags": [
+        "calculators",
+        "converters",
+        "developer-tools",
+        "online-tools",
+        "vanilla-javascript"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/xsrazy/tools",
+      "source_url": "https://github.com/xsrazy/tools",
+      "description": "1,100+ free online tools: calculators, converters, developer utilities and downloaders. No sign-up, everything runs in your browser."
+    },
+    {
+      "slug_hint": "it-tools",
+      "name": "CorentinTh/it-tools",
+      "tags": [
+        "converter",
+        "developer-productivity",
+        "developer-tools",
+        "frontend",
+        "javascript",
+        "productivity",
+        "tool",
+        "tools",
+        "typescript",
+        "vuejs",
+        "website"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/CorentinTh/it-tools",
+      "source_url": "https://github.com/CorentinTh/it-tools",
+      "description": "Collection of handy online tools for developers, with great UX. "
     },
     {
       "slug_hint": "awesome-tools",
@@ -197,85 +270,7 @@
       "reason": "recent repo: https://github.com/ExponentiallyDigital/ExponentiallyDigital",
       "source_url": "https://github.com/ExponentiallyDigital/ExponentiallyDigital",
       "description": "Three decades leading enterprise delivery across banking, government, and consulting. Built open-source Golang tools that cut sprint spillover from 70% to 19% at ANZ. Online since 1987, four domain names, two sites. After hours: tinkering with code, Windows kernel tuning, and colour-perception image sorting."
-    },
-    {
-      "slug_hint": "it-tools",
-      "name": "CorentinTh/it-tools",
-      "tags": [
-        "converter",
-        "developer-productivity",
-        "developer-tools",
-        "frontend",
-        "javascript",
-        "productivity",
-        "tool",
-        "tools",
-        "typescript",
-        "vuejs",
-        "website"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/CorentinTh/it-tools",
-      "source_url": "https://github.com/CorentinTh/it-tools",
-      "description": "Collection of handy online tools for developers, with great UX. "
-    },
-    {
-      "slug_hint": "dev-tools",
-      "name": "yqh-core/dev-tools",
-      "tags": [
-        "base64",
-        "cron",
-        "developer-tools",
-        "json-formatter",
-        "jwt",
-        "online-tools",
-        "regex",
-        "typescript"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/yqh-core/dev-tools",
-      "source_url": "https://github.com/yqh-core/dev-tools",
-      "description": "CoderKit — 100+ free online developer tools for JSON, Base64, JWT, regex, cron, hashes and more. Runs in your browser with no sign-up. Open source, based on it-tools."
-    },
-    {
-      "slug_hint": "toolverse",
-      "name": "Surya-1301/Toolverse",
-      "tags": [
-        "android",
-        "converter",
-        "developer-tools",
-        "file-sharing",
-        "formatter",
-        "image-tools",
-        "open-source",
-        "pdf-tools",
-        "url-shortener",
-        "utility-tools"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/Surya-1301/Toolverse",
-      "source_url": "https://github.com/Surya-1301/Toolverse",
-      "description": "Free online utilities — 65 tools for developers, creators & everyday users: formatters, converters, generators, image tools, PDF tools & file sharing. No sign-up. Browser-first. Android app available."
-    },
-    {
-      "slug_hint": "convertlinx",
-      "name": "ashfaqazad/convertlinx",
-      "tags": [
-        "developer-tools",
-        "file-converter",
-        "image-tools",
-        "nextjs",
-        "online-tools",
-        "pdf-tools",
-        "reactjs",
-        "utility-tools",
-        "web-tools"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/ashfaqazad/convertlinx",
-      "source_url": "https://github.com/ashfaqazad/convertlinx",
-      "description": "Free online tools for converting, editing, and working with files — simple, fast, and easy to use."
     }
   ],
-  "report": "reports/tool-scan-20261023.md"
+  "report": "reports/tool-scan-20261024.md"
 }
