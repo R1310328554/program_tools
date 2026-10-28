@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-10-28T05:06:46+08:00",
+  "scanned_at": "2026-10-29T05:29:39+08:00",
   "installed_count": 95,
   "gaps": [
     {
@@ -77,6 +77,21 @@
   ],
   "github_pulse": [
     {
+      "slug_hint": "andryroby-github-io",
+      "name": "AndryRoby/AndryRoby.github.io",
+      "tags": [
+        "arling",
+        "browser-tools",
+        "developer-tools",
+        "slovakia",
+        "static-site"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/AndryRoby/AndryRoby.github.io",
+      "source_url": "https://github.com/AndryRoby/AndryRoby.github.io",
+      "description": "arling.sk: small browser tools for online shops, accountants and developers. Nothing you paste leaves your browser."
+    },
+    {
       "slug_hint": "toolverse",
       "name": "Surya-1301/Toolverse",
       "tags": [
@@ -97,24 +112,6 @@
       "description": "Free online utilities — 65 tools for developers, creators & everyday users: formatters, converters, generators, image tools, PDF tools & file sharing. No sign-up. Browser-first. Android app available."
     },
     {
-      "slug_hint": "dev-tools",
-      "name": "yqh-core/dev-tools",
-      "tags": [
-        "base64",
-        "cron",
-        "developer-tools",
-        "json-formatter",
-        "jwt",
-        "online-tools",
-        "regex",
-        "typescript"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/yqh-core/dev-tools",
-      "source_url": "https://github.com/yqh-core/dev-tools",
-      "description": "CoderKit — 100+ free online developer tools for JSON, Base64, JWT, regex, cron, hashes and more. Runs in your browser with no sign-up. Open source, based on it-tools."
-    },
-    {
       "slug_hint": "convertlinx",
       "name": "ashfaqazad/convertlinx",
       "tags": [
@@ -132,6 +129,69 @@
       "reason": "recent repo: https://github.com/ashfaqazad/convertlinx",
       "source_url": "https://github.com/ashfaqazad/convertlinx",
       "description": "Free online tools for converting, editing, and working with files — simple, fast, and easy to use."
+    },
+    {
+      "slug_hint": "json-tools",
+      "name": "alexff91/json-tools",
+      "tags": [
+        "browser-based",
+        "developer-tools",
+        "json",
+        "json-formatter",
+        "json-validator",
+        "privacy"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/alexff91/json-tools",
+      "source_url": "https://github.com/alexff91/json-tools",
+      "description": "Online JSON formatter, validator, and diff tool"
+    },
+    {
+      "slug_hint": "lorem-pro-tool",
+      "name": "Ravs10/lorem-pro-tool",
+      "tags": [
+        "developer-tools",
+        "free-tools-of-development",
+        "lorem-ipsum",
+        "online-tools",
+        "productivity-tools",
+        "text-tools",
+        "tool-kit"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/Ravs10/lorem-pro-tool",
+      "source_url": "https://github.com/Ravs10/lorem-pro-tool",
+      "description": "Lorem Pro Tool - 20+ Free Online Tools Hub: Lorem Ipsum Generator, Case Converter, Text Tools, Dev Utilities & More for Developers"
+    },
+    {
+      "slug_hint": "toolify-free-ai-tools-and-utilities",
+      "name": "Saeed-gondle/toolify-free-ai-tools-and-utilities",
+      "tags": [
+        "ai-tools",
+        "ai-tools-china",
+        "ai-tools-directory",
+        "ai-tools-guru",
+        "ai-tools-list",
+        "developer-tools",
+        "developer-tools-ai-agent",
+        "developer-tools-productivity",
+        "free-tools-for-small-business",
+        "free-tools-of-development",
+        "image-tools",
+        "json",
+        "json-formatters",
+        "json-parser",
+        "json-tools",
+        "no-signup",
+        "pdf-tools",
+        "pdf-tools-pdf-editor",
+        "pdf-tools-software",
+        "toolify"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/Saeed-gondle/toolify-free-ai-tools-and-utilities",
+      "source_url": "https://github.com/Saeed-gondle/toolify-free-ai-tools-and-utilities",
+      "description": "312+ free online tools — AI writer, image editor, PDF converter, JSON formatter & more. No signup, no credit card. Visit toolify.studio"
     },
     {
       "slug_hint": "it-tools",
@@ -155,19 +215,22 @@
       "description": "Collection of handy online tools for developers, with great UX. "
     },
     {
-      "slug_hint": "andryroby-github-io",
-      "name": "AndryRoby/AndryRoby.github.io",
+      "slug_hint": "dev-tools",
+      "name": "yqh-core/dev-tools",
       "tags": [
-        "arling",
-        "browser-tools",
+        "base64",
+        "cron",
         "developer-tools",
-        "slovakia",
-        "static-site"
+        "json-formatter",
+        "jwt",
+        "online-tools",
+        "regex",
+        "typescript"
       ],
       "priority": "low",
-      "reason": "recent repo: https://github.com/AndryRoby/AndryRoby.github.io",
-      "source_url": "https://github.com/AndryRoby/AndryRoby.github.io",
-      "description": "arling.sk: small browser tools for online shops, accountants and developers. Nothing you paste leaves your browser."
+      "reason": "recent repo: https://github.com/yqh-core/dev-tools",
+      "source_url": "https://github.com/yqh-core/dev-tools",
+      "description": "CoderKit — 100+ free online developer tools for JSON, Base64, JWT, regex, cron, hashes and more. Runs in your browser with no sign-up. Open source, based on it-tools."
     },
     {
       "slug_hint": "devtools",
@@ -213,76 +276,7 @@
       "reason": "recent repo: https://github.com/stambolce/toolkit-online-tools",
       "source_url": "https://github.com/stambolce/toolkit-online-tools",
       "description": "Toolkit — Online Tools Platform. Productivity, developer, security and marketing tools."
-    },
-    {
-      "slug_hint": "omnitools",
-      "name": "jamamjadalone/omnitools",
-      "tags": [
-        "converters",
-        "developer-tools",
-        "free-tools",
-        "image-tools",
-        "javascript",
-        "offline-first",
-        "pdf-tools",
-        "privacy-first",
-        "pwa",
-        "utilities",
-        "web-app"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/jamamjadalone/omnitools",
-      "source_url": "https://github.com/jamamjadalone/omnitools",
-      "description": "Free online tools for images, PDFs, videos, AI, SEO, developers, text, and productivity."
-    },
-    {
-      "slug_hint": "exponentiallydigital",
-      "name": "ExponentiallyDigital/ExponentiallyDigital",
-      "tags": [
-        "agile",
-        "android",
-        "consulting",
-        "data-analysis",
-        "delivery",
-        "developer-tools",
-        "devops",
-        "financial-services",
-        "go",
-        "golang",
-        "infrstructure",
-        "jira",
-        "leadership",
-        "lua",
-        "powershell",
-        "powershell-script",
-        "release-management",
-        "scrum",
-        "world-of-warcraft-addon"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/ExponentiallyDigital/ExponentiallyDigital",
-      "source_url": "https://github.com/ExponentiallyDigital/ExponentiallyDigital",
-      "description": "Three decades leading enterprise delivery across banking, government, and consulting. Built open-source Golang tools that cut sprint spillover from 70% to 19% at ANZ. Online since 1987, four domain names, two sites. After hours: tinkering with code, Windows kernel tuning, and colour-perception image sorting."
-    },
-    {
-      "slug_hint": "devtoolbox",
-      "name": "YuChuanhui3/devtoolbox",
-      "tags": [
-        "developer-tools",
-        "file-transfer",
-        "json-formatter",
-        "online-tools",
-        "react",
-        "toolbox",
-        "typescript",
-        "vite",
-        "web-development"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/YuChuanhui3/devtoolbox",
-      "source_url": "https://github.com/YuChuanhui3/devtoolbox",
-      "description": "Free bilingual (EN/中文) online developer toolbox — 91 browser-based tools: JSON formatter, encoding & encryption, regex, image compressor, QR codes, WebRTC LAN file transfer. No backend, data never leaves your device."
     }
   ],
-  "report": "reports/tool-scan-20261028.md"
+  "report": "reports/tool-scan-20261029.md"
 }
