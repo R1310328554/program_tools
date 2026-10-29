@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-10-29T05:29:39+08:00",
+  "scanned_at": "2026-10-30T05:30:24+08:00",
   "installed_count": 95,
   "gaps": [
     {
@@ -77,19 +77,54 @@
   ],
   "github_pulse": [
     {
-      "slug_hint": "andryroby-github-io",
-      "name": "AndryRoby/AndryRoby.github.io",
+      "slug_hint": "onlinetools-dev",
+      "name": "noobnooc/onlinetools.dev",
       "tags": [
-        "arling",
-        "browser-tools",
         "developer-tools",
-        "slovakia",
-        "static-site"
+        "devtools",
+        "json-formatter",
+        "local-first",
+        "online-tools",
+        "privacy",
+        "pwa",
+        "svelte",
+        "sveltekit",
+        "typescript"
       ],
       "priority": "low",
-      "reason": "recent repo: https://github.com/AndryRoby/AndryRoby.github.io",
-      "source_url": "https://github.com/AndryRoby/AndryRoby.github.io",
-      "description": "arling.sk: small browser tools for online shops, accountants and developers. Nothing you paste leaves your browser."
+      "reason": "recent repo: https://github.com/noobnooc/onlinetools.dev",
+      "source_url": "https://github.com/noobnooc/onlinetools.dev",
+      "description": "Developer tools that run entirely in your browser — format JSON, decode JWTs, convert timestamps, test regex. No upload, no signup, no tracking. Works offline, in 14 languages."
+    },
+    {
+      "slug_hint": "devtools",
+      "name": "fadeltd/devtools",
+      "tags": [
+        "base64",
+        "base64-decoder",
+        "base64-encoder",
+        "character-counter",
+        "client-side",
+        "cloudflare-workers",
+        "developer-tools",
+        "devtools",
+        "diff-checker",
+        "diff-tool",
+        "json-formatter",
+        "json-validator",
+        "no-backend",
+        "offline-first",
+        "online-tools",
+        "privacy",
+        "react",
+        "text-statistics",
+        "typescript",
+        "word-counter"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/fadeltd/devtools",
+      "source_url": "https://github.com/fadeltd/devtools",
+      "description": "Free open-source developer tools that run entirely in your browser — nothing you paste is ever uploaded. JSON formatter and validator, diff checker, base64 encoder/decoder, word counter and text statistics, list sorter and duplicate remover. A private, offline-capable alternative to online dev tool sites."
     },
     {
       "slug_hint": "toolverse",
@@ -129,6 +164,39 @@
       "reason": "recent repo: https://github.com/ashfaqazad/convertlinx",
       "source_url": "https://github.com/ashfaqazad/convertlinx",
       "description": "Free online tools for converting, editing, and working with files — simple, fast, and easy to use."
+    },
+    {
+      "slug_hint": "brasil-ferramentas",
+      "name": "alessandrooliveirape-prog/Brasil-ferramentas",
+      "tags": [
+        "css-generators",
+        "data-validation",
+        "developer-tools",
+        "privacy-first",
+        "react",
+        "typescript",
+        "utilities",
+        "vite"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/alessandrooliveirape-prog/Brasil-ferramentas",
+      "source_url": "https://github.com/alessandrooliveirape-prog/Brasil-ferramentas",
+      "description": "Free online tools and utilities built with TypeScript for practical everyday tasks."
+    },
+    {
+      "slug_hint": "andryroby-github-io",
+      "name": "AndryRoby/AndryRoby.github.io",
+      "tags": [
+        "arling",
+        "browser-tools",
+        "developer-tools",
+        "slovakia",
+        "static-site"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/AndryRoby/AndryRoby.github.io",
+      "source_url": "https://github.com/AndryRoby/AndryRoby.github.io",
+      "description": "arling.sk: small browser tools for online shops, accountants and developers. Nothing you paste leaves your browser."
     },
     {
       "slug_hint": "json-tools",
@@ -213,70 +281,7 @@
       "reason": "recent repo: https://github.com/CorentinTh/it-tools",
       "source_url": "https://github.com/CorentinTh/it-tools",
       "description": "Collection of handy online tools for developers, with great UX. "
-    },
-    {
-      "slug_hint": "dev-tools",
-      "name": "yqh-core/dev-tools",
-      "tags": [
-        "base64",
-        "cron",
-        "developer-tools",
-        "json-formatter",
-        "jwt",
-        "online-tools",
-        "regex",
-        "typescript"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/yqh-core/dev-tools",
-      "source_url": "https://github.com/yqh-core/dev-tools",
-      "description": "CoderKit — 100+ free online developer tools for JSON, Base64, JWT, regex, cron, hashes and more. Runs in your browser with no sign-up. Open source, based on it-tools."
-    },
-    {
-      "slug_hint": "devtools",
-      "name": "fadeltd/devtools",
-      "tags": [
-        "base64",
-        "base64-decoder",
-        "base64-encoder",
-        "character-counter",
-        "client-side",
-        "cloudflare-workers",
-        "developer-tools",
-        "devtools",
-        "diff-checker",
-        "diff-tool",
-        "json-formatter",
-        "json-validator",
-        "no-backend",
-        "offline-first",
-        "online-tools",
-        "privacy",
-        "react",
-        "text-statistics",
-        "typescript",
-        "word-counter"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/fadeltd/devtools",
-      "source_url": "https://github.com/fadeltd/devtools",
-      "description": "Free open-source developer tools that run entirely in your browser — nothing you paste is ever uploaded. JSON formatter and validator, diff checker, base64 encoder/decoder, word counter and text statistics, list sorter and duplicate remover. A private, offline-capable alternative to online dev tool sites."
-    },
-    {
-      "slug_hint": "toolkit-online-tools",
-      "name": "stambolce/toolkit-online-tools",
-      "tags": [
-        "developer-tools",
-        "marketing-tools",
-        "productivity-tools",
-        "security-tools",
-        "web-tools"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/stambolce/toolkit-online-tools",
-      "source_url": "https://github.com/stambolce/toolkit-online-tools",
-      "description": "Toolkit — Online Tools Platform. Productivity, developer, security and marketing tools."
     }
   ],
-  "report": "reports/tool-scan-20261029.md"
+  "report": "reports/tool-scan-20261030.md"
 }
