@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-10-31T05:21:54+08:00",
+  "scanned_at": "2026-11-01T04:23:41+08:00",
   "installed_count": 95,
   "gaps": [
     {
@@ -77,6 +77,106 @@
   ],
   "github_pulse": [
     {
+      "slug_hint": "xeoo-tools",
+      "name": "notbell1/xeoo-tools",
+      "tags": [
+        "developer-experience",
+        "developer-tools",
+        "online-tools",
+        "productivity",
+        "web-app",
+        "web-utilities"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/notbell1/xeoo-tools",
+      "source_url": "https://github.com/notbell1/xeoo-tools",
+      "description": "🛠️ One platform, countless possibilities. A modern collection of free online utilities, code formatters, generators, and dev tools. Built with React 18 & TypeScript."
+    },
+    {
+      "slug_hint": "convertlinx",
+      "name": "ashfaqazad/convertlinx",
+      "tags": [
+        "developer-tools",
+        "file-converter",
+        "image-tools",
+        "nextjs",
+        "online-tools",
+        "pdf-tools",
+        "reactjs",
+        "utility-tools",
+        "web-tools"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/ashfaqazad/convertlinx",
+      "source_url": "https://github.com/ashfaqazad/convertlinx",
+      "description": "Free online tools for converting, editing, and working with files — simple, fast, and easy to use."
+    },
+    {
+      "slug_hint": "qubittool",
+      "name": "qubittool/qubittool",
+      "tags": [
+        "ai-tools",
+        "base64",
+        "code-formatter",
+        "color-picker",
+        "developer-tools",
+        "free-tools",
+        "image-compressor",
+        "image-converter",
+        "json-diff",
+        "json-formatter",
+        "markdown-editor",
+        "mcp-server",
+        "online-tools",
+        "pdf-tools",
+        "privacy-first",
+        "productivity",
+        "regex-tester",
+        "timestamp-converter",
+        "uuid-generator",
+        "web-tools"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/qubittool/qubittool",
+      "source_url": "https://github.com/qubittool/qubittool",
+      "description": "Free online developer tools: JSON formatter, image compressor, PDF merger, base64 encoder, regex tester & 100+ more. No login required. All processing in browser."
+    },
+    {
+      "slug_hint": "toolverse",
+      "name": "Surya-1301/Toolverse",
+      "tags": [
+        "android",
+        "converter",
+        "developer-tools",
+        "file-sharing",
+        "formatter",
+        "image-tools",
+        "open-source",
+        "pdf-tools",
+        "url-shortener",
+        "utility-tools"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/Surya-1301/Toolverse",
+      "source_url": "https://github.com/Surya-1301/Toolverse",
+      "description": "Free online utilities — 65 tools for developers, creators & everyday users: formatters, converters, generators, image tools, PDF tools & file sharing. No sign-up. Browser-first. Android app available."
+    },
+    {
+      "slug_hint": "andryroby-github-io",
+      "name": "AndryRoby/AndryRoby.github.io",
+      "tags": [
+        "arling",
+        "browser-tools",
+        "developer-tools",
+        "slovakia",
+        "static-site"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/AndryRoby/AndryRoby.github.io",
+      "source_url": "https://github.com/AndryRoby/AndryRoby.github.io",
+      "description": "arling.sk: small browser tools for online shops, accountants and developers. Nothing you paste leaves your browser."
+    },
+    {
       "slug_hint": "onlinetools-dev",
       "name": "noobnooc/onlinetools.dev",
       "tags": [
@@ -95,21 +195,6 @@
       "reason": "recent repo: https://github.com/noobnooc/onlinetools.dev",
       "source_url": "https://github.com/noobnooc/onlinetools.dev",
       "description": "Developer tools that run entirely in your browser — format JSON, decode JWTs, convert timestamps, test regex. No upload, no signup, no tracking. Works offline, in 14 languages."
-    },
-    {
-      "slug_hint": "andryroby-github-io",
-      "name": "AndryRoby/AndryRoby.github.io",
-      "tags": [
-        "arling",
-        "browser-tools",
-        "developer-tools",
-        "slovakia",
-        "static-site"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/AndryRoby/AndryRoby.github.io",
-      "source_url": "https://github.com/AndryRoby/AndryRoby.github.io",
-      "description": "arling.sk: small browser tools for online shops, accountants and developers. Nothing you paste leaves your browser."
     },
     {
       "slug_hint": "devtools",
@@ -157,45 +242,6 @@
       "description": "Toolkit — Online Tools Platform. Productivity, developer, security and marketing tools."
     },
     {
-      "slug_hint": "toolverse",
-      "name": "Surya-1301/Toolverse",
-      "tags": [
-        "android",
-        "converter",
-        "developer-tools",
-        "file-sharing",
-        "formatter",
-        "image-tools",
-        "open-source",
-        "pdf-tools",
-        "url-shortener",
-        "utility-tools"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/Surya-1301/Toolverse",
-      "source_url": "https://github.com/Surya-1301/Toolverse",
-      "description": "Free online utilities — 65 tools for developers, creators & everyday users: formatters, converters, generators, image tools, PDF tools & file sharing. No sign-up. Browser-first. Android app available."
-    },
-    {
-      "slug_hint": "convertlinx",
-      "name": "ashfaqazad/convertlinx",
-      "tags": [
-        "developer-tools",
-        "file-converter",
-        "image-tools",
-        "nextjs",
-        "online-tools",
-        "pdf-tools",
-        "reactjs",
-        "utility-tools",
-        "web-tools"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/ashfaqazad/convertlinx",
-      "source_url": "https://github.com/ashfaqazad/convertlinx",
-      "description": "Free online tools for converting, editing, and working with files — simple, fast, and easy to use."
-    },
-    {
       "slug_hint": "brasil-ferramentas",
       "name": "alessandrooliveirape-prog/Brasil-ferramentas",
       "tags": [
@@ -228,54 +274,7 @@
       "reason": "recent repo: https://github.com/alexff91/json-tools",
       "source_url": "https://github.com/alexff91/json-tools",
       "description": "Online JSON formatter, validator, and diff tool"
-    },
-    {
-      "slug_hint": "lorem-pro-tool",
-      "name": "Ravs10/lorem-pro-tool",
-      "tags": [
-        "developer-tools",
-        "free-tools-of-development",
-        "lorem-ipsum",
-        "online-tools",
-        "productivity-tools",
-        "text-tools",
-        "tool-kit"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/Ravs10/lorem-pro-tool",
-      "source_url": "https://github.com/Ravs10/lorem-pro-tool",
-      "description": "Lorem Pro Tool - 20+ Free Online Tools Hub: Lorem Ipsum Generator, Case Converter, Text Tools, Dev Utilities & More for Developers"
-    },
-    {
-      "slug_hint": "toolify-free-ai-tools-and-utilities",
-      "name": "Saeed-gondle/toolify-free-ai-tools-and-utilities",
-      "tags": [
-        "ai-tools",
-        "ai-tools-china",
-        "ai-tools-directory",
-        "ai-tools-guru",
-        "ai-tools-list",
-        "developer-tools",
-        "developer-tools-ai-agent",
-        "developer-tools-productivity",
-        "free-tools-for-small-business",
-        "free-tools-of-development",
-        "image-tools",
-        "json",
-        "json-formatters",
-        "json-parser",
-        "json-tools",
-        "no-signup",
-        "pdf-tools",
-        "pdf-tools-pdf-editor",
-        "pdf-tools-software",
-        "toolify"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/Saeed-gondle/toolify-free-ai-tools-and-utilities",
-      "source_url": "https://github.com/Saeed-gondle/toolify-free-ai-tools-and-utilities",
-      "description": "312+ free online tools — AI writer, image editor, PDF converter, JSON formatter & more. No signup, no credit card. Visit toolify.studio"
     }
   ],
-  "report": "reports/tool-scan-20261031.md"
+  "report": "reports/tool-scan-20261101.md"
 }
