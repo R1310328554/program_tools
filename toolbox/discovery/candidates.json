@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-11-02T04:57:04+08:00",
+  "scanned_at": "2026-11-03T07:47:03+08:00",
   "installed_count": 95,
   "gaps": [
     {
@@ -77,17 +77,19 @@
   ],
   "github_pulse": [
     {
-      "slug_hint": "trick-it",
-      "name": "ygrip/trick-it",
+      "slug_hint": "andryroby-github-io",
+      "name": "AndryRoby/AndryRoby.github.io",
       "tags": [
+        "arling",
+        "browser-tools",
         "developer-tools",
-        "development",
-        "productivity"
+        "slovakia",
+        "static-site"
       ],
       "priority": "low",
-      "reason": "recent repo: https://github.com/ygrip/trick-it",
-      "source_url": "https://github.com/ygrip/trick-it",
-      "description": "Trick It is a multilingual collection of practical online tools for developers, creators, and everyday tasks, built for speed, simplicity, and privacy."
+      "reason": "recent repo: https://github.com/AndryRoby/AndryRoby.github.io",
+      "source_url": "https://github.com/AndryRoby/AndryRoby.github.io",
+      "description": "arling.sk: small browser tools for online shops, accountants and developers. Nothing you paste leaves your browser."
     },
     {
       "slug_hint": "brasil-ferramentas",
@@ -127,6 +129,98 @@
       "description": "Free bilingual (EN/中文) online developer toolbox — 91 browser-based tools: JSON formatter, encoding & encryption, regex, image compressor, QR codes, WebRTC LAN file transfer. No backend, data never leaves your device."
     },
     {
+      "slug_hint": "zynocode-labs-free-tools",
+      "name": "zynocode/zynocode-labs-free-tools",
+      "tags": [
+        "api",
+        "cli",
+        "developer-tools",
+        "free-tools",
+        "image-compressor",
+        "mcp",
+        "nextjs",
+        "nodejs",
+        "online-tools",
+        "pdf-tools",
+        "privacy-first",
+        "productivity",
+        "sdk",
+        "seo-tools",
+        "typescript",
+        "web-tools"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/zynocode/zynocode-labs-free-tools",
+      "source_url": "https://github.com/zynocode/zynocode-labs-free-tools",
+      "description": "Zynocode Labs free online tools — PDF, image, SEO, writing, developer and finance tools that run in your browser, plus the @zynocode/sdk and zynocode CLI"
+    },
+    {
+      "slug_hint": "exponentiallydigital",
+      "name": "ExponentiallyDigital/ExponentiallyDigital",
+      "tags": [
+        "agile",
+        "android",
+        "consulting",
+        "data-analysis",
+        "delivery",
+        "developer-tools",
+        "devops",
+        "financial-services",
+        "go",
+        "golang",
+        "infrstructure",
+        "jira",
+        "leadership",
+        "lua",
+        "powershell",
+        "powershell-script",
+        "release-management",
+        "scrum",
+        "world-of-warcraft-addon"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/ExponentiallyDigital/ExponentiallyDigital",
+      "source_url": "https://github.com/ExponentiallyDigital/ExponentiallyDigital",
+      "description": "Three decades leading enterprise delivery across banking, government, and consulting. Built open-source Golang tools that cut sprint spillover from 70% to 19% at ANZ. Online since 1987, four domain names, two sites. After hours: tinkering with code, Windows kernel tuning, and colour-perception image sorting."
+    },
+    {
+      "slug_hint": "trick-it",
+      "name": "ygrip/trick-it",
+      "tags": [
+        "developer-tools",
+        "development",
+        "productivity"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/ygrip/trick-it",
+      "source_url": "https://github.com/ygrip/trick-it",
+      "description": "Trick It is a multilingual collection of practical online tools for developers, creators, and everyday tasks, built for speed, simplicity, and privacy."
+    },
+    {
+      "slug_hint": "eve-online-mcp",
+      "name": "HammoTime/eve-online-mcp",
+      "tags": [
+        "ai-tools",
+        "api-client",
+        "ccp-games",
+        "developer-tools",
+        "esi",
+        "eve-online",
+        "fenris-creations",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "oauth2",
+        "pkce",
+        "read-only",
+        "typescript"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/HammoTime/eve-online-mcp",
+      "source_url": "https://github.com/HammoTime/eve-online-mcp",
+      "description": "A secure, read-only MCP server that gives AI assistants comprehensive access to EVE Online’s ESI API, including authenticated character data and schema-aware tools."
+    },
+    {
       "slug_hint": "tools",
       "name": "xsrazy/tools",
       "tags": [
@@ -159,50 +253,6 @@
       "description": "Utopia — independent third-party profile of a public API surface, by API Evangelist. Utopia was an online platform for designing, coding, and shipping React applications, pairing a visual design tool with a code editor over one source of truth. A 2020 Seedcamp portfolio company, it was built in the open as the MIT-licensed concrete-utopia/utopia mo"
     },
     {
-      "slug_hint": "exponentiallydigital",
-      "name": "ExponentiallyDigital/ExponentiallyDigital",
-      "tags": [
-        "agile",
-        "android",
-        "consulting",
-        "data-analysis",
-        "delivery",
-        "developer-tools",
-        "devops",
-        "financial-services",
-        "go",
-        "golang",
-        "infrstructure",
-        "jira",
-        "leadership",
-        "lua",
-        "powershell",
-        "powershell-script",
-        "release-management",
-        "scrum",
-        "world-of-warcraft-addon"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/ExponentiallyDigital/ExponentiallyDigital",
-      "source_url": "https://github.com/ExponentiallyDigital/ExponentiallyDigital",
-      "description": "Three decades leading enterprise delivery across banking, government, and consulting. Built open-source Golang tools that cut sprint spillover from 70% to 19% at ANZ. Online since 1987, four domain names, two sites. After hours: tinkering with code, Windows kernel tuning, and colour-perception image sorting."
-    },
-    {
-      "slug_hint": "andryroby-github-io",
-      "name": "AndryRoby/AndryRoby.github.io",
-      "tags": [
-        "arling",
-        "browser-tools",
-        "developer-tools",
-        "slovakia",
-        "static-site"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/AndryRoby/AndryRoby.github.io",
-      "source_url": "https://github.com/AndryRoby/AndryRoby.github.io",
-      "description": "arling.sk: small browser tools for online shops, accountants and developers. Nothing you paste leaves your browser."
-    },
-    {
       "slug_hint": "xeoo-tools",
       "name": "notbell1/xeoo-tools",
       "tags": [
@@ -217,56 +267,7 @@
       "reason": "recent repo: https://github.com/notbell1/xeoo-tools",
       "source_url": "https://github.com/notbell1/xeoo-tools",
       "description": "🛠️ One platform, countless possibilities. A modern collection of free online utilities, code formatters, generators, and dev tools. Built with React 18 & TypeScript."
-    },
-    {
-      "slug_hint": "convertlinx",
-      "name": "ashfaqazad/convertlinx",
-      "tags": [
-        "developer-tools",
-        "file-converter",
-        "image-tools",
-        "nextjs",
-        "online-tools",
-        "pdf-tools",
-        "reactjs",
-        "utility-tools",
-        "web-tools"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/ashfaqazad/convertlinx",
-      "source_url": "https://github.com/ashfaqazad/convertlinx",
-      "description": "Free online tools for converting, editing, and working with files — simple, fast, and easy to use."
-    },
-    {
-      "slug_hint": "qubittool",
-      "name": "qubittool/qubittool",
-      "tags": [
-        "ai-tools",
-        "base64",
-        "code-formatter",
-        "color-picker",
-        "developer-tools",
-        "free-tools",
-        "image-compressor",
-        "image-converter",
-        "json-diff",
-        "json-formatter",
-        "markdown-editor",
-        "mcp-server",
-        "online-tools",
-        "pdf-tools",
-        "privacy-first",
-        "productivity",
-        "regex-tester",
-        "timestamp-converter",
-        "uuid-generator",
-        "web-tools"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/qubittool/qubittool",
-      "source_url": "https://github.com/qubittool/qubittool",
-      "description": "Free online developer tools: JSON formatter, image compressor, PDF merger, base64 encoder, regex tester & 100+ more. No login required. All processing in browser."
     }
   ],
-  "report": "reports/tool-scan-20261102.md"
+  "report": "reports/tool-scan-20261103.md"
 }
