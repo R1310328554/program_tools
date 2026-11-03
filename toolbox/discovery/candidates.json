@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-11-03T07:47:03+08:00",
+  "scanned_at": "2026-11-04T06:11:27+08:00",
   "installed_count": 95,
   "gaps": [
     {
@@ -77,21 +77,6 @@
   ],
   "github_pulse": [
     {
-      "slug_hint": "andryroby-github-io",
-      "name": "AndryRoby/AndryRoby.github.io",
-      "tags": [
-        "arling",
-        "browser-tools",
-        "developer-tools",
-        "slovakia",
-        "static-site"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/AndryRoby/AndryRoby.github.io",
-      "source_url": "https://github.com/AndryRoby/AndryRoby.github.io",
-      "description": "arling.sk: small browser tools for online shops, accountants and developers. Nothing you paste leaves your browser."
-    },
-    {
       "slug_hint": "brasil-ferramentas",
       "name": "alessandrooliveirape-prog/Brasil-ferramentas",
       "tags": [
@@ -110,49 +95,70 @@
       "description": "Free online tools and utilities built with TypeScript for practical everyday tasks."
     },
     {
-      "slug_hint": "devtoolbox",
-      "name": "YuChuanhui3/devtoolbox",
+      "slug_hint": "free-tools",
+      "name": "Free-Tools-Hubs/free-tools",
       "tags": [
-        "developer-tools",
-        "file-transfer",
-        "json-formatter",
-        "online-tools",
-        "react",
-        "toolbox",
-        "typescript",
-        "vite",
-        "web-development"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/YuChuanhui3/devtoolbox",
-      "source_url": "https://github.com/YuChuanhui3/devtoolbox",
-      "description": "Free bilingual (EN/中文) online developer toolbox — 91 browser-based tools: JSON formatter, encoding & encryption, regex, image compressor, QR codes, WebRTC LAN file transfer. No backend, data never leaves your device."
-    },
-    {
-      "slug_hint": "zynocode-labs-free-tools",
-      "name": "zynocode/zynocode-labs-free-tools",
-      "tags": [
-        "api",
-        "cli",
         "developer-tools",
         "free-tools",
-        "image-compressor",
-        "mcp",
+        "image-converter",
+        "pdf-tools",
+        "templates"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/Free-Tools-Hubs/free-tools",
+      "source_url": "https://github.com/Free-Tools-Hubs/free-tools",
+      "description": "A high-performance hub of free online tools for image processing, development, PDF management, and more. No registration, No watermarks, just speed."
+    },
+    {
+      "slug_hint": "lorem-pro-tool",
+      "name": "Ravs10/lorem-pro-tool",
+      "tags": [
+        "developer-tools",
+        "free-tools-of-development",
+        "lorem-ipsum",
+        "online-tools",
+        "productivity-tools",
+        "text-tools",
+        "tool-kit"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/Ravs10/lorem-pro-tool",
+      "source_url": "https://github.com/Ravs10/lorem-pro-tool",
+      "description": "Lorem Pro Tool - 20+ Free Online Tools Hub: Lorem Ipsum Generator, Case Converter, Text Tools, Dev Utilities & More for Developers"
+    },
+    {
+      "slug_hint": "convertlinx",
+      "name": "ashfaqazad/convertlinx",
+      "tags": [
+        "developer-tools",
+        "file-converter",
+        "image-tools",
         "nextjs",
-        "nodejs",
         "online-tools",
         "pdf-tools",
-        "privacy-first",
-        "productivity",
-        "sdk",
-        "seo-tools",
-        "typescript",
+        "reactjs",
+        "utility-tools",
         "web-tools"
       ],
       "priority": "low",
-      "reason": "recent repo: https://github.com/zynocode/zynocode-labs-free-tools",
-      "source_url": "https://github.com/zynocode/zynocode-labs-free-tools",
-      "description": "Zynocode Labs free online tools — PDF, image, SEO, writing, developer and finance tools that run in your browser, plus the @zynocode/sdk and zynocode CLI"
+      "reason": "recent repo: https://github.com/ashfaqazad/convertlinx",
+      "source_url": "https://github.com/ashfaqazad/convertlinx",
+      "description": "Free online tools for converting, editing, and working with files — simple, fast, and easy to use."
+    },
+    {
+      "slug_hint": "tools",
+      "name": "xsrazy/tools",
+      "tags": [
+        "calculators",
+        "converters",
+        "developer-tools",
+        "online-tools",
+        "vanilla-javascript"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/xsrazy/tools",
+      "source_url": "https://github.com/xsrazy/tools",
+      "description": "1,100+ free online tools: calculators, converters, developer utilities and downloaders. No sign-up, everything runs in your browser."
     },
     {
       "slug_hint": "exponentiallydigital",
@@ -184,90 +190,81 @@
       "description": "Three decades leading enterprise delivery across banking, government, and consulting. Built open-source Golang tools that cut sprint spillover from 70% to 19% at ANZ. Online since 1987, four domain names, two sites. After hours: tinkering with code, Windows kernel tuning, and colour-perception image sorting."
     },
     {
-      "slug_hint": "trick-it",
-      "name": "ygrip/trick-it",
-      "tags": [
-        "developer-tools",
-        "development",
-        "productivity"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/ygrip/trick-it",
-      "source_url": "https://github.com/ygrip/trick-it",
-      "description": "Trick It is a multilingual collection of practical online tools for developers, creators, and everyday tasks, built for speed, simplicity, and privacy."
-    },
-    {
-      "slug_hint": "eve-online-mcp",
-      "name": "HammoTime/eve-online-mcp",
-      "tags": [
-        "ai-tools",
-        "api-client",
-        "ccp-games",
-        "developer-tools",
-        "esi",
-        "eve-online",
-        "fenris-creations",
-        "mcp",
-        "mcp-server",
-        "model-context-protocol",
-        "oauth2",
-        "pkce",
-        "read-only",
-        "typescript"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/HammoTime/eve-online-mcp",
-      "source_url": "https://github.com/HammoTime/eve-online-mcp",
-      "description": "A secure, read-only MCP server that gives AI assistants comprehensive access to EVE Online’s ESI API, including authenticated character data and schema-aware tools."
-    },
-    {
-      "slug_hint": "tools",
-      "name": "xsrazy/tools",
+      "slug_hint": "tools360pro",
+      "name": "MuhammadShoaib67/tools360pro",
       "tags": [
         "calculators",
         "converters",
         "developer-tools",
+        "free-tools",
+        "image-tools",
+        "javascript",
         "online-tools",
-        "vanilla-javascript"
+        "pdf-tools",
+        "text-tools"
       ],
       "priority": "low",
-      "reason": "recent repo: https://github.com/xsrazy/tools",
-      "source_url": "https://github.com/xsrazy/tools",
-      "description": "1,100+ free online tools: calculators, converters, developer utilities and downloaders. No sign-up, everything runs in your browser."
+      "reason": "recent repo: https://github.com/MuhammadShoaib67/tools360pro",
+      "source_url": "https://github.com/MuhammadShoaib67/tools360pro",
+      "description": "Tools360Pro — 38 free online tools: PDF, image, text, converters, calculators, developer tools & generators. No sign-up — files never leave your device."
     },
     {
-      "slug_hint": "utopia",
-      "name": "api-evangelist/utopia",
+      "slug_hint": "devtoolbox",
+      "name": "YuChuanhui3/devtoolbox",
       "tags": [
-        "apis-json",
-        "company",
-        "design",
         "developer-tools",
-        "low-code",
+        "file-transfer",
+        "json-formatter",
+        "online-tools",
+        "react",
+        "toolbox",
+        "typescript",
+        "vite",
+        "web-development"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/YuChuanhui3/devtoolbox",
+      "source_url": "https://github.com/YuChuanhui3/devtoolbox",
+      "description": "Free bilingual (EN/中文) online developer toolbox — 91 browser-based tools: JSON formatter, encoding & encryption, regex, image compressor, QR codes, WebRTC LAN file transfer. No backend, data never leaves your device."
+    },
+    {
+      "slug_hint": "onlinetools-dev",
+      "name": "noobnooc/onlinetools.dev",
+      "tags": [
+        "developer-tools",
+        "devtools",
+        "json-formatter",
+        "local-first",
+        "online-tools",
+        "privacy",
+        "pwa",
+        "svelte",
+        "sveltekit",
+        "typescript"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/noobnooc/onlinetools.dev",
+      "source_url": "https://github.com/noobnooc/onlinetools.dev",
+      "description": "Developer tools that run entirely in your browser — format JSON, decode JWTs, convert timestamps, test regex. No upload, no signup, no tracking. Works offline, in 14 languages."
+    },
+    {
+      "slug_hint": "awesome-tools",
+      "name": "wangruofeng/awesome-tools",
+      "tags": [
+        "awesome-list",
+        "developer-tools",
+        "github-pages",
+        "online-tools",
         "open-source",
-        "react"
+        "static-site",
+        "vanilla-javascript",
+        "web-tools"
       ],
       "priority": "low",
-      "reason": "recent repo: https://github.com/api-evangelist/utopia",
-      "source_url": "https://github.com/api-evangelist/utopia",
-      "description": "Utopia — independent third-party profile of a public API surface, by API Evangelist. Utopia was an online platform for designing, coding, and shipping React applications, pairing a visual design tool with a code editor over one source of truth. A 2020 Seedcamp portfolio company, it was built in the open as the MIT-licensed concrete-utopia/utopia mo"
-    },
-    {
-      "slug_hint": "xeoo-tools",
-      "name": "notbell1/xeoo-tools",
-      "tags": [
-        "developer-experience",
-        "developer-tools",
-        "online-tools",
-        "productivity",
-        "web-app",
-        "web-utilities"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/notbell1/xeoo-tools",
-      "source_url": "https://github.com/notbell1/xeoo-tools",
-      "description": "🛠️ One platform, countless possibilities. A modern collection of free online utilities, code formatters, generators, and dev tools. Built with React 18 & TypeScript."
+      "reason": "recent repo: https://github.com/wangruofeng/awesome-tools",
+      "source_url": "https://github.com/wangruofeng/awesome-tools",
+      "description": "A categorized collection of open-source online tools by Wang Ruofeng."
     }
   ],
-  "report": "reports/tool-scan-20261103.md"
+  "report": "reports/tool-scan-20261104.md"
 }
