@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-11-05T06:23:34+08:00",
+  "scanned_at": "2026-11-06T06:30:26+08:00",
   "installed_count": 95,
   "gaps": [
     {
@@ -92,6 +92,25 @@
       "description": "arling.sk: small browser tools for online shops, accountants and developers. Nothing you paste leaves your browser."
     },
     {
+      "slug_hint": "tools360pro",
+      "name": "MuhammadShoaib67/tools360pro",
+      "tags": [
+        "calculators",
+        "converters",
+        "developer-tools",
+        "free-tools",
+        "image-tools",
+        "javascript",
+        "online-tools",
+        "pdf-tools",
+        "text-tools"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/MuhammadShoaib67/tools360pro",
+      "source_url": "https://github.com/MuhammadShoaib67/tools360pro",
+      "description": "Tools360Pro — 38 free online tools: PDF, image, text, converters, calculators, developer tools & generators. No sign-up — files never leave your device."
+    },
+    {
       "slug_hint": "onlinetools-dev",
       "name": "noobnooc/onlinetools.dev",
       "tags": [
@@ -110,6 +129,139 @@
       "reason": "recent repo: https://github.com/noobnooc/onlinetools.dev",
       "source_url": "https://github.com/noobnooc/onlinetools.dev",
       "description": "Developer tools that run entirely in your browser — format JSON, decode JWTs, convert timestamps, test regex. No upload, no signup, no tracking. Works offline, in 14 languages."
+    },
+    {
+      "slug_hint": "brasil-ferramentas",
+      "name": "alessandrooliveirape-prog/Brasil-ferramentas",
+      "tags": [
+        "css-generators",
+        "data-validation",
+        "developer-tools",
+        "privacy-first",
+        "react",
+        "typescript",
+        "utilities",
+        "vite"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/alessandrooliveirape-prog/Brasil-ferramentas",
+      "source_url": "https://github.com/alessandrooliveirape-prog/Brasil-ferramentas",
+      "description": "Free online tools and utilities built with TypeScript for practical everyday tasks."
+    },
+    {
+      "slug_hint": "toolzen",
+      "name": "Jaydip212/toolzen",
+      "tags": [
+        "aeo",
+        "developer-tools",
+        "free-tools",
+        "geo",
+        "json-ld",
+        "online-tools",
+        "privacy-first",
+        "react",
+        "seo",
+        "tailwindcss",
+        "typescript",
+        "utilities",
+        "vite",
+        "web-tools"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/Jaydip212/toolzen",
+      "source_url": "https://github.com/Jaydip212/toolzen",
+      "description": "TOOLZEN — Every Tool. One Place. A free, privacy-first online tools platform. React + Vite + TypeScript, with SEO/AEO/GEO built in."
+    },
+    {
+      "slug_hint": "toolkitlife",
+      "name": "xiongfh2008/toolkitlife",
+      "tags": [
+        "calculators",
+        "client-side",
+        "developer-tools",
+        "free-tools",
+        "image-processing",
+        "nextjs",
+        "no-signup",
+        "online-tools",
+        "pdf-tools",
+        "privacy-first",
+        "productivity",
+        "react",
+        "tailwindcss",
+        "typescript",
+        "video-tools",
+        "web-tools"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/xiongfh2008/toolkitlife",
+      "source_url": "https://github.com/xiongfh2008/toolkitlife",
+      "description": "375 free online tools & calculators that run entirely in your browser - PDF, image, video, finance, health & more. No signup, no upload, no data stored."
+    },
+    {
+      "slug_hint": "devtoolbox",
+      "name": "YuChuanhui3/devtoolbox",
+      "tags": [
+        "developer-tools",
+        "file-transfer",
+        "json-formatter",
+        "online-tools",
+        "react",
+        "toolbox",
+        "typescript",
+        "vite",
+        "web-development"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/YuChuanhui3/devtoolbox",
+      "source_url": "https://github.com/YuChuanhui3/devtoolbox",
+      "description": "Free bilingual (EN/中文) online developer toolbox — 91 browser-based tools: JSON formatter, encoding & encryption, regex, image compressor, QR codes, WebRTC LAN file transfer. No backend, data never leaves your device."
+    },
+    {
+      "slug_hint": "lorem-pro-tool",
+      "name": "Ravs10/lorem-pro-tool",
+      "tags": [
+        "developer-tools",
+        "free-tools-of-development",
+        "lorem-ipsum",
+        "online-tools",
+        "productivity-tools",
+        "text-tools",
+        "tool-kit"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/Ravs10/lorem-pro-tool",
+      "source_url": "https://github.com/Ravs10/lorem-pro-tool",
+      "description": "Lorem Pro Tool - 20+ Free Online Tools Hub: Lorem Ipsum Generator, Case Converter, Text Tools, Dev Utilities & More for Developers"
+    },
+    {
+      "slug_hint": "exponentiallydigital",
+      "name": "ExponentiallyDigital/ExponentiallyDigital",
+      "tags": [
+        "agile",
+        "android",
+        "consulting",
+        "data-analysis",
+        "delivery",
+        "developer-tools",
+        "devops",
+        "financial-services",
+        "go",
+        "golang",
+        "infrstructure",
+        "jira",
+        "leadership",
+        "lua",
+        "powershell",
+        "powershell-script",
+        "release-management",
+        "scrum",
+        "world-of-warcraft-addon"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/ExponentiallyDigital/ExponentiallyDigital",
+      "source_url": "https://github.com/ExponentiallyDigital/ExponentiallyDigital",
+      "description": "Three decades leading enterprise delivery across banking, government, and consulting. Built open-source Golang tools that cut sprint spillover from 70% to 19% at ANZ. Online since 1987, four domain names, two sites. After hours: tinkering with code, Windows kernel tuning, and colour-perception image sorting."
     },
     {
       "slug_hint": "toolhq",
@@ -138,138 +290,7 @@
       "reason": "recent repo: https://github.com/jimmyjackpot/toolhq",
       "source_url": "https://github.com/jimmyjackpot/toolhq",
       "description": "toolhq: free online developer tools (JSON, regex, JWT, DNS, SSL, email authentication) and an MCP server that lets AI agents run real DNS, TLS and HTTP checks. 78 tools at toolhq.io."
-    },
-    {
-      "slug_hint": "brasil-ferramentas",
-      "name": "alessandrooliveirape-prog/Brasil-ferramentas",
-      "tags": [
-        "css-generators",
-        "data-validation",
-        "developer-tools",
-        "privacy-first",
-        "react",
-        "typescript",
-        "utilities",
-        "vite"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/alessandrooliveirape-prog/Brasil-ferramentas",
-      "source_url": "https://github.com/alessandrooliveirape-prog/Brasil-ferramentas",
-      "description": "Free online tools and utilities built with TypeScript for practical everyday tasks."
-    },
-    {
-      "slug_hint": "devtools-presence-service",
-      "name": "LinusHolm3764/devtools-presence-service",
-      "tags": [
-        "developer-tools",
-        "infrastructure",
-        "observability",
-        "presence",
-        "realtime",
-        "typescript"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/LinusHolm3764/devtools-presence-service",
-      "source_url": "https://github.com/LinusHolm3764/devtools-presence-service",
-      "description": "Typed realtime presence for an online developer-tools workspace"
-    },
-    {
-      "slug_hint": "lorem-pro-tool",
-      "name": "Ravs10/lorem-pro-tool",
-      "tags": [
-        "developer-tools",
-        "free-tools-of-development",
-        "lorem-ipsum",
-        "online-tools",
-        "productivity-tools",
-        "text-tools",
-        "tool-kit"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/Ravs10/lorem-pro-tool",
-      "source_url": "https://github.com/Ravs10/lorem-pro-tool",
-      "description": "Lorem Pro Tool - 20+ Free Online Tools Hub: Lorem Ipsum Generator, Case Converter, Text Tools, Dev Utilities & More for Developers"
-    },
-    {
-      "slug_hint": "awesome-tools",
-      "name": "wangruofeng/awesome-tools",
-      "tags": [
-        "awesome-list",
-        "developer-tools",
-        "github-pages",
-        "online-tools",
-        "open-source",
-        "static-site",
-        "vanilla-javascript",
-        "web-tools"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/wangruofeng/awesome-tools",
-      "source_url": "https://github.com/wangruofeng/awesome-tools",
-      "description": "A categorized collection of open-source online tools by Wang Ruofeng."
-    },
-    {
-      "slug_hint": "free-online-tools",
-      "name": "Youssef-KADIRI/free-online-tools",
-      "tags": [
-        "browser-based",
-        "developer-tools",
-        "free-tools",
-        "image-tools",
-        "online-tools",
-        "pdf-tools",
-        "privacy"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/Youssef-KADIRI/free-online-tools",
-      "source_url": "https://github.com/Youssef-KADIRI/free-online-tools",
-      "description": "490+ free online tools that run in your browser — no upload, no sign-up. https://kaditools.com"
-    },
-    {
-      "slug_hint": "devtoolbox",
-      "name": "YuChuanhui3/devtoolbox",
-      "tags": [
-        "developer-tools",
-        "file-transfer",
-        "json-formatter",
-        "online-tools",
-        "react",
-        "toolbox",
-        "typescript",
-        "vite",
-        "web-development"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/YuChuanhui3/devtoolbox",
-      "source_url": "https://github.com/YuChuanhui3/devtoolbox",
-      "description": "Free bilingual (EN/中文) online developer toolbox — 91 browser-based tools: JSON formatter, encoding & encryption, regex, image compressor, QR codes, WebRTC LAN file transfer. No backend, data never leaves your device."
-    },
-    {
-      "slug_hint": "zynocode-labs-free-tools",
-      "name": "zynocode/zynocode-labs-free-tools",
-      "tags": [
-        "api",
-        "cli",
-        "developer-tools",
-        "free-tools",
-        "image-compressor",
-        "mcp",
-        "nextjs",
-        "nodejs",
-        "online-tools",
-        "pdf-tools",
-        "privacy-first",
-        "productivity",
-        "sdk",
-        "seo-tools",
-        "typescript",
-        "web-tools"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/zynocode/zynocode-labs-free-tools",
-      "source_url": "https://github.com/zynocode/zynocode-labs-free-tools",
-      "description": "Zynocode Labs free online tools — PDF, image, SEO, writing, developer and finance tools that run in your browser, plus the @zynocode/sdk and zynocode CLI"
     }
   ],
-  "report": "reports/tool-scan-20261105.md"
+  "report": "reports/tool-scan-20261106.md"
 }
