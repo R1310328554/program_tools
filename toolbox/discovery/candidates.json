@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-11-11T06:08:07+08:00",
+  "scanned_at": "2026-11-12T07:16:49+08:00",
   "installed_count": 95,
   "gaps": [
     {
@@ -77,23 +77,24 @@
   ],
   "github_pulse": [
     {
-      "slug_hint": "tools360pro",
-      "name": "MuhammadShoaib67/tools360pro",
+      "slug_hint": "onlinetools-dev",
+      "name": "noobnooc/onlinetools.dev",
       "tags": [
-        "calculators",
-        "converters",
         "developer-tools",
-        "free-tools",
-        "image-tools",
-        "javascript",
+        "devtools",
+        "json-formatter",
+        "local-first",
         "online-tools",
-        "pdf-tools",
-        "text-tools"
+        "privacy",
+        "pwa",
+        "svelte",
+        "sveltekit",
+        "typescript"
       ],
       "priority": "low",
-      "reason": "recent repo: https://github.com/MuhammadShoaib67/tools360pro",
-      "source_url": "https://github.com/MuhammadShoaib67/tools360pro",
-      "description": "63 free online tools that run 100% in your browser — PDF, image, AI, text, converters, calculators, developer tools & generators. No sign-up, no uploads."
+      "reason": "recent repo: https://github.com/noobnooc/onlinetools.dev",
+      "source_url": "https://github.com/noobnooc/onlinetools.dev",
+      "description": "Developer tools that run entirely in your browser — format JSON, decode JWTs, convert timestamps, test regex. No upload, no signup, no tracking. Works offline, in 14 languages."
     },
     {
       "slug_hint": "brasil-ferramentas",
@@ -135,6 +136,113 @@
       "description": "Collection of handy online tools for developers, with great UX. "
     },
     {
+      "slug_hint": "exponentiallydigital",
+      "name": "ExponentiallyDigital/ExponentiallyDigital",
+      "tags": [
+        "agile",
+        "android",
+        "consulting",
+        "data-analysis",
+        "delivery",
+        "developer-tools",
+        "devops",
+        "financial-services",
+        "go",
+        "golang",
+        "infrstructure",
+        "jira",
+        "leadership",
+        "lua",
+        "powershell",
+        "powershell-script",
+        "release-management",
+        "scrum",
+        "world-of-warcraft-addon"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/ExponentiallyDigital/ExponentiallyDigital",
+      "source_url": "https://github.com/ExponentiallyDigital/ExponentiallyDigital",
+      "description": "Three decades leading enterprise delivery across banking, government, and consulting. Built open-source Golang tools that cut sprint spillover from 70% to 19% at ANZ. Online since 1987, four domain names, two sites. After hours: tinkering with code, Windows kernel tuning, and colour-perception image sorting."
+    },
+    {
+      "slug_hint": "tools360pro",
+      "name": "MuhammadShoaib67/tools360pro",
+      "tags": [
+        "calculators",
+        "converters",
+        "developer-tools",
+        "free-tools",
+        "image-tools",
+        "javascript",
+        "online-tools",
+        "pdf-tools",
+        "text-tools"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/MuhammadShoaib67/tools360pro",
+      "source_url": "https://github.com/MuhammadShoaib67/tools360pro",
+      "description": "63 free online tools that run 100% in your browser — PDF, image, AI, text, converters, calculators, developer tools & generators. No sign-up, no uploads."
+    },
+    {
+      "slug_hint": "devdeck",
+      "name": "ezin-rev/devdeck",
+      "tags": [
+        "base64",
+        "desktop-app",
+        "developer-tools",
+        "devtools",
+        "docker",
+        "json",
+        "jwt",
+        "offline",
+        "open-source",
+        "privacy",
+        "pwa",
+        "react",
+        "regex",
+        "self-hosted",
+        "tauri",
+        "utilities",
+        "vite",
+        "web-app",
+        "yaml"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/ezin-rev/devdeck",
+      "source_url": "https://github.com/ezin-rev/devdeck",
+      "description": "Free online developer toolbox: browser-based tools for JSON, YAML, JWT, Base64, regex, cron, Docker, Kubernetes, certificates, hashes and more. Nothing is uploaded. Also available as a desktop app."
+    },
+    {
+      "slug_hint": "ez4code-web",
+      "name": "niceyayale/ez4code-web",
+      "tags": [
+        "code-tools",
+        "developer-tools",
+        "ide",
+        "learning",
+        "programming"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/niceyayale/ez4code-web",
+      "source_url": "https://github.com/niceyayale/ez4code-web",
+      "description": "Online programming tools and code learning platform for developers"
+    },
+    {
+      "slug_hint": "andryroby-github-io",
+      "name": "AndryRoby/AndryRoby.github.io",
+      "tags": [
+        "arling",
+        "browser-tools",
+        "developer-tools",
+        "slovakia",
+        "static-site"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/AndryRoby/AndryRoby.github.io",
+      "source_url": "https://github.com/AndryRoby/AndryRoby.github.io",
+      "description": "arling.sk: small browser tools for online shops, accountants and developers. Nothing you paste leaves your browser."
+    },
+    {
       "slug_hint": "convertlinx",
       "name": "ashfaqazad/convertlinx",
       "tags": [
@@ -172,98 +280,7 @@
       "reason": "recent repo: https://github.com/Surya-1301/Toolverse",
       "source_url": "https://github.com/Surya-1301/Toolverse",
       "description": "Free online utilities — 65 tools for developers, creators & everyday users: formatters, converters, generators, image tools, PDF tools & file sharing. No sign-up. Browser-first. Android app available."
-    },
-    {
-      "slug_hint": "onlinetools-dev",
-      "name": "noobnooc/onlinetools.dev",
-      "tags": [
-        "developer-tools",
-        "devtools",
-        "json-formatter",
-        "local-first",
-        "online-tools",
-        "privacy",
-        "pwa",
-        "svelte",
-        "sveltekit",
-        "typescript"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/noobnooc/onlinetools.dev",
-      "source_url": "https://github.com/noobnooc/onlinetools.dev",
-      "description": "Developer tools that run entirely in your browser — format JSON, decode JWTs, convert timestamps, test regex. No upload, no signup, no tracking. Works offline, in 14 languages."
-    },
-    {
-      "slug_hint": "mjj-tools-directory",
-      "name": "Jacky-Chen-Pro/mjj-tools-directory",
-      "tags": [
-        "calculators",
-        "converters",
-        "developer-tools",
-        "image-tools",
-        "json",
-        "online-tools",
-        "text-tools",
-        "utilities"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/Jacky-Chen-Pro/mjj-tools-directory",
-      "source_url": "https://github.com/Jacky-Chen-Pro/mjj-tools-directory",
-      "description": "167 free online tools in 12 categories: calculators, converters, developer utilities, text and image tools. 中英文分类工具目录。"
-    },
-    {
-      "slug_hint": "andryroby-github-io",
-      "name": "AndryRoby/AndryRoby.github.io",
-      "tags": [
-        "arling",
-        "browser-tools",
-        "developer-tools",
-        "slovakia",
-        "static-site"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/AndryRoby/AndryRoby.github.io",
-      "source_url": "https://github.com/AndryRoby/AndryRoby.github.io",
-      "description": "arling.sk: small browser tools for online shops, accountants and developers. Nothing you paste leaves your browser."
-    },
-    {
-      "slug_hint": "timestamp-converter",
-      "name": "formatho/timestamp-converter",
-      "tags": [
-        "cloudflare-workers",
-        "date-time",
-        "developer-tools",
-        "epoch",
-        "formatho",
-        "no-tracking",
-        "privacy-first",
-        "timestamp",
-        "unix-timestamp"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/formatho/timestamp-converter",
-      "source_url": "https://github.com/formatho/timestamp-converter",
-      "description": "Privacy-first Unix timestamp converter (epoch <-> UTC/local) — 100% client-side, no tracking. Free online tool + self-hostable Cloudflare Worker API."
-    },
-    {
-      "slug_hint": "slug-generator",
-      "name": "formatho/slug-generator",
-      "tags": [
-        "cloudflare-workers",
-        "developer-tools",
-        "formatho",
-        "no-tracking",
-        "privacy-first",
-        "seo",
-        "slug",
-        "slugify",
-        "url-slug"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/formatho/slug-generator",
-      "source_url": "https://github.com/formatho/slug-generator",
-      "description": "Privacy-first URL slug generator — 100% client-side, no tracking. Free online tool + self-hostable Cloudflare Worker API."
     }
   ],
-  "report": "reports/tool-scan-20261111.md"
+  "report": "reports/tool-scan-20261112.md"
 }
