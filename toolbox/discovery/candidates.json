@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-11-17T08:38:19+08:00",
+  "scanned_at": "2026-11-18T07:43:47+08:00",
   "installed_count": 95,
   "gaps": [
     {
@@ -110,6 +110,123 @@
       "description": "Free online tools and utilities built with TypeScript for practical everyday tasks."
     },
     {
+      "slug_hint": "tools360pro",
+      "name": "MuhammadShoaib67/tools360pro",
+      "tags": [
+        "calculators",
+        "converters",
+        "developer-tools",
+        "free-tools",
+        "image-tools",
+        "javascript",
+        "online-tools",
+        "pdf-tools",
+        "text-tools"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/MuhammadShoaib67/tools360pro",
+      "source_url": "https://github.com/MuhammadShoaib67/tools360pro",
+      "description": "63 free online tools that run 100% in your browser — PDF, image, AI, text, converters, calculators, developer tools & generators. No sign-up, no uploads."
+    },
+    {
+      "slug_hint": "smallwebapps",
+      "name": "LucasHenriqueDiniz/smallwebapps",
+      "tags": [
+        "astro",
+        "browser",
+        "developer-tools",
+        "free",
+        "images",
+        "javascript",
+        "offline",
+        "online",
+        "optimizer",
+        "pdf",
+        "privacy",
+        "privacy-first",
+        "privacy-focused",
+        "react",
+        "tools",
+        "utilities",
+        "web-app",
+        "youtube"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/LucasHenriqueDiniz/smallwebapps",
+      "source_url": "https://github.com/LucasHenriqueDiniz/smallwebapps",
+      "description": "Free, fast, private browser-based tools"
+    },
+    {
+      "slug_hint": "pro-github-starter-kit",
+      "name": "cmduyeen/pro-github-starter-kit",
+      "tags": [
+        "achievements",
+        "awesome-list",
+        "curated-list",
+        "developer-portfolio",
+        "developer-tools",
+        "github-achievements",
+        "github-actions",
+        "github-badges",
+        "github-profile",
+        "github-profile-readme",
+        "github-seo",
+        "markdown",
+        "open-source",
+        "personal-branding",
+        "portfolio-template",
+        "profile-readme",
+        "readme-stats",
+        "readme-template",
+        "shields-io",
+        "starter-kit"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/cmduyeen/pro-github-starter-kit",
+      "source_url": "https://github.com/cmduyeen/pro-github-starter-kit",
+      "description": "🚀 Pro GitHub Starter Kit: 9 modular README themes, 12 plugins, live Web Builder, online avatar tools, legit achievement badges & SEO/GEO checklist."
+    },
+    {
+      "slug_hint": "devtoolbox",
+      "name": "YuChuanhui3/devtoolbox",
+      "tags": [
+        "developer-tools",
+        "file-transfer",
+        "json-formatter",
+        "online-tools",
+        "react",
+        "toolbox",
+        "typescript",
+        "vite",
+        "web-development"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/YuChuanhui3/devtoolbox",
+      "source_url": "https://github.com/YuChuanhui3/devtoolbox",
+      "description": "Free bilingual (EN/中文) online developer toolbox — 91 browser-based tools: JSON formatter, encoding & encryption, regex, image compressor, QR codes, WebRTC LAN file transfer. No backend, data never leaves your device."
+    },
+    {
+      "slug_hint": "it-tools",
+      "name": "CorentinTh/it-tools",
+      "tags": [
+        "converter",
+        "developer-productivity",
+        "developer-tools",
+        "frontend",
+        "javascript",
+        "productivity",
+        "tool",
+        "tools",
+        "typescript",
+        "vuejs",
+        "website"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/CorentinTh/it-tools",
+      "source_url": "https://github.com/CorentinTh/it-tools",
+      "description": "Collection of handy online tools for developers, with great UX. "
+    },
+    {
       "slug_hint": "crizatools",
       "name": "CRIZA-LABS/crizatools",
       "tags": [
@@ -166,53 +283,6 @@
       "description": "Free open-source developer tools that run entirely in your browser — nothing you paste is ever uploaded. JSON formatter and validator, diff checker, base64 encoder/decoder, word counter and text statistics, list sorter and duplicate remover. A private, offline-capable alternative to online dev tool sites."
     },
     {
-      "slug_hint": "tools360pro",
-      "name": "MuhammadShoaib67/tools360pro",
-      "tags": [
-        "calculators",
-        "converters",
-        "developer-tools",
-        "free-tools",
-        "image-tools",
-        "javascript",
-        "online-tools",
-        "pdf-tools",
-        "text-tools"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/MuhammadShoaib67/tools360pro",
-      "source_url": "https://github.com/MuhammadShoaib67/tools360pro",
-      "description": "63 free online tools that run 100% in your browser — PDF, image, AI, text, converters, calculators, developer tools & generators. No sign-up, no uploads."
-    },
-    {
-      "slug_hint": "smallwebapps",
-      "name": "LucasHenriqueDiniz/smallwebapps",
-      "tags": [
-        "astro",
-        "browser",
-        "developer-tools",
-        "free",
-        "images",
-        "javascript",
-        "offline",
-        "online",
-        "optimizer",
-        "pdf",
-        "privacy",
-        "privacy-first",
-        "privacy-focused",
-        "react",
-        "tools",
-        "utilities",
-        "web-app",
-        "youtube"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/LucasHenriqueDiniz/smallwebapps",
-      "source_url": "https://github.com/LucasHenriqueDiniz/smallwebapps",
-      "description": "Free, fast, private browser-based tools"
-    },
-    {
       "slug_hint": "exponentiallydigital",
       "name": "ExponentiallyDigital/ExponentiallyDigital",
       "tags": [
@@ -240,67 +310,7 @@
       "reason": "recent repo: https://github.com/ExponentiallyDigital/ExponentiallyDigital",
       "source_url": "https://github.com/ExponentiallyDigital/ExponentiallyDigital",
       "description": "Three decades leading enterprise delivery across banking, government, and consulting. Built open-source Golang tools that cut sprint spillover from 70% to 19% at ANZ. Online since 1987, four domain names, two sites. After hours: tinkering with code, Windows kernel tuning, and colour-perception image sorting."
-    },
-    {
-      "slug_hint": "devtoolbox",
-      "name": "YuChuanhui3/devtoolbox",
-      "tags": [
-        "developer-tools",
-        "file-transfer",
-        "json-formatter",
-        "online-tools",
-        "react",
-        "toolbox",
-        "typescript",
-        "vite",
-        "web-development"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/YuChuanhui3/devtoolbox",
-      "source_url": "https://github.com/YuChuanhui3/devtoolbox",
-      "description": "Free bilingual (EN/中文) online developer toolbox — 91 browser-based tools: JSON formatter, encoding & encryption, regex, image compressor, QR codes, WebRTC LAN file transfer. No backend, data never leaves your device."
-    },
-    {
-      "slug_hint": "online-json-formatter",
-      "name": "mariabk003-MS/online-json-formatter",
-      "tags": [
-        "developer-tools",
-        "json",
-        "json-compare",
-        "json-formatter",
-        "json-repair",
-        "json-to-csv",
-        "json-to-excel",
-        "json-validator",
-        "json-viewer",
-        "online-tools",
-        "privacy-first",
-        "react",
-        "vite",
-        "yaml"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/mariabk003-MS/online-json-formatter",
-      "source_url": "https://github.com/mariabk003-MS/online-json-formatter",
-      "description": "30 free JSON tools that run in your browser: formatter, validator, repair, compare, JSON to Excel/CSV/YAML/SQL/TypeScript. No uploads, no sign-up."
-    },
-    {
-      "slug_hint": "lorem-pro-tool",
-      "name": "Ravs10/lorem-pro-tool",
-      "tags": [
-        "developer-tools",
-        "free-tools-of-development",
-        "lorem-ipsum",
-        "online-tools",
-        "productivity-tools",
-        "text-tools",
-        "tool-kit"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/Ravs10/lorem-pro-tool",
-      "source_url": "https://github.com/Ravs10/lorem-pro-tool",
-      "description": "Lorem Pro Tool - 20+ Free Online Tools Hub: Lorem Ipsum Generator, Case Converter, Text Tools, Dev Utilities & More for Developers"
     }
   ],
-  "report": "reports/tool-scan-20261117.md"
+  "report": "reports/tool-scan-20261118.md"
 }
