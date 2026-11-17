@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-11-16T05:27:15+08:00",
+  "scanned_at": "2026-11-17T08:38:19+08:00",
   "installed_count": 95,
   "gaps": [
     {
@@ -77,21 +77,19 @@
   ],
   "github_pulse": [
     {
-      "slug_hint": "lorem-pro-tool",
-      "name": "Ravs10/lorem-pro-tool",
+      "slug_hint": "andryroby-github-io",
+      "name": "AndryRoby/AndryRoby.github.io",
       "tags": [
+        "arling",
+        "browser-tools",
         "developer-tools",
-        "free-tools-of-development",
-        "lorem-ipsum",
-        "online-tools",
-        "productivity-tools",
-        "text-tools",
-        "tool-kit"
+        "slovakia",
+        "static-site"
       ],
       "priority": "low",
-      "reason": "recent repo: https://github.com/Ravs10/lorem-pro-tool",
-      "source_url": "https://github.com/Ravs10/lorem-pro-tool",
-      "description": "Lorem Pro Tool - 20+ Free Online Tools Hub: Lorem Ipsum Generator, Case Converter, Text Tools, Dev Utilities & More for Developers"
+      "reason": "recent repo: https://github.com/AndryRoby/AndryRoby.github.io",
+      "source_url": "https://github.com/AndryRoby/AndryRoby.github.io",
+      "description": "arling.sk: small browser tools for online shops, accountants and developers. Nothing you paste leaves your browser."
     },
     {
       "slug_hint": "brasil-ferramentas",
@@ -110,6 +108,81 @@
       "reason": "recent repo: https://github.com/alessandrooliveirape-prog/Brasil-ferramentas",
       "source_url": "https://github.com/alessandrooliveirape-prog/Brasil-ferramentas",
       "description": "Free online tools and utilities built with TypeScript for practical everyday tasks."
+    },
+    {
+      "slug_hint": "crizatools",
+      "name": "CRIZA-LABS/crizatools",
+      "tags": [
+        "browser-tools",
+        "criza-labs",
+        "crizatools",
+        "developer-tools",
+        "emi-calculator",
+        "free-tools",
+        "gst-calculator",
+        "gst-invoice",
+        "image-tools",
+        "india",
+        "online-tools",
+        "pdf-tools",
+        "privacy-first",
+        "pwa",
+        "qr-code-generator",
+        "upi"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/CRIZA-LABS/crizatools",
+      "source_url": "https://github.com/CRIZA-LABS/crizatools",
+      "description": "CrizaTools by Criza Labs: free online tools that run in your browser. PDF, image, GST, EMI, SIP and unit calculators, QR codes, GST invoices and developer tools. No sign-up, nothing uploaded."
+    },
+    {
+      "slug_hint": "devtools",
+      "name": "fadeltd/devtools",
+      "tags": [
+        "base64",
+        "base64-decoder",
+        "base64-encoder",
+        "character-counter",
+        "client-side",
+        "cloudflare-workers",
+        "developer-tools",
+        "devtools",
+        "diff-checker",
+        "diff-tool",
+        "json-formatter",
+        "json-validator",
+        "no-backend",
+        "offline-first",
+        "online-tools",
+        "privacy",
+        "react",
+        "text-statistics",
+        "typescript",
+        "word-counter"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/fadeltd/devtools",
+      "source_url": "https://github.com/fadeltd/devtools",
+      "description": "Free open-source developer tools that run entirely in your browser — nothing you paste is ever uploaded. JSON formatter and validator, diff checker, base64 encoder/decoder, word counter and text statistics, list sorter and duplicate remover. A private, offline-capable alternative to online dev tool sites."
+    },
+    {
+      "slug_hint": "tools360pro",
+      "name": "MuhammadShoaib67/tools360pro",
+      "tags": [
+        "calculators",
+        "converters",
+        "developer-tools",
+        "free-tools",
+        "image-tools",
+        "javascript",
+        "online-tools",
+        "pdf-tools",
+        "text-tools"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/MuhammadShoaib67/tools360pro",
+      "source_url": "https://github.com/MuhammadShoaib67/tools360pro",
+      "description": "63 free online tools that run 100% in your browser — PDF, image, AI, text, converters, calculators, developer tools & generators. No sign-up, no uploads."
     },
     {
       "slug_hint": "smallwebapps",
@@ -169,41 +242,23 @@
       "description": "Three decades leading enterprise delivery across banking, government, and consulting. Built open-source Golang tools that cut sprint spillover from 70% to 19% at ANZ. Online since 1987, four domain names, two sites. After hours: tinkering with code, Windows kernel tuning, and colour-perception image sorting."
     },
     {
-      "slug_hint": "dev-tools",
-      "name": "yqh-core/dev-tools",
+      "slug_hint": "devtoolbox",
+      "name": "YuChuanhui3/devtoolbox",
       "tags": [
-        "base64",
-        "cron",
         "developer-tools",
+        "file-transfer",
         "json-formatter",
-        "jwt",
         "online-tools",
-        "regex",
-        "typescript"
+        "react",
+        "toolbox",
+        "typescript",
+        "vite",
+        "web-development"
       ],
       "priority": "low",
-      "reason": "recent repo: https://github.com/yqh-core/dev-tools",
-      "source_url": "https://github.com/yqh-core/dev-tools",
-      "description": "CoderKit — 100+ free online developer tools for JSON, Base64, JWT, regex, cron, hashes and more. Runs in your browser with no sign-up. Open source, based on it-tools."
-    },
-    {
-      "slug_hint": "tools360pro",
-      "name": "MuhammadShoaib67/tools360pro",
-      "tags": [
-        "calculators",
-        "converters",
-        "developer-tools",
-        "free-tools",
-        "image-tools",
-        "javascript",
-        "online-tools",
-        "pdf-tools",
-        "text-tools"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/MuhammadShoaib67/tools360pro",
-      "source_url": "https://github.com/MuhammadShoaib67/tools360pro",
-      "description": "63 free online tools that run 100% in your browser — PDF, image, AI, text, converters, calculators, developer tools & generators. No sign-up, no uploads."
+      "reason": "recent repo: https://github.com/YuChuanhui3/devtoolbox",
+      "source_url": "https://github.com/YuChuanhui3/devtoolbox",
+      "description": "Free bilingual (EN/中文) online developer toolbox — 91 browser-based tools: JSON formatter, encoding & encryption, regex, image compressor, QR codes, WebRTC LAN file transfer. No backend, data never leaves your device."
     },
     {
       "slug_hint": "online-json-formatter",
@@ -230,57 +285,22 @@
       "description": "30 free JSON tools that run in your browser: formatter, validator, repair, compare, JSON to Excel/CSV/YAML/SQL/TypeScript. No uploads, no sign-up."
     },
     {
-      "slug_hint": "andryroby-github-io",
-      "name": "AndryRoby/AndryRoby.github.io",
-      "tags": [
-        "arling",
-        "browser-tools",
-        "developer-tools",
-        "slovakia",
-        "static-site"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/AndryRoby/AndryRoby.github.io",
-      "source_url": "https://github.com/AndryRoby/AndryRoby.github.io",
-      "description": "arling.sk: small browser tools for online shops, accountants and developers. Nothing you paste leaves your browser."
-    },
-    {
-      "slug_hint": "toolverse",
-      "name": "Surya-1301/Toolverse",
-      "tags": [
-        "android",
-        "converter",
-        "developer-tools",
-        "file-sharing",
-        "formatter",
-        "image-tools",
-        "open-source",
-        "pdf-tools",
-        "url-shortener",
-        "utility-tools"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/Surya-1301/Toolverse",
-      "source_url": "https://github.com/Surya-1301/Toolverse",
-      "description": "Free online utilities — 65 tools for developers, creators & everyday users: formatters, converters, generators, image tools, PDF tools & file sharing. No sign-up. Browser-first. Android app available."
-    },
-    {
-      "slug_hint": "freeonlinetoolsgo-web",
-      "name": "niceyayale/freeonlinetoolsgo-web",
+      "slug_hint": "lorem-pro-tool",
+      "name": "Ravs10/lorem-pro-tool",
       "tags": [
         "developer-tools",
-        "free-tools",
-        "image-converter",
-        "json",
+        "free-tools-of-development",
+        "lorem-ipsum",
         "online-tools",
-        "pdf",
-        "qr-code"
+        "productivity-tools",
+        "text-tools",
+        "tool-kit"
       ],
       "priority": "low",
-      "reason": "recent repo: https://github.com/niceyayale/freeonlinetoolsgo-web",
-      "source_url": "https://github.com/niceyayale/freeonlinetoolsgo-web",
-      "description": "Free online tools for images, PDF, JSON, Base64, hashing and QR codes - all in the browser"
+      "reason": "recent repo: https://github.com/Ravs10/lorem-pro-tool",
+      "source_url": "https://github.com/Ravs10/lorem-pro-tool",
+      "description": "Lorem Pro Tool - 20+ Free Online Tools Hub: Lorem Ipsum Generator, Case Converter, Text Tools, Dev Utilities & More for Developers"
     }
   ],
-  "report": "reports/tool-scan-20261116.md"
+  "report": "reports/tool-scan-20261117.md"
 }
