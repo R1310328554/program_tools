@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-11-18T07:43:47+08:00",
+  "scanned_at": "2026-11-19T07:15:02+08:00",
   "installed_count": 95,
   "gaps": [
     {
@@ -77,21 +77,6 @@
   ],
   "github_pulse": [
     {
-      "slug_hint": "andryroby-github-io",
-      "name": "AndryRoby/AndryRoby.github.io",
-      "tags": [
-        "arling",
-        "browser-tools",
-        "developer-tools",
-        "slovakia",
-        "static-site"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/AndryRoby/AndryRoby.github.io",
-      "source_url": "https://github.com/AndryRoby/AndryRoby.github.io",
-      "description": "arling.sk: small browser tools for online shops, accountants and developers. Nothing you paste leaves your browser."
-    },
-    {
       "slug_hint": "brasil-ferramentas",
       "name": "alessandrooliveirape-prog/Brasil-ferramentas",
       "tags": [
@@ -108,6 +93,127 @@
       "reason": "recent repo: https://github.com/alessandrooliveirape-prog/Brasil-ferramentas",
       "source_url": "https://github.com/alessandrooliveirape-prog/Brasil-ferramentas",
       "description": "Free online tools and utilities built with TypeScript for practical everyday tasks."
+    },
+    {
+      "slug_hint": "lorem-pro-tool",
+      "name": "Ravs10/lorem-pro-tool",
+      "tags": [
+        "developer-tools",
+        "free-tools-of-development",
+        "lorem-ipsum",
+        "online-tools",
+        "productivity-tools",
+        "text-tools",
+        "tool-kit"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/Ravs10/lorem-pro-tool",
+      "source_url": "https://github.com/Ravs10/lorem-pro-tool",
+      "description": "Lorem Pro Tool - 20+ Free Online Tools Hub: Lorem Ipsum Generator, Case Converter, Text Tools, Dev Utilities & More for Developers"
+    },
+    {
+      "slug_hint": "ai-tech-safar",
+      "name": "AiTechSafar/ai-tech-safar",
+      "tags": [
+        "ai-news",
+        "ai-newsletter",
+        "artificial-intelligence",
+        "developer-tools",
+        "productivity",
+        "tutorials"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/AiTechSafar/ai-tech-safar",
+      "source_url": "https://github.com/AiTechSafar/ai-tech-safar",
+      "description": "AI news, practical tutorials, free online tools and developer resources | AI Tech Safar"
+    },
+    {
+      "slug_hint": "online-json-formatter",
+      "name": "mariabk003-MS/online-json-formatter",
+      "tags": [
+        "developer-tools",
+        "json",
+        "json-compare",
+        "json-formatter",
+        "json-repair",
+        "json-to-csv",
+        "json-to-excel",
+        "json-validator",
+        "json-viewer",
+        "online-tools",
+        "privacy-first",
+        "react",
+        "vite",
+        "yaml"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/mariabk003-MS/online-json-formatter",
+      "source_url": "https://github.com/mariabk003-MS/online-json-formatter",
+      "description": "30 free JSON tools that run in your browser: formatter, validator, repair, compare, JSON to Excel/CSV/YAML/SQL/TypeScript. No uploads, no sign-up."
+    },
+    {
+      "slug_hint": "toolverse",
+      "name": "Surya-1301/Toolverse",
+      "tags": [
+        "android",
+        "converter",
+        "developer-tools",
+        "file-sharing",
+        "formatter",
+        "image-tools",
+        "open-source",
+        "pdf-tools",
+        "url-shortener",
+        "utility-tools"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/Surya-1301/Toolverse",
+      "source_url": "https://github.com/Surya-1301/Toolverse",
+      "description": "Free online utilities — 65 tools for developers, creators & everyday users: formatters, converters, generators, image tools, PDF tools & file sharing. No sign-up. Browser-first. Android app available."
+    },
+    {
+      "slug_hint": "exponentiallydigital",
+      "name": "ExponentiallyDigital/ExponentiallyDigital",
+      "tags": [
+        "agile",
+        "android",
+        "consulting",
+        "data-analysis",
+        "delivery",
+        "developer-tools",
+        "devops",
+        "financial-services",
+        "go",
+        "golang",
+        "infrstructure",
+        "jira",
+        "leadership",
+        "lua",
+        "powershell",
+        "powershell-script",
+        "release-management",
+        "scrum",
+        "world-of-warcraft-addon"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/ExponentiallyDigital/ExponentiallyDigital",
+      "source_url": "https://github.com/ExponentiallyDigital/ExponentiallyDigital",
+      "description": "Three decades leading enterprise delivery across banking, government, and consulting. Built open-source Golang tools that cut sprint spillover from 70% to 19% at ANZ. Online since 1987, four domain names, two sites. After hours: tinkering with code, Windows kernel tuning, and colour-perception image sorting."
+    },
+    {
+      "slug_hint": "ez4code-web",
+      "name": "niceyayale/ez4code-web",
+      "tags": [
+        "code-tools",
+        "developer-tools",
+        "ide",
+        "learning",
+        "programming"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/niceyayale/ez4code-web",
+      "source_url": "https://github.com/niceyayale/ez4code-web",
+      "description": "Online programming tools and code learning platform for developers"
     },
     {
       "slug_hint": "tools360pro",
@@ -127,130 +233,6 @@
       "reason": "recent repo: https://github.com/MuhammadShoaib67/tools360pro",
       "source_url": "https://github.com/MuhammadShoaib67/tools360pro",
       "description": "63 free online tools that run 100% in your browser — PDF, image, AI, text, converters, calculators, developer tools & generators. No sign-up, no uploads."
-    },
-    {
-      "slug_hint": "smallwebapps",
-      "name": "LucasHenriqueDiniz/smallwebapps",
-      "tags": [
-        "astro",
-        "browser",
-        "developer-tools",
-        "free",
-        "images",
-        "javascript",
-        "offline",
-        "online",
-        "optimizer",
-        "pdf",
-        "privacy",
-        "privacy-first",
-        "privacy-focused",
-        "react",
-        "tools",
-        "utilities",
-        "web-app",
-        "youtube"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/LucasHenriqueDiniz/smallwebapps",
-      "source_url": "https://github.com/LucasHenriqueDiniz/smallwebapps",
-      "description": "Free, fast, private browser-based tools"
-    },
-    {
-      "slug_hint": "pro-github-starter-kit",
-      "name": "cmduyeen/pro-github-starter-kit",
-      "tags": [
-        "achievements",
-        "awesome-list",
-        "curated-list",
-        "developer-portfolio",
-        "developer-tools",
-        "github-achievements",
-        "github-actions",
-        "github-badges",
-        "github-profile",
-        "github-profile-readme",
-        "github-seo",
-        "markdown",
-        "open-source",
-        "personal-branding",
-        "portfolio-template",
-        "profile-readme",
-        "readme-stats",
-        "readme-template",
-        "shields-io",
-        "starter-kit"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/cmduyeen/pro-github-starter-kit",
-      "source_url": "https://github.com/cmduyeen/pro-github-starter-kit",
-      "description": "🚀 Pro GitHub Starter Kit: 9 modular README themes, 12 plugins, live Web Builder, online avatar tools, legit achievement badges & SEO/GEO checklist."
-    },
-    {
-      "slug_hint": "devtoolbox",
-      "name": "YuChuanhui3/devtoolbox",
-      "tags": [
-        "developer-tools",
-        "file-transfer",
-        "json-formatter",
-        "online-tools",
-        "react",
-        "toolbox",
-        "typescript",
-        "vite",
-        "web-development"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/YuChuanhui3/devtoolbox",
-      "source_url": "https://github.com/YuChuanhui3/devtoolbox",
-      "description": "Free bilingual (EN/中文) online developer toolbox — 91 browser-based tools: JSON formatter, encoding & encryption, regex, image compressor, QR codes, WebRTC LAN file transfer. No backend, data never leaves your device."
-    },
-    {
-      "slug_hint": "it-tools",
-      "name": "CorentinTh/it-tools",
-      "tags": [
-        "converter",
-        "developer-productivity",
-        "developer-tools",
-        "frontend",
-        "javascript",
-        "productivity",
-        "tool",
-        "tools",
-        "typescript",
-        "vuejs",
-        "website"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/CorentinTh/it-tools",
-      "source_url": "https://github.com/CorentinTh/it-tools",
-      "description": "Collection of handy online tools for developers, with great UX. "
-    },
-    {
-      "slug_hint": "crizatools",
-      "name": "CRIZA-LABS/crizatools",
-      "tags": [
-        "browser-tools",
-        "criza-labs",
-        "crizatools",
-        "developer-tools",
-        "emi-calculator",
-        "free-tools",
-        "gst-calculator",
-        "gst-invoice",
-        "image-tools",
-        "india",
-        "online-tools",
-        "pdf-tools",
-        "privacy-first",
-        "pwa",
-        "qr-code-generator",
-        "upi"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/CRIZA-LABS/crizatools",
-      "source_url": "https://github.com/CRIZA-LABS/crizatools",
-      "description": "CrizaTools by Criza Labs: free online tools that run in your browser. PDF, image, GST, EMI, SIP and unit calculators, QR codes, GST invoices and developer tools. No sign-up, nothing uploaded."
     },
     {
       "slug_hint": "devtools",
@@ -283,34 +265,35 @@
       "description": "Free open-source developer tools that run entirely in your browser — nothing you paste is ever uploaded. JSON formatter and validator, diff checker, base64 encoder/decoder, word counter and text statistics, list sorter and duplicate remover. A private, offline-capable alternative to online dev tool sites."
     },
     {
-      "slug_hint": "exponentiallydigital",
-      "name": "ExponentiallyDigital/ExponentiallyDigital",
+      "slug_hint": "pro-github-starter-kit",
+      "name": "cmduyeen/pro-github-starter-kit",
       "tags": [
-        "agile",
-        "android",
-        "consulting",
-        "data-analysis",
-        "delivery",
+        "achievements",
+        "awesome-list",
+        "curated-list",
+        "developer-portfolio",
         "developer-tools",
-        "devops",
-        "financial-services",
-        "go",
-        "golang",
-        "infrstructure",
-        "jira",
-        "leadership",
-        "lua",
-        "powershell",
-        "powershell-script",
-        "release-management",
-        "scrum",
-        "world-of-warcraft-addon"
+        "github-achievements",
+        "github-actions",
+        "github-badges",
+        "github-profile",
+        "github-profile-readme",
+        "github-seo",
+        "markdown",
+        "open-source",
+        "personal-branding",
+        "portfolio-template",
+        "profile-readme",
+        "readme-stats",
+        "readme-template",
+        "shields-io",
+        "starter-kit"
       ],
       "priority": "low",
-      "reason": "recent repo: https://github.com/ExponentiallyDigital/ExponentiallyDigital",
-      "source_url": "https://github.com/ExponentiallyDigital/ExponentiallyDigital",
-      "description": "Three decades leading enterprise delivery across banking, government, and consulting. Built open-source Golang tools that cut sprint spillover from 70% to 19% at ANZ. Online since 1987, four domain names, two sites. After hours: tinkering with code, Windows kernel tuning, and colour-perception image sorting."
+      "reason": "recent repo: https://github.com/cmduyeen/pro-github-starter-kit",
+      "source_url": "https://github.com/cmduyeen/pro-github-starter-kit",
+      "description": "🚀 Pro GitHub Starter Kit: 9 modular README themes, 12 plugins, live Web Builder, online avatar tools, legit achievement badges & SEO/GEO checklist."
     }
   ],
-  "report": "reports/tool-scan-20261118.md"
+  "report": "reports/tool-scan-20261119.md"
 }
