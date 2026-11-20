@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-11-20T07:23:30+08:00",
+  "scanned_at": "2026-11-21T06:56:55+08:00",
   "installed_count": 95,
   "gaps": [
     {
@@ -92,6 +92,43 @@
       "description": "arling.sk: small browser tools for online shops, accountants and developers. Nothing you paste leaves your browser."
     },
     {
+      "slug_hint": "brasil-ferramentas",
+      "name": "alessandrooliveirape-prog/Brasil-ferramentas",
+      "tags": [
+        "css-generators",
+        "data-validation",
+        "developer-tools",
+        "privacy-first",
+        "react",
+        "typescript",
+        "utilities",
+        "vite"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/alessandrooliveirape-prog/Brasil-ferramentas",
+      "source_url": "https://github.com/alessandrooliveirape-prog/Brasil-ferramentas",
+      "description": "Free online tools and utilities built with TypeScript for practical everyday tasks."
+    },
+    {
+      "slug_hint": "tools360pro",
+      "name": "MuhammadShoaib67/tools360pro",
+      "tags": [
+        "calculators",
+        "converters",
+        "developer-tools",
+        "free-tools",
+        "image-tools",
+        "javascript",
+        "online-tools",
+        "pdf-tools",
+        "text-tools"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/MuhammadShoaib67/tools360pro",
+      "source_url": "https://github.com/MuhammadShoaib67/tools360pro",
+      "description": "63 free online tools that run 100% in your browser — PDF, image, AI, text, converters, calculators, developer tools & generators. No sign-up, no uploads."
+    },
+    {
       "slug_hint": "toolzen",
       "name": "Jaydip212/toolzen",
       "tags": [
@@ -116,22 +153,43 @@
       "description": "TOOLZEN — Every Tool. One Place. A free, privacy-first online tools platform. React + Vite + TypeScript, with SEO/AEO/GEO built in."
     },
     {
-      "slug_hint": "brasil-ferramentas",
-      "name": "alessandrooliveirape-prog/Brasil-ferramentas",
+      "slug_hint": "convertlinx",
+      "name": "ashfaqazad/convertlinx",
       "tags": [
-        "css-generators",
-        "data-validation",
         "developer-tools",
-        "privacy-first",
-        "react",
-        "typescript",
-        "utilities",
-        "vite"
+        "file-converter",
+        "image-tools",
+        "nextjs",
+        "online-tools",
+        "pdf-tools",
+        "reactjs",
+        "utility-tools",
+        "web-tools"
       ],
       "priority": "low",
-      "reason": "recent repo: https://github.com/alessandrooliveirape-prog/Brasil-ferramentas",
-      "source_url": "https://github.com/alessandrooliveirape-prog/Brasil-ferramentas",
-      "description": "Free online tools and utilities built with TypeScript for practical everyday tasks."
+      "reason": "recent repo: https://github.com/ashfaqazad/convertlinx",
+      "source_url": "https://github.com/ashfaqazad/convertlinx",
+      "description": "Free online tools for converting, editing, and working with files — simple, fast, and easy to use."
+    },
+    {
+      "slug_hint": "free-online-tools",
+      "name": "umeshkumar20540-oss/free-online-tools",
+      "tags": [
+        "audio-recorder",
+        "developer-tools",
+        "free-tools",
+        "image-resizer",
+        "invoice-generator",
+        "online-converter",
+        "pdf-editor",
+        "privacy-tools",
+        "web-utilities",
+        "youtube-tools"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/umeshkumar20540-oss/free-online-tools",
+      "source_url": "https://github.com/umeshkumar20540-oss/free-online-tools",
+      "description": "⚡ 91+ Free, Private & In-Browser Web Utilities — PDF Editor & Converter, YouTube SEO Studio, Image Resizer & Censor, Voice AI, and Developer Utilities. Zero cloud uploads. Visit live: https://minimaxtools.com/"
     },
     {
       "slug_hint": "dev-tools",
@@ -228,59 +286,7 @@
       "reason": "recent repo: https://github.com/OmniToolsnet/omnitoolsnet",
       "source_url": "https://github.com/OmniToolsnet/omnitoolsnet",
       "description": "OmniTools.net – 368+ free, privacy-first online calculators, PDF tools, image/video converters, and developer utilities."
-    },
-    {
-      "slug_hint": "tools360pro",
-      "name": "MuhammadShoaib67/tools360pro",
-      "tags": [
-        "calculators",
-        "converters",
-        "developer-tools",
-        "free-tools",
-        "image-tools",
-        "javascript",
-        "online-tools",
-        "pdf-tools",
-        "text-tools"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/MuhammadShoaib67/tools360pro",
-      "source_url": "https://github.com/MuhammadShoaib67/tools360pro",
-      "description": "63 free online tools that run 100% in your browser — PDF, image, AI, text, converters, calculators, developer tools & generators. No sign-up, no uploads."
-    },
-    {
-      "slug_hint": "lorem-pro-tool",
-      "name": "Ravs10/lorem-pro-tool",
-      "tags": [
-        "developer-tools",
-        "free-tools-of-development",
-        "lorem-ipsum",
-        "online-tools",
-        "productivity-tools",
-        "text-tools",
-        "tool-kit"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/Ravs10/lorem-pro-tool",
-      "source_url": "https://github.com/Ravs10/lorem-pro-tool",
-      "description": "Lorem Pro Tool - 20+ Free Online Tools Hub: Lorem Ipsum Generator, Case Converter, Text Tools, Dev Utilities & More for Developers"
-    },
-    {
-      "slug_hint": "ai-tech-safar",
-      "name": "AiTechSafar/ai-tech-safar",
-      "tags": [
-        "ai-news",
-        "ai-newsletter",
-        "artificial-intelligence",
-        "developer-tools",
-        "productivity",
-        "tutorials"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/AiTechSafar/ai-tech-safar",
-      "source_url": "https://github.com/AiTechSafar/ai-tech-safar",
-      "description": "AI news, practical tutorials, free online tools and developer resources | AI Tech Safar"
     }
   ],
-  "report": "reports/tool-scan-20261120.md"
+  "report": "reports/tool-scan-20261121.md"
 }
