@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-11-21T06:56:55+08:00",
+  "scanned_at": "2026-11-22T06:00:11+08:00",
   "installed_count": 95,
   "gaps": [
     {
@@ -110,6 +110,35 @@
       "description": "Free online tools and utilities built with TypeScript for practical everyday tasks."
     },
     {
+      "slug_hint": "exponentiallydigital",
+      "name": "ExponentiallyDigital/ExponentiallyDigital",
+      "tags": [
+        "agile",
+        "android",
+        "consulting",
+        "data-analysis",
+        "delivery",
+        "developer-tools",
+        "devops",
+        "financial-services",
+        "go",
+        "golang",
+        "infrstructure",
+        "jira",
+        "leadership",
+        "lua",
+        "powershell",
+        "powershell-script",
+        "release-management",
+        "scrum",
+        "world-of-warcraft-addon"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/ExponentiallyDigital/ExponentiallyDigital",
+      "source_url": "https://github.com/ExponentiallyDigital/ExponentiallyDigital",
+      "description": "Three decades leading enterprise delivery across banking, government, and consulting. Built open-source Golang tools that cut sprint spillover from 70% to 19% at ANZ. Online since 1987, four domain names, two sites. After hours: tinkering with code, Windows kernel tuning, and colour-perception image sorting."
+    },
+    {
       "slug_hint": "tools360pro",
       "name": "MuhammadShoaib67/tools360pro",
       "tags": [
@@ -127,6 +156,27 @@
       "reason": "recent repo: https://github.com/MuhammadShoaib67/tools360pro",
       "source_url": "https://github.com/MuhammadShoaib67/tools360pro",
       "description": "63 free online tools that run 100% in your browser — PDF, image, AI, text, converters, calculators, developer tools & generators. No sign-up, no uploads."
+    },
+    {
+      "slug_hint": "it-tools",
+      "name": "CorentinTh/it-tools",
+      "tags": [
+        "converter",
+        "developer-productivity",
+        "developer-tools",
+        "frontend",
+        "javascript",
+        "productivity",
+        "tool",
+        "tools",
+        "typescript",
+        "vuejs",
+        "website"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/CorentinTh/it-tools",
+      "source_url": "https://github.com/CorentinTh/it-tools",
+      "description": "Collection of handy online tools for developers, with great UX. "
     },
     {
       "slug_hint": "toolzen",
@@ -232,61 +282,7 @@
       "reason": "recent repo: https://github.com/mariabk003-MS/online-json-formatter",
       "source_url": "https://github.com/mariabk003-MS/online-json-formatter",
       "description": "30 free JSON tools that run in your browser: formatter, validator, repair, compare, JSON to Excel/CSV/YAML/SQL/TypeScript. No uploads, no sign-up."
-    },
-    {
-      "slug_hint": "exponentiallydigital",
-      "name": "ExponentiallyDigital/ExponentiallyDigital",
-      "tags": [
-        "agile",
-        "android",
-        "consulting",
-        "data-analysis",
-        "delivery",
-        "developer-tools",
-        "devops",
-        "financial-services",
-        "go",
-        "golang",
-        "infrstructure",
-        "jira",
-        "leadership",
-        "lua",
-        "powershell",
-        "powershell-script",
-        "release-management",
-        "scrum",
-        "world-of-warcraft-addon"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/ExponentiallyDigital/ExponentiallyDigital",
-      "source_url": "https://github.com/ExponentiallyDigital/ExponentiallyDigital",
-      "description": "Three decades leading enterprise delivery across banking, government, and consulting. Built open-source Golang tools that cut sprint spillover from 70% to 19% at ANZ. Online since 1987, four domain names, two sites. After hours: tinkering with code, Windows kernel tuning, and colour-perception image sorting."
-    },
-    {
-      "slug_hint": "omnitoolsnet",
-      "name": "OmniToolsnet/omnitoolsnet",
-      "tags": [
-        "android-app",
-        "calculators",
-        "developer-tools",
-        "finance-calculator",
-        "free-tools-online",
-        "google-play",
-        "image-compressor",
-        "omnitools",
-        "pdf-converter-toolkit",
-        "pdf-tools",
-        "privacy-first",
-        "seo-tools",
-        "text-tools",
-        "utility-tools",
-        "web-tools"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/OmniToolsnet/omnitoolsnet",
-      "source_url": "https://github.com/OmniToolsnet/omnitoolsnet",
-      "description": "OmniTools.net – 368+ free, privacy-first online calculators, PDF tools, image/video converters, and developer utilities."
     }
   ],
-  "report": "reports/tool-scan-20261121.md"
+  "report": "reports/tool-scan-20261122.md"
 }
