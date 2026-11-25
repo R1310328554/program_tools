@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-11-24T11:08:53+08:00",
+  "scanned_at": "2026-11-25T09:14:57+08:00",
   "installed_count": 95,
   "gaps": [
     {
@@ -95,6 +95,21 @@
       "description": "CoderKit — 100+ free online developer tools for JSON, Base64, JWT, regex, cron, hashes and more. Runs in your browser with no sign-up. Open source, based on it-tools."
     },
     {
+      "slug_hint": "andryroby-github-io",
+      "name": "AndryRoby/AndryRoby.github.io",
+      "tags": [
+        "arling",
+        "browser-tools",
+        "developer-tools",
+        "slovakia",
+        "static-site"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/AndryRoby/AndryRoby.github.io",
+      "source_url": "https://github.com/AndryRoby/AndryRoby.github.io",
+      "description": "arling.sk: small browser tools for online shops, accountants and developers. Nothing you paste leaves your browser."
+    },
+    {
       "slug_hint": "brasil-ferramentas",
       "name": "alessandrooliveirape-prog/Brasil-ferramentas",
       "tags": [
@@ -113,125 +128,34 @@
       "description": "Free online tools and utilities built with TypeScript for practical everyday tasks."
     },
     {
-      "slug_hint": "andryroby-github-io",
-      "name": "AndryRoby/AndryRoby.github.io",
+      "slug_hint": "usefulgo-tools-directory",
+      "name": "usefulgocom/usefulgo-tools-directory",
       "tags": [
-        "arling",
-        "browser-tools",
+        "background-removal",
         "developer-tools",
-        "slovakia",
-        "static-site"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/AndryRoby/AndryRoby.github.io",
-      "source_url": "https://github.com/AndryRoby/AndryRoby.github.io",
-      "description": "arling.sk: small browser tools for online shops, accountants and developers. Nothing you paste leaves your browser."
-    },
-    {
-      "slug_hint": "toolkitlife",
-      "name": "xiongfh2008/toolkitlife",
-      "tags": [
-        "calculators",
-        "client-side",
-        "developer-tools",
-        "free-tools",
-        "image-processing",
-        "nextjs",
-        "no-signup",
-        "online-tools",
+        "free-tools-online",
+        "image-converter",
+        "image-converters",
+        "in-browser",
+        "ocr",
+        "online-utilities",
+        "pdf-template",
+        "pdf-to-excel",
+        "pdf-to-image",
+        "pdf-to-markdown",
+        "pdf-to-text",
+        "pdf-to-word",
+        "pdf-tool",
         "pdf-tools",
-        "privacy-first",
-        "productivity",
-        "react",
-        "tailwindcss",
-        "typescript",
-        "video-tools",
-        "web-tools"
+        "pdf-translation",
+        "photo-editor",
+        "production",
+        "productivity"
       ],
       "priority": "low",
-      "reason": "recent repo: https://github.com/xiongfh2008/toolkitlife",
-      "source_url": "https://github.com/xiongfh2008/toolkitlife",
-      "description": "375 free online tools & calculators that run entirely in your browser - PDF, image, video, finance, health & more. No signup, no upload, no data stored."
-    },
-    {
-      "slug_hint": "online-json-formatter",
-      "name": "mariabk003-MS/online-json-formatter",
-      "tags": [
-        "developer-tools",
-        "json",
-        "json-compare",
-        "json-formatter",
-        "json-repair",
-        "json-to-csv",
-        "json-to-excel",
-        "json-validator",
-        "json-viewer",
-        "online-tools",
-        "privacy-first",
-        "react",
-        "vite",
-        "yaml"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/mariabk003-MS/online-json-formatter",
-      "source_url": "https://github.com/mariabk003-MS/online-json-formatter",
-      "description": "30 free JSON tools that run in your browser: formatter, validator, repair, compare, JSON to Excel/CSV/YAML/SQL/TypeScript. No uploads, no sign-up."
-    },
-    {
-      "slug_hint": "convertlinx",
-      "name": "ashfaqazad/convertlinx",
-      "tags": [
-        "developer-tools",
-        "file-converter",
-        "image-tools",
-        "nextjs",
-        "online-tools",
-        "pdf-tools",
-        "reactjs",
-        "utility-tools",
-        "web-tools"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/ashfaqazad/convertlinx",
-      "source_url": "https://github.com/ashfaqazad/convertlinx",
-      "description": "Free online tools for converting, editing, and working with files — simple, fast, and easy to use."
-    },
-    {
-      "slug_hint": "tools360pro",
-      "name": "MuhammadShoaib67/tools360pro",
-      "tags": [
-        "calculators",
-        "converters",
-        "developer-tools",
-        "free-tools",
-        "image-tools",
-        "javascript",
-        "online-tools",
-        "pdf-tools",
-        "text-tools"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/MuhammadShoaib67/tools360pro",
-      "source_url": "https://github.com/MuhammadShoaib67/tools360pro",
-      "description": "63 free online tools that run 100% in your browser — PDF, image, AI, text, converters, calculators, developer tools & generators. No sign-up, no uploads."
-    },
-    {
-      "slug_hint": "launch-audit-reports",
-      "name": "zColdWater/launch-audit-reports",
-      "tags": [
-        "benchmarks",
-        "developer-tools",
-        "dmarc",
-        "email-deliverability",
-        "llms-txt",
-        "saas",
-        "seo",
-        "spf"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/zColdWater/launch-audit-reports",
-      "source_url": "https://github.com/zColdWater/launch-audit-reports",
-      "description": "2026 SaaS Launch Readiness Benchmarks (228 live SPF/DMARC & llms.txt/AI-search reports) + 10 fix guides + OmniForge v5.0 online web tools"
+      "reason": "recent repo: https://github.com/usefulgocom/usefulgo-tools-directory",
+      "source_url": "https://github.com/usefulgocom/usefulgo-tools-directory",
+      "description": "Directory of free online web tools and utilities from usefulgo.com (PDF converter, background remover, OCR, and calculators)."
     },
     {
       "slug_hint": "eve-online-mcp",
@@ -256,6 +180,25 @@
       "reason": "recent repo: https://github.com/HammoTime/eve-online-mcp",
       "source_url": "https://github.com/HammoTime/eve-online-mcp",
       "description": "A secure, read-only MCP server that gives AI assistants comprehensive access to EVE Online’s ESI API, including authenticated character data and schema-aware tools."
+    },
+    {
+      "slug_hint": "convertlinx",
+      "name": "ashfaqazad/convertlinx",
+      "tags": [
+        "developer-tools",
+        "file-converter",
+        "image-tools",
+        "nextjs",
+        "online-tools",
+        "pdf-tools",
+        "reactjs",
+        "utility-tools",
+        "web-tools"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/ashfaqazad/convertlinx",
+      "source_url": "https://github.com/ashfaqazad/convertlinx",
+      "description": "Free online tools for converting, editing, and working with files — simple, fast, and easy to use."
     },
     {
       "slug_hint": "exponentiallydigital",
@@ -285,7 +228,70 @@
       "reason": "recent repo: https://github.com/ExponentiallyDigital/ExponentiallyDigital",
       "source_url": "https://github.com/ExponentiallyDigital/ExponentiallyDigital",
       "description": "Three decades leading enterprise delivery across banking, government, and consulting. Built open-source Golang tools that cut sprint spillover from 70% to 19% at ANZ. Online since 1987, four domain names, two sites. After hours: tinkering with code, Windows kernel tuning, and colour-perception image sorting."
+    },
+    {
+      "slug_hint": "crizatools",
+      "name": "CRIZA-LABS/crizatools",
+      "tags": [
+        "browser-tools",
+        "criza-labs",
+        "crizatools",
+        "developer-tools",
+        "emi-calculator",
+        "free-tools",
+        "gst-calculator",
+        "gst-invoice",
+        "image-tools",
+        "india",
+        "online-tools",
+        "pdf-tools",
+        "privacy-first",
+        "pwa",
+        "qr-code-generator",
+        "upi"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/CRIZA-LABS/crizatools",
+      "source_url": "https://github.com/CRIZA-LABS/crizatools",
+      "description": "CrizaTools by Criza Labs: free online tools that run in your browser. PDF, image, GST, EMI, SIP and unit calculators, QR codes, GST invoices and developer tools. No sign-up, nothing uploaded."
+    },
+    {
+      "slug_hint": "anyconverter",
+      "name": "asammad48/AnyConverter",
+      "tags": [
+        "browser-tools",
+        "calculators",
+        "developer-tools",
+        "javascript",
+        "online-tools",
+        "pdf-tools",
+        "privacy",
+        "static-site"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/asammad48/AnyConverter",
+      "source_url": "https://github.com/asammad48/AnyConverter",
+      "description": "128+ free, private, client-side online tools: developer utilities, PDF editor, financial calculators, and converters in EN, ES, and DA."
+    },
+    {
+      "slug_hint": "tools360pro",
+      "name": "MuhammadShoaib67/tools360pro",
+      "tags": [
+        "calculators",
+        "converters",
+        "developer-tools",
+        "free-tools",
+        "image-tools",
+        "javascript",
+        "online-tools",
+        "pdf-tools",
+        "text-tools"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/MuhammadShoaib67/tools360pro",
+      "source_url": "https://github.com/MuhammadShoaib67/tools360pro",
+      "description": "63 free online tools that run 100% in your browser — PDF, image, AI, text, converters, calculators, developer tools & generators. No sign-up, no uploads."
     }
   ],
-  "report": "reports/tool-scan-20261124.md"
+  "report": "reports/tool-scan-20261125.md"
 }
