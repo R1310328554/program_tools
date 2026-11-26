@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-11-25T09:14:57+08:00",
+  "scanned_at": "2026-11-26T08:49:09+08:00",
   "installed_count": 95,
   "gaps": [
     {
@@ -77,22 +77,23 @@
   ],
   "github_pulse": [
     {
-      "slug_hint": "dev-tools",
-      "name": "yqh-core/dev-tools",
+      "slug_hint": "ha-good-tools",
+      "name": "redchupa/ha_good_tools",
       "tags": [
-        "base64",
-        "cron",
         "developer-tools",
-        "json-formatter",
-        "jwt",
-        "online-tools",
-        "regex",
-        "typescript"
+        "haos",
+        "hassio-addons",
+        "home-assistant",
+        "home-assistant-addon",
+        "home-assistant-apps",
+        "homeassistant",
+        "ingress",
+        "utilities"
       ],
       "priority": "low",
-      "reason": "recent repo: https://github.com/yqh-core/dev-tools",
-      "source_url": "https://github.com/yqh-core/dev-tools",
-      "description": "CoderKit — 100+ free online developer tools for JSON, Base64, JWT, regex, cron, hashes and more. Runs in your browser with no sign-up. Open source, based on it-tools."
+      "reason": "recent repo: https://github.com/redchupa/ha_good_tools",
+      "source_url": "https://github.com/redchupa/ha_good_tools",
+      "description": "Home Assistant App: Modernized All-in-One Online Utility & Developer Tools (Ingress Ready)"
     },
     {
       "slug_hint": "andryroby-github-io",
@@ -128,77 +129,43 @@
       "description": "Free online tools and utilities built with TypeScript for practical everyday tasks."
     },
     {
-      "slug_hint": "usefulgo-tools-directory",
-      "name": "usefulgocom/usefulgo-tools-directory",
+      "slug_hint": "dev-tools",
+      "name": "yqh-core/dev-tools",
       "tags": [
-        "background-removal",
+        "base64",
+        "cron",
         "developer-tools",
-        "free-tools-online",
-        "image-converter",
-        "image-converters",
-        "in-browser",
-        "ocr",
-        "online-utilities",
-        "pdf-template",
-        "pdf-to-excel",
-        "pdf-to-image",
-        "pdf-to-markdown",
-        "pdf-to-text",
-        "pdf-to-word",
-        "pdf-tool",
-        "pdf-tools",
-        "pdf-translation",
-        "photo-editor",
-        "production",
-        "productivity"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/usefulgocom/usefulgo-tools-directory",
-      "source_url": "https://github.com/usefulgocom/usefulgo-tools-directory",
-      "description": "Directory of free online web tools and utilities from usefulgo.com (PDF converter, background remover, OCR, and calculators)."
-    },
-    {
-      "slug_hint": "eve-online-mcp",
-      "name": "HammoTime/eve-online-mcp",
-      "tags": [
-        "ai-tools",
-        "api-client",
-        "ccp-games",
-        "developer-tools",
-        "esi",
-        "eve-online",
-        "fenris-creations",
-        "mcp",
-        "mcp-server",
-        "model-context-protocol",
-        "oauth2",
-        "pkce",
-        "read-only",
+        "json-formatter",
+        "jwt",
+        "online-tools",
+        "regex",
         "typescript"
       ],
       "priority": "low",
-      "reason": "recent repo: https://github.com/HammoTime/eve-online-mcp",
-      "source_url": "https://github.com/HammoTime/eve-online-mcp",
-      "description": "A secure, read-only MCP server that gives AI assistants comprehensive access to EVE Online’s ESI API, including authenticated character data and schema-aware tools."
+      "reason": "recent repo: https://github.com/yqh-core/dev-tools",
+      "source_url": "https://github.com/yqh-core/dev-tools",
+      "description": "CoderKit — 100+ free online developer tools for JSON, Base64, JWT, regex, cron, hashes and more. Runs in your browser with no sign-up. Open source, based on it-tools."
     },
     {
-      "slug_hint": "convertlinx",
-      "name": "ashfaqazad/convertlinx",
+      "slug_hint": "it-tools",
+      "name": "CorentinTh/it-tools",
       "tags": [
+        "converter",
+        "developer-productivity",
         "developer-tools",
-        "file-converter",
-        "image-tools",
-        "nextjs",
-        "online-tools",
-        "pdf-tools",
-        "reactjs",
-        "utility-tools",
-        "web-tools"
+        "frontend",
+        "javascript",
+        "productivity",
+        "tool",
+        "tools",
+        "typescript",
+        "vuejs",
+        "website"
       ],
       "priority": "low",
-      "reason": "recent repo: https://github.com/ashfaqazad/convertlinx",
-      "source_url": "https://github.com/ashfaqazad/convertlinx",
-      "description": "Free online tools for converting, editing, and working with files — simple, fast, and easy to use."
+      "reason": "recent repo: https://github.com/CorentinTh/it-tools",
+      "source_url": "https://github.com/CorentinTh/it-tools",
+      "description": "Collection of handy online tools for developers, with great UX. "
     },
     {
       "slug_hint": "exponentiallydigital",
@@ -230,50 +197,6 @@
       "description": "Three decades leading enterprise delivery across banking, government, and consulting. Built open-source Golang tools that cut sprint spillover from 70% to 19% at ANZ. Online since 1987, four domain names, two sites. After hours: tinkering with code, Windows kernel tuning, and colour-perception image sorting."
     },
     {
-      "slug_hint": "crizatools",
-      "name": "CRIZA-LABS/crizatools",
-      "tags": [
-        "browser-tools",
-        "criza-labs",
-        "crizatools",
-        "developer-tools",
-        "emi-calculator",
-        "free-tools",
-        "gst-calculator",
-        "gst-invoice",
-        "image-tools",
-        "india",
-        "online-tools",
-        "pdf-tools",
-        "privacy-first",
-        "pwa",
-        "qr-code-generator",
-        "upi"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/CRIZA-LABS/crizatools",
-      "source_url": "https://github.com/CRIZA-LABS/crizatools",
-      "description": "CrizaTools by Criza Labs: free online tools that run in your browser. PDF, image, GST, EMI, SIP and unit calculators, QR codes, GST invoices and developer tools. No sign-up, nothing uploaded."
-    },
-    {
-      "slug_hint": "anyconverter",
-      "name": "asammad48/AnyConverter",
-      "tags": [
-        "browser-tools",
-        "calculators",
-        "developer-tools",
-        "javascript",
-        "online-tools",
-        "pdf-tools",
-        "privacy",
-        "static-site"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/asammad48/AnyConverter",
-      "source_url": "https://github.com/asammad48/AnyConverter",
-      "description": "128+ free, private, client-side online tools: developer utilities, PDF editor, financial calculators, and converters in EN, ES, and DA."
-    },
-    {
       "slug_hint": "tools360pro",
       "name": "MuhammadShoaib67/tools360pro",
       "tags": [
@@ -291,7 +214,88 @@
       "reason": "recent repo: https://github.com/MuhammadShoaib67/tools360pro",
       "source_url": "https://github.com/MuhammadShoaib67/tools360pro",
       "description": "63 free online tools that run 100% in your browser — PDF, image, AI, text, converters, calculators, developer tools & generators. No sign-up, no uploads."
+    },
+    {
+      "slug_hint": "online-json-formatter",
+      "name": "mariabk003-MS/online-json-formatter",
+      "tags": [
+        "developer-tools",
+        "json",
+        "json-compare",
+        "json-formatter",
+        "json-repair",
+        "json-to-csv",
+        "json-to-excel",
+        "json-validator",
+        "json-viewer",
+        "markdown",
+        "online-tools",
+        "privacy-first",
+        "react",
+        "toml",
+        "vite",
+        "yaml",
+        "zod"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/mariabk003-MS/online-json-formatter",
+      "source_url": "https://github.com/mariabk003-MS/online-json-formatter",
+      "description": "40+ free JSON tools that run in your browser: formatter, validator, repair, editor, compare, JSON to Excel/CSV/YAML/TOML/SQL, TypeScript and Zod. No uploads, no sign-up."
+    },
+    {
+      "slug_hint": "eve-online-mcp",
+      "name": "HammoTime/eve-online-mcp",
+      "tags": [
+        "ai-tools",
+        "api-client",
+        "ccp-games",
+        "developer-tools",
+        "esi",
+        "eve-online",
+        "fenris-creations",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "oauth2",
+        "pkce",
+        "read-only",
+        "typescript"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/HammoTime/eve-online-mcp",
+      "source_url": "https://github.com/HammoTime/eve-online-mcp",
+      "description": "A secure, read-only MCP server that gives AI assistants comprehensive access to EVE Online’s ESI API, including authenticated character data and schema-aware tools."
+    },
+    {
+      "slug_hint": "usefulgo-tools-directory",
+      "name": "usefulgocom/usefulgo-tools-directory",
+      "tags": [
+        "background-removal",
+        "developer-tools",
+        "free-tools-online",
+        "image-converter",
+        "image-converters",
+        "in-browser",
+        "ocr",
+        "online-utilities",
+        "pdf-template",
+        "pdf-to-excel",
+        "pdf-to-image",
+        "pdf-to-markdown",
+        "pdf-to-text",
+        "pdf-to-word",
+        "pdf-tool",
+        "pdf-tools",
+        "pdf-translation",
+        "photo-editor",
+        "production",
+        "productivity"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/usefulgocom/usefulgo-tools-directory",
+      "source_url": "https://github.com/usefulgocom/usefulgo-tools-directory",
+      "description": "Directory of free online web tools and utilities from usefulgo.com (PDF converter, background remover, OCR, and calculators)."
     }
   ],
-  "report": "reports/tool-scan-20261125.md"
+  "report": "reports/tool-scan-20261126.md"
 }
