@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-11-26T08:49:09+08:00",
+  "scanned_at": "2026-11-27T08:55:46+08:00",
   "installed_count": 95,
   "gaps": [
     {
@@ -77,23 +77,22 @@
   ],
   "github_pulse": [
     {
-      "slug_hint": "ha-good-tools",
-      "name": "redchupa/ha_good_tools",
+      "slug_hint": "dev-tools",
+      "name": "yqh-core/dev-tools",
       "tags": [
+        "base64",
+        "cron",
         "developer-tools",
-        "haos",
-        "hassio-addons",
-        "home-assistant",
-        "home-assistant-addon",
-        "home-assistant-apps",
-        "homeassistant",
-        "ingress",
-        "utilities"
+        "json-formatter",
+        "jwt",
+        "online-tools",
+        "regex",
+        "typescript"
       ],
       "priority": "low",
-      "reason": "recent repo: https://github.com/redchupa/ha_good_tools",
-      "source_url": "https://github.com/redchupa/ha_good_tools",
-      "description": "Home Assistant App: Modernized All-in-One Online Utility & Developer Tools (Ingress Ready)"
+      "reason": "recent repo: https://github.com/yqh-core/dev-tools",
+      "source_url": "https://github.com/yqh-core/dev-tools",
+      "description": "CoderKit — 100+ free online developer tools for JSON, Base64, JWT, regex, cron, hashes and more. Runs in your browser with no sign-up. Open source, based on it-tools."
     },
     {
       "slug_hint": "andryroby-github-io",
@@ -129,43 +128,67 @@
       "description": "Free online tools and utilities built with TypeScript for practical everyday tasks."
     },
     {
-      "slug_hint": "dev-tools",
-      "name": "yqh-core/dev-tools",
+      "slug_hint": "launch-audit-reports",
+      "name": "zColdWater/launch-audit-reports",
       "tags": [
-        "base64",
-        "cron",
+        "benchmarks",
         "developer-tools",
-        "json-formatter",
-        "jwt",
-        "online-tools",
-        "regex",
-        "typescript"
+        "dmarc",
+        "email-deliverability",
+        "llms-txt",
+        "saas",
+        "seo",
+        "spf"
       ],
       "priority": "low",
-      "reason": "recent repo: https://github.com/yqh-core/dev-tools",
-      "source_url": "https://github.com/yqh-core/dev-tools",
-      "description": "CoderKit — 100+ free online developer tools for JSON, Base64, JWT, regex, cron, hashes and more. Runs in your browser with no sign-up. Open source, based on it-tools."
+      "reason": "recent repo: https://github.com/zColdWater/launch-audit-reports",
+      "source_url": "https://github.com/zColdWater/launch-audit-reports",
+      "description": "2026 SaaS Launch Readiness Benchmarks (228 live SPF/DMARC & llms.txt/AI-search reports) + 10 fix guides + OmniForge v5.0 online web tools"
     },
     {
-      "slug_hint": "it-tools",
-      "name": "CorentinTh/it-tools",
+      "slug_hint": "zynocode-labs-free-tools",
+      "name": "zynocode/zynocode-labs-free-tools",
       "tags": [
-        "converter",
-        "developer-productivity",
+        "api",
+        "cli",
         "developer-tools",
-        "frontend",
-        "javascript",
+        "free-tools",
+        "image-compressor",
+        "mcp",
+        "nextjs",
+        "nodejs",
+        "online-tools",
+        "pdf-tools",
+        "privacy-first",
         "productivity",
-        "tool",
-        "tools",
+        "sdk",
+        "seo-tools",
         "typescript",
-        "vuejs",
-        "website"
+        "web-tools"
       ],
       "priority": "low",
-      "reason": "recent repo: https://github.com/CorentinTh/it-tools",
-      "source_url": "https://github.com/CorentinTh/it-tools",
-      "description": "Collection of handy online tools for developers, with great UX. "
+      "reason": "recent repo: https://github.com/zynocode/zynocode-labs-free-tools",
+      "source_url": "https://github.com/zynocode/zynocode-labs-free-tools",
+      "description": "Zynocode Labs free online tools — PDF, image, SEO, writing, developer and finance tools that run in your browser, plus the @zynocode/sdk and zynocode CLI"
+    },
+    {
+      "slug_hint": "tools360pro",
+      "name": "MuhammadShoaib67/tools360pro",
+      "tags": [
+        "calculators",
+        "converters",
+        "developer-tools",
+        "free-tools",
+        "image-tools",
+        "javascript",
+        "online-tools",
+        "pdf-tools",
+        "text-tools"
+      ],
+      "priority": "low",
+      "reason": "recent repo: https://github.com/MuhammadShoaib67/tools360pro",
+      "source_url": "https://github.com/MuhammadShoaib67/tools360pro",
+      "description": "63 free online tools that run 100% in your browser — PDF, image, AI, text, converters, calculators, developer tools & generators. No sign-up, no uploads."
     },
     {
       "slug_hint": "exponentiallydigital",
@@ -197,25 +220,6 @@
       "description": "Three decades leading enterprise delivery across banking, government, and consulting. Built open-source Golang tools that cut sprint spillover from 70% to 19% at ANZ. Online since 1987, four domain names, two sites. After hours: tinkering with code, Windows kernel tuning, and colour-perception image sorting."
     },
     {
-      "slug_hint": "tools360pro",
-      "name": "MuhammadShoaib67/tools360pro",
-      "tags": [
-        "calculators",
-        "converters",
-        "developer-tools",
-        "free-tools",
-        "image-tools",
-        "javascript",
-        "online-tools",
-        "pdf-tools",
-        "text-tools"
-      ],
-      "priority": "low",
-      "reason": "recent repo: https://github.com/MuhammadShoaib67/tools360pro",
-      "source_url": "https://github.com/MuhammadShoaib67/tools360pro",
-      "description": "63 free online tools that run 100% in your browser — PDF, image, AI, text, converters, calculators, developer tools & generators. No sign-up, no uploads."
-    },
-    {
       "slug_hint": "online-json-formatter",
       "name": "mariabk003-MS/online-json-formatter",
       "tags": [
@@ -243,59 +247,42 @@
       "description": "40+ free JSON tools that run in your browser: formatter, validator, repair, editor, compare, JSON to Excel/CSV/YAML/TOML/SQL, TypeScript and Zod. No uploads, no sign-up."
     },
     {
-      "slug_hint": "eve-online-mcp",
-      "name": "HammoTime/eve-online-mcp",
+      "slug_hint": "awesome-tools",
+      "name": "wangruofeng/awesome-tools",
       "tags": [
-        "ai-tools",
-        "api-client",
-        "ccp-games",
+        "awesome-list",
         "developer-tools",
-        "esi",
-        "eve-online",
-        "fenris-creations",
-        "mcp",
-        "mcp-server",
-        "model-context-protocol",
-        "oauth2",
-        "pkce",
-        "read-only",
-        "typescript"
+        "github-pages",
+        "online-tools",
+        "open-source",
+        "static-site",
+        "vanilla-javascript",
+        "web-tools"
       ],
       "priority": "low",
-      "reason": "recent repo: https://github.com/HammoTime/eve-online-mcp",
-      "source_url": "https://github.com/HammoTime/eve-online-mcp",
-      "description": "A secure, read-only MCP server that gives AI assistants comprehensive access to EVE Online’s ESI API, including authenticated character data and schema-aware tools."
+      "reason": "recent repo: https://github.com/wangruofeng/awesome-tools",
+      "source_url": "https://github.com/wangruofeng/awesome-tools",
+      "description": "A categorized collection of open-source online tools by Wang Ruofeng."
     },
     {
-      "slug_hint": "usefulgo-tools-directory",
-      "name": "usefulgocom/usefulgo-tools-directory",
+      "slug_hint": "ha-good-tools",
+      "name": "redchupa/ha_good_tools",
       "tags": [
-        "background-removal",
         "developer-tools",
-        "free-tools-online",
-        "image-converter",
-        "image-converters",
-        "in-browser",
-        "ocr",
-        "online-utilities",
-        "pdf-template",
-        "pdf-to-excel",
-        "pdf-to-image",
-        "pdf-to-markdown",
-        "pdf-to-text",
-        "pdf-to-word",
-        "pdf-tool",
-        "pdf-tools",
-        "pdf-translation",
-        "photo-editor",
-        "production",
-        "productivity"
+        "haos",
+        "hassio-addons",
+        "home-assistant",
+        "home-assistant-addon",
+        "home-assistant-apps",
+        "homeassistant",
+        "ingress",
+        "utilities"
       ],
       "priority": "low",
-      "reason": "recent repo: https://github.com/usefulgocom/usefulgo-tools-directory",
-      "source_url": "https://github.com/usefulgocom/usefulgo-tools-directory",
-      "description": "Directory of free online web tools and utilities from usefulgo.com (PDF converter, background remover, OCR, and calculators)."
+      "reason": "recent repo: https://github.com/redchupa/ha_good_tools",
+      "source_url": "https://github.com/redchupa/ha_good_tools",
+      "description": "Home Assistant App: Modernized All-in-One Online Utility & Developer Tools (Ingress Ready)"
     }
   ],
-  "report": "reports/tool-scan-20261126.md"
+  "report": "reports/tool-scan-20261127.md"
 }
